@@ -1,0 +1,554 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "date": "2025-11-03",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Lancement campagne électorale 2026 : Bertrand Mertz officialise",
+      "resume": "Le candidat Bertrand Mertz lance sa campagne pour les municipales 2026 avec grand rassemblement au Cloître des Récollets.",
+      "lien": "https://republicain-lorrain.fr/2025-11-03",
+      "engagement": "2340 partages"
+    },
+    {
+      "id": 2,
+      "date": "2025-11-02",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Échanges gourmands : repas intergénérationnels 22-23 novembre",
+      "resume": "Initiative municipale favorisant rencontres entre générations via repas partagés dans différents quartiers.",
+      "lien": "https://metz.fr/echanges-gourmands",
+      "engagement": "156 commentaires"
+    },
+    {
+      "id": 3,
+      "date": "2025-10-31",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Réouverture imminente librairie Hisler",
+      "resume": "Librairie historique Hisler en phase finale de rénovation, réouverture début décembre.",
+      "lien": "https://tout-metz.com/hisler",
+      "engagement": "890 partages"
+    },
+    {
+      "id": 4,
+      "date": "2025-10-30",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Fermeture déchèteries 9-10 novembre",
+      "resume": "9 sites des déchèteries fermés pour maintenance et nettoyage saisonnier.",
+      "lien": "https://metz.fr/decheteries",
+      "engagement": "234 partages"
+    },
+    {
+      "id": 5,
+      "date": "2025-10-28",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Moselle Open ATP 250 : dernière édition à Metz",
+      "resume": "Tournoi international prestigieux du 3-9 novembre, dernière édition avant relocalisation 2026.",
+      "lien": "https://republicain-lorrain.fr/moselle-open",
+      "engagement": "5670 partages"
+    },
+    {
+      "id": 6,
+      "date": "2025-10-25",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Festival Constellations 2025 : appel illustrateurs",
+      "resume": "Recherche illustrateur pour affiche officielle de la 10e édition du festival.",
+      "lien": "https://metz.fr/constellations",
+      "engagement": "423 partages"
+    },
+    {
+      "id": 7,
+      "date": "2025-10-20",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Terrasses flottantes : polémique attribution lots",
+      "resume": "Critiques sur favoritisme et transparence des attributions du projet.",
+      "lien": "https://republicain-lorrain.fr/terrasses",
+      "engagement": "3450 partages"
+    },
+    {
+      "id": 8,
+      "date": "2025-10-18",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Euro Marathon Metz 2025 : 4500 coureurs",
+      "resume": "Succès international de la 12e édition avec participants de 35 pays.",
+      "lien": "https://metz.fr/marathon",
+      "engagement": "7890 partages"
+    },
+    {
+      "id": 9,
+      "date": "2025-10-15",
+      "volet": "Ville",
+      "source": "Moselle.tv",
+      "titre": "Tramway T2 : extension vers Sablon en étude",
+      "resume": "Réflexion extension réseau tramway vers Sablon, horizon 2030.",
+      "lien": "https://moselle.tv/transports",
+      "engagement": "612 commentaires"
+    },
+    {
+      "id": 10,
+      "date": "2025-10-12",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Centre Pompidou : exposition Surréalisme novembre",
+      "resume": "Nouvelle exposition Surréalisme du 5 novembre 2025 au 28 février 2026.",
+      "lien": "https://tout-metz.com/pompidou",
+      "engagement": "1234 partages"
+    },
+    {
+      "id": 11,
+      "date": "2025-10-10",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Rénovation écoles maternelles phase 2",
+      "resume": "Lancement travaux rénovation écoles Lorraine et Graffenstaden, 2.3 M€.",
+      "lien": "https://metz.fr/education",
+      "engagement": "345 commentaires"
+    },
+    {
+      "id": 12,
+      "date": "2025-10-08",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Zone 30 renforcée centre-ville piétonnier",
+      "resume": "Extension zone 30 km/h pour sécurité routière et mobilité douce.",
+      "lien": "https://republicain-lorrain.fr/zone30",
+      "engagement": "2156 partages"
+    },
+    {
+      "id": 13,
+      "date": "2025-10-05",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Transition énergétique bâtiments publics",
+      "resume": "Plan passage chauffage géothermique et pompes chaleur d'ici 2030.",
+      "lien": "https://metz.fr/energie",
+      "engagement": "567 partages"
+    },
+    {
+      "id": 14,
+      "date": "2025-10-03",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Jazz Festival automne-hiver programmation",
+      "resume": "Concerts jazz novembre-janvier Musée Cour d'Or et salles partenaires.",
+      "lien": "https://tout-metz.com/jazz",
+      "engagement": "890 partages"
+    },
+    {
+      "id": 15,
+      "date": "2025-09-30",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Îles Chambière réhabilitation phase 3",
+      "resume": "Poursuite travaux aménagement sentiers écologiques et zones loisirs.",
+      "lien": "https://metz.fr/iles",
+      "engagement": "456 commentaires"
+    },
+    {
+      "id": 16,
+      "date": "2025-09-28",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Bellecroix : nouveau centre socio-culturel jeunesse",
+      "resume": "Inauguration centre loisirs activités jeunes 13-25 ans.",
+      "lien": "https://republicain-lorrain.fr/jeunesse",
+      "engagement": "678 partages"
+    },
+    {
+      "id": 17,
+      "date": "2025-09-25",
+      "volet": "Ville",
+      "source": "Moselle.tv",
+      "titre": "Rencontres Moselle festival cultures international",
+      "resume": "14e édition mettant en avant diversité et échanges interculturels.",
+      "lien": "https://moselle.tv/cultures",
+      "engagement": "523 partages"
+    },
+    {
+      "id": 18,
+      "date": "2025-09-23",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Bibliothèque Michel Servet ressources numériques",
+      "resume": "Accès ebooks, audiobooks, bases données pour utilisateurs.",
+      "lien": "https://metz.fr/biblio",
+      "engagement": "234 partages"
+    },
+    {
+      "id": 19,
+      "date": "2025-09-20",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Logements sociaux : 120 nouveaux T2-T4",
+      "resume": "Construction 120 logements rue Faubourg Saint-Jean, livraison fin 2026.",
+      "lien": "https://tout-metz.com/logements",
+      "engagement": "612 commentaires"
+    },
+    {
+      "id": 20,
+      "date": "2025-09-18",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "CHU équipements médicaux 45 M€ investissement",
+      "resume": "CHU annonce nouvel investissement équipements et rénovation infrastructure.",
+      "lien": "https://republicain-lorrain.fr/chu",
+      "engagement": "834 partages"
+    },
+    {
+      "id": 21,
+      "date": "2025-09-15",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Noël 2025 : animations et calendrier festif",
+      "resume": "Programme festivités fin année avec décorations, marchés, concerts.",
+      "lien": "https://metz.fr/noel",
+      "engagement": "1456 partages"
+    },
+    {
+      "id": 22,
+      "date": "2025-09-12",
+      "volet": "Ville",
+      "source": "Moselle.tv",
+      "titre": "Complexe aquatique municipal : permis obtenu",
+      "resume": "Piscine olympique et bassins loisir, chantier 2026.",
+      "lien": "https://moselle.tv/aquatique",
+      "engagement": "789 partages"
+    },
+    {
+      "id": 23,
+      "date": "2025-09-10",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Parc Seille aménagement paysager écologique",
+      "resume": "Projet mares naturelles, prairies fleuries, zones humides.",
+      "lien": "https://tout-metz.com/parc",
+      "engagement": "456 partages"
+    },
+    {
+      "id": 24,
+      "date": "2025-09-08",
+      "volet": "Ville",
+      "source": "Metz.fr",
+      "titre": "Comités quartier consultations 2026",
+      "resume": "Réunions thématiques consultation citoyens projets municipaux.",
+      "lien": "https://metz.fr/comites",
+      "engagement": "234 commentaires"
+    },
+    {
+      "id": 25,
+      "date": "2025-09-05",
+      "volet": "Ville",
+      "source": "Républicain Lorrain",
+      "titre": "Commerces proximité programme aide",
+      "resume": "Exonérations fiscales et accompagnement petits commerces.",
+      "lien": "https://republicain-lorrain.fr/commerces",
+      "engagement": "567 partages"
+    },
+    {
+      "id": 26,
+      "date": "2025-09-02",
+      "volet": "Ville",
+      "source": "Moselle.tv",
+      "titre": "Police municipale 15 nouveaux effectifs",
+      "resume": "Renforcement présence quartiers prioritaires.",
+      "lien": "https://moselle.tv/securite",
+      "engagement": "612 partages"
+    },
+    {
+      "id": 27,
+      "date": "2025-08-30",
+      "volet": "Ville",
+      "source": "Tout-Metz",
+      "titre": "Cathédrale Saint-Étienne restauration façade",
+      "resume": "Début travaux restauration nord, projet patrimonial 2025-2027.",
+      "lien": "https://tout-metz.com/cathedrale",
+      "engagement": "1234 partages"
+    },
+    {
+      "id": 28,
+      "date": "2025-02-27",
+      "volet": "Budget",
+      "source": "Tout-Metz",
+      "titre": "Budget primitif 2025 : 246 millions approuvé",
+      "resume": "Hausse 9% : 171 M€ fonctionnement, 75 M€ investissements, 137 M€ endettement.",
+      "lien": "https://tout-metz.com/budget",
+      "engagement": "Budget : 246 M€"
+    },
+    {
+      "id": 29,
+      "date": "2025-10-06",
+      "volet": "Budget",
+      "source": "Chambre Régionale Comptes",
+      "titre": "Audit CRC finances saines mais investissements faibles",
+      "resume": "Endettement 7.4% CAF, trésorerie bonne, 44% plan réalisé, accélération recommandée.",
+      "lien": "https://ccomptes.fr/metz",
+      "engagement": "Audit officiel"
+    },
+    {
+      "id": 30,
+      "date": "2025-08-20",
+      "volet": "Budget",
+      "source": "Eurométropole",
+      "titre": "Budget Eurométropole 2025 axes écologie cohésion",
+      "resume": "Plan pluriannuel 2022-2026 trois axes transverses.",
+      "lien": "https://eurometropolemetz.eu/budget",
+      "engagement": "Budget métro"
+    },
+    {
+      "id": 31,
+      "date": "2025-07-15",
+      "volet": "Budget",
+      "source": "Metz.fr",
+      "titre": "Compte administratif 2024 résultats positifs",
+      "resume": "Résultat exploitation 3.2 M€, endettement stable, investissements renforcés.",
+      "lien": "https://metz.fr/finances",
+      "engagement": "Compte 2024"
+    },
+    {
+      "id": 32,
+      "date": "2025-06-10",
+      "volet": "Budget",
+      "source": "Républicain Lorrain",
+      "titre": "Nouvel emprunt 50 M€ infrastructure",
+      "resume": "Financement majeur projets infrastructure et rénovation.",
+      "lien": "https://republicain-lorrain.fr/emprunt",
+      "engagement": "Emprunt : 50 M€"
+    },
+    {
+      "id": 33,
+      "date": "2025-05-20",
+      "volet": "Budget",
+      "source": "Metz.fr",
+      "titre": "Fiscalité 2025 taux maintenu stable",
+      "resume": "Taxe habitation et foncière inchangées, stabilité fiscale.",
+      "lien": "https://metz.fr/fiscalite",
+      "engagement": "Fiscalité"
+    },
+    {
+      "id": 34,
+      "date": "2025-04-08",
+      "volet": "Budget",
+      "source": "Tout-Metz",
+      "titre": "Subventions associations 4.5 M€",
+      "resume": "Enveloppe activités culture, sociale, sport, environnement.",
+      "lien": "https://tout-metz.com/subventions",
+      "engagement": "Aides : 4.5 M€"
+    },
+    {
+      "id": 35,
+      "date": "2025-03-12",
+      "volet": "Budget",
+      "source": "Eurométropole",
+      "titre": "Investissements transports 80 M€ 2025-27",
+      "resume": "Extension tramway, électrification bus.",
+      "lien": "https://eurometropolemetz.eu/transports",
+      "engagement": "Investissements"
+    },
+    {
+      "id": 36,
+      "date": "2025-02-14",
+      "volet": "Budget",
+      "source": "Metz.fr",
+      "titre": "Redevance eau assainissement +2%",
+      "resume": "Augmentation modérée, investissements réseau souterrain.",
+      "lien": "https://metz.fr/eaux",
+      "engagement": "Augmentation : 2%"
+    },
+    {
+      "id": 37,
+      "date": "2025-11-03",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Attaché parlementaire CDI Sénateur Yan Chantrel",
+      "resume": "Collaborateur(trice) parlementaire décembre 2025.",
+      "lien": "https://emplois-politiques.fr/123",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 38,
+      "date": "2025-11-02",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Collaborateur parlementaire CDI Thierry Sother",
+      "resume": "Communication, réseaux sociaux, gestion dossiers.",
+      "lien": "https://emplois-politiques.fr/124",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 39,
+      "date": "2025-11-01",
+      "volet": "Emploi",
+      "source": "Assemblée Nationale",
+      "titre": "Concours administrateurs-adjoints 25 postes",
+      "resume": "Inscriptions nov-déc, épreuves fév-mai, entrée juin 2025.",
+      "lien": "https://assemblee-nationale.fr/concours",
+      "engagement": "25 postes"
+    },
+    {
+      "id": 40,
+      "date": "2025-10-28",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Assistant collaborateur Groupe LIOT 23 députés",
+      "resume": "Conseiller(e) Affaires sociales, Culture, éducation.",
+      "lien": "https://linkedin.com/jobs/12345",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 41,
+      "date": "2025-10-25",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Collaborateur parlementaire Député Dominique Ferré",
+      "resume": "Gestion dossiers relations citoyens Seine-et-Marne.",
+      "lien": "https://emplois-politiques.fr/125",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 42,
+      "date": "2025-10-22",
+      "volet": "Emploi",
+      "source": "Senat.fr",
+      "titre": "Attaché cabinet Sénateur Grand Est",
+      "resume": "3 postes mandature 2024-26, télétravail partiel.",
+      "lien": "https://senat.fr/recrutement",
+      "engagement": "3 postes"
+    },
+    {
+      "id": 43,
+      "date": "2025-10-20",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Responsable communication Entreprise ESN",
+      "resume": "Cabinet conseil accompagnement campagnes 2026.",
+      "lien": "https://linkedin.com/jobs/12346",
+      "engagement": "CDI/CDD 18m"
+    },
+    {
+      "id": 44,
+      "date": "2025-10-18",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Chargé(e) mission Eurométropole Metz",
+      "resume": "Affaires politiques intercollectivités CDI 39h Metz.",
+      "lien": "https://emplois-politiques.fr/126",
+      "engagement": "CDI Metz"
+    },
+    {
+      "id": 45,
+      "date": "2025-10-15",
+      "volet": "Emploi",
+      "source": "Senat.fr",
+      "titre": "Assistant parlementaire Sénateur Moselle 2 postes",
+      "resume": "Missions locales Palais Luxembourg CDI.",
+      "lien": "https://senat.fr/recrutement",
+      "engagement": "2 postes"
+    },
+    {
+      "id": 46,
+      "date": "2025-10-12",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Analyste politique junior Think tank",
+      "resume": "Politique territoriale stage 6 mois CDI possible.",
+      "lien": "https://linkedin.com/jobs/12347",
+      "engagement": "Stage+CDI"
+    },
+    {
+      "id": 47,
+      "date": "2025-10-10",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Collaborateur généraliste Député PS",
+      "resume": "Législatif relations territoriales CDI Île-de-France.",
+      "lien": "https://emplois-politiques.fr/127",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 48,
+      "date": "2025-10-08",
+      "volet": "Emploi",
+      "source": "Mairie Metz",
+      "titre": "Adjoint directeur RH Metz",
+      "resume": "CDI 35h agent catégorie B.",
+      "lien": "https://metz.fr/recrutement",
+      "engagement": "CDI Metz"
+    },
+    {
+      "id": 49,
+      "date": "2025-10-05",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Project manager Agence gouvernance locale",
+      "resume": "Pilotage projets collectivités CDI 40h.",
+      "lien": "https://linkedin.com/jobs/12348",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 50,
+      "date": "2025-10-02",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Chargé(e) affaires publiques Cabinet conseil",
+      "resume": "Lobby relations institutionnelles CDD/CDI.",
+      "lien": "https://emplois-politiques.fr/128",
+      "engagement": "CDD/CDI"
+    },
+    {
+      "id": 51,
+      "date": "2025-09-29",
+      "volet": "Emploi",
+      "source": "Senat.fr",
+      "titre": "Rédacteur(trice) amendements Sénateurs",
+      "resume": "Droit administratif CDI/stage 6 mois.",
+      "lien": "https://senat.fr/recrutement",
+      "engagement": "CDI/Stage"
+    },
+    {
+      "id": 52,
+      "date": "2025-09-26",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Coordinatrice européenne Eurochambre",
+      "resume": "Parlement Européen collectivités CDI multilingue.",
+      "lien": "https://linkedin.com/jobs/12349",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 53,
+      "date": "2025-09-23",
+      "volet": "Emploi",
+      "source": "Emplois-politiques.fr",
+      "titre": "Assistant direction Cabinet parlementaire",
+      "resume": "Gestion agenda correspondances événementiel CDI.",
+      "lien": "https://emplois-politiques.fr/129",
+      "engagement": "CDI ouvert"
+    },
+    {
+      "id": 54,
+      "date": "2025-09-20",
+      "volet": "Emploi",
+      "source": "Mairie Metz",
+      "titre": "Chargé(e) relations élus-administration",
+      "resume": "Interfaces services techniques CDI 35h Metz.",
+      "lien": "https://metz.fr/recrutement",
+      "engagement": "CDI Metz"
+    },
+    {
+      "id": 55,
+      "date": "2025-09-18",
+      "volet": "Emploi",
+      "source": "LinkedIn",
+      "titre": "Data analyst politique Plateforme électorale",
+      "resume": "Analyse territoriale CDI télétravail possible.",
+      "lien": "https://linkedin.com/jobs/12350",
+      "engagement": "CDI ouvert"
+    }
+  ]
+}

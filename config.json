@@ -1,0 +1,57 @@
+{
+  "sources": [
+    {
+      "name": "Républicain Lorrain",
+      "url": "https://www.republicain-lorrain.fr/edition-metz-et-agglomeration",
+      "type": "web",
+      "category": "Presse régionale"
+    },
+    {
+      "name": "Metz.fr",
+      "url": "https://metz.fr/actus/toute_actualite.php",
+      "type": "web",
+      "category": "Officiel"
+    },
+    {
+      "name": "Tout-Metz",
+      "url": "https://tout-metz.com/",
+      "type": "web",
+      "category": "Presse locale"
+    },
+    {
+      "name": "Moselle.tv",
+      "url": "https://moselle.tv/",
+      "type": "web",
+      "category": "Vidéo/Info"
+    },
+    {
+      "name": "Emplois-politiques.fr",
+      "url": "https://www.emplois-politiques.fr/les-offres-d-emplois/",
+      "type": "web",
+      "category": "Emploi"
+    },
+    {
+      "name": "Assemblée Nationale",
+      "url": "https://www2.assemblee-nationale.fr/informations-pratiques/concours-et-autres-recrutements/offres-d-emploi2",
+      "type": "web",
+      "category": "Emploi officiel"
+    },
+    {
+      "name": "Senat.fr",
+      "url": "https://www.senat.fr/",
+      "type": "web",
+      "category": "Emploi officiel"
+    },
+    {
+      "name": "LinkedIn Jobs",
+      "url": "https://fr.linkedin.com/jobs/",
+      "type": "web",
+      "category": "Emploi"
+    }
+  ],
+  "settings": {
+    "frequency": "biweekly",
+    "scrape_interval": "Monday and Thursday at 08:00 UTC (10:00 CET)",
+    "update_storage": "GitHub Repository"
+  }
+}
