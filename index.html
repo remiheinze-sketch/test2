@@ -1,344 +1,49 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📊 Veille Metz – Système Automatisé</title>
-    <link rel="stylesheet" href="style.css">
-    <<script src="script.js"></script>
-    <script>
-async function afficherVeille() {
-  const zone = document.getElementById("veille");
-  const info = document.getElementById("info");
-
-  try {
-    const res = await fetch("./data.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-
-    info.textContent = "Dernière mise à jour : " + (data.updated_at || "inconnue");
-
-    if (!data.articles || data.articles.length === 0) {
-      zone.innerHTML = "<p>Aucun article trouvé pour vos mots-clés.</p>";
-      return;
-    }
-
-    const html = data.articles.map(a => `
-      <article class="card">
-        <h3><a href="${a.url}" target="_blank">${a.title}</a></h3>
-        <p>${a.summary}</p>
-      </article>
-    `).join("");
-
-    zone.innerHTML = html;
-  } catch (err) {
-    console.error("Erreur lors du chargement de data.json :", err);
-    zone.innerHTML = "<p>Impossible de charger les données. Vérifiez la connexion ou réessayez plus tard.</p>";
-  }
-}
-
-document.addEventListener("DOMContentLoaded", afficherVeille);
-</script>
-
-<!-- Zone d’affichage -->
-<p id="info" style="font-style:italic;color:#666"></p>
-<div id="veille"></div>
-
+  <meta charset="utf-8" />
+  <title>Ma veille économique</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 1rem; }
+    h1 { color: #2a7; }
+    .card { border: 1px solid #ddd; padding: 1rem; border-radius: 8px; margin-bottom: 1rem; background: #fafafa; }
+    .card h3 { margin-top: 0; }
+    .card a { color: #2a7; text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <header class="header">
-            <div class="header-content">
-                <h1>📊 Veille Metz – Système Automatisé</h1>
-                <div class="header-info">
-                    <div class="periode" id="periode">Semaine du 27 octobre au 9 novembre 2025</div>
-                    <div class="derniere-maj" id="derniereMaj">Dernière mise à jour : 3 novembre 2025 à 10h35</div>
-                </div>
-            </div>
-            <button class="btn btn--primary btn-refresh" id="btnRefresh">
-                <span class="refresh-icon">🔄</span> Actualiser la veille
-            </button>
-        </header>
+  <h1>📰 Ma veille budgétaire</h1>
+  <p id="info" style="font-style:italic;color:#666">Chargement...</p>
+  <div id="veille"></div>
 
-        <!-- Dashboard Cards -->
-        <div class="dashboard">
-            <div class="card card-stat" style="background: var(--color-bg-1);">
-                <div class="card-icon">🏙️</div>
-                <div class="card-content">
-                    <div class="card-value" id="countVille">27</div>
-                    <div class="card-label">Actualités Ville</div>
-                </div>
-            </div>
-            <div class="card card-stat" style="background: var(--color-bg-3);">
-                <div class="card-icon">💰</div>
-                <div class="card-content">
-                    <div class="card-value" id="countBudget">9</div>
-                    <div class="card-label">Données Budgétaires</div>
-                </div>
-            </div>
-            <div class="card card-stat" style="background: var(--color-bg-5);">
-                <div class="card-icon">💼</div>
-                <div class="card-content">
-                    <div class="card-value" id="countEmploi">19</div>
-                    <div class="card-label">Offres d'Emploi</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Loading Overlay -->
-        <div class="loading-overlay" id="loadingOverlay">
-            <div class="spinner"></div>
-            <p>Actualisation en cours...</p>
-        </div>
-
-        <!-- Notification Toast -->
-        <div class="toast" id="toast"></div>
-
-        <!-- Tabs -->
-        <div class="tabs">
-            <button class="tab-btn active" data-tab="resume">📄 Résumé Narratif</button>
-            <button class="tab-btn" data-tab="tableau">📊 Tableau Structuré</button>
-            <button class="tab-btn" data-tab="visualisations">📈 Visualisations</button>
-            <button class="tab-btn" data-tab="parametres">⚙️ Paramètres</button>
-        </div>
-
-        <!-- Tab Content -->
-        <div class="tab-content">
-            <!-- Onglet 1: Résumé Narratif -->
-            <div class="tab-panel active" id="resume">
-                <div class="card">
-                    <div class="card__body">
-                        <div class="actions-bar">
-                            <button class="btn btn--secondary" id="btnDownloadPDF">
-                                ⬇️ Télécharger en PDF
-                            </button>
-                            <button class="btn btn--secondary" id="btnCopyResume">
-                                📋 Copier le résumé
-                            </button>
-                        </div>
-                        <div class="resume-content" id="resumeContent">
-                            <h2>Veille Metz – Résumé Narratif</h2>
-                            <p class="resume-periode">Période : 27 octobre au 9 novembre 2025</p>
-                            
-                            <h3>🏙️ Actualités Ville (27 articles)</h3>
-                            <ul>
-                                <li><strong>Lancement campagne électorale 2026</strong> : Bertrand Mertz officialise sa candidature aux municipales 2026 au Cloître des Récollets (2340 partages).</li>
-                                <li><strong>Euro Marathon 2025 : succès international</strong> : 4500 coureurs de 35 pays participent à la 12e édition, confirmant Metz comme destination marathon (7890 partages).</li>
-                                <li><strong>Moselle Open ATP 250</strong> : Dernière édition du tournoi de tennis international avant relocalisation en 2026 (5670 partages).</li>
-                                <li><strong>Infrastructure et mobilité</strong> : Études lancées pour extension tramway T2 vers Sablon (horizon 2030), nouvelle zone 30 km/h au centre-ville pour mobilité douce.</li>
-                                <li><strong>Culture et patrimoine</strong> : Centre Pompidou-Metz accueille exposition Surréalisme (nov 2025-fév 2026), restauration façade Cathédrale Saint-Étienne lancée, Festival Jazz automne-hiver.</li>
-                                <li><strong>Transition énergétique</strong> : Plan municipal vers chauffage géothermique et pompes à chaleur pour bâtiments publics d'ici 2030.</li>
-                                <li><strong>Logements et urbanisme</strong> : Construction 120 logements sociaux rue Faubourg Saint-Jean (livraison fin 2026), réhabilitation Îles Chambière phase 3.</li>
-                                <li><strong>Éducation et jeunesse</strong> : Rénovation écoles maternelles Lorraine et Graffenstaden (2.3 M€), nouveau centre socio-culturel Bellecroix pour jeunes 13-25 ans.</li>
-                            </ul>
-
-                            <h3>💰 Données Budgétaires (9 articles)</h3>
-                            <ul>
-                                <li><strong>Budget primitif 2025 : 246 M€ (+9%)</strong> : Dépenses fonctionnement 171 M€, investissements 75 M€. Endettement prévisionnel 137 M€.</li>
-                                <li><strong>Rapport CRC positif</strong> : Faible endettement (7.4% CAF), bonne trésorerie, mais seulement 44% du plan 2022-2026 réalisés - appel à accélération investissements.</li>
-                                <li><strong>Compte administratif 2024</strong> : Résultat d'exploitation positif 3.2 M€, endettement stable, investissements renforcés.</li>
-                                <li><strong>Nouveaux emprunts</strong> : Ligne de crédit 50 M€ contractée pour financer infrastructures et rénovations majeures.</li>
-                                <li><strong>Fiscalité locale stable</strong> : Taux taxe habitation et foncière maintenus, pas d'augmentation en 2025.</li>
-                                <li><strong>Subventions associations</strong> : Enveloppe 4.5 M€ pour activités culturelles, sociales, sportives, environnementales.</li>
-                                <li><strong>Transports</strong> : Plan 80 M€ 2025-2027 pour extension tramway et électrification bus Eurométropole.</li>
-                                <li><strong>Eau et assainissement</strong> : Redevance augmente modérément (+2%) pour investissements réseau souterrain.</li>
-                            </ul>
-
-                            <h3>💼 Offres d'Emploi – Collaborateurs Parlementaires</h3>
-                            <ul>
-                                <li><strong>4 nouvelles opportunités identifiées</strong> : Attaché(e) parlementaire auprès du Sénateur Yan Chantrel (CDI, Français établis hors de France), Attaché(e) en circonscription pour Thierry Sother (CDI, missions communication et gestion dossiers).</li>
-                                <li><strong>Concours Assemblée Nationale</strong> : Ouverture du concours externe pour 25 postes d'administrateur-adjoint (inscriptions novembre-décembre 2024, épreuves février-mai 2025).</li>
-                                <li><strong>Groupe LIOT</strong> : Recrutement d'un(e) conseiller(e) Affaires sociales, Culture et Éducation avec expertise secteur public et capacités d'analyse requises.</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Onglet 2: Tableau Structuré -->
-            <div class="tab-panel" id="tableau">
-                <div class="card">
-                    <div class="card__body">
-                        <div class="tableau-controls">
-                            <div class="search-filter">
-                                <input type="text" id="searchInput" class="form-control" placeholder="🔍 Rechercher...">
-                                <select id="voletFilter" class="form-control">
-                                    <option value="tous">Tous les volets</option>
-                                    <option value="Ville">🏙️ Ville</option>
-                                    <option value="Budget">💰 Budget</option>
-                                    <option value="Emploi">💼 Emploi</option>
-                                </select>
-                                <select id="sortBy" class="form-control">
-                                    <option value="date-desc">Date (récent → ancien)</option>
-                                    <option value="date-asc">Date (ancien → récent)</option>
-                                    <option value="volet">Volet</option>
-                                    <option value="source">Source</option>
-                                </select>
-                            </div>
-                            <button class="btn btn--primary" id="btnExportCSV">
-                                ⬇️ Exporter en CSV
-                            </button>
-                        </div>
-                        <div class="table-container">
-                            <table class="data-table" id="dataTable">
-                                <thead>
-                                    <tr>
-                                        <th>Date</th>
-                                        <th>Volet</th>
-                                        <th>Source</th>
-                                        <th>Titre</th>
-                                        <th>Résumé</th>
-                                        <th>Lien</th>
-                                        <th>Engagement</th>
-                                    </tr>
-                                </thead>
-                                <tbody id="tableBody">
-                                    <!-- Populated by JavaScript -->
-                                </tbody>
-                            </table>
-                        </div>
-                        <div class="pagination" id="paginationControls">
-                            <button class="btn btn--secondary btn--sm" id="prevPage">◀️ Précédent</button>
-                            <span id="pageInfo" style="margin: 0 var(--space-12); color: var(--color-text-secondary);"></span>
-                            <button class="btn btn--secondary btn--sm" id="nextPage">Suivant ▶️</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Onglet 3: Visualisations -->
-            <div class="tab-panel" id="visualisations">
-                <div class="vis-grid">
-                    <div class="card">
-                        <div class="card__body">
-                            <h3>Répartition par volet</h3>
-                            <div class="chart-container" style="height: 300px;">
-                                <canvas id="chartVolet"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card__body">
-                            <h3>Volume par source</h3>
-                            <div class="chart-container" style="height: 300px;">
-                                <canvas id="chartSource"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card__body">
-                        <h3>Statistiques générales</h3>
-                        <div class="stats-grid">
-                            <div class="stat-item">
-                                <div class="stat-value" id="statTotal">15</div>
-                                <div class="stat-label">Total d'articles</div>
-                            </div>
-                            <div class="stat-item">
-                                <div class="stat-value" id="statSources">8</div>
-                                <div class="stat-label">Sources uniques</div>
-                            </div>
-                            <div class="stat-item">
-                                <div class="stat-value" id="statEngagement">2 156</div>
-                                <div class="stat-label">Engagement moyen</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Onglet 4: Paramètres -->
-            <div class="tab-panel" id="parametres">
-                <div class="card">
-                    <div class="card__body">
-                        <h3>🌐 Sources Web &amp; Scraping</h3>
-                        <p class="section-desc">Gérez les sources de données externes et testez la récupération en temps réel.</p>
-                        
-                        <div class="sources-manager">
-                            <div class="source-list" id="sourceList">
-                                <!-- Populated by JavaScript -->
-                            </div>
-                            
-                            <div class="add-source">
-                                <h4>Ajouter une source</h4>
-                                <div class="form-group">
-                                    <label class="form-label">Nom de la source</label>
-                                    <input type="text" id="inputSourceName" class="form-control" placeholder="Ex: Républicain Lorrain">
-                                </div>
-                                <div class="form-group">
-                                    <label class="form-label">URL (flux RSS ou API)</label>
-                                    <input type="url" id="inputSourceURL" class="form-control" placeholder="https://exemple.fr/rss">
-                                </div>
-                                <div class="form-group">
-                                    <label class="form-label">Type</label>
-                                    <select id="inputSourceType" class="form-control">
-                                        <option value="rss">Flux RSS</option>
-                                        <option value="api">API JSON</option>
-                                        <option value="web">Page Web</option>
-                                    </select>
-                                </div>
-                                <div class="btn-group">
-                                    <button class="btn btn--primary" id="btnAddSource">➕ Ajouter la source</button>
-                                    <button class="btn btn--secondary" id="btnTestConnection">🔌 Tester la connexion</button>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="scraper-section">
-                            <h4>🤖 Scraper automatique</h4>
-                            <p>Lancez une récupération des données depuis toutes les sources configurées.</p>
-                            <button class="btn btn--primary btn-large" id="btnScrapeNow">🔄 Scraper maintenant</button>
-                            <div class="scraper-log" id="scraperLog"></div>
-                        </div>
-                        
-                        <div class="import-export-section">
-                            <h4>📁 Import / Export de données</h4>
-                            <div class="btn-group">
-                                <button class="btn btn--secondary" id="btnExportJSON">⬇️ Exporter data.json</button>
-                                <button class="btn btn--secondary" id="btnImportCSV">⬆️ Importer CSV</button>
-                            </div>
-                            <div class="dropzone" id="dropzone">
-                                <p>📎 Glissez-déposez un fichier CSV ici</p>
-                                <input type="file" id="fileInput" accept=".csv,.json" style="display: none;">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Section Email -->
-        <div class="card email-section">
-            <div class="card__body">
-                <h3>📧 Partage par e-mail</h3>
-                <div class="email-preview" id="emailPreview">
-                    <div class="email-field">
-                        <strong>Objet :</strong> <span id="emailSubject">Veille Metz – [dates]</span>
-                    </div>
-                    <div class="email-body" id="emailBody"></div>
-                </div>
-                <div class="email-actions">
-                    <button class="btn btn--primary" id="btnCopyEmail">
-                        📧 Copier l'email complet
-                    </button>
-                    <button class="btn btn--secondary" id="btnGenerateLink">
-                        📎 Générer lien de partage
-                    </button>
-                </div>
-                <div class="share-link" id="shareLink" style="display: none;">
-                    <strong>Lien de partage généré :</strong>
-                    <div class="link-display" id="linkDisplay"></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <footer class="footer">
-            <p>Veille bihebdomadaire – Usage personnel | Généré le <span id="footerDate">3 novembre 2025</span></p>
-        </footer>
-    </div>
-
-    <script src="app.js"></script>
+  <script>
+  async function afficherVeille() {
+    const zone = document.getElementById("veille");
+    const info = document.getElementById("info");
+    try {
+      const res = await fetch("./data.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      info.textContent = "Dernière mise à jour : " + (data.updated_at || "inconnue");
+      if (!data.articles || data.articles.length === 0) {
+        zone.innerHTML = "<p>Aucun article trouvé.</p>";
+        return;
+      }
+      const html = data.articles.map(a => `
+        <article class="card">
+          <h3><a href="${a.url}" target="_blank">${a.title}</a></h3>
+          <p>${a.summary}</p>
+        </article>
+      `).join("");
+      zone.innerHTML = html;
+    } catch (err) {
+      console.error(err);
+      zone.innerHTML = "<p>Erreur de chargement des données.</p>";
+    }
+  }
+  document.addEventListener("DOMContentLoaded", afficherVeille);
+  </script>
 </body>
 </html>
