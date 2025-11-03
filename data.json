@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-03T17:34:24Z",
+  "updated_at": "2025-11-03T18:45:35Z",
   "articles": [
+    {
+      "title": "Budget 2026 : « Certaines mesures fragilisent des étudiants du seul fait de leur nationalité »",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/03/budget-2026-certaines-mesures-fragilisent-des-etudiants-du-seul-fait-de-leur-nationalite_6651364_3232.html",
+      "summary": "Dans une tribune au « Monde », des représentants d’associations et d’organisations syndicales, des universitaires et des parlementaires appellent à la suppression de l’article 67 du projet de loi de finances, qui prévoit d’exclure du bénéfice des APL l’ensemble des étudiants étrangers extracommunautaires."
+    },
     {
       "title": "Poupées sexuelles à caractère pédopornographique : Shein convoqué « devant les députés sous quinze jours »",
       "url": "https://www.lemonde.fr/economie/article/2025/11/03/poupees-sexuelles-a-caractere-pedopornographique-shein-convoque-devant-les-deputes-sous-quinze-jours_6651201_3235.html",
@@ -19,7 +24,7 @@
     {
       "title": "Adrien Couret est l'invité du 18/19",
       "url": "https://www.bfmtv.com/economie/video-adrien-couret-est-l-invite-du-18-19_VL-202511030756.html",
-      "summary": "Les députés vont-ils \"tuer\" l'assurance-vie dans le budget 2026 ? Suivez l'interview d'Adrien Couret, directeur général d'Aéma Groupe<br /><br /><img src=\"https://images.bfmtv.com/_oxau9qDMIwKhJpUCnnio8L51j8=/7x4:679x382/800x0/images/Adrien-Couret-est-l-invite-du-18-19-2165951.jpg\" />"
+      "summary": "Les députés vont-ils \"tuer\" l'assurance-vie dans le budget 2026 ? Suivez l'interview d'Adrien Couret, directeur général d'Aéma Groupe<br /><br /><img src=\"https://images.bfmtv.com/kv4_YYAWFmnIv7Ft12C7CQZeQKo=/0x0:1280x720/800x0/images/Adrien-Couret-est-l-invite-du-18-19-2165980.jpg\" />"
     },
     {
       "title": "La Data Room : 264 mds € = le montant annuel des achats européens de logiciels et services cloud auprès des fournisseurs américains - 03/11",
@@ -27,14 +32,14 @@
       "summary": "Ce lundi 3 novembre, Kelly Hebert, directrice générale France, Belgique & Luxembourg chez M&amp;G, et Daniel Gérino, président de Carlton Sélection, se sont penchés sur les dépenses européennes annuelles en logiciels et cloud américains ainsi que le rendement aujourd'hui d'un Treasury américain à 10 ans dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/mnf-DYdnGq5MgBRWGj0fbXsq3Qs=/0x0:1280x720/800x0/images/La-Data-Room-264-mds-le-montant-annuel-des-achats-europeens-de-logiciels-et-services-cloud-aupres-des-fournisseurs-americains-03-11-2165940.jpg\" />"
     },
     {
+      "title": "DIRECT. Budget 2026 : les députés rétablissent \"l'exit tax\" dans sa version initiale instaurée par Nicolas Sarkozy",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entament-le-dernier-jour-de-debats-sur-la-partie-recettes_7592213.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Cet impôt avait été créé afin de freiner l'évasion fiscale des entrepreneurs. Cette nouvelle version pourrait rapporter 70 millions d'euros selon le gouvernement."
+    },
+    {
       "title": "Budget : les socialistes \"ont été humiliés par Sébastien Lecornu\", estime l'eurodéputée LFI Manon Aubry",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-3-novembre-2025_7592786.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Invitée politique de \"La Matinale\" du lundi 3 novembre, Manon Aubry, députée européenne La France insoumise, estime que \"les socialistes portent une lourde responsabilité dans l'impasse\" actuelle \"parce qu'ils sont en train de réaliser qu'ils sont le dindon de la farce\"."
-    },
-    {
-      "title": "DIRECT. Budget 2026 : une première réunion entre le gouvernement et les groupes parlementaires a eu lieu, sans avancée notable",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entament-le-dernier-jour-de-debats-sur-la-partie-recettes_7592213.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Une première réunion sur le budget avec les groupes parlementaires, boudée par la gauche, a été organisée lundi au ministère des Relations avec le Parlement pour tenter d'avancer sur l'adoption du texte. D'autres \"réunions de travail thématiques\" devraient suivre."
     },
     {
       "title": "Budget 2026 : Philippe Aghion, prix Nobel d'économie \"atterré par le niveau intellectuel et économique de certains députés\"",
@@ -90,11 +95,6 @@
       "title": "L’info du jour | 1er novembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/11/01/linfo-du-jour-1er-novembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 31 octobre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/10/31/linfo-du-jour-31-octobre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 octobre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Deux jours de débats pour inventer un nouveau cap",
