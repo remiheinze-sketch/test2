@@ -1,0 +1,409 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+SCRAPER VEILLE METZ - Prêt pour GitHub Actions
+Collecte automatiquement les données depuis multiples sources
+Génère data.json à jour automatiquement
+"""
+
+import requests
+from bs4 import BeautifulSoup
+import json
+import datetime
+from datetime import timedelta
+import os
+import sys
+
+# Configuration des sources
+SOURCES = {
+    'republicain_lorrain': {
+        'url': 'https://www.republicain-lorrain.fr/edition-metz-et-agglomeration',
+        'volet': 'Ville',
+        'name': 'Républicain Lorrain'
+    },
+    'metz_officiel': {
+        'url': 'https://metz.fr/actus/toute_actualite.php',
+        'volet': 'Ville',
+        'name': 'Metz.fr'
+    },
+    'tout_metz': {
+        'url': 'https://tout-metz.com/',
+        'volet': 'Ville',
+        'name': 'Tout-Metz'
+    },
+    'emplois_politiques': {
+        'url': 'https://www.emplois-politiques.fr/les-offres-d-emplois/categories/cdi',
+        'volet': 'Emploi',
+        'name': 'Emplois-politiques.fr'
+    },
+    'assemblee': {
+        'url': 'https://www2.assemblee-nationale.fr/informations-pratiques/concours-et-autres-recrutements/offres-d-emploi2',
+        'volet': 'Emploi',
+        'name': 'Assemblée Nationale'
+    }
+}
+
+class MettzVeilleScraper:
+    def __init__(self):
+        self.articles = []
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        self.load_existing_data()
+    
+    def load_existing_data(self):
+        """Charge les données existantes pour les garder"""
+        try:
+            if os.path.exists('data.json'):
+                with open('data.json', 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    self.articles = data.get('articles', [])
+                    print(f"✓ {len(self.articles)} articles existants chargés")
+        except Exception as e:
+            print(f"⚠ Erreur chargement données existantes: {e}")
+            self.articles = []
+    
+    def scrape_republicain_lorrain(self):
+        """Scrape le Républicain Lorrain - édition Metz"""
+        try:
+            print("\n📰 Scraping Républicain Lorrain...")
+            response = requests.get(
+                SOURCES['republicain_lorrain']['url'],
+                headers=self.headers,
+                timeout=10
+            )
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Chercher les articles (adapter les sélecteurs si nécessaire)
+            articles = soup.find_all('article', limit=5)
+            
+            count = 0
+            for article in articles:
+                try:
+                    # Essayer plusieurs sélecteurs possibles
+                    title_elem = article.find(['h2', 'h3', 'a'])
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.get_text(strip=True)[:100]
+                    link = article.find('a')
+                    link_url = link.get('href') if link else 'https://republicain-lorrain.fr'
+                    
+                    # Créer URL absolue si relative
+                    if link_url.startswith('/'):
+                        link_url = 'https://www.republicain-lorrain.fr' + link_url
+                    
+                    new_article = {
+                        'id': max([a.get('id', 0) for a in self.articles] + [0]) + 1,
+                        'date': datetime.datetime.now().isoformat()[:10],
+                        'volet': SOURCES['republicain_lorrain']['volet'],
+                        'source': SOURCES['republicain_lorrain']['name'],
+                        'titre': title,
+                        'resume': article.get_text(strip=True)[:200],
+                        'lien': link_url,
+                        'engagement': '—'
+                    }
+                    
+                    # Éviter les doublons
+                    if not any(a['titre'] == new_article['titre'] for a in self.articles):
+                        self.articles.append(new_article)
+                        count += 1
+                        print(f"  ✓ {title[:60]}...")
+                
+                except Exception as e:
+                    print(f"  ⚠ Erreur parsing article: {e}")
+            
+            print(f"  → {count} nouveaux articles ajoutés")
+            return count
+        
+        except Exception as e:
+            print(f"✗ Erreur Républicain Lorrain: {e}")
+            return 0
+    
+    def scrape_metz_officiel(self):
+        """Scrape le site officiel metz.fr"""
+        try:
+            print("\n🏛️ Scraping Metz.fr...")
+            response = requests.get(
+                SOURCES['metz_officiel']['url'],
+                headers=self.headers,
+                timeout=10
+            )
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Chercher les actualités
+            articles = soup.find_all('div', class_=['article', 'actualite', 'news'], limit=5)
+            if not articles:
+                articles = soup.find_all(['article', 'section'], limit=5)
+            
+            count = 0
+            for article in articles:
+                try:
+                    title_elem = article.find(['h2', 'h3', 'h4', 'a'])
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.get_text(strip=True)[:100]
+                    
+                    # Chercher lien
+                    link = article.find('a')
+                    link_url = link.get('href') if link else 'https://metz.fr'
+                    if link_url.startswith('/'):
+                        link_url = 'https://metz.fr' + link_url
+                    
+                    new_article = {
+                        'id': max([a.get('id', 0) for a in self.articles] + [0]) + 1,
+                        'date': datetime.datetime.now().isoformat()[:10],
+                        'volet': SOURCES['metz_officiel']['volet'],
+                        'source': SOURCES['metz_officiel']['name'],
+                        'titre': title,
+                        'resume': article.get_text(strip=True)[:200],
+                        'lien': link_url,
+                        'engagement': 'Officiel'
+                    }
+                    
+                    if not any(a['titre'] == new_article['titre'] for a in self.articles):
+                        self.articles.append(new_article)
+                        count += 1
+                        print(f"  ✓ {title[:60]}...")
+                
+                except Exception as e:
+                    print(f"  ⚠ Erreur parsing: {e}")
+            
+            print(f"  → {count} nouveaux articles ajoutés")
+            return count
+        
+        except Exception as e:
+            print(f"✗ Erreur Metz.fr: {e}")
+            return 0
+    
+    def scrape_tout_metz(self):
+        """Scrape Tout-Metz"""
+        try:
+            print("\n🌐 Scraping Tout-Metz...")
+            response = requests.get(
+                SOURCES['tout_metz']['url'],
+                headers=self.headers,
+                timeout=10
+            )
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            articles = soup.find_all(['article', 'div'], class_=['article', 'post'], limit=5)
+            if not articles:
+                articles = soup.find_all('h2')[:5]
+            
+            count = 0
+            for article in articles:
+                try:
+                    title_elem = article if isinstance(article, str) else article.find(['h2', 'h3', 'h4'])
+                    if not title_elem:
+                        title_elem = article.find('a')
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.get_text(strip=True)[:100]
+                    
+                    link = article.find('a') if hasattr(article, 'find') else None
+                    link_url = link.get('href') if link else 'https://tout-metz.com'
+                    if link_url and link_url.startswith('/'):
+                        link_url = 'https://tout-metz.com' + link_url
+                    
+                    new_article = {
+                        'id': max([a.get('id', 0) for a in self.articles] + [0]) + 1,
+                        'date': datetime.datetime.now().isoformat()[:10],
+                        'volet': SOURCES['tout_metz']['volet'],
+                        'source': SOURCES['tout_metz']['name'],
+                        'titre': title,
+                        'resume': article.get_text(strip=True)[:200] if hasattr(article, 'get_text') else '—',
+                        'lien': link_url,
+                        'engagement': '—'
+                    }
+                    
+                    if not any(a['titre'] == new_article['titre'] for a in self.articles):
+                        self.articles.append(new_article)
+                        count += 1
+                        print(f"  ✓ {title[:60]}...")
+                
+                except Exception as e:
+                    print(f"  ⚠ Erreur parsing: {e}")
+            
+            print(f"  → {count} nouveaux articles ajoutés")
+            return count
+        
+        except Exception as e:
+            print(f"✗ Erreur Tout-Metz: {e}")
+            return 0
+    
+    def scrape_emplois_politiques(self):
+        """Scrape Emplois-politiques.fr - offres CDI"""
+        try:
+            print("\n💼 Scraping Emplois-politiques.fr...")
+            response = requests.get(
+                SOURCES['emplois_politiques']['url'],
+                headers=self.headers,
+                timeout=10
+            )
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            offres = soup.find_all(['div', 'li'], class_=['offer', 'job', 'emploi'], limit=5)
+            if not offres:
+                offres = soup.find_all('a', limit=5)
+            
+            count = 0
+            for offre in offres:
+                try:
+                    title_elem = offre.find(['h2', 'h3', 'h4', 'a', 'span'])
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.get_text(strip=True)[:100]
+                    if 'collaborateur' not in title.lower() and 'attaché' not in title.lower():
+                        continue
+                    
+                    link = offre.find('a')
+                    link_url = link.get('href') if link else 'https://emplois-politiques.fr'
+                    if link_url.startswith('/'):
+                        link_url = 'https://www.emplois-politiques.fr' + link_url
+                    
+                    new_article = {
+                        'id': max([a.get('id', 0) for a in self.articles] + [0]) + 1,
+                        'date': datetime.datetime.now().isoformat()[:10],
+                        'volet': SOURCES['emplois_politiques']['volet'],
+                        'source': SOURCES['emplois_politiques']['name'],
+                        'titre': title,
+                        'resume': offre.get_text(strip=True)[:200],
+                        'lien': link_url,
+                        'engagement': 'CDI/CDD'
+                    }
+                    
+                    if not any(a['titre'] == new_article['titre'] for a in self.articles):
+                        self.articles.append(new_article)
+                        count += 1
+                        print(f"  ✓ {title[:60]}...")
+                
+                except Exception as e:
+                    print(f"  ⚠ Erreur parsing: {e}")
+            
+            print(f"  → {count} nouveaux articles ajoutés")
+            return count
+        
+        except Exception as e:
+            print(f"✗ Erreur Emplois-politiques: {e}")
+            return 0
+    
+    def scrape_assemblee(self):
+        """Scrape Assemblée Nationale - offres d'emploi"""
+        try:
+            print("\n🏛️ Scraping Assemblée Nationale...")
+            response = requests.get(
+                SOURCES['assemblee']['url'],
+                headers=self.headers,
+                timeout=10
+            )
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            offres = soup.find_all('li', limit=5)
+            if not offres:
+                offres = soup.find_all(['div', 'a'], limit=5)
+            
+            count = 0
+            for offre in offres:
+                try:
+                    title_elem = offre.find(['h3', 'h4', 'a', 'strong'])
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.get_text(strip=True)[:100]
+                    
+                    link = offre.find('a')
+                    link_url = link.get('href') if link else 'https://assemblee-nationale.fr'
+                    if link_url.startswith('/'):
+                        link_url = 'https://www2.assemblee-nationale.fr' + link_url
+                    
+                    new_article = {
+                        'id': max([a.get('id', 0) for a in self.articles] + [0]) + 1,
+                        'date': datetime.datetime.now().isoformat()[:10],
+                        'volet': SOURCES['assemblee']['volet'],
+                        'source': SOURCES['assemblee']['name'],
+                        'titre': title,
+                        'resume': offre.get_text(strip=True)[:200],
+                        'lien': link_url,
+                        'engagement': 'Officiel'
+                    }
+                    
+                    if not any(a['titre'] == new_article['titre'] for a in self.articles):
+                        self.articles.append(new_article)
+                        count += 1
+                        print(f"  ✓ {title[:60]}...")
+                
+                except Exception as e:
+                    print(f"  ⚠ Erreur parsing: {e}")
+            
+            print(f"  → {count} nouveaux articles ajoutés")
+            return count
+        
+        except Exception as e:
+            print(f"✗ Erreur Assemblée Nationale: {e}")
+            return 0
+    
+    def save_data(self):
+        """Sauvegarde les données en JSON"""
+        try:
+            data = {
+                'metadata': {
+                    'last_update': datetime.datetime.now().isoformat(),
+                    'total_articles': len(self.articles),
+                    'scraper_version': '1.0'
+                },
+                'articles': self.articles
+            }
+            
+            with open('data.json', 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            
+            print(f"\n✅ Données sauvegardées: {len(self.articles)} articles au total")
+            return True
+        except Exception as e:
+            print(f"✗ Erreur sauvegarde: {e}")
+            return False
+    
+    def run_all(self):
+        """Lance tous les scrapings"""
+        print("=" * 70)
+        print("🚀 DÉMARRAGE SCRAPER VEILLE METZ")
+        print(f"📅 {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
+        print("=" * 70)
+        
+        total_new = 0
+        
+        # Scraper les sources
+        total_new += self.scrape_republicain_lorrain()
+        total_new += self.scrape_metz_officiel()
+        total_new += self.scrape_tout_metz()
+        total_new += self.scrape_emplois_politiques()
+        total_new += self.scrape_assemblee()
+        
+        # Sauvegarder
+        if self.save_data():
+            print("\n" + "=" * 70)
+            print(f"✅ SCRAPING TERMINÉ")
+            print(f"📊 {total_new} nouveaux articles détectés")
+            print(f"📈 Total: {len(self.articles)} articles")
+            print("=" * 70)
+            return True
+        else:
+            print("✗ ERREUR SAUVEGARDE")
+            return False
+
+
+if __name__ == '__main__':
+    scraper = MettzVeilleScraper()
+    success = scraper.run_all()
+    
+    # Exit code pour GitHub Actions
+    sys.exit(0 if success else 1)
