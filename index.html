@@ -6,6 +6,44 @@
     <title>📊 Veille Metz – Système Automatisé</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+async function afficherVeille() {
+  const zone = document.getElementById("veille");
+  const info = document.getElementById("info");
+
+  try {
+    const res = await fetch("./data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+
+    info.textContent = "Dernière mise à jour : " + (data.updated_at || "inconnue");
+
+    if (!data.articles || data.articles.length === 0) {
+      zone.innerHTML = "<p>Aucun article trouvé pour vos mots-clés.</p>";
+      return;
+    }
+
+    const html = data.articles.map(a => `
+      <article class="card">
+        <h3><a href="${a.url}" target="_blank">${a.title}</a></h3>
+        <p>${a.summary}</p>
+      </article>
+    `).join("");
+
+    zone.innerHTML = html;
+  } catch (err) {
+    console.error("Erreur lors du chargement de data.json :", err);
+    zone.innerHTML = "<p>Impossible de charger les données. Vérifiez la connexion ou réessayez plus tard.</p>";
+  }
+}
+
+document.addEventListener("DOMContentLoaded", afficherVeille);
+</script>
+
+<!-- Zone d’affichage -->
+<p id="info" style="font-style:italic;color:#666"></p>
+<div id="veille"></div>
+
 </head>
 <body>
     <div class="container">
