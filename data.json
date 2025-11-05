@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-05T09:45:15Z",
+  "updated_at": "2025-11-05T10:49:03Z",
   "articles": [
+    {
+      "title": "De l’« Iliade » à Michel Houellebecq, quand l’économie se cache dans la littérature",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/05/de-l-iliade-a-michel-houellebecq-quand-l-economie-se-cache-dans-la-litterature_6652299_3232.html",
+      "summary": "La création littéraire a longtemps refusé de mettre l’économie en scène, la laissant occuper l’arrière-plan. Ce n’est qu’à partir du XIXᵉ siècle qu’elle s’installe davantage au cœur du roman, remarque la journaliste Anne de Guigné dans son nouvel ouvrage, « Tout l’or du monde »."
+    },
     {
       "title": "La Chine prolonge la suspension des surtaxes sur les produits américains",
       "url": "https://www.lemonde.fr/international/article/2025/11/05/la-chine-prolonge-la-suspension-des-surtaxes-sur-les-produits-americains_6652238_3210.html",
@@ -10,16 +15,6 @@
       "title": "Aux Etats-Unis, le trafic aérien risque d’être fortement perturbé si le shutdown se poursuit, avertit le ministre des transports",
       "url": "https://www.lemonde.fr/economie/article/2025/11/04/aux-etats-unis-le-trafic-aerien-risque-d-etre-fortement-perturbe-si-le-shutdown-se-poursuit_6651961_3234.html",
       "summary": "« Vous nous verrez peut-être fermer certaines parties de l’espace aérien (…) faute de contrôleurs aériens », a déclaré Sean Duffy. Depuis l’expiration du budget de l’Etat fédéral le 1er octobre, ces agents travaillent sans être payés."
-    },
-    {
-      "title": "L'éclaireur - 05/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-05-11_EN-202511050332.html",
-      "summary": "Ce mercredi 5 novembre, la possibilité d'une hausse d'impôts annoncée par Reeves a été abordé par Maxime Darmet, économiste senior chez Allianz Trade, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 05/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-05-11_VN-202511050334.html",
-      "summary": "Ce mercredi 5 novembre, la possibilité d'une hausse d'impôts annoncée par Reeves a été abordé par Maxime Darmet, économiste senior chez Allianz Trade, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/5woYmW8G7P5h2q3keaZHezqur2s=/0x0:1280x720/800x0/images/L-eclaireur-05-11-2172327.jpg\" />"
     },
     {
       "title": "Vrai ou faux. Est-ce que la prime de Noël va être divisée par deux ?",
@@ -45,11 +40,6 @@
       "title": "Budget de la Sécurité sociale : \"Nous voyons émerger des compromis possibles\", affirme Amélie de Montchalin, ministre des Comptes publics",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-securite-sociale-le-texte-arrive-a-l-assemblee-nationale-dans-un-hemicycle-sous-tension_7594274.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'Assemblée nationale a commencé à débattre mardi dans l'hémicycle du projet de loi de financement de la Sécurité sociale (PLFSS)."
-    },
-    {
-      "title": "Libération de Cécile Kohler et Jacques Paris, budget de la Sécurité sociale, Goncourt 2025... Les informés de franceinfo du mardi 4 novembre 2025",
-      "url": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/liberation-de-cecile-kohler-et-jacques-paris-budget-de-la-securite-sociale-goncourt-2025-les-informes-de-franceinfo-du-mardi-4-novembre-2025_7565722.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les informés débattent de l'actualité autour de Victor Matet."
     },
     {
       "title": "L’info du jour | 5 novembre 2025 - Matin",
@@ -80,6 +70,11 @@
       "title": "L’info du jour | 3 novembre 2025 - Mi-journée",
       "url": "http://fr.euronews.com/video/2025/11/03/linfo-du-jour-3-novembre-2025-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Tout comprendre au « trou de la Sécu » en trois minutes",
+      "url": "https://www.alternatives-economiques.fr/comprendre-trou-de-secu-trois-minutes/00116849",
+      "summary": "<p>A l’Assemblée, le déficit de la Sécurité sociale pèse sur les débats budgétaires. Mais est-ce d’une hausse incontrôlée des dépenses que vient le problème, comme le dit le gouvernement ?</p>"
     },
     {
       "title": "L’innovation chère à Philippe Aghion sauvera-t-elle le capitalisme de lui-même ?",
