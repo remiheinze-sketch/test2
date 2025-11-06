@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-06T17:38:44Z",
+  "updated_at": "2025-11-06T18:53:24Z",
   "articles": [
     {
       "title": "« Le travail entrepreneurial » : le coaching, entre rêve d’autonomie et risque de précarité",
@@ -7,14 +7,29 @@
       "summary": "23 % des coachs spécialisés dans les transitions professionnelles réalisent un chiffre d’affaires inférieur à 10 000 euros par an, précise une enquête publiée dans la « Revue française de socio-économie ». La publication s’interroge, dans son dernier numéro, sur « les contours incertains de l’activité entrepreneuriale »."
     },
     {
+      "title": "L'éco du monde : 37 jours de shutdown, et la température ne redescend pas – 06/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-37-jours-de-shutdown-et-la-temperature-ne-redescend-pas-06-11_EN-202511060908.html",
+      "summary": "Ce jeudi 6 novembre, Gilles Moëc, chef économiste du Groupe AXA, a abordé la perspective de futures hausses d'impôts en 2026 au Royaume-Uni, et la poursuite de la paralysie budgétaire aux États-Unis, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "Une mesure de justice ou un recul écologique? Le Royaume-Uni réfléchit à une taxe sur les voitures électriques",
+      "url": "https://www.bfmtv.com/economie/international/une-mesure-de-justice-ou-un-recul-ecologique-le-royaume-uni-reflechit-a-une-taxe-sur-les-voitures-electriques_AD-202511060897.html",
+      "summary": "À la recherche de deniers pour financer les routes et les services publics, le gouvernement britannique réfléchit à proposer une taxe sur les véhicules électriques dans son projet de budget. <br /><br /><img src=\"https://images.bfmtv.com/-lKnhO26QESaKfzFTBT2egg9hp0=/0x107:2048x1259/800x0/images/Dacia-Spring-recharge-voiture-electrique-1730556.jpg\" />"
+    },
+    {
       "title": "Air France-KLM subit les taxes aéroportuaires",
       "url": "https://www.bfmtv.com/economie/video-air-france-klm-subit-les-taxes-aeroportuaires_VN-202511060765.html",
       "summary": "\"Le marché s’attendait à une bonne publication d’Air France, d’où la grosse déception.\"<br /><br /><img src=\"https://images.bfmtv.com/igJmDgr--UtGYADXPAzSmqczFkQ=/0x0:1280x720/800x0/images/Air-France-KLM-subit-les-taxes-aeroportuaires-2176633.jpg\" />"
     },
     {
-      "title": "La richesse de la France s'élève à 19.559 milliards d'euros: le patrimoine des ménages français est reparti à la hausse, celui des administrations, plombé par la dette, plonge",
-      "url": "https://www.bfmtv.com/economie/patrimoine/la-richesse-de-la-france-s-eleve-a-19-559-milliards-d-euros-le-patrimoine-des-menages-francais-est-reparti-a-la-hausse-celui-des-administrations-plombe-par-la-dette-plonge_AV-202511060707.html",
-      "summary": "Au total, la richesse de l'économie française est évaluée à 19.559 milliards d'euros. Les ménages en possèdent les trois quarts. <br /><br /><img src=\"https://images.bfmtv.com/cjOR59g4k1Go0gEpojPbWXYPLto=/0x80:768x512/800x0/images/La-Tour-Eiffel-et-la-basilique-du-Sacre-Coeur-illuminees-a-Paris-le-11-juin-2025-2106232.jpg\" />"
+      "title": "DIRECT. Budget de la Sécurité sociale : plusieurs syndicats promettent un large mouvement de grève des médecins libéraux en janvier",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-troisieme-jour-de-debats-a-l-assemblee-apres-une-victoire-des-socialistes_7598732.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Inscrit dans le projet de loi de financement de la Sécurité sociale examiné cette semaine à l'Assemblée nationale, et déjà adopté en commission, l'article 26 met les médecins libéraux en ébullition."
+    },
+    {
+      "title": "\"Bras d'honneur\", \"magouille\"... Comment le PS et LFI se déchirent à l'occasion du débat sur le budget à l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/budget/bras-d-honneur-magouille-comment-le-ps-et-lfi-se-dechirent-a-l-occasion-du-debat-sur-le-budget-a-l-assemblee-nationale_7598921.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Un vote sur un amendement visant à augmenter la CSG sur les revenus du capital, mercredi soir, a révélé les tensions à gauche entre socialistes et insoumis."
     },
     {
       "title": "Budget : la CGT, FSU et Solidaires appellent à une nouvelle journée de mobilisation mardi 2 décembre",
@@ -22,19 +37,9 @@
       "summary": "\"C'est le moment d'amplifier nos mobilisations de la rentrée pour mettre la pression pour obtenir la justice sociale, fiscale et environnementale dans ce budget\", écrivent les trois syndicats dans un communiqué commun publié jeudi."
     },
     {
-      "title": "DIRECT. Budget de la Sécurité sociale : \"S'il y a censure sur le budget, alors il y aura démission et donc dissolution\", assure Sébastien Lecornu aux sénateurs",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-troisieme-jour-de-debats-a-l-assemblee-apres-une-victoire-des-socialistes_7598732.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Je ne serai pas le Premier ministre qui fera une passation de pouvoir avec Jordan Bardella\", a aussi assuré Sébastien Lecornu lors d'une réunion avec les sénateurs, mercredi soir."
-    },
-    {
       "title": "À cause des débats sur le budget 2026 à l'Assembée, \"Actual Group\" suspend la construction de son siège",
       "url": "https://www.franceinfo.fr/economie/entreprises/a-cause-des-debats-sur-le-budget-2026-a-l-assembee-actual-group-suspend-la-construction-de-son-siege_7599341.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "À Laval, le patron du groupe Actual suspend la construction de son futur siège social. En cause, les débats autour du budget 2026 et un climat jugé hostile aux entreprises. Il s’agit d’un coup d’arrêt symbolique pour ce grand nom de l’intérim français."
-    },
-    {
-      "title": "La croissance économique responsable de la hausse des émissions de gaz à effet de serre mondiales, selon l'OCDE",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/la-croissance-economique-responsable-de-la-hausse-des-emissions-de-gaz-a-effet-de-serre-mondiales-selon-l-ocde_7599056.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"La croissance de la population et une forte croissance économique pèsent plus lourd que les améliorations dans l'efficacité énergétique\", pointe l'organisation dans un rapport."
     },
     {
       "title": "L’info du jour | 6 novembre 2025 - Soir",
