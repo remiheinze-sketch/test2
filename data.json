@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-06T04:47:35Z",
+  "updated_at": "2025-11-06T05:39:16Z",
   "articles": [
+    {
+      "title": "« Le travail entrepreneurial » : le coaching, entre rêve d’autonomie et risque de précarité",
+      "url": "https://www.lemonde.fr/emploi/article/2025/11/06/le-travail-entrepreneurial-le-coaching-entre-reve-d-autonomie-et-risque-de-precarite_6652402_1698637.html",
+      "summary": "23 % des coachs spécialisés dans les transitions professionnelles réalisent un chiffre d’affaires inférieur à 10 000 euros par an, précise une enquête publiée dans la « Revue française de socio-économie ». La publication s’interroge, dans son dernier numéro, sur « les contours incertains de l’activité entrepreneuriale »."
+    },
     {
       "title": "« J’ignorais que c’était si cher » : les étudiants pris au piège de leur prêt bancaire",
       "url": "https://www.lemonde.fr/campus/article/2025/11/06/j-ignorais-que-c-etait-si-cher-les-etudiants-pris-au-piege-de-leur-pret-bancaire_6652389_4401467.html",
@@ -12,9 +17,14 @@
       "summary": "Le président républicain a invoqué une loi d’urgence économique de 1977 pour décréter des salves de droits de douane, au motif que le déficit commercial américain représenterait une « urgence nationale ». La décision des juges portera aussi sur l’étendue des pouvoirs présidentiels."
     },
     {
-      "title": "De l’« Iliade » à Michel Houellebecq, quand l’économie se cache dans la littérature",
-      "url": "https://www.lemonde.fr/idees/article/2025/11/05/de-l-iliade-a-michel-houellebecq-quand-l-economie-se-cache-dans-la-litterature_6652299_3232.html",
-      "summary": "La création littéraire a longtemps refusé de mettre l’économie en scène, la laissant occuper l’arrière-plan. Ce n’est qu’à partir du XIXᵉ siècle qu’elle s’installe davantage au cœur du roman, remarque la journaliste Anne de Guigné dans son nouvel ouvrage, « Tout l’or du monde »."
+      "title": "Les surtaxes de Trump menacées? Les juges de la Cour suprême affichent leurs doutes sur ce qui a \"toujours été un pouvoir fondamental du Congrès\"",
+      "url": "https://www.bfmtv.com/economie/international/les-surtaxes-de-trump-menacees-les-juges-de-la-cour-supreme-affichent-leurs-doutes-sur-ce-qui-a-toujours-ete-un-pouvoir-fondamental-du-congres_AD-202511060153.html",
+      "summary": "La Cour suprême a commencé mercredi à se pencher sur la légalité d'une part importante des droits de douane mis en place par Donald Trump. Sa décision finale est attendue dans les prochains mois. <br /><br /><img src=\"https://images.bfmtv.com/yl_wBvzqqXwmp8bpjgwQvd9BEmk=/0x106:2048x1258/800x0/images/Donald-Trump-2162973.jpg\" />"
+    },
+    {
+      "title": "\"Est-ce que c'est si choquant que ça?\": Roland Lescure juge \"raisonnable\" de réserver la prime de Noël aux foyers avec enfants",
+      "url": "https://www.bfmtv.com/economie/economie-social/france/est-ce-que-c-est-si-choquant-que-ca-roland-lescure-juge-raisonnable-de-reserver-la-prime-de-noel-aux-foyers-avec-enfants_AD-202511060139.html",
+      "summary": "Pour le ministre de l'Économie, la proposition du gouvernement de supprimer la prime de Noël aux foyers sans enfant se justifie par la nécessité de redresser les comptes publics. <br /><br /><img src=\"https://images.bfmtv.com/yBM8o3fgda-WcyFP9g9vup1dQeY=/0x1:2048x1153/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-a-l-Assemblee-nationale-le-28-octobre-2025-2175728.jpg\" />"
     },
     {
       "title": "Budget de la Sécu: l'Assemblée nationale adopte une hausse de CSG sur les revenus du capital",
@@ -25,6 +35,11 @@
       "title": "\"C'est dégueulasse, il n'y a pas d'autres mots\": le ministre de l'Économie est très remonté contre Shein après le scandale des poupées pédopornographiques",
       "url": "https://www.bfmtv.com/economie/entreprises/direct-en-plein-scandale-shein-ouvre-son-tout-premier-magasin-physique-au-bhv-a-paris_LN-202511050398.html",
       "summary": "Le géant chinois du commerce a ouvert ce mercredi sa toute première boutique physique au BHV. Shein est dans le même temps englué dans un scandale sur la vente de poupées à caractère pédocriminel et d'armes, pour lequel le gouvernement a annoncé le lancement d'une procédure de suspension. Dans la foulée, la plateforme a annoncé suspendre d'elle-même les produits des vendeurs tiers. <br /><br /><img src=\"https://images.bfmtv.com/R9OzhfeA8SHSNchvHlo9bj_d3k0=/0x198:1536x1062/800x0/images/L-interieur-de-la-boutique-Shein-au-BHV-2175641.jpg\" />"
+    },
+    {
+      "title": "\"C'est intelligent, mais pas sûr que ça aboutisse\" : pourquoi le gouvernement transmettra au Sénat les amendements votés par les députés sur le budget 2026",
+      "url": "https://www.franceinfo.fr/economie/budget/c-est-intelligent-mais-pas-sur-que-ca-aboutisse-pourquoi-le-gouvernement-transmettra-au-senat-les-amendements-votes-par-les-deputes-sur-le-budget-2026_7597124.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La Constitution fixe une durée de quarante jours de discussions sur le projet de loi de finances. Passé ce délai, le gouvernement peut transmettre aux sénateurs la copie initiale du texte, mais la ministre des Comptes publics a donné lundi des gages aux députés."
     },
     {
       "title": "Budget 2026 : les socialistes obtiennent une victoire sur la CSG sur le capital à l'Assemblée nationale",
