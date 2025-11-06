@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-05T23:31:50Z",
+  "updated_at": "2025-11-06T03:38:40Z",
   "articles": [
+    {
+      "title": "« J’ignorais que c’était si cher » : les étudiants pris au piège de leur prêt bancaire",
+      "url": "https://www.lemonde.fr/campus/article/2025/11/06/j-ignorais-que-c-etait-si-cher-les-etudiants-pris-au-piege-de-leur-pret-bancaire_6652389_4401467.html",
+      "summary": "Malgré ce que font miroiter les écoles et les banques, les frais engendrés par les études supérieures plombent le budget des jeunes, auquel s’ajoutent les dettes contractées par leur crédit et la pression constante de le rembourser."
+    },
     {
       "title": "Etats-Unis : la Cour suprême s’interroge sur la légalité des droits de douane imposés par Donald Trump",
       "url": "https://www.lemonde.fr/international/article/2025/11/05/etats-unis-les-droits-de-douane-imposes-par-donald-trump-examines-par-la-cour-supreme_6652348_3210.html",
@@ -85,6 +90,11 @@
       "title": "L’info du jour | 4 novembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/11/04/linfo-du-jour-4-novembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Pourquoi la croissance française est si faible, et 3 autres infographies à ne pas rater",
+      "url": "https://www.alternatives-economiques.fr/croissance-francaise-faible-3-autres-infographies-a-n/00116856",
+      "summary": "<p>Le graphorama, c'est quatre infographies sélectionnées chaque semaine par la rédaction pour regarder l'actualité autrement.</p>"
     },
     {
       "title": "Tout comprendre au « trou de la Sécu » en trois minutes",
