@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-07T15:37:11Z",
+  "updated_at": "2025-11-07T16:43:58Z",
   "articles": [
     {
       "title": "Aux Etats-Unis, des centaines de vols annulés dans les grands aéroports à cause du shutdown",
@@ -12,14 +12,24 @@
       "summary": "L’entrepreneur est parvenu à convaincre les actionnaires de lui accorder un plan de rémunération exorbitant, sous réserve d’atteindre des objectifs de croissance exponentiels. Et cela malgré les doutes persistants sur son implication dans l’entreprise."
     },
     {
+      "title": "\"On marche sur la tête\": diplômée d'un bac +5 en finances, elle se voit suggérer un emploi de père Noël par l'algorithme de France Travail",
+      "url": "https://www.bfmtv.com/economie/emploi/on-marche-sur-la-tete-diplomee-d-un-bac-5-en-finances-elle-se-voit-suggerer-un-emploi-de-pere-noel-par-l-algorithme-de-france-travail_AN-202511070716.html",
+      "summary": "Une jeune Rémoise de 23 ans en recherche d'emploi a vu France Travail lui suggérer un CDD de père Noël. L'agence précise que cette offre est une proposition automatique générée par son site et non une offre sérieuse d'emploi.<br /><br /><img src=\"https://images.bfmtv.com/PwJZJDRKMXo_nNIWBWeiRm7naTo=/0x39:768x471/800x0/images/Huit-des-dix-syndicats-de-France-Travail-appellent-a-la-greve-le-5-decembre-pour-protester-contre-la-suppression-de-500-postes-prevue-dans-le-budget-2025-1970548.jpg\" />"
+    },
+    {
       "title": "Les salaires de base dans le privé continuent d'augmenter plus vite que l'inflation, mais la hausse se tasse par rapport au début de l'année",
       "url": "https://www.bfmtv.com/economie/les-salaires-de-base-dans-le-prive-continuent-d-augmenter-plus-vite-que-l-inflation-mais-la-hausse-se-tasse-par-rapport-au-debut-de-l-annee_AD-202511070681.html",
       "summary": "Le salaire mensuel de base a augmenté de 2% sur un an, ce qui correspond à une hausse du pouvoir d'achat de 0,9%, une fois retranché l'inflation de 1,1%<br /><br /><img src=\"https://images.bfmtv.com/E3XT7bNGivT-zr7Kkf9XesFGMYs=/0x33:768x465/800x0/images/Le-nombre-de-salaries-payes-au-Smic-a-fortement-augmente-au-1er-janvier-2023-3-1-millions-de-salaries-du-secteur-prive-non-agricole-ont-beneficie-de-la-revalorisation-soit-17-3-des-salaries-Ils-etaient-14-5-un-an-plus-tot-selon-une-etude-de-la-Dares-publiee-cette-semaine-1769201.jpg\" />"
     },
     {
-      "title": "Leur salaire net aurait baissé jusqu'à 100 euros par mois: les députés conservent l'exonération pour les apprentis que le gouvernement souhaitait supprimer",
-      "url": "https://www.bfmtv.com/economie/economie-social/leur-salaire-net-aurait-baisse-jusqu-a-100-euros-par-mois-les-deputes-conservent-l-exoneration-pour-les-apprentis-que-le-gouvernement-souhaitait-supprimer_AV-202511070637.html",
-      "summary": "Lors des débats sur le budget de la Sécu pour 2026 ce vendredi 7 novembre, l'Assemblée nationale a supprimé la fin de l'exonération de cotisations sociales qui bénéficie actuellement aux apprentis. Une mesure défendue par le gouvernement et son ministre du Travail Jean-Pierre Farandou qui, face aux oppositions, a finalement reculé pour trouver d'autres alternatives.<br /><br /><img src=\"https://images.bfmtv.com/LCs6ttrdMITzuwDBorE_dTTr7Jo=/0x40:768x472/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-5-novembre-2025-2176413.jpg\" />"
+      "title": "TEMOIGNAGES. \"Je suis en mode survie en permanence\" : confidences de Français pour qui le découvert bancaire est plus un besoin qu'une facilité",
+      "url": "https://www.franceinfo.fr/economie/temoignages-je-suis-en-mode-survie-en-permanence-confidences-de-francais-pour-qui-le-decouvert-bancaire-est-plus-un-besoin-qu-une-facilite_7596947.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "De nombreux Français se retrouvent chaque mois dans le rouge et dépendent entièrement du découvert accordé par leur banque pour régler les dépenses quotidiennes. Ces situations financières complexes génèrent de la détresse."
+    },
+    {
+      "title": "Noël 2025 : le budget des Français au plus bas depuis 2017, avec 491 euros en moyenne",
+      "url": "https://www.franceinfo.fr/decouverte/noel/noel-2025-le-budget-des-francais-au-plus-bas-depuis-2017-avec-491-euros-en-moyenne_7601780.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "C'est le chiffre du jour : 491 euros en moyenne. C'est le budget que les Français prévoient de dépenser pour Noël, selon une étude Cofidis, soit six euros de moins que l'an passé. Cette année, c'est le repas qui sera au cœur des arbitrages de dépenses. Comment se faire plaisir à moindre coût ?"
     },
     {
       "title": "Budget : une politique migratoire \"plus humaine et efficace\" rapporterait 3,3 milliards d'euros par an, selon un rapport de France Terre d'Asile",
@@ -55,11 +65,6 @@
       "title": "Hausse de la CSG : êtes-vous concerné par l'augmentation des taxes sur les produits d'épargne votée par les députés pour le budget de 2026 ?",
       "url": "https://www.franceinfo.fr/economie/budget/hausse-de-la-csg-etes-vous-concerne-par-la-hausse-des-taxes-sur-les-produits-d-epargne_7599896.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'Assemblée nationale a adopté cette proposition des socialistes, dans le cadre de l'examen du budget de la Sécurité sociale, pour financer la suspension de la réforme des retraites et les besoins de l'hôpital. Votre assurance-vie, votre PEL et vos placements en actions pourraient être concernés."
-    },
-    {
-      "title": "\"Bras d'honneur\", \"magouille\"... Comment le PS et LFI se déchirent à l'occasion du débat sur le budget à l'Assemblée nationale",
-      "url": "https://www.franceinfo.fr/economie/budget/bras-d-honneur-magouille-comment-le-ps-et-lfi-se-dechirent-a-l-occasion-du-debat-sur-le-budget-a-l-assemblee-nationale_7598921.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Un vote sur un amendement visant à augmenter la CSG sur les revenus du capital, mercredi soir, a révélé les tensions à gauche entre socialistes et insoumis."
     },
     {
       "title": "L’info du jour | 7 novembre 2025 - Mi-journée",
