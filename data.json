@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-07T13:21:13Z",
+  "updated_at": "2025-11-07T14:39:47Z",
   "articles": [
     {
       "title": "Aux Etats-Unis, des centaines de vols annulés dans les grands aéroports à cause du shutdown",
@@ -12,6 +12,11 @@
       "summary": "L’entrepreneur est parvenu à convaincre les actionnaires de lui accorder un plan de rémunération exorbitant, sous réserve d’atteindre des objectifs de croissance exponentiels. Et cela malgré les doutes persistants sur son implication dans l’entreprise."
     },
     {
+      "title": "Leur salaire net aurait baissé jusqu'à 100 euros par mois: les députés conservent l'exonération pour les apprentis que le gouvernement souhaitait supprimer",
+      "url": "https://www.bfmtv.com/economie/economie-social/leur-salaire-net-aurait-baisse-jusqu-a-100-euros-par-mois-les-deputes-conservent-l-exoneration-pour-les-apprentis-que-le-gouvernement-souhaitait-supprimer_AV-202511070637.html",
+      "summary": "Lors des débats sur le budget de la Sécu pour 2026 ce vendredi 7 novembre, l'Assemblée nationale a supprimé la fin de l'exonération de cotisations sociales qui bénéficie actuellement aux apprentis. Une mesure défendue par le gouvernement et son ministre du Travail Jean-Pierre Farandou qui, face aux oppositions, a finalement reculé pour trouver d'autres alternatives.<br /><br /><img src=\"https://images.bfmtv.com/LCs6ttrdMITzuwDBorE_dTTr7Jo=/0x40:768x472/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-5-novembre-2025-2176413.jpg\" />"
+    },
+    {
       "title": "Les salariés épargnés: les députés rejettent la taxe de 8% sur les titres restaurants et chèques vacances... mais valident la hausse de la fiscalité sur les ruptures conventionnelles",
       "url": "https://www.bfmtv.com/economie/economie-social/la-salaries-epargnes-les-deputes-rejettent-la-taxe-de-8-sur-les-titres-restaurants-et-cheques-vacances-mais-valident-la-hausse-de-la-fiscalite-sur-les-rupture-conventionnelle_AV-202511070530.html",
       "summary": "En séance publique à l'Assemblée nationale, jeudi 6 novembre, les députés ont supprimé, à l'article 8 du budget de la Sécu pour 2026, le forfait social de 8% que le gouvernement souhaite appliquer aux compléments de salaire comme les titres restaurants, chèques cadeaux et vacances. Ils ont en revanche maintenu l'augmentation de la contribution patronale sur les indemnités de rupture conventionnelle et mise en retraite.<br /><br /><img src=\"https://images.bfmtv.com/LCs6ttrdMITzuwDBorE_dTTr7Jo=/0x40:768x472/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-5-novembre-2025-2176413.jpg\" />"
@@ -22,24 +27,9 @@
       "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/ghRSf4wAQaSaJaZubynPT3-8CXk=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-7-novembre-2177194.jpg\" />"
     },
     {
-      "title": "Les chiffres de l'inflation en Allemagne et en France - 07/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-les-chiffres-de-l-inflation-en-allemagne-et-en-france-07-11_VN-202511070507.html",
-      "summary": "Ce vendredi 7 novembre, Christopher Dembik a évoqué les chiffres de l'inflation en Allemagne et en France dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/xaRamw9z2BsjXynJKnSHFZY-T8M=/0x0:1280x720/800x0/images/Les-chiffres-de-l-inflation-en-Allemagne-et-en-France-07-11-2177181.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 7 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-7-novembre_EN-202511070505.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "Les chiffres de l'inflation en Allemagne et en France - 07/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/les-chiffres-de-l-inflation-en-allemagne-et-en-france-07-11_EN-202511070503.html",
-      "summary": "Ce vendredi 7 novembre, Christopher Dembik a évoqué les chiffres de l'inflation en Allemagne et en France dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "DIRECT. Budget de la Sécurité sociale : la ministre de la Santé salue des débats \"compliqués\" mais \"intéressants\" à l'Assemblée",
+      "title": "DIRECT. Budget de la Sécurité sociale : l'Assemblée maintient l'exonération de cotisations en faveur des apprentis",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-les-deputes-baissent-le-cout-des-heures-supplementaires-pour-les-entreprises-de-plus-de-250-salaries_7601033.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Ce que je vois, c'est un grand nombre de députés qui débattent très profondément des sujets\", a déclaré Stéphanie Rist, sur franceinfo, vendredi."
+      "summary": "Toute la gauche, l'extrême droite, mais aussi la vaste majorité du camp gouvernemental ont adopté un amendement faisant tomber la mesure, qui visait à réaliser des économies."
     },
     {
       "title": "Budget bloqué aux États-Unis : le pays paralysé, des milliers de vols annulés",
