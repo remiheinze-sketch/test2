@@ -1,15 +1,10 @@
 {
-  "updated_at": "2025-11-07T16:43:58Z",
+  "updated_at": "2025-11-07T17:33:31Z",
   "articles": [
     {
-      "title": "Aux Etats-Unis, des centaines de vols annulés dans les grands aéroports à cause du shutdown",
+      "title": "A cause du shutdown aux Etats-Unis, des centaines de vols annulés dans les grands aéroports",
       "url": "https://www.lemonde.fr/international/article/2025/11/07/aux-etats-unis-des-centaines-de-vols-annules-dans-les-grands-aeroports-a-cause-du-shutdown_6652594_3210.html",
       "summary": "Cette réduction des vols est présentée comme une précaution face à la pénurie de personnel dans les tours de contrôle, conséquence des blocages politiques concernant le budget fédéral qui paralysent l’administration depuis six semaines."
-    },
-    {
-      "title": "Elon Musk chez Tesla, un tour de magie à 1 000 milliards de dollars",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/07/elon-musk-chez-tesla-un-tour-de-magie-a-1-000-milliards-de-dollars_6652532_3234.html",
-      "summary": "L’entrepreneur est parvenu à convaincre les actionnaires de lui accorder un plan de rémunération exorbitant, sous réserve d’atteindre des objectifs de croissance exponentiels. Et cela malgré les doutes persistants sur son implication dans l’entreprise."
     },
     {
       "title": "\"On marche sur la tête\": diplômée d'un bac +5 en finances, elle se voit suggérer un emploi de père Noël par l'algorithme de France Travail",
@@ -20,6 +15,11 @@
       "title": "Les salaires de base dans le privé continuent d'augmenter plus vite que l'inflation, mais la hausse se tasse par rapport au début de l'année",
       "url": "https://www.bfmtv.com/economie/les-salaires-de-base-dans-le-prive-continuent-d-augmenter-plus-vite-que-l-inflation-mais-la-hausse-se-tasse-par-rapport-au-debut-de-l-annee_AD-202511070681.html",
       "summary": "Le salaire mensuel de base a augmenté de 2% sur un an, ce qui correspond à une hausse du pouvoir d'achat de 0,9%, une fois retranché l'inflation de 1,1%<br /><br /><img src=\"https://images.bfmtv.com/E3XT7bNGivT-zr7Kkf9XesFGMYs=/0x33:768x465/800x0/images/Le-nombre-de-salaries-payes-au-Smic-a-fortement-augmente-au-1er-janvier-2023-3-1-millions-de-salaries-du-secteur-prive-non-agricole-ont-beneficie-de-la-revalorisation-soit-17-3-des-salaries-Ils-etaient-14-5-un-an-plus-tot-selon-une-etude-de-la-Dares-publiee-cette-semaine-1769201.jpg\" />"
+    },
+    {
+      "title": "DIRECT. Budget de la Sécurité sociale : la ministre des Comptes publics se dit ouverte à un débat sur le renforcement de la taxation des distributions d'actions gratuites",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-les-deputes-baissent-le-cout-des-heures-supplementaires-pour-les-entreprises-de-plus-de-250-salaries_7601033.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Toute la gauche, l'extrême droite mais aussi la vaste majorité du camp gouvernemental ont adopté un amendement faisant tomber la mesure, qui visait à réaliser des économies."
     },
     {
       "title": "TEMOIGNAGES. \"Je suis en mode survie en permanence\" : confidences de Français pour qui le découvert bancaire est plus un besoin qu'une facilité",
@@ -42,11 +42,6 @@
       "summary": "En Bretagne, la hausse de la taxe d’habitation sur les résidences secondaires suscite débats et inquiétudes. De nombreuses communes veulent limiter les logements inoccupés et renforcer leurs budgets, mais cette mesure impacte directement les propriétaires et questionne l’équilibre entre fiscalité locale et attractivité touristique."
     },
     {
-      "title": "DIRECT. Budget de la Sécurité sociale : les députés maintiennent l'exonération de cotisations en faveur des apprentis",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-les-deputes-baissent-le-cout-des-heures-supplementaires-pour-les-entreprises-de-plus-de-250-salaries_7601033.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Toute la gauche, l'extrême droite mais aussi la vaste majorité du camp gouvernemental ont adopté un amendement faisant tomber la mesure, qui visait à réaliser des économies."
-    },
-    {
       "title": "Budget bloqué aux États-Unis : le pays paralysé, des milliers de vols annulés",
       "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/budget-bloque-aux-etats-unis-le-pays-paralyse-des-milliers-de-vols-annules_7601396.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Aux États-Unis, des milliers de vols nationaux ont déjà été annulés pour le week-end du 11 et 12 novembre en raison du plus long shutdown de l'histoire américaine. La paralysie budgétaire dure depuis 37 jours, et les contrôleurs aériens ne sont plus rémunérés."
@@ -57,14 +52,9 @@
       "summary": "Votre assurance vie, votre PEA et vos placements en actions seront davantage taxés l'an prochain. C'est ce qu'ont décidé les députés, qui ont voté une hausse de la CSG sur les revenus du capital."
     },
     {
-      "title": "Pouvoir d’achat en 2025 : un budget de Noël en baisse pour les Français",
-      "url": "https://www.franceinfo.fr/decouverte/noel/pouvoir-d-achat-en-2025-un-budget-de-noel-en-baisse-pour-les-francais_7601282.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les Français risquent de faire très attention à leur porte-monnaie, avec un budget au plus bas depuis 2017. En moyenne, ce seront 491 euros dépensés par foyer."
-    },
-    {
-      "title": "Hausse de la CSG : êtes-vous concerné par l'augmentation des taxes sur les produits d'épargne votée par les députés pour le budget de 2026 ?",
-      "url": "https://www.franceinfo.fr/economie/budget/hausse-de-la-csg-etes-vous-concerne-par-la-hausse-des-taxes-sur-les-produits-d-epargne_7599896.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'Assemblée nationale a adopté cette proposition des socialistes, dans le cadre de l'examen du budget de la Sécurité sociale, pour financer la suspension de la réforme des retraites et les besoins de l'hôpital. Votre assurance-vie, votre PEL et vos placements en actions pourraient être concernés."
+      "title": "L’info du jour | 7 novembre 2025 - Soir",
+      "url": "http://fr.euronews.com/video/2025/11/07/linfo-du-jour-7-novembre-2025-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 novembre 2025 - Mi-journée",
