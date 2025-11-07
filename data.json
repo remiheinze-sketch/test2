@@ -1,10 +1,15 @@
 {
-  "updated_at": "2025-11-07T22:34:37Z",
+  "updated_at": "2025-11-07T23:29:58Z",
   "articles": [
     {
       "title": "A cause du shutdown aux Etats-Unis, des centaines de vols annulés dans les grands aéroports",
       "url": "https://www.lemonde.fr/international/article/2025/11/07/aux-etats-unis-des-centaines-de-vols-annules-dans-les-grands-aeroports-a-cause-du-shutdown_6652594_3210.html",
       "summary": "Cette réduction des vols est présentée comme une précaution face à la pénurie de personnel dans les tours de contrôle, conséquence des blocages politiques concernant le budget fédéral qui paralysent l’administration depuis six semaines."
+    },
+    {
+      "title": "Budget à l'Assemblée nationale: \"C'est véritablement devenu la Foire du Trône\", indique Paul Bovin, délégué général de la Fédération des entreprises de boulangerie/pâtisserie",
+      "url": "https://www.bfmtv.com/economie/video-budget-a-l-assemblee-nationale-c-est-veritablement-devenu-la-foire-du-trone-indique-paul-bovin-delegue-general-de-la-federation-des-entreprises-de-boulangerie-patisserie_VN-202511070935.html",
+      "summary": "Les députés avancent lentement l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2026. Ils devraient néanmoins boucler le volet dédié aux recettes samedi et celui-ci fera l'objet d'un vote déterminant pour la suite du parcours législatif du texte.<br /><br /><img src=\"https://images.bfmtv.com/F5LIwIJzg1_aiDguj81oeuC7EDg=/0x0:1280x720/800x0/images/Budget-a-l-Assemblee-nationale-C-est-veritablement-devenu-la-Foire-du-Trone-indique-Paul-Bovin-delegue-general-de-la-Federation-des-entreprises-de-boulangerie-patisserie-2177534.jpg\" />"
     },
     {
       "title": "La semaine de l'économie - 07/11",
@@ -47,7 +52,7 @@
       "summary": "Les députés avancent lentement l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2026. Ils devraient néanmoins boucler le volet dédié aux recettes samedi et celui-ci fera l'objet d'un vote déterminant pour la suite du parcours législatif du texte.<br /><br /><img src=\"https://images.bfmtv.com/Qh9anNjuCqmSecavBJQzswv9WQA=/0x39:768x471/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-a-droite-le-4-novembre-2025-a-l-Assemblee-nationale-a-Paris-2170858.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget de la Sécurité sociale : l'Assemblée adopte une taxe sur les boissons énergisantes alcoolisées",
+      "title": "Budget de la Sécurité sociale : l'Assemblée adopte une taxe sur les boissons énergisantes alcoolisées",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-les-deputes-baissent-le-cout-des-heures-supplementaires-pour-les-entreprises-de-plus-de-250-salaries_7601033.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La mesure cible l'apparition de nouveaux produits qui mélangent alcool fort, excitants et ingrédients sucrés ou aromatisés."
     },
