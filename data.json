@@ -1,15 +1,25 @@
 {
-  "updated_at": "2025-11-10T11:29:25Z",
+  "updated_at": "2025-11-10T13:40:02Z",
   "articles": [
+    {
+      "title": "Jeune actif, vous payez vos premiers impôts ? Racontez-nous",
+      "url": "https://www.lemonde.fr/campus/appel-temoignages/2025/11/10/jeune-actif-vous-payez-vos-premiers-impots-racontez-nous_6652903_4401467.html",
+      "summary": "Vous venez de commencer à travailler et vous avez récemment fait votre première déclaration de revenus ou vous allez devenir imposable prochainement ? Dites-nous comment vous vivez cette entrée dans la fiscalité."
+    },
     {
       "title": "« Les musées sont coincés entre des recettes qui stagnent, des dépenses qui augmentent et des ambitions multiples »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/08/les-musees-sont-coinces-entre-des-recettes-qui-stagnent-des-depenses-qui-augmentent-et-des-ambitions-multiples_6652737_3232.html",
       "summary": "Les musées ne sont pas des coffres-forts : ils doivent assurer la conservation des œuvres, mais aussi l’accessibilité du public. Or, malgré des missions de plus en plus larges, ils sont affaiblis par des tensions budgétaires croissantes, témoigne Emilie Girard, la présidente du comité français du Conseil international des musées."
     },
     {
-      "title": "Taxes sur les billets d’avion : responsables du secteur aérien et ONG s’opposent sur leur impact",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/08/taxes-sur-les-billets-d-avion-responsables-du-secteur-aerien-et-ong-s-opposent-sur-leur-impact_6652713_3234.html",
-      "summary": "La direction générale de l’aviation civile publie une étude qui indique que l’augmentation, en mars, de la taxation des billets fait s’envoler les prix et dégrade la compétitivité de la destination France. Un constat que réfute l’association Transport & Environnement, enquête concurrente à l’appui."
+      "title": "\"Macron a une bonne capacité de déni\": voilà ce que Bruno Le Maire écrivait au chef de l'Etat en 2024 dans son \"courrier secret\" pour l'alerter sur la dérive des comptes publics",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/macron-a-une-bonne-capacite-de-deni-voila-ce-que-bruno-le-maire-adressait-en-2024-dans-son-courrier-secret-au-chef-de-l-etat-pour-l-alerter-sur-la-derive-des-comptes-publics_AN-202511100595.html",
+      "summary": "Dans un courrier confidentiel adressé à Emmanuel Macron, daté du 6 avril 2024, Bruno Le Maire alertait sur la dégradation des finances publiques. <br /><br /><img src=\"https://images.bfmtv.com/1ehr2lmEPmitnbQW59bviwpum3U=/0x0:2048x1152/800x0/images/Bruno-Le-Maire-1446808.jpg\" />"
+    },
+    {
+      "title": "Nouvelles taxes : les conseillers en gestion de patrimoine débordés",
+      "url": "https://www.bfmtv.com/economie/video-nouvelles-taxes-les-conseillers-en-gestion-de-patrimoine-debordes_VN-202511100554.html",
+      "summary": "Le débat budgétaire se poursuit et chaque jour qui passe renforce un peu plus l'inquiétude des entrepreneurs et des gros patrimoines, qui ont bien du mal à savoir à quelle sauce ils vont être mangés. Les conseillers patrimoniaux sont sursollicités. - Caroline Morisseau<br /><br /><img src=\"https://images.bfmtv.com/vJAwPBrjAUMuy9VHxGf1L9c_4XM=/0x0:1280x720/800x0/images/Nouvelles-taxes-les-conseillers-en-gestion-de-patrimoine-debordes-2178443.jpg\" />"
     },
     {
       "title": "Le gouvernement assure être \"sur les rails\" pour respecter l'engagement de ramener le déficit public à 5,4%",
@@ -22,9 +32,14 @@
       "summary": "Selon l'organisation professionnelle des entreprises du secteur des médicaments, le Leem, certaines mesures du projet de budget de la Sécurité sociale menacent l'arrivée de nouveaux traitements en France.<br /><br /><img src=\"https://images.bfmtv.com/loWm8hIrTquH1alkqK-CX36Aphc=/0x106:2048x1258/800x0/images/Des-boites-de-medicament-dans-une-pharmacie-a-Paris-le-19-octobre-2022-1523403.jpg\" />"
     },
     {
-      "title": "\"On voit passer beaucoup de donations\": les conseillers en gestion de patrimoine pris d'assaut par des clients affolés par les impôts qui vont les toucher",
-      "url": "https://www.bfmtv.com/economie/patrimoine/on-voit-passer-beaucoup-de-donations-les-conseillers-en-gestion-de-patrimoine-pris-d-assaut-par-des-clients-affoles-par-les-impots-qui-vont-les-toucher_AV-202511100442.html",
-      "summary": "Selon les informations collectées par BFM Business, les conseillers en gestion de patrimoine sont débordés actuellement. Ils épluchent les débats budgétaires pour leurs clients fortunés, dont certains envisagent déjà de quitter la France.<br /><br /><img src=\"https://images.bfmtv.com/k07duaQocgzuGDmuGxo6_FBGV1s=/0x75:2048x1227/800x0/images/Conseiller-gestion-patrimoine-2178361.jpg\" />"
+      "title": "Une lettre de Bruno Le Maire alertant Emmanuel Macron sur le déficit dévoilée, LFI dénonce une \"omission d'Etat\"",
+      "url": "https://www.franceinfo.fr/politique/bruno-le-maire/la-lettre-d-alerte-de-bruno-le-maire-a-emmanuel-macron-sur-le-deficit-devoilee-lfi-denonce-une-omission-d-etat_7607381.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'émission \"C dans l'air\" sur France 5 a dévoilé le courrier envoyé par le ministre de l'Economie de l'époque au président de la République, datant du 6 avril 2024, et l'alertant du dérapage des comptes publics."
+    },
+    {
+      "title": "Budget de la Sécurité sociale 2026 : quelles sont les mesures adoptées, modifiées ou rejetées, concernant le volet \"dépenses\" ?",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-2026-quelles-sont-les-mesures-adoptees-modifiees-ou-rejetees-concernant-le-volet-depenses_7605644.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que plusieurs centaines d'amendements ont été examinés en moins de deux jours, franceinfo vous présente les principaux changements apportés en première lecture au texte."
     },
     {
       "title": "Dette de la France : Bruno Le Maire se défend dans un documentaire",
@@ -67,11 +82,6 @@
       "summary": "Les députés ont voté dimanche soir en faveur d’une mesure limitant à trente jours la durée des arrêts de travail pour une première prescription et à deux mois en cas de renouvellement. Des dérogations seront toutefois possibles si elles sont justifiées par la situation du patient."
     },
     {
-      "title": "Marketing \"agressif\", \"fléau\" pour les jeunes... Pourquoi l'Assemblée nationale a décidé de taxer les boissons énergisantes alcoolisées",
-      "url": "https://www.franceinfo.fr/sante/alimentation/marketing-agressif-fleau-pour-les-jeunes-pourquoi-l-assemblee-nationale-a-decide-de-taxer-les-boissons-energisantes-alcoolisees_7603838.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La mesure a été adoptée lors de l'examen en première lecture du projet de budget de la Sécurité sociale, vendredi. Parmi les boissons ciblées par les députés, on retrouve le Vody, un mélange de vodka et de boisson énergisante produit par l'entreprise Cody's Drinks."
-    },
-    {
       "title": "L’info du jour | 10 novembre 2025 - Mi-journée",
       "url": "http://fr.euronews.com/video/2025/11/10/linfo-du-jour-10-novembre-2025-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -110,11 +120,6 @@
       "title": "L’info du jour | 8 novembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/11/08/linfo-du-jour-8-novembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 7 novembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/11/07/linfo-du-jour-7-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Retraites, santé, chômage : le privé ferait-il mieux que la protection sociale ?",
