@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-12T14:43:52Z",
+  "updated_at": "2025-11-12T15:43:24Z",
   "articles": [
+    {
+      "title": "Cajamar, ville-champignon de la logistique brésilienne avec ses 3 millions de mètres carrés d’entrepôts",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/12/cajamar-ville-champignon-de-la-logistique-bresilienne-avec-ses-3-millions-de-metres-carres-d-entrepots_6653154_3234.html",
+      "summary": "L’énorme croissance du commerce en ligne au Brésil a transformé cette bourgade tranquille, proche de la capitale économique, Sao Paulo, en une zone stratégique pour les géants du secteur. Et radicalement changé la vie de ses habitants."
+    },
     {
       "title": "Budget de la « Sécu » : « La CSG est le seul impôt qui puisse assurer un effort commun et nous sortir de l’impasse »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/12/budget-de-la-secu-la-csg-est-le-seul-impot-qui-puisse-assurer-un-effort-commun-et-nous-sortir-de-l-impasse_6653110_3232.html",
@@ -14,7 +19,7 @@
     {
       "title": "La fin de l’âge d’or de l’apprentissage a sonné, et les conséquences sont immédiates",
       "url": "https://www.lemonde.fr/economie/article/2025/11/11/pour-l-apprentissage-la-fin-de-l-age-d-or-a-sonne_6653041_3234.html",
-      "summary": "Si, lors des débats du budget de la « Sécu », les députés ont rejeté l’amendement supprimant l’exonération salariale des alternants, le gouvernement veut continuer de réduire le dispositif qui a soutenu massivement l’apprentissage. Une baisse entamée depuis plusieurs mois, dont les effets se font ressentir, notamment au sein des centres formation."
+      "summary": "Si, lors des débats du budget de la « Sécu », les députés ont rejeté l’amendement supprimant l’exonération salariale des alternants, le gouvernement veut continuer de réduire le dispositif qui a soutenu massivement l’apprentissage. Une baisse entamée depuis plusieurs mois, dont les effets se font ressentir, notamment au sein des centres de formation."
     },
     {
       "title": "BFM Crypto, le Club : Les banques se rapprochent des cryptos – 12/11",
@@ -25,11 +30,6 @@
       "title": "BFM Crypto, le Club : Les banques se rapprochent des cryptos - 12/11",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-les-banques-se-rapprochent-des-cryptos-12-11_VN-202511120624.html",
       "summary": "Mercredi 12 novembre, l'exposition au bitcoin de la banque centrale Suisse, la France face aux hausses d'impôts sur les cryptos, et le rapport entre les cryptos et l'intelligence artificielle, ont été abordés par Grégory Raymond, cofondateur de The Big Whale, Samira Karrach, directrice du pôle d'innovation Ulysseus Université Côte d'Azur, et Pierre Morizot cofondateur de Waltio, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/VtBGsHsa-AdZHJrFBYEs5xJ09rY=/0x0:1280x720/800x0/images/BFM-Crypto-le-Club-Les-banques-se-rapprochent-des-cryptos-12-11-2179738.jpg\" />"
-    },
-    {
-      "title": "Ces villes décident de rallumer l'éclairage public en remplaçant les ampoules sodium par des LED",
-      "url": "https://www.bfmtv.com/economie/video-ces-villes-decident-de-rallumer-l-eclairage-public-en-remplacant-les-ampoules-sodium-par-des-led_VN-202511120504.html",
-      "summary": "Avec la flambée des prix de l'énergie, de nombreuses villes et villages avaient pris la décision de stopper l'éclairage public. Désormais certaines de ces communes ont décidé de faire marche arrière car elles sont parvenues à faire des économies, notamment en remplaçant les ampoules par des LED. Une démarche qui rassure les habitants.<br /><br /><img src=\"https://images.bfmtv.com/Gd_bMt6YdlBuaxY8KmBKyKTmLcM=/0x0:1280x720/800x0/images/Ces-villes-decident-de-rallumer-l-eclairage-public-en-remplacant-les-ampoules-sodium-par-des-LED-2179642.jpg\" />"
     },
     {
       "title": "DIRECT. Budget de la Sécurité sociale : les députés reprennent les débats avec l'examen de la suspension de la réforme des retraites",
@@ -45,16 +45,6 @@
       "title": "On vous résume où en sont les débats sur le budget de l'Etat et celui de la Sécurité sociale",
       "url": "https://www.franceinfo.fr/economie/budget/plf-ou-plfss-a-l-assemblee-ou-au-senat-voici-ou-on-sont-les-debats-sur-le-budget-2026_7607465.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les députés terminent mercredi l'examen du projet de loi de financement de la Sécurité sociale (PLFSS), avant de reprendre celui du projet de loi de finances (PLF), au cœur d'un automne parlementaire accaparé par les discussions budgétaires."
-    },
-    {
-      "title": "Retraites : Gabriel Attal propose de verser 1 000 euros à la naissance",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/retraites-gabriel-attal-propose-de-verser-1-000-euros-a-la-naissance_7611110.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Voici la proposition qui fait débat à l'Assemblée nationale mardi 11 novembre : verser 1 000 euros à chaque enfant dès sa naissance pour anticiper sa retraite. Un amendement vient d'être déposé par Gabriel Attal en ce sens. Combien cela couterait-il aux finances publiques ?"
-    },
-    {
-      "title": "Budget 2026 : Ayant l'impression d'être les vaches à lait, les patrons écrivent à Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2026-ayant-l-impression-d-etre-les-vaches-a-lait-les-patrons-ecrivent-a-sebastien-lecornu_7581980.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Après la \"folie fiscale\" dénoncé par des patrons de la région PACA, début novembre, 13 organisations patronales - dont le Medef, la CPME et l'U2P - alertent dans un courrier sur l'inflation de taxes issues des débats à l'Assemblée, qu'ils jugent déconnectés des réalités."
     },
     {
       "title": "L’info du jour | 12 novembre 2025 - Mi-journée",
@@ -89,12 +79,12 @@
     {
       "title": "Sous-traitance, dumping social et précarité : les géants du recyclage maltraitent leurs travailleurs",
       "url": "https://www.alternatives-economiques.fr/traitance-dumping-social-precarite-geants-recyclage-maltra/00116901",
-      "summary": "<p>Des travailleurs sans-papiers exploités attaquent ce 12 novembre les géants des déchets aux Prud’hommes. L’affaire met en lumière les conditions de travail souvent précaires dans cette filière de l’économie verte.</p>"
+      "summary": "<p>Des travailleurs sans-papiers exploités attaquent ce 12 novembre les majors des déchets aux Prud’hommes. L’affaire met en lumière les conditions de travail souvent précaires dans cette filière de l’économie verte.</p>"
     },
     {
       "title": "En Argentine, les limites de la méthode Milei",
       "url": "https://www.alternatives-economiques.fr/argentine-limites-de-methode-milei/00116900",
-      "summary": "<p>Le président a mené, dès son arrivée au pouvoir fin 2023, une politique anti-inflation draconienne. Efficace sur le court terme, elle n’a pas permis de stabiliser l’économie et le spectre d’une crise de liquidités ressurgit.</p>"
+      "summary": "<p>Le président a mené, dès son arrivée au pouvoir fin 2023, une politique anti-inflation draconienne. Efficace sur le court terme, elle n’a pas permis de stabiliser l’économie, et le spectre d’une crise de liquidités ressurgit.</p>"
     },
     {
       "title": "Retraites, santé, chômage : le privé ferait-il mieux que la protection sociale ?",
