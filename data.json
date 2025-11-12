@@ -1,20 +1,30 @@
 {
-  "updated_at": "2025-11-12T04:44:04Z",
+  "updated_at": "2025-11-12T05:40:03Z",
   "articles": [
+    {
+      "title": "Ruptures conventionnelles : un dispositif victime de son succès tant dans le privé que dans le public",
+      "url": "https://www.lemonde.fr/emploi/article/2025/11/12/ruptures-conventionnelles-un-dispositif-victime-de-son-succes-tant-dans-le-prive-que-dans-le-public_6653084_1698637.html",
+      "summary": "Le dispositif de séparation à l’amiable entre un employeur et un salarié, soupçonné, dans les débats sur le budget 2026, de favoriser les abus, est particulièrement apprécié dans les petites entreprises, car moins conflictuel et plus prévisible."
+    },
     {
       "title": "La fin de l’âge d’or de l’apprentissage a sonné, et les conséquences sont immédiates",
       "url": "https://www.lemonde.fr/economie/article/2025/11/11/pour-l-apprentissage-la-fin-de-l-age-d-or-a-sonne_6653041_3234.html",
       "summary": "Si, lors des débats du budget de la « Sécu », les députés ont rejeté l’amendement supprimant l’exonération salariale des alternants, le gouvernement veut continuer de réduire le dispositif qui a soutenu massivement l’apprentissage. Une baisse entamée depuis plusieurs mois, dont les effets se font ressentir, notamment au sein des centres formation."
     },
     {
-      "title": "Les députés parviendront-ils à voter le budget ?",
-      "url": "https://www.lemonde.fr/podcasts/article/2025/11/11/les-deputes-parviendront-ils-a-voter-le-budget_6652965_5463015.html",
-      "summary": "Les parlementaires ont jusqu’au 23 décembre pour adopter un budget qui permettra à l’Etat de fonctionner en 2026. Robin Richardot et Denis Cosnard, journalistes au service Politique du « Monde », expliquent dans ce podcast les enjeux et les blocages autour de ce projet de budget."
+      "title": "\"La baisse est immédiate\": la filière du cognac prise en étau après les taxes chinoises et américaines",
+      "url": "https://www.bfmtv.com/economie/video-la-baisse-est-immediate-la-filiere-du-cognac-prise-en-etau-apres-les-taxes-chinoises-et-americaines_VN-202511120133.html",
+      "summary": "La moitié des exportations de cognac produites en France sont à destination des Etats-Unis. Mais la filière fait face à une baisse non négligeable de ces ventes: moins 38%. En cause, la caution douanière imposée par la Chine et les taxes mises en place par Donald Trump. Une situation qui inquiète notamment Matthieu Augier, viticulteur en Charente<br /><br /><img src=\"https://images.bfmtv.com/F33wGl46ghzBlKRXb3iT_JMA6gA=/0x0:1280x720/800x0/images/La-baisse-est-immediate-la-filiere-du-cognac-prise-en-etau-apres-les-taxes-chinoises-et-americaines-2179335.jpg\" />"
     },
     {
-      "title": "Après avoir déjoué les pronostics cet été, la croissance française devrait encore être positive au dernier trimestre selon la Banque de France",
-      "url": "https://www.bfmtv.com/economie/apres-avoir-dejoue-les-pronostics-cet-ete-la-croissance-francaise-devrait-encore-etre-positive-au-dernier-trimestre-selon-la-banque-de-france_AD-202511110715.html",
-      "summary": "La croissance économique française avait déjoué les prévisions en accélérant à 0,5% pendant la période estivale et selon une note de conjoncture de la Banque de France diffusée ce mardi le PIB devrait continuer de croître au quatrième trimestre.<br /><br /><img src=\"https://images.bfmtv.com/-GM1Zq3OLLTGt-TFPLButT4cR3w=/4x3:1252x705/800x0/images/-468816.jpg\" />"
+      "title": "DIRECT. Budget 2026 : la suspension de la réforme des retraites au cœur de l'ultime journée de débats à l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-la-suspension-de-la-reforme-des-retraites-au-c-ur-de-l-ultime-journee-de-debats-a-l-assemblee-nationale_7610909.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les députés vont discuter à partir de 15 heures du fameux article 45 bis du projet de budget de la Sécurité sociale. Il conditionne une absence de censure du gouvernement Lecornu de la part du Parti socialiste."
+    },
+    {
+      "title": "PLF ou PLFSS ? A l'Assemblée ou au Sénat ? Voici où on sont les débats sur le budget 2026",
+      "url": "https://www.franceinfo.fr/economie/budget/plf-ou-plfss-a-l-assemblee-ou-au-senat-voici-ou-on-sont-les-debats-sur-le-budget-2026_7607465.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les députés terminent mercredi l'examen du projet de loi de financement de la Sécurité sociale (PLFSS), avant de reprendre celui du projet de loi de finances (PLF), au cœur d'un automne parlementaire accaparé par les discussions budgétaires."
     },
     {
       "title": "ENQUETE. Budget de la Sécurité sociale : comment des députés copient-collent des amendements rédigés par des représentants d’intérêts, sans les mentionner",
