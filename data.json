@@ -1,10 +1,10 @@
 {
-  "updated_at": "2025-11-13T07:32:20Z",
+  "updated_at": "2025-11-13T08:51:33Z",
   "articles": [
     {
       "title": "La dépendance de la France au pétrole et au gaz menace son économie, alerte un rapport du Shift Project",
       "url": "https://www.lemonde.fr/economie/article/2025/11/12/la-dependance-de-la-france-au-petrole-et-au-gaz-menace-son-economie-alerte-un-rapport_6653189_3234.html",
-      "summary": "Les combustibles fossiles répondent à plus de 70 % des besoins des entreprises et des ménages français, souligne le cercle de réflexion présidé par Jean-Marc Jancovici."
+      "summary": "Les combustibles fossiles répondent à plus de 70 % des besoins des entreprises et des ménages français, rappelle le cercle de réflexion présidé par Jean-Marc Jancovici."
     },
     {
       "title": "Cajamar, ville-champignon de la logistique brésilienne avec ses 3 millions de mètres carrés d’entrepôts",
@@ -15,6 +15,16 @@
       "title": "Budget de la « Sécu » : « La CSG est le seul impôt qui puisse assurer un effort commun et nous sortir de l’impasse »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/12/budget-de-la-secu-la-csg-est-le-seul-impot-qui-puisse-assurer-un-effort-commun-et-nous-sortir-de-l-impasse_6653110_3232.html",
       "summary": "Le directeur de l’Observatoire des inégalités, Louis Maurin, plaide dans une tribune au « Monde » pour une augmentation de la contribution sociale généralisée, prélevée à la source sur tous les revenus."
+    },
+    {
+      "title": "En portefeuille - 13/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-en-portefeuille-13-11_VN-202511130365.html",
+      "summary": "Ce jeudi 13 novembre, Burberry, qui renoue avec la croissance, a été abordé par Kathleen Gailliot, responsable de la recherche européenne Small et midcaps chez Kepler Cheuvreux, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/jwIHnc1MW3izKfOuBABhx1s3BsQ=/0x0:1280x720/800x0/images/En-portefeuille-13-11-2180218.jpg\" />"
+    },
+    {
+      "title": "En portefeuille - 13/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/en-portefeuille-13-11_EN-202511130360.html",
+      "summary": "Ce jeudi 13 novembre, Burberry, qui renoue avec la croissance, a été abordé par Kathleen Gailliot, responsable de la recherche européenne Small et midcaps chez Kepler Cheuvreux, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
     },
     {
       "title": "États-Unis : la fin du plus long shutdown de l'histoire",
@@ -32,7 +42,12 @@
       "summary": "Les débats à l'Assemblée sur le projet de loi de budget de la Sécurité sociale pour 2026 se sont interrompus sans vote mercredi soir, ayant atteint le délai constitutionnel permettant au gouvernement l'envoi du texte au Sénat. Le texte initial, qui prévoyait de réduire le déficit de la Sécurité sociale à 17,5 milliards d'euros en 2026, a été largement amendé, comprenant notamment la suspension de la réforme des retraites et la suppression de plusieurs mesures explosives. <br /><br /><img src=\"https://images.bfmtv.com/Xla1AF1yZ0PGuebG9KX-Kr7jw7Y=/0x0:1280x720/800x0/images/EDITO-Budget-de-la-Securite-sociale-Sous-la-pression-de-la-gauche-beaucoup-de-mesures-de-rigueur-ont-ete-supprimees-par-rapport-au-projet-initial-2180090.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget 2026 : les députés reprennent l'examen du projet de loi de finances jeudi matin",
+      "title": "Sommet historique pour le CAC 40 : comment expliquer un tel record alors que les hausses d’impôts sont à l’ordre du jour ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/sommet-historique-pour-le-cac-40-comment-expliquer-un-tel-record-alors-que-les-hausses-d-impots-sont-a-l-ordre-du-jour_7584206.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La Bourse de Paris s’est envolée, mercredi, avec un CAC 40 à plus de 8200 points. Si les grands patrons français viennent de sonner l'alarme sur l'avenir de l'économie française, c'est la fin du \"shutdown\" américain qui semble emporter la mise."
+    },
+    {
+      "title": "DIRECT. Budget 2026 : les députés reprennent l'examen du projet de loi de finances à 9 heures",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-reprennent-l-examen-du-projet-de-loi-de-finances-jeudi-matin_7613303.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La course contre la montre reprend. Après la fin des débats sur le PLFSS, transmis au Sénat, l'Assemblée nationale reprend avec la réforme de l’abattement fiscal de 10% pour les retraités."
     },
