@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-13T13:44:57Z",
+  "updated_at": "2025-11-13T14:36:34Z",
   "articles": [
     {
       "title": "Budget de la Sécurité sociale : les députés votent la création d’un congé de naissance de deux mois",
@@ -10,6 +10,16 @@
       "title": "La dépendance de la France au pétrole et au gaz menace son économie, alerte un rapport du Shift Project",
       "url": "https://www.lemonde.fr/economie/article/2025/11/12/la-dependance-de-la-france-au-petrole-et-au-gaz-menace-son-economie-alerte-un-rapport_6653189_3234.html",
       "summary": "Les combustibles fossiles répondent à plus de 70 % des besoins des entreprises et des ménages français, rappelle le cercle de réflexion présidé par Jean-Marc Jancovici."
+    },
+    {
+      "title": "France et Espagne sont en tête mais Japon et Maroc ont les plus fortes croissances: le tourisme mondial a progressé de 5% au premier semestre malgré les tensions dans le monde",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/france-et-espagne-sont-en-tete-mais-japon-et-maroc-ont-les-plus-fortes-croissances-le-tourisme-mondial-a-progresse-de-5-au-premier-semestre-malgre-les-tensions-dans-le-monde_AV-202511130649.html",
+      "summary": "Selon les chiffres de l'ONU, 690 millions de personnes ont voyagé dans le monde, soit 5% de plus qu'il y a un an.<br /><br /><img src=\"https://images.bfmtv.com/6c4Z3GBjeYhTACmvKmfyiNn3TTY=/0x67:2048x1219/800x0/images/Bali-tourisme-Indonesie-1805411.jpg\" />"
+    },
+    {
+      "title": "\"Une croissance lente et médiocre\": le FMI constate que les Européens gagnent moins que les Américains et appelle l'UE à avancer vers les \"Etats-Unis d'Europe\"",
+      "url": "https://www.bfmtv.com/economie/international/une-croissance-lente-et-mediocre-le-fmi-constate-que-les-europeens-gagnent-moins-que-les-americains-et-appelle-l-ue-a-avancer-ver-les-etats-unis-d-europe_AD-202511130641.html",
+      "summary": "Dans un rapport publié ce jeudi, le FMI met en avant la nécessité de lancer des réformes en Europe, afin de réaliser des gains de productivités et relancer la croissance.<br /><br /><img src=\"https://images.bfmtv.com/_m8EZaFVPtlqUQOI3w0bIT8VBAg=/0x38:768x470/800x0/images/Le-Fonds-monetaire-international-FMI-a-appele-le-gouvernement-a-de-nouvelles-mesures-d-economies-des-2024-afin-d-eviter-un-derapage-des-finances-publiques-1868885.jpg\" />"
     },
     {
       "title": "Les Experts de l'immo : Incertitude politico-budgétaires, les effets - 13/11",
@@ -67,7 +77,7 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Aux Etats-Unis, Donald Trump promulgue la loi mettant fin au plus long shutdown de l’histoire",
+      "title": "États-Unis : Donald Trump promulgue la loi mettant fin au plus long shutdown de l’histoire",
       "url": "http://fr.euronews.com/2025/11/13/aux-etats-unis-donald-trump-promulgue-la-loi-mettant-fin-au-plus-long-shutdown-de-lhistoir",
       "summary": "Après l'adoption du texte par le Sénat et la Chambre des représentants, Donald Trump a signé la loi débloquant le gel budgétaire de l'État fédéral. Ce long blocage a bouleversé plusieurs pans de l’économie américaine pendant 43 jours."
     },
@@ -120,11 +130,6 @@
       "title": "En Argentine, les limites de la méthode Milei",
       "url": "https://www.alternatives-economiques.fr/argentine-limites-de-methode-milei/00116900",
       "summary": "<p>Le président a mené, dès son arrivée au pouvoir fin 2023, une politique anti-inflation draconienne. Efficace sur le court terme, elle n’a pas permis de stabiliser l’économie, et le spectre d’une crise de liquidités ressurgit.</p>"
-    },
-    {
-      "title": "Retraites, santé, chômage : le privé ferait-il mieux que la protection sociale ?",
-      "url": "https://www.alternatives-economiques.fr/retraites-sante-chomage-prive-ferait-mieux-protection-socia/00116568",
-      "summary": "<p>[Vive la Sécu ! 11/14] Qu’il s’agisse d’accompagnement des chômeurs, de retraites ou encore de santé, le privé est loin d’être plus efficace que la protection sociale. Et il ne permet pas non plus de faire des économies.</p>"
     }
   ]
 }
