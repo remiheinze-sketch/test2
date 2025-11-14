@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-14T07:36:59Z",
+  "updated_at": "2025-11-14T08:54:07Z",
   "articles": [
     {
       "title": "Comment faire acte de générosité quand on a un petit budget",
@@ -7,9 +7,29 @@
       "summary": "Don de jours de congé, participation à un défi sportif ou prélèvement sur sa facture téléphonique, de nombreuses solutions permettent d’être généreux."
     },
     {
-      "title": "Budget de la Sécurité sociale : la création d’un congé de naissance de deux mois votée par les députés",
-      "url": "https://www.lemonde.fr/societe/article/2025/11/13/budget-de-la-securite-sociale-les-deputes-votent-la-creation-d-un-conge-de-naissance-de-deux-mois_6653255_3224.html",
-      "summary": "Le dispositif, qui s’ajoutera aux congés de maternité et de paternité existants, a été très largement adopté, à 288 voix pour et 15 contre, mercredi soir en première lecture. Le projet de loi part cependant au Sénat sans avoir pu être soumis au vote."
+      "title": "Les députés ont fait grimper le déficit de la Sécu de 6,8 milliards d'euros: le gouvernement espère faire baisser l'addition de plusieurs milliards pour avoir \"une protection sociale qui soit pérenne\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/les-deputes-ont-fait-grimper-le-deficit-de-la-secu-de-6-8-milliards-d-euros-le-gouvernement-espere-faire-baisser-l-addition-de-plusieurs-milliards-pour-que-la-protection-sociale-qui-soit-perenne_AV-202511140364.html",
+      "summary": "Invitée de Sud Radio ce vendredi 14 novembre, la ministre de la Santé Stéphanie Rist a plaidé pour que les parlementaires parviennent, lors des débats sur le budget de la Sécu, à ramener le déficit en dessous de 20 milliards d'euros en 2026.<br /><br /><img src=\"https://images.bfmtv.com/3YzxxkBCAyqXuZBoR2kL8nI2Xi0=/0x4:768x436/800x0/images/La-ministre-de-la-Sante-Stephanie-Rist-a-l-Assemblee-nationale-le-29-octobre-2025-a-Paris-2163523.jpg\" />"
+    },
+    {
+      "title": "Pour Marc Fiorentino, associé gérant d'Euroland, \"on est en train de faire un désastre au niveau budgétaire\"",
+      "url": "https://www.bfmtv.com/economie/video-pour-marc-fiorentino-associe-gerant-d-euroland-on-est-en-train-de-faire-un-desastre-au-niveau-budgetaire_VN-202511140334.html",
+      "summary": "Pour Marc Fiorentino, associé gérant d'Euroland, était l'invité d'Apolline de 9 à 10 de ce vendredi 14 novembre sur BFMTV pour évoquer les pistes d'économies pour le budget 2026. <br /><br /><img src=\"https://images.bfmtv.com/KAXp8MoqxmP7QMEcUekiZdfmfwc=/0x0:1280x720/800x0/images/Pour-Marc-Fiorentino-associe-gerant-d-Euroland-on-est-en-train-de-faire-un-desastre-au-niveau-budgetaire-2181020.jpg\" />"
+    },
+    {
+      "title": "DIRECT. Budget 2026 : les députés poursuivent l'examen du projet de loi de finances, avant une nouvelle pause ce week-end",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-poursuivent-l-examen-du-projet-de-loi-de-finances-avant-une-nouvelle-pause-ce-week-end_7615514.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que l'examen se déroule dans un calendrier très serré, le gouvernement a annoncé jeudi soir que les députés ne siégeront pas \"samedi et dimanche\" comme prévu. Une décision décriée par la gauche qui lui reproche de vouloir raccourcir les débats."
+    },
+    {
+      "title": "Budget : \"Il n'y a aucune malice de la part du gouvernement\"﻿, assure le ministre Mathieu Lefèvre alors que l'Assemblée ne siégera pas ce week-end",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-il-n-y-a-aucune-malice-de-la-part-du-gouvernement-assure-le-ministre-mathieu-lefevre-alors-que-l-assemblee-ne-siegera-pas-ce-week-end_7615655.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La gauche dénonce une décision \"inacceptable\" annoncée par le ministre en charge des relations avec le Parlement, jeudi."
+    },
+    {
+      "title": "Budget 2026 : la taxe des retraités, un dossier sensible",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/budget-2026-la-taxe-des-retraites-un-dossier-sensible_7615604.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Pour trouver de l'argent et de nouvelles recettes pour le budget, le Premier ministre souhaitait mettre à contribution les retraités les plus aisés, mais a essuyé le refus des députés. Ils ont rejeté la suppression de l'abattement fiscal de 10%, qui représente plus d'un milliard de recettes en moins pour l'État."
     },
     {
       "title": "REPORTAGE. \"Ma facture est passée de 150... à 0 euro\" : dans le Val-d'Oise, une maison transformée en \"mini-centrale électrique\" pour réaliser des économies",
@@ -17,34 +37,14 @@
       "summary": "Le fournisseur d'électricité Octopus Energy a lancé un programme qui permet d'avoir une facture à zéro euro, mais il faut répondre à quatre conditions."
     },
     {
-      "title": "Budget 2026 : l'Assemblée ne siégera pas ce week-end, la gauche dénonce une décision \"inacceptable\"",
+      "title": "Budget 2026 : l'Assemblée ne siégera finalement pas samedi et dimanche, la gauche dénonce une décision \"inacceptable\"",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-l-assemblee-ne-siegera-pas-ce-week-end-la-gauche-denonce-une-decision-inacceptable_7615526.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Nous devons également tenir compte de la fatigue qui existe chez les députés, chez les collaborateurs, chez les administrateurs\" de l'Assemblée, a expliqué Laurent Panifous, le ministre en charge des relations avec le Parlement."
+      "summary": "\"Nous devons également tenir compte de la fatigue qui existe chez les députés, chez les collaborateurs, chez les administrateurs\" de l'Assemblée, a expliqué Laurent Panifous, le ministre en charge des Relations avec le Parlement."
     },
     {
       "title": "Courses de Noël : le budget des Français encore en baisse",
       "url": "https://www.franceinfo.fr/decouverte/noel/courses-de-noel-le-budget-des-francais-encore-en-baisse_7614272.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Alors que les fêtes de Noël approchent à grands pas et que les vitrines s’illuminent, le budget des Français pour les dépenses de Noël a encore baissé en 2025 : 470 euros en moyenne. C'est 38 euros de moins que l'année précédente."
-    },
-    {
-      "title": "Budget 2026 : certaines hausses d'impôts votées par l'Assemblée ne sont pas conformes au droit international, d'après le ministère de l'Economie",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-certaines-hausses-d-impots-votees-par-l-assemblee-ne-sont-pas-conformes-au-droit-international-d-apres-le-ministere-de-l-economie_7614281.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le président de la commission des finances de l'Assemblée nationale, le député LFI Eric Coquerel, réfute certains des arguments du ministère. Le sort de ces mesures n'est de toute façon pas assuré."
-    },
-    {
-      "title": "Budget de la Sécurité sociale : le texte amendé par l'Assemblée pourrait faire grimper le déficit à 24 milliards d'euros en 2026, avertit le ministre du Travail",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-le-texte-amende-par-l-assemblee-pourrait-faire-grimper-le-deficit-a-24-milliards-d-euros-en-2026-avertit-le-ministre-du-travail_7614254.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Jean-Pierre Farandou en appelle à \"la responsabilité de tous les parlementaires\", et affirme que \"quand la copie finale arrivera à l'Assemblée en décembre, tout le monde devra faire un pas vers l'autre\"."
-    },
-    {
-      "title": "Budget 2026 : la taxe des retraités, un dossier sensible",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-la-taxe-des-retraites-un-dossier-sensible_7614251.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Pour trouver de l'argent et de nouvelles recettes pour le budget, le Premier ministre souhaitait mettre à contribution les retraités les plus aisés, mais a essuyé le refus des députés. Ils ont rejeté la suppression de l'abattement fiscal de 10%, qui représente plus d'un milliard de recettes en moins pour l'État."
-    },
-    {
-      "title": "Budget 2026 : les députés adoptent l'article 45 qui fixe la contribution de la France à l'Union européenne pour 2026",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-reprennent-l-examen-du-projet-de-loi-de-finances-jeudi-matin_7613303.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette contribution est fixée à 28,78 milliards d'euros. La France insoumise et le Rassemblement national avaient proposé de baisser significativement cette contribution, mais leurs amendements ont tous été rejetés."
     },
     {
       "title": "L’info du jour | 14 novembre 2025 - Matin",
