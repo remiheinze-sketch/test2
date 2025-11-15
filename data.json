@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-14T23:31:10Z",
+  "updated_at": "2025-11-15T03:29:25Z",
   "articles": [
+    {
+      "title": "Droits de douane : Donald Trump annule des surtaxes sur le café, les avocats ou encore le bœuf pour alléger le coût de la vie aux Etats-Unis",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/15/droits-de-douane-donald-trump-annule-des-surtaxes-sur-le-cafe-les-avocats-ou-encore-le-b-uf-pour-alleger-le-cout-de-la-vie-aux-etats-unis_6653487_3234.html",
+      "summary": "Face à la grogne des consommateurs, le président américain multiplie les mesures pour contrer l’inflation et regagner la confiance de son propre camp."
+    },
     {
       "title": "« D’une gravité moyenne sur l’échelle de mesure, la cyberattaque contre Jaguar Land Rover a suffi pour faire trébucher l’économie britannique »",
       "url": "https://www.lemonde.fr/economie/article/2025/11/14/d-une-gravite-moyenne-sur-l-echelle-de-mesure-la-cyberattaque-contre-jaguar-land-rover-a-suffi-pour-faire-trebucher-l-economie-britannique_6653413_3234.html",
@@ -80,11 +85,6 @@
       "title": "Les salaires ont enfin repris le dessus sur l’inflation, et 3 autres infographies à ne pas rater",
       "url": "https://www.alternatives-economiques.fr/salaires-ont-enfin-repris-dessus-linflation-3-autres-infogra/00116904",
       "summary": "<p>Le graphorama, c'est quatre infographies sélectionnées chaque semaine par la rédaction pour regarder l'actualité autrement.</p>"
-    },
-    {
-      "title": "Sous-traitance, dumping social et précarité : les géants du recyclage maltraitent leurs travailleurs",
-      "url": "https://www.alternatives-economiques.fr/traitance-dumping-social-precarite-geants-recyclage-maltra/00116901",
-      "summary": "<p>Des travailleurs sans-papiers exploités attaquent ce 12 novembre les majors des déchets aux Prud’hommes. L’affaire met en lumière les conditions de travail souvent précaires dans cette filière de l’économie verte.</p>"
     }
   ]
 }
