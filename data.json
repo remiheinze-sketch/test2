@@ -1,6 +1,16 @@
 {
-  "updated_at": "2025-11-17T16:53:35Z",
+  "updated_at": "2025-11-17T17:39:26Z",
   "articles": [
+    {
+      "title": "A Choose France, les milliards d’euros d’investissements ne masquent pas l’inquiétude patronale sur le budget",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/17/a-choose-france-les-milliards-d-euros-d-investissements-ne-masquent-pas-l-inquietude-patronale-sur-le-budget_6653783_3234.html",
+      "summary": "Le gouvernement a tenté de rassurer, lundi, les chefs d’entreprise qui dénoncent une surenchère fiscale au moment où les difficultés s’accumulent pour l’industrie."
+    },
+    {
+      "title": "L'intégrale de BFM Bourse du lundi 17 novembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-lundi-17-novembre_EN-202511170755.html",
+      "summary": "Ce lundi 17 novembre, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion ; Alexandre Baradez, chef analyste chez IG ; Julie Cohen-Heurton, journaliste, BFM Business ; Bertrand Lamielle, directeur général de Portzamparc Gestion ; Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM ; Alban Préaubert, Gérant Sycomore AM ; Julien Marion, journaliste à BFM Business ; Grégory Maes, directeur du développement de Swiss Life Gestion Privée ; Antoine Larigaudrie, journaliste à BFM Business ; Wilfrid Galand, directeur Stratégiste chez Montpensier Arbevel ; Alexandre Hezez, stratégiste indépendant ; Romain Daubry, consultant pour Bourse Direct et Eric Lewin, président de EL Finance, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
     {
       "title": "Havas : une offre sur WPP ? 📰📢",
       "url": "https://www.bfmtv.com/economie/video-havas-une-offre-sur-wpp_VN-202511170704.html",
@@ -22,19 +32,14 @@
       "summary": "Ce lundi 17 novembre, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé le maintien de la croissance dans la zone euro, les tensions sur Taïwan entre la Chine et le Japon, ainsi que la publication du rapport sur l'emploi US du mois de septembre attendu pour jeudi prochain, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
-      "title": "Elle fait l'admiration de tous ses voisins européens: l'Espagne revoit encore sa croissance à la hausse qui sera désormais de 2,9% cette année",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/elle-fait-l-admiration-de-tous-ses-voisins-europeens-l-espagne-revoit-encore-sa-croissance-a-la-hausse-qui-sera-desormais-2-9-cette-annee_AD-202511170647.html",
-      "summary": "Le ministre de l'Economie Carlos Cuerpo a annoncé lundi la révision à la hausse de la prévision de croissance du Produit intérieur brut pour son pays, à 2,9% contre 2,7% auparavant, plus du double de la moyenne attendue pour la zone euro en fin d'année. <br /><br /><img src=\"https://images.bfmtv.com/Iuhc-0cpMtIbJZoRp3vkpsFutmk=/0x120:1280x840/800x0/images/Le-drapeau-de-l-Espagne-1893680.jpg\" />"
+      "title": "DIRECT. Budget 2026 : les députés veulent financer les transports en commun en Ile-de-France par une taxe sur les jets",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-apres-un-week-end-de-pause-reprennent-les-debats-sur-le-projet-de-loi-de-finances-a-l-assemblee-nationale_7620179.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que les débats ont repris à l'Assemblée nationale après un week-end de pause, les députés ont jusqu'à dimanche pour voter le budget."
     },
     {
       "title": "Budget 2026 : les retraites des plus aisés vont-elles finalement être gelées ?",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/budget-2026-les-retraites-des-plus-aises-vont-elles-finalement-etre-gelees_7622162.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "C'est l'un des sujets sensibles qui sera à nouveau débattu au Sénat à partir de mercredi 19 novembre. Faut-il geler les pensions de retraite des Français les plus aisés ? Qui pourrait être concerné ? Quel est le seuil à partir duquel ce gel pourrait s'appliquer ?"
-    },
-    {
-      "title": "DIRECT. Budget 2026 : le Premier ministre va de nouveau saisir le Conseil d'État sur plusieurs mesures",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-apres-un-week-end-de-pause-reprennent-les-debats-sur-le-projet-de-loi-de-finances-a-l-assemblee-nationale_7620179.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que les débats ont repris à l'Assemblée nationale après un week-end de pause, les députés ont jusqu'à dimanche pour voter le budget."
     },
     {
       "title": "REPORTAGE. \"Ça peut devenir un problème s’il ne règle pas ça\" : face à la hausse des prix aux États-Unis, Donald Trump perd des électeurs",
@@ -45,6 +50,11 @@
       "title": "Débats sur le budget, possible primaire à droite avant 2027, … le \"8h30 franceinfo\" de Michel Barnier",
       "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/debats-sur-le-budget-possible-primaire-a-droite-avant-2027-le-8h30-franceinfo-de-michel-barnier_7592159.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le député LR de Paris et ex-Premier ministre était l'invité du \"8h30 franceinfo\", lundi 17 novembre 2025."
+    },
+    {
+      "title": "L’info du jour | 17 novembre 2025 - Soir",
+      "url": "http://fr.euronews.com/video/2025/11/17/linfo-du-jour-17-novembre-2025-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 17 novembre 2025 - Mi-journée",
@@ -89,11 +99,6 @@
     {
       "title": "L’info du jour | 15 novembre 2025 - Soir",
       "url": "http://fr.euronews.com/video/2025/11/15/linfo-du-jour-15-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 novembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/11/15/linfo-du-jour-15-novembre-2025-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
