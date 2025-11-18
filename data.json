@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-18T05:39:30Z",
+  "updated_at": "2025-11-18T06:52:28Z",
   "articles": [
     {
       "title": "Au Canada, le Parlement adopte le budget soutenu par le premier ministre lors d’un vote de confiance",
@@ -17,6 +17,36 @@
       "summary": "Le gouvernement a tenté de rassurer, lundi, les chefs d’entreprise qui dénoncent une surenchère fiscale au moment où les difficultés s’accumulent pour l’industrie."
     },
     {
+      "title": "Le Premier ministre canadien Carney sauve sa place de justesse, le budget adopté à deux voix près",
+      "url": "https://www.bfmtv.com/economie/international/le-premier-ministre-canadien-carney-sauve-sa-place-de-justesse-le-budget-adopte-a-deux-voix-pres_AD-202511180212.html",
+      "summary": "Le Parlement canadien a adopté de justesse le budget du gouvernement, qui prévoit des hausses de dépenses dans les infrastructures. Le Premier ministre Carney peut ainsi se maintenir au pouvoir, alors que son pays fait face aux conséquences économiques des droits de douane de Donald Trump.<br /><br /><img src=\"https://images.bfmtv.com/MId4VLwnRuF_skQ_liE0BC7XMPA=/0x24:2048x1176/800x0/images/Mark-Carney-Canada-2092190.jpg\" />"
+    },
+    {
+      "title": "L’Edito de Raphaël Legendre : Déficit, la revanche des PIIGS - 18/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-deficit-la-revanche-des-piigs-18-11_EN-202511180160.html",
+      "summary": "Ce mardi 18 novembre, le remboursement par la Grèce à la France de plus d'un milliard d'euros avec deux ans d'avance, a été abordé par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
+    },
+    {
+      "title": "L’Edito de Raphaël Legendre : Déficit, la revanche des PIIGS - 18/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-deficit-la-revanche-des-piigs-18-11_VN-202511180162.html",
+      "summary": "Ce mardi 18 novembre, dans son édito, Raphaël Legendre a abordé le remboursement par la Grèce à la France de plus d'un milliard d'euros avec deux ans d'avance. Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/0nTRcRfJHiczbnOLvxIQEKsQOI8=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-Deficit-la-revanche-des-PIIGS-18-11-2182825.jpg\" />"
+    },
+    {
+      "title": "L’Edito de Raphaël Legendre : Déficit, la revanche des PIIGS - 18/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-deficit-la-revanche-des-piigs-18-11_EN-202511180157.html",
+      "summary": "Ce mardi 18 novembre, le remboursement par la Grèce à la France de plus d'un milliard d'euros avec deux ans d'avance, a été abordé par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
+    },
+    {
+      "title": "DIRECT. Budget 2026 : les députés entament une nouvelle journée de discussion budgétaire avec plus de mille amendements à examiner",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entament-une-nouvelle-journee-de-discussion-budgetaire-avec-plus-de-mille-amndements-a-encore-examiner_7622447.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'Assemblée nationale a jusqu'à dimanche minuit pour discuter du projet de loi de finances avant qu'il ne soit transmis au Sénat."
+    },
+    {
+      "title": "Le budget dédié à la culture a baissé de plus de 1% dans 13% des collectivités entre 2024 et 2025, selon une enquête de l'AMF",
+      "url": "https://www.franceinfo.fr/culture/le-budget-dedie-a-la-culture-a-baisse-de-plus-de-1-dans-13-des-collectivites-entre-2024-et-2025-selon-une-enquete-de-l-amf_7623752.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'Association des maires de France a sondé ses adhérents. Selon cette enquête, \"les difficultés financières constituent le principal frein\"."
+    },
+    {
       "title": "Entreprises : ces industriels qui croient en la France",
       "url": "https://www.franceinfo.fr/economie/entreprises/entreprises-ces-industriels-qui-croient-en-la-france_7622678.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "À l'occasion du sommet de Choose France, lundi 17 novembre, plus de 9 milliards d'euros d'investissements d'entreprises françaises ont été annoncés. De son côté, Roland Lescure, ministre de l'Économie, a tenu à rassurer les entreprises."
@@ -30,56 +60,6 @@
       "title": "Budget 2026 : les retraites des plus aisés vont-elles finalement être gelées ?",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/budget-2026-les-retraites-des-plus-aises-vont-elles-finalement-etre-gelees_7622162.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "C'est l'un des sujets sensibles qui sera à nouveau débattu au Sénat à partir de mercredi 19 novembre. Faut-il geler les pensions de retraite des Français les plus aisés ? Qui pourrait être concerné ? Quel est le seuil à partir duquel ce gel pourrait s'appliquer ?"
-    },
-    {
-      "title": "L’info du jour | 17 novembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/11/17/linfo-du-jour-17-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 novembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/11/17/linfo-du-jour-17-novembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Sud de l’Angleterre: des centaines de tonnes de déchets déversés, alerte «catastrophe écologique»",
-      "url": "http://fr.euronews.com/video/2025/11/17/sud-de-langleterre-des-centaines-de-tonnes-de-dechets-deverses-alerte-catastrophe-ecologiq",
-      "summary": "Une vaste décharge illégale près de Kidlington, dans l’Oxfordshire, inquiète : les autorités redoutent une catastrophe écologique et des coûts de nettoyage hors budget."
-    },
-    {
-      "title": "L’info du jour | 17 novembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/11/17/linfo-du-jour-17-novembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 novembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/11/16/linfo-du-jour-16-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Steinmeier et Mattarella célèbrent l'amitié germano-italienne",
-      "url": "http://fr.euronews.com/2025/11/16/steinmeier-et-mattarella-celebrent-lamitie-germano-italienne",
-      "summary": "Le président italien Sergio Mattarella et son homologue allemand Frank-Walter Steinmeier ont souligné la contribution des migrants italiens au développement de l'économie allemande après la Seconde guerre mondiale."
-    },
-    {
-      "title": "L’info du jour | 16 novembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/11/16/linfo-du-jour-16-novembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Législatives en Hongrie : Viktor Orbán et Péter Magyar s'affrontent par meetings interposés",
-      "url": "http://fr.euronews.com/2025/11/16/legislatives-en-hongrie-viktor-orban-et-peter-magyar-saffrontent-par-meetings-interposes",
-      "summary": "Le Premier ministre a mis en garde contre la menace d'une guerre généralisée, tandis que le chef de l'opposition a promis une baisse des impôts et une augmentation des retraites."
-    },
-    {
-      "title": "L’info du jour | 16 novembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/11/16/linfo-du-jour-16-novembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 novembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/11/15/linfo-du-jour-15-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Dans l’Aveyron, les radios associatives suspendues à un budget Lecornu qui menace leur survie",
