@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-19T03:33:38Z",
+  "updated_at": "2025-11-19T04:43:30Z",
   "articles": [
+    {
+      "title": "Budget 2026 : « L’histoire de l’impôt sur la fortune oscille depuis ses débuts entre vaudeville et révolution »",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/19/budget-2026-l-histoire-de-l-impot-sur-la-fortune-oscille-depuis-ses-debuts-entre-vaudeville-et-revolution_6653941_3232.html",
+      "summary": "Le conseiller honoraire au Sénat Nicolas-Jean Brehon retrace, dans une tribune au « Monde », les aléas et métamorphoses de cette contribution des plus riches, l’un des marqueurs de l’arrivée de la gauche au pouvoir en 1981 et l’une des revendications centrales des « gilets jaunes » en 2018."
+    },
     {
       "title": "Budget 2026 : « Pour faire face au déficit de l’assurance-maladie, une des pistes serait de favoriser la prévention »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/18/budget-2026-pour-faire-face-au-deficit-de-l-assurance-maladie-une-des-pistes-serait-de-favoriser-la-prevention_6653899_3232.html",
@@ -65,6 +70,11 @@
       "title": "Sud de l’Angleterre: des centaines de tonnes de déchets déversés, alerte «catastrophe écologique»",
       "url": "http://fr.euronews.com/video/2025/11/17/sud-de-langleterre-des-centaines-de-tonnes-de-dechets-deverses-alerte-catastrophe-ecologiq",
       "summary": "Une vaste décharge illégale près de Kidlington, dans l’Oxfordshire, inquiète : les autorités redoutent une catastrophe écologique et des coûts de nettoyage hors budget."
+    },
+    {
+      "title": "Défense : le budget augmente, les défis stratégiques aussi",
+      "url": "https://www.alternatives-economiques.fr/defense-budget-augmente-defis-strategiques/00116944",
+      "summary": "<p>[Réarmement, à quel prix ? 1/4] Mutations de la guerre, reste à charge de près de 100 milliards d’euros… la croissance substantielle de l’enveloppe dédiée aux Armées permettra-t-elle de répondre à tous les défis ?</p>"
     },
     {
       "title": "La Sécu peut-elle revenir à l'équilibre ?",
