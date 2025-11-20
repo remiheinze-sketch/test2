@@ -1,10 +1,20 @@
 {
-  "updated_at": "2025-11-20T13:38:03Z",
+  "updated_at": "2025-11-20T14:39:39Z",
   "articles": [
+    {
+      "title": "Budget 2026 : « C’est parce que le contexte budgétaire est difficile qu’il faut miser sur la recherche »",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/20/budget-2026-c-est-parce-que-le-contexte-budgetaire-est-difficile-qu-il-faut-miser-sur-la-recherche_6654167_3232.html",
+      "summary": "Alors que le projet de loi de finances en débat au Parlement prévoit une baisse du budget de la recherche publique, un collectif de responsables du Collège des sociétés savantes académiques de France alerte, dans une tribune au « Monde », sur les risques de ce désinvestissement, insistant sur le caractère indispensable d’une recherche indépendante."
+    },
     {
       "title": "L’incroyable succès des vacances en croisière",
       "url": "https://www.lemonde.fr/podcasts/article/2025/11/20/l-incroyable-succes-des-vacances-en-croisiere_6654082_5463015.html",
       "summary": "Ces voyages sur bateau se sont largement démocratisés, au point de connaître la plus forte croissance du secteur du tourisme depuis dix ans. Mais comment ce type de séjour, au départ réservé à une petite élite, est-il devenu si populaire ? Réponse en podcast avec Jessica Gourdon, journaliste au « Monde »."
+    },
+    {
+      "title": "Menacé par une hausse de taxes de 15 millions d'euros en 2026, l'exploitant du tunnel sous la Manche suspend des investissements équivalents au Royaume-Uni",
+      "url": "https://www.bfmtv.com/economie/entreprises/menace-par-une-hausse-de-taxes-de-15-millions-d-euros-en-2026-l-exploitant-du-tunnel-sous-la-manche-suspend-des-investissements-equivalents-au-royaume-uni_AD-202511200627.html",
+      "summary": "Le différend porte sur les \"business rates\", une taxe foncière payée par les entreprises aux autorités locales au Royaume-Uni.<br /><br /><img src=\"https://images.bfmtv.com/QGsyfHtj5SgF8VJgeDRSoYZLQLQ=/0x41:800x491/800x0/images/-472288.jpg\" />"
     },
     {
       "title": "Naviguer au milieu de la foire fiscale",
@@ -24,7 +34,7 @@
     {
       "title": "On vous résume où en sont les débats sur le budget de l'Etat et celui de la Sécurité sociale",
       "url": "https://www.franceinfo.fr/economie/budget/plf-ou-plfss-a-l-assemblee-ou-au-senat-voici-ou-on-sont-les-debats-sur-le-budget-2026_7607465.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les députés n'ont pas pu terminer mercredi l'examen du projet de loi de financement de la Sécurité sociale (PLFSS). Ils ont repris jeudi celui du projet de loi de finances (PLF), au cœur d'un automne parlementaire accaparé par les discussions budgétaires."
+      "summary": "Les députés examinent jusqu'à dimanche le projet de loi de finances (PLF). Les sénateurs ont démarré mercredi l'examen du projet de loi de financement de la Sécurité sociale (PLFSS), au cœur d'un automne parlementaire accaparé par les discussions budgétaires."
     },
     {
       "title": "Budget 2026 : les députés approuvent la mise en place d'une taxe de deux euros pour les \"petits colis\"",
