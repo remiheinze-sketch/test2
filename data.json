@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-20T03:32:23Z",
+  "updated_at": "2025-11-20T04:40:25Z",
   "articles": [
+    {
+      "title": "L’incroyable succès des vacances en croisière",
+      "url": "https://www.lemonde.fr/podcasts/article/2025/11/20/l-incroyable-succes-des-vacances-en-croisiere_6654082_5463015.html",
+      "summary": "Ces voyages sur bateau se sont largement démocratisés, au point de connaître la plus forte croissance du secteur du tourisme depuis dix ans. Mais comment ce type de séjour, au départ réservé à une petite élite, est-il devenu si populaire ? Réponse en podcast avec Jessica Gourdon, journaliste au « Monde »."
+    },
     {
       "title": "Budget de la Sécurité sociale 2026 : « Aujourd’hui, 190 000 auteurs retraités sont bloqués dans des parcours administratifs sans issue »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/19/budget-de-la-securite-sociale-2026-aujourd-hui-190-000-auteurs-retraites-sont-bloques-dans-des-parcours-administratifs-sans-issue_6654021_3232.html",
@@ -80,11 +85,6 @@
       "title": "La Sécu peut-elle revenir à l'équilibre ?",
       "url": "https://www.alternatives-economiques.fr/secu-revenir-a-lequilibre/00116949",
       "summary": "<p>A ce stade des débats sur le budget de la Sécu, le déficit des comptes sociaux se creuserait encore en 2026. Il est pourtant possible de revenir sur la bonne trajectoire, à condition d’être au clair sur les arbitrages.</p>"
-    },
-    {
-      "title": "Dans l’Aveyron, les radios associatives suspendues à un budget Lecornu qui menace leur survie",
-      "url": "https://www.alternatives-economiques.fr/laveyron-radios-associatives-suspendues-a-un-budget-lecornu-me/00116922",
-      "summary": "<p>Le projet de loi de finances 2026 prévoit une diminution de près de moitié du Fonds de soutien à l’expression radiophonique, dispositif essentiel à la survie des radios locales. Un coup dur porté à ces voix déjà fragiles.</p>"
     }
   ]
 }
