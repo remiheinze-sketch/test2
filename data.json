@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-21T03:32:31Z",
+  "updated_at": "2025-11-21T04:42:07Z",
   "articles": [
     {
       "title": "Aux Etats-Unis, les chiffres de l’emploi donnent une photo floue de l’économie",
@@ -10,11 +10,6 @@
       "title": "Budget 2026 : « C’est parce que le contexte budgétaire est difficile qu’il faut miser sur la recherche »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/20/budget-2026-c-est-parce-que-le-contexte-budgetaire-est-difficile-qu-il-faut-miser-sur-la-recherche_6654167_3232.html",
       "summary": "Alors que le projet de loi de finances en débat au Parlement prévoit une baisse du budget de la recherche publique, un collectif de responsables du Collège des sociétés savantes académiques de France alerte, dans une tribune au « Monde », sur les risques de ce désinvestissement, insistant sur le caractère indispensable d’une recherche indépendante."
-    },
-    {
-      "title": "L’incroyable succès des vacances en croisière",
-      "url": "https://www.lemonde.fr/podcasts/article/2025/11/20/l-incroyable-succes-des-vacances-en-croisiere_6654082_5463015.html",
-      "summary": "Ces voyages sur bateau se sont largement démocratisés, au point de connaître la plus forte croissance du secteur du tourisme depuis dix ans. Mais comment ce type de séjour, au départ réservé à une petite élite, est-il devenu si populaire ? Réponse en podcast avec Jessica Gourdon, journaliste au « Monde »."
     },
     {
       "title": "Taxe sur les mutuelles, gel du barème de CSG: le Sénat rétablit plusieurs mesures du budget de la Sécu que les députés avaient rejetées",
@@ -67,6 +62,11 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "A Bourges, le boom de la défense irrigue le tissu économique local",
+      "url": "https://www.alternatives-economiques.fr/a-bourges-boom-de-defense-irrigue-tissu-economique-local/00116960",
+      "summary": "<p>[Réarmement, à quel prix ? 3/4] Tirées par la croissance des deux industriels de l’armement MBDA et KNDS, les entreprises du Berry grossissent et recrutent massivement, remodelant au passage les priorités du territoire.</p>"
+    },
+    {
       "title": "Les certificats d’économie d’énergie peuvent-ils financer efficacement la transition ?",
       "url": "https://www.alternatives-economiques.fr/certificats-deconomie-denergie-peuvent-financer-efficacement/00116956",
       "summary": "<p>L’Etat s’appuie de plus en plus sur le mécanisme des certificats d’économie d’énergie (CEE) pour financer la transition. Le nouveau cadre de ce dispositif fixé par décret début novembre ne supprime pas ses gros défauts.</p>"
@@ -75,11 +75,6 @@
       "title": "Défense : le budget augmente, les défis stratégiques aussi",
       "url": "https://www.alternatives-economiques.fr/defense-budget-augmente-defis-strategiques/00116944",
       "summary": "<p>[Réarmement, à quel prix ? 1/4] Mutations de la guerre, reste à charge de près de 100 milliards d’euros… la croissance substantielle de l’enveloppe dédiée aux Armées permettra-t-elle de faire face à tous les enjeux ?</p>"
-    },
-    {
-      "title": "La Sécu peut-elle revenir à l'équilibre ?",
-      "url": "https://www.alternatives-economiques.fr/secu-revenir-a-lequilibre/00116949",
-      "summary": "<p>A ce stade des débats sur le budget de la Sécu, le déficit des comptes sociaux se creuserait encore en 2026. Il est pourtant possible de revenir sur la bonne trajectoire, à condition d’être au clair sur les arbitrages.</p>"
     }
   ]
 }
