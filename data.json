@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-21T13:23:05Z",
+  "updated_at": "2025-11-21T14:39:28Z",
   "articles": [
     {
       "title": "Comment la jeunesse fait les frais du projet de budget 2026",
@@ -7,9 +7,9 @@
       "summary": "Service civique, « colos apprenantes », Pass culture et Pass’Sport, aides au logement et à l’insertion professionnelle, bourses étudiantes, majoration des allocations familiales… De nombreuses mesures favorables aux 3-30 ans ont été revues à la baisse, voire supprimées, principalement dans le projet de loi de finances."
     },
     {
-      "title": "La Croix-Rouge réduit de 17 % son budget, 2 900 postes vont être supprimés",
+      "title": "La Croix-Rouge internationale réduit de 17 % son budget, 2 900 postes vont être supprimés",
       "url": "https://www.lemonde.fr/economie/article/2025/11/21/la-croix-rouge-reduit-de-17-son-budget-2-900-postes-vont-etre-supprimes_6654305_3234.html",
-      "summary": "Ces coupes budgétaires sont une réponse à la baisse des contributions des donateurs. « Ne pas le faire risquerait d’entraîner encore plus de souffrances dans le monde », a déclaré la présidente du Comité international de la Croix-Rouge, Mirjana Spoljaric."
+      "summary": "Ces coupes budgétaires sont une réponse à la baisse de l’aide internationale. « Ne pas le faire risquerait d’entraîner encore plus de souffrances dans le monde », a déclaré la présidente du Comité international de la Croix-Rouge, Mirjana Spoljaric."
     },
     {
       "title": "Pascal Canfin, eurodéputé : « Si notre industrie automobile souffre, ce n’est pas à cause de l’interdiction des voitures neuves à moteur thermique à l’horizon 2035 »",
@@ -32,24 +32,24 @@
       "summary": "Alors que le projet de loi de finances en débat au Parlement prévoit une baisse du budget de la recherche publique, un collectif de responsables du Collège des sociétés savantes académiques de France alerte, dans une tribune au « Monde », sur les risques de ce désinvestissement, insistant sur le caractère indispensable d’une recherche indépendante."
     },
     {
+      "title": "\"1,2 milliard de recettes sur le dos des jeunes\": les sénateurs rétablissent la fin de l'exonération de cotisations salariales pour les apprentis que les députés avaient supprimée",
+      "url": "https://www.bfmtv.com/economie/emploi/1-2-milliard-de-recettes-sur-le-dos-des-jeunes-les-senateurs-retablissent-la-fin-de-l-exoneration-de-cotisations-salariales-pour-les-apprentis-que-les-deputes-avaient-supprimee_AD-202511210675.html",
+      "summary": "Début novembre, l'Assemblée nationale s'était largement opposée à cette mesure mais le Sénat a donc choisi de la rétablir lors de son examen du budget.<br /><br /><img src=\"https://images.bfmtv.com/CrdTH7EPR5bYulfERxzfwU_S7ac=/0x40:768x472/800x0/images/Des-apprentis-travaillent-sur-la-maquette-d-un-orgue-au-Centre-de-formation-de-la-facture-d-orgue-a-Eschau-dans-l-est-de-la-France-le-5-septembre-2023-1712643.jpg\" />"
+    },
+    {
+      "title": "\"Structurellement déficitaires\" à cause des loyers et des coûts, Leroy Merlin va fermer deux de ses grandes surfaces à Paris",
+      "url": "https://www.bfmtv.com/economie/entreprises/structurellement-deficitaires-a-cause-des-loyers-et-des-couts-leroy-merlin-va-fermer-deux-de-ses-grandes-surfaces-a-paris_AD-202511210654.html",
+      "summary": "Il s'agit des magasins de Daumesnil (dans le XIIe arrondissement) et de Rosa-Parks (XIXe arrondissement). Les 280 employés pourront être redéployés dans d'autres surfaces.<br /><br /><img src=\"https://images.bfmtv.com/YoTqCOzqUDvIU5wAv7igWw3W-6c=/0x40:768x472/800x0/images/Leroy-Merlin-a-recemment-reduit-ses-effectifs-dans-ses-fonctions-centrales-1987887.jpg\" />"
+    },
+    {
       "title": "2 fois plus massif que le Charles de Gaulle, 50 mètres plus long et surtout une facture de 10 milliards d'euros... La France a-t-elle vraiment besoin d'un nouveau porte-avions? (Le chef d'état-major se questionne)",
       "url": "https://www.bfmtv.com/economie/entreprises/defense/2-fois-plus-massif-que-le-charles-de-gaulle-50-metres-plus-long-et-surtout-une-facture-de-10-milliards-d-euros-la-france-a-t-elle-vraiment-besoin-d-un-nouveau-porte-avions-le-chef-d-etat-major-se-questionne_AD-202511210517.html",
       "summary": "Le réarmement du pays face à la menace russe fait craindre une orientation du budget militaire vers d'autres priorités que le nouveau porte-avion dont l'entrée en service doit pourtant avoir lieu en 2038 pour remplacer le Charles de Gaulle. <br /><br /><img src=\"https://images.bfmtv.com/pRruXbaNTAltSdIa5KuCyNnFBjs=/0x11:2032x1154/800x0/images/Le-porte-avions-de-nouvelle-generation-PANG-dont-les-tests-essais-ont-demarre-prendra-la-releve-du-Charles-de-Gaulle-en-2038-1144564.jpg\" />"
     },
     {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 21 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-21-novembre_EN-202511210516.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 21 novembre",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-21-novembre_VN-202511210526.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/prVngRA2cQQkM_dHOCO37oqfVk4=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-21-novembre-2186959.jpg\" />"
-    },
-    {
-      "title": "DIRECT. Budget 2026 : les députés entrent dans la dernière ligne droite de la discussion du budget à l'Assemblée nationale",
+      "title": "DIRECT. Budget 2026 : dernière ligne droite à l'Assemblée nationale, il reste quelque 400 amendements à examiner",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entre-dans-la-derniere-ligne-droite-de-la-discussion-du-budget-a-l-assemblee-nationale_7629122.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les sénateurs examinent le budget de la Sécurité sociale et ont rétabli le gel du barème de la CSG, notamment pour les retraités."
+      "summary": "De leur côté, les sénateurs se penchent sur le budget de la Sécurité sociale et ont rétabli le gel du barème de la CSG, notamment pour les retraités."
     },
     {
       "title": "Menace militaire russe, loi spéciale pour faire adopter le budget, ... Les informés du matin du vendredi 21 novembre 2025",
@@ -85,11 +85,6 @@
       "title": "Budget 2026 : les députés votent pour supprimer la TVA sur les produits de première nécessité et le blocage des prix",
       "url": "https://www.franceinfo.fr/economie/budget/les-deputes-votent-pour-supprimer-la-tva-sur-les-produits-de-premiere-necessite-et-le-blocage-des-prix_7629296.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Cette mesure était portée par LFI. Lors du vote, qui a été serré, le camp gouvernemental s'y est opposé et le RN s'est abstenu."
-    },
-    {
-      "title": "Décorations de Noël : ces communes qui font des économies en misant sur la récup' et le fait maison",
-      "url": "https://www.franceinfo.fr/decouverte/noel/decorations-de-noel-ces-communes-qui-font-des-economies-en-misant-sur-la-recup-et-le-fait-maison_7629320.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Entre le prix du matériel et de la facture d’électricité, les illuminations coûtent de plus en plus cher aux communes. Certaines mairies ont décidé de s'en passer, sans renoncer pour autant à la magie de Noël : ce sont désormais les habitants eux-mêmes qui fabriquent les décorations."
     },
     {
       "title": "L’info du jour | 21 novembre 2025 - Mi-journée",
