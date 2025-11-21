@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-21T20:38:27Z",
+  "updated_at": "2025-11-21T21:30:18Z",
   "articles": [
     {
       "title": "Leroy Merlin va fermer deux magasins à Paris, « structurellement déficitaires, pour miser sur des boutiques spécialisées »",
@@ -30,6 +30,11 @@
       "title": "Les fonds solidaires font-ils gagner de l’argent ?",
       "url": "https://www.lemonde.fr/argent/article/2025/11/21/les-fonds-solidaires-font-ils-gagner-de-l-argent_6654243_1657007.html",
       "summary": "Le contexte est moins favorable aux produits financiers qui consacrent une partie de leurs investissements à l’économie solidaire."
+    },
+    {
+      "title": "Le top / flop de la semaine : les résultats très positifs de Nvidia – 21/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-top-flop-de-la-semaine-les-resultats-tres-positifs-de-nvidia-21-11_EN-202511210948.html",
+      "summary": "Vendredi 21 novembre, le bénéfice net de Nvidia qui s'élevé à 32 milliards de dollars lors du troisième trimestre a été abordé par Ana Boata, directrice de la recherche macroéconomique d'Allianz Trade, Denis Ferrand, directeur général de Rexecode, Sophie Chauvellier, gérante recherche économie et allocation d'actifs chez Dorval AM, et Léa Dunand-Chatellet, responsable de l'investissement responsable chez DNCA Finance, reçu par Marc Fiorentino dans l'émission C'est Votre Argent sur BFM Business. Retrouvez l'émission le vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/MarcWEtbjm46v6Llqwim3QMBSvQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-98_1.jpg\" />"
     },
     {
       "title": "La question macro de la semaine : L'IA est-elle devenue systémique ? – 21/11",
@@ -67,11 +72,6 @@
       "summary": "Un amendement LR avait été précédemment approuvé par 97 voix contre 94, faisant passer le \"droit de timbre\" dû pour la délivrance ou le renouvellement d'un titre de séjour à 400 euros, contre 200 actuellement.<br /><br /><img src=\"https://images.bfmtv.com/C0wCJdm9QaDNpAy7lpUMvx4977o=/0x40:768x472/800x0/images/Des-deputes-participent-a-une-session-consacree-au-budget-de-la-securite-sociale-francaise-PLFSS-pour-2026-a-l-Assemblee-nationale-a-Paris-le-5-novembre-2025-2176040.jpg\" />"
     },
     {
-      "title": "Impôts sur la fortune improductive : les impacts – 21/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/impots-sur-la-fortune-improductive-les-impacts-21-11_EN-202511210741.html",
-      "summary": "Ce vendredi 21 novembre, Bertrand Tourmente, gérant fondateur d'Althos Patrimoine, explique les impacts de l’impôt sur la fortune improductive, ainsi que la stratégie à adopter dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
-    },
-    {
       "title": "DIRECT. Budget 2026 : les débats à l'Assemblée nationale devraient se poursuivre au-delà de minuit",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entre-dans-la-derniere-ligne-droite-de-la-discussion-du-budget-a-l-assemblee-nationale_7629122.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Afin de parvenir à un vote dans les temps, la grande majorité des députés souhaitent jouer les prolongations vendredi soir, selon le président de la commission des finances, Eric Coquerel."
@@ -90,16 +90,6 @@
       "title": "VIDEO. L'Evénement. Aides sociales : le débat entre Laurent Wauquiez (Droite républicaine) et Thomas Porcher, membre des Economistes atterrés",
       "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement/video-l-evenement-aides-sociales-le-debat-entre-laurent-wauquiez-droite-republicaine-et-thomas-porcher-membre-des-economistes-atterres_7629359.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Comment financer les retraites, le système de santé et les aides sociales, à l'heure des discussions sur le budget ? Notre modèle social est-il trop généreux ? Dans \"L'Evénement\" du jeudi 20 novembre 2025, le débat entre Laurent Wauquiez, président du groupe Droite républicaine à l'Assemblée nationale, et Thomas Porcher, membre des Economistes atterrés."
-    },
-    {
-      "title": "VIDEO. L'Evénement. Retraites : le débat entre Gabriel Attal (Renaissance) et Sandrine Rousseau (EELV)",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement/video-l-evenement-retraites-le-debat-entre-gabriel-attal-renaissance-et-sandrine-rousseau-eelv_7629323.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comment financer les retraites, le système de santé et les aides sociales, à l'heure des discussions sur le budget ? Dans \"L'Evénement\" du jeudi 20 novembre 2025, Gabriel Attal, ancien Premier ministre et président du groupe EPR à l'Assemblée nationale, débattait avec Sandrine Rousseau, députée EELV de Paris."
-    },
-    {
-      "title": "VIDEO. Vote du budget, système de retraite... Gabriel Attal (Renaissance) répond aux questions de Caroline Roux dans \"L'Evénement\"",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement-l-interview/video-vote-du-budget-systeme-de-retraite-gabriel-attal-renaissance-repond-aux-questions-de-caroline-roux-dans-l-evenement_7629314.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comment financer les retraites, le système de santé et les aides sociales, à l'heure des discussions sur le budget ? Dans \"L'Evénement\" du jeudi 20 novembre 2025, Gabriel Attal, ancien Premier ministre et président du groupe EPR à l'Assemblée nationale, était interviewé par Caroline Roux."
     },
     {
       "title": "L’info du jour | 21 novembre 2025 - Soir",
