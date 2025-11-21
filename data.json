@@ -1,6 +1,16 @@
 {
-  "updated_at": "2025-11-21T17:33:47Z",
+  "updated_at": "2025-11-21T18:46:21Z",
   "articles": [
+    {
+      "title": "Leroy Merlin va fermer deux magasins à Paris, « structurellement déficitaires, pour miser sur des boutiques spécialisées »",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/21/leroy-merlin-va-fermer-deux-magasins-a-paris-structurellement-deficitaires-pour-miser-sur-des-boutiques-specialisees_6654362_3234.html",
+      "summary": "Les 280 employés des magasins concernés recevront une proposition de poste dans l’un des autres magasins de la région, selon l’enseigne."
+    },
+    {
+      "title": "Brésil : l’administration Trump renonce à augmenter les droits de douane pour les principales exportations",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/21/bresil-trump-renonce-a-ses-principales-surtaxes_6654354_3234.html",
+      "summary": "Ces surtaxes de 40 % concernaient près de 200 produits agricoles brésiliens, tels que le café en grains, le bœuf, le cacao. C’est une victoire pour le président brésilien Lula, même si la peur de l’inflation aux Etats-Unis a pesé lourd dans le choix de Washington."
+    },
     {
       "title": "Budget 2026 : de nombreuses mesures pour la jeunesse revues à la baisse, ou même supprimées, du projet",
       "url": "https://www.lemonde.fr/societe/article/2025/11/21/comment-la-jeunesse-fait-les-frais-du-projet-de-budget-2026_6654309_3224.html",
@@ -27,9 +37,14 @@
       "summary": "En septembre, 119 000 emplois ont été créés, un chiffre meilleur que prévu. Le chômage a, quant à lui, progressé. Mais l’absence de publication en octobre, en raison de la paralysie de l’administration, ne permet pas d’avoir une vision récente de l’état de l’économie."
     },
     {
-      "title": "Budget 2026 : « C’est parce que le contexte budgétaire est difficile qu’il faut miser sur la recherche »",
-      "url": "https://www.lemonde.fr/idees/article/2025/11/20/budget-2026-c-est-parce-que-le-contexte-budgetaire-est-difficile-qu-il-faut-miser-sur-la-recherche_6654167_3232.html",
-      "summary": "Alors que le projet de loi de finances en débat au Parlement prévoit une baisse du budget de la recherche publique, un collectif de responsables du Collège des sociétés savantes académiques de France alerte, dans une tribune au « Monde », sur les risques de ce désinvestissement, insistant sur le caractère indispensable d’une recherche indépendante."
+      "title": "Les experts sans frontières – Vendredi 21 novembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-21-novembre_EN-202511210863.html",
+      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/M65hsM-k6LkGQ2eSrf8NEmo7scw=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_2.jpg\" />"
+    },
+    {
+      "title": "Les experts sans frontières - Vendredi 21 novembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-21-novembre_VN-202511210870.html",
+      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/p81r5d277iW2XPgmtrmnesFXYMY=/0x0:1280x720/800x0/images/Les-experts-sans-frontieres-Vendredi-21-novembre-2187249.jpg\" />"
     },
     {
       "title": "En plus du rapport sur l'emploi, l'indice des prix américains à la consommation d'octobre ne sera également jamais publié à cause du shutdown",
@@ -67,9 +82,9 @@
       "summary": "Ce vendredi 21 novembre, Michel Ruimy, partner de Levy Capital Partners, a abordé la baisse des taux de la Fed toujours possible pour le mois de décembre selon les prévisions de la Fedwatch, ainsi que la stabilisation du secteur privé dans la zone Euro avec une prévision de croissance à 1,3 % cette année, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/EIHvIdbnWS6tl5cdtfPGFXy4x1Q=/0x0:1280x720/800x0/images/L-eco-du-monde-Fed-une-baisse-de-taux-toujours-possible-21-11-2187140.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget 2026 : les députés rejettent la hausse des taxes sur les titres de séjour",
+      "title": "DIRECT. Budget 2026 : les débats à l'Assemblée nationale devraient se poursuivre au-delà de minuit",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-entre-dans-la-derniere-ligne-droite-de-la-discussion-du-budget-a-l-assemblee-nationale_7629122.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cet article du projet de loi de finances proposait une hausse des \"droits de timbres\" dus pour la délivrance de divers documents pour les étrangers."
+      "summary": "Afin de parvenir à un vote dans les temps, la grande majorité des députés souhaitent jouer les prolongations vendredi soir, selon le président de la commission des finances, Eric Coquerel."
     },
     {
       "title": "Menace militaire russe, loi spéciale pour faire adopter le budget, ... Les informés du matin du vendredi 21 novembre 2025",
