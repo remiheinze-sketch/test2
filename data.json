@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-22T03:15:15Z",
+  "updated_at": "2025-11-22T04:39:10Z",
   "articles": [
+    {
+      "title": "Patrick Artus : « La croissance de long terme de la France deviendra nulle sans transformation du système éducatif »",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/22/patrick-artus-la-croissance-de-long-terme-de-la-france-deviendra-nulle-sans-transformation-du-systeme-educatif_6654380_3232.html",
+      "summary": "Productivité affaiblie, tensions commerciales, endettement public non maîtrisé… Les raisons d’être pessimiste pour l’économie française s’accumulent, explique, dans sa chronique au « Monde », l’économiste, qui appelle à une prise de conscience collective."
+    },
     {
       "title": "Leroy Merlin va fermer deux magasins à Paris, « structurellement déficitaires, pour miser sur des boutiques spécialisées »",
       "url": "https://www.lemonde.fr/economie/article/2025/11/21/leroy-merlin-va-fermer-deux-magasins-a-paris-structurellement-deficitaires-pour-miser-sur-des-boutiques-specialisees_6654362_3234.html",
@@ -130,11 +135,6 @@
       "title": "A Bourges, le boom de la défense irrigue le tissu économique local",
       "url": "https://www.alternatives-economiques.fr/a-bourges-boom-de-defense-irrigue-tissu-economique-local/00116960",
       "summary": "<p>[Réarmement, à quel prix ? 3/4] Tirées par la croissance des deux industriels de l’armement MBDA et KNDS, les entreprises du Berry grossissent et recrutent massivement, remodelant au passage les priorités du territoire.</p>"
-    },
-    {
-      "title": "Les certificats d’économie d’énergie peuvent-ils financer efficacement la transition ?",
-      "url": "https://www.alternatives-economiques.fr/certificats-deconomie-denergie-peuvent-financer-efficacement/00116956",
-      "summary": "<p>L’Etat s’appuie de plus en plus sur le mécanisme des certificats d’économie d’énergie (CEE) pour financer la transition. Le nouveau cadre de ce dispositif fixé par décret début novembre ne supprime pas ses gros défauts.</p>"
     }
   ]
 }
