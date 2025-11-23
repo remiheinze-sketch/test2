@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-23T11:25:36Z",
+  "updated_at": "2025-11-23T13:03:46Z",
   "articles": [
+    {
+      "title": "Grève monstre en vue en Belgique pour s’opposer à la cure d’austérité voulue par le gouvernement",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/23/greve-monstre-en-vue-en-belgique-pour-s-opposer-a-la-cure-d-austerite-voulue-par-le-gouvernement_6654542_3234.html",
+      "summary": "Dimanche soir, le royaume devrait entrer dans un conflit social d’une ampleur inédite depuis les années 1980. On s’attend à une paralysie des services publics, mais aussi à des blocages dans le privé, syndicats et partis de gauche s’opposant farouchement au budget établi par le premier ministre Bart De Wever."
+    },
     {
       "title": "Au Royaume-Uni, la désespérante réalité de la pauvreté infantile",
       "url": "https://www.lemonde.fr/economie/article/2025/11/23/au-royaume-uni-la-desesperante-realite-de-la-pauvrete-infantile_6654501_3234.html",
@@ -10,6 +15,11 @@
       "title": "Patrick Artus : « La croissance de long terme de la France deviendra nulle sans transformation du système éducatif »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/22/patrick-artus-la-croissance-de-long-terme-de-la-france-deviendra-nulle-sans-transformation-du-systeme-educatif_6654380_3232.html",
       "summary": "Productivité affaiblie, tensions commerciales, endettement public non maîtrisé… Les raisons d’être pessimiste pour l’économie française s’accumulent, explique, dans sa chronique au « Monde », l’économiste, qui appelle à une prise de conscience collective."
+    },
+    {
+      "title": "Croissance molle, inflation à 3,6%, déficit autour de 5%... Le gouvernement britannique accuse le Brexit d'être la cause des grandes difficultés du Royaume-Uni",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/croissance-molle-inflation-a-3-6-deficit-autour-5-le-gouvernement-britannique-accuse-le-brexit-d-etre-la-cause-des-grandes-difficultes-du-royaume-uni_AD-202511230221.html",
+      "summary": "Alors qu'ils s'apprêtent à présenter un budget prévoyant d'impopulaires hausses d'impôts, Keir Starmer et le gouvernement travailliste ont changé de ton ces dernières semaines, pointant de plus en plus les effets \"sévères et durables du Brexit\". <br /><br /><img src=\"https://images.bfmtv.com/axf_cko7uhlsoklqyV12FaxbscQ=/0x107:2048x1259/800x0/images/Le-Premier-ministre-britannique-Keir-Starmer-a-Turnberry-en-Ecosse-le-29-juillet-2025-2117084.jpg\" />"
     },
     {
       "title": "\"C'est négatif pour les salariés qui font des heures supplémentaires\": le gouvernement n'est pas favorable aux 12 heures de travail supplémentaires votées par le Sénat",
@@ -47,6 +57,16 @@
       "summary": "La présidente de la Banque centrale européenne incite les pays membres de la zone euro à réorienter les dépenses publiques vers l'éducation, la recherche et l'investissement productif. À défaut, l'Europe risque de s'enfermer dans une spirale de \"stagnation budgétaire\". <br /><br /><img src=\"https://images.bfmtv.com/eTfoJJgO_8605Ls1z-8y2sYrwEE=/0x8:2048x1160/800x0/images/Christine-Lagarde-2092674.jpg\" />"
     },
     {
+      "title": "Budget 2026 : la loi spéciale est un \"parachute de dernier ressort\", selon Amélie de Montchalin qui veut croire \"un compromis possible\"",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-la-loi-speciale-est-un-parachute-de-dernier-ressort-selon-amelie-de-montchalin-qui-veut-croire-un-compromis-possible_7634885.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Il n'y a pas d'alternatives pour trouver un budget à un compromis parlementaire et à un vote\", a soutenu la ministre dimanche dans une émission LCI/Le Parisien."
+    },
+    {
+      "title": "Illisible, éreintant, parfois inutile… L'examen du budget au Parlement doit-il être réformé ?",
+      "url": "https://www.franceinfo.fr/economie/budget/illisible-ereintant-parfois-inutile-l-examen-du-budget-au-parlement-doit-il-etre-reforme_7628891.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les critiques de parlementaires épuisés se multiplient sur l'organisation des débats budgétaires cet automne. Sans que des solutions ne fassent pour l'heure l'unanimité pour revoir le système actuel."
+    },
+    {
       "title": "Ukraine, budget... Les informés du matin de franceinfo du dimanche 23 novembre 2025",
       "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-de-franceinfo-du-dimanche-23-novembre-2025_7611899.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Tous les jours, les informés débattent de l'actualité avec nos invités"
@@ -60,11 +80,6 @@
       "title": "Après le rejet du texte, quelles options restent-ils pour doter la France d'un budget ?",
       "url": "https://www.franceinfo.fr/economie/budget/apres-le-rejet-du-texte-quelles-options-restent-ils-pour-doter-la-france-d-un-budget_7634618.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La partie recettes du budget 2026 a été rejetée en bloc, après 125 heures de débat. Tout le texte initial du gouvernement est donc envoyé au Sénat, qui s'en saisira la semaine prochaine. Mais désormais, quelles solutions sont encore possibles ? Éléments de réponse"
-    },
-    {
-      "title": "Illisible, éreintant, parfois inutile… L'examen du budget au Parlement doit-il être réformé ?",
-      "url": "https://www.franceinfo.fr/economie/budget/illisible-ereintant-parfois-inutile-l-examen-du-budget-au-parlement-doit-il-etre-reforme_7628891.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les critiques de parlementaires épuisés se multiplient sur l'organisation des débats budgétaires cet automne. Sans que des solutions ne fassent pour l'heure l'unanimité pour revoir le système actuel."
     },
     {
       "title": "Budget 2026 : face au risque d'une Sécu exsangue, le Sénat vote un transfert de 15 milliards de dette",
@@ -90,11 +105,6 @@
       "title": "Budget 2026 : que va-t-il se passer après le rejet de la partie \"recettes\" du projet de loi de finances par les députés ?",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-que-va-t-il-se-passer-apres-le-rejet-de-la-partie-recettes-du-projet-de-loi-de-finances-par-les-deputes_7631201.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les députés ont stoppé net l'examen du texte à l'Assemblée nationale. Il a été transmis dans sa version initiale au Sénat."
-    },
-    {
-      "title": "Budget 2026 : \"On ne doit pas utiliser les Français qui travaillent pour régler nos problèmes de finances publiques\", affirme la députée Renaissance de Paris, Astrid Panosyan-Bouvet, après le rejet quasi-unanime du texte par l’Assemblée nationale.",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2026-on-ne-doit-pas-utiliser-les-francais-qui-travaillent-pour-regler-nos-problemes-de-finances-publiques-affirme-la-deputee-renaissance-de-paris-astrid-panosyan-bouvet-apres-le-rejet-quasi-unanime-du-texte-par-l-assemblee-nationale_7632878.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Invitée politique de \"La Matinale\" samedi 22 novembre, Astrid Panosyan-Bouvet, ancienne ministre du Travail, explique pourquoi elle a rejeté, comme 403 autres députés, la partie recettes du budget 2026. Elle évoque également la suspension de la réforme des retraites contre laquelle elle a voté, appelant à une réforme plus flexible."
     },
     {
       "title": "L’info du jour | 23 novembre 2025 - Mi-journée",
