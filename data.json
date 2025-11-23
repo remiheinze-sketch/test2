@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-23T04:53:33Z",
+  "updated_at": "2025-11-23T05:36:44Z",
   "articles": [
+    {
+      "title": "Au Royaume-Uni, la désespérante réalité de la pauvreté infantile",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/23/au-royaume-uni-la-desesperante-realite-de-la-pauvrete-infantile_6654501_3234.html",
+      "summary": "Un tiers des enfants britanniques vivent sous le seuil de pauvreté dans des familles devenues tributaires de la charité publique. En cause : l’inflation tenace et les sévères limitations aux allocations, que le gouvernement Starmer envisage de déplafonner dans son budget 2026."
+    },
     {
       "title": "Patrick Artus : « La croissance de long terme de la France deviendra nulle sans transformation du système éducatif »",
       "url": "https://www.lemonde.fr/idees/article/2025/11/22/patrick-artus-la-croissance-de-long-terme-de-la-france-deviendra-nulle-sans-transformation-du-systeme-educatif_6654380_3232.html",
@@ -10,11 +15,6 @@
       "title": "Leroy Merlin va fermer deux magasins à Paris, « structurellement déficitaires, pour miser sur des boutiques spécialisées »",
       "url": "https://www.lemonde.fr/economie/article/2025/11/21/leroy-merlin-va-fermer-deux-magasins-a-paris-structurellement-deficitaires-pour-miser-sur-des-boutiques-specialisees_6654362_3234.html",
       "summary": "Les 280 employés des magasins concernés recevront une proposition de poste dans l’un des autres magasins de la région, selon l’enseigne."
-    },
-    {
-      "title": "Brésil : l’administration Trump renonce à augmenter les droits de douane pour les principales exportations",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/21/bresil-trump-renonce-a-ses-principales-surtaxes_6654354_3234.html",
-      "summary": "Ces surtaxes de 40 % concernaient près de 200 produits agricoles brésiliens, tels que le café en grains, le bœuf, le cacao. C’est une victoire pour le président brésilien Lula, même si la peur de l’inflation aux Etats-Unis a pesé lourd dans le choix de Washington."
     },
     {
       "title": "La librairie de l'éco – Samedi 22 novembre",
