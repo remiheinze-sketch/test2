@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23T05:36:44Z",
+  "updated_at": "2025-11-23T06:50:48Z",
   "articles": [
     {
       "title": "Au Royaume-Uni, la désespérante réalité de la pauvreté infantile",
@@ -15,6 +15,11 @@
       "title": "Leroy Merlin va fermer deux magasins à Paris, « structurellement déficitaires, pour miser sur des boutiques spécialisées »",
       "url": "https://www.lemonde.fr/economie/article/2025/11/21/leroy-merlin-va-fermer-deux-magasins-a-paris-structurellement-deficitaires-pour-miser-sur-des-boutiques-specialisees_6654362_3234.html",
       "summary": "Les 280 employés des magasins concernés recevront une proposition de poste dans l’un des autres magasins de la région, selon l’enseigne."
+    },
+    {
+      "title": "\"Des soins palliatifs pour la Sécurité sociale\": face au risque d'une Sécu exsangue, le Sénat vote un transfert de 15 milliards de dette",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/des-soins-palliatifs-pour-la-securite-sociale-face-au-risque-d-une-secu-exsangue-le-senat-vote-un-transfert-de-15-milliards-de-dette_AN-202511230099.html",
+      "summary": "La mesure, très technique mais qui met en jeu un montant extrêmement important, a été votée très largement dans le cadre de l'examen du projet de budget de la Sécurité sociale pour 2026.<br /><br /><img src=\"https://images.bfmtv.com/1Pk4gLL7ePEo1uQpTEbE0BlDEYY=/0x40:768x472/800x0/images/Le-Senat-entame-mercredi-son-marathon-budgetaire-par-l-examen-du-budget-de-la-Securite-sociale-une-occasion-pour-la-droite-de-marteler-son-opposition-inflexible-a-la-suspension-de-la-reforme-des-retraites-2183490.jpg\" />"
     },
     {
       "title": "La librairie de l'éco – Samedi 22 novembre",
@@ -47,19 +52,14 @@
       "summary": "Alors que la baisse de fréquentation et les changements d'habitudes des clients chahutent la restauration française, des professionnels appellent à mieux valoriser le \"fait maison\". <br /><br /><img src=\"https://images.bfmtv.com/5UL_v7ljHCRZLVwVMd-TXtUvxhg=/0x0:2048x1152/800x0/images/Restaurant-table-verres-2186300.jpg\" />"
     },
     {
-      "title": "BFM Crypto, le Club : Bitcoin, jusqu'où ira la chute ? - 18/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-bitcoin-jusqu-ou-ira-la-chute-18-11_VN-202511220153.html",
-      "summary": "Mardi 18 novembre, la durée de la chute du Bitcoin, le potentiel des autres cryptos à part le Bitcoin, l'avancée de l'EUrope sur la réglementation MICA, et la fiscalité du Bitcoin, ont été abordés par Louis Alexandre de Froissard, gérant et associé chez Montaigne Conseil et Patrimoine, Françoise Vasselin, professeur d’économie à l’Université Paris Est Creteil, et Louis Laszlo, CTO chez Meria, reçus par Sandra Gandoin dans l'émission BFM Crypto, le club sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/8JlODp77d-HZSxpAfhmGYvWPMao=/0x0:1280x720/800x0/images/BFM-Crypto-le-Club-Bitcoin-jusqu-ou-ira-la-chute-18-11-2187358.jpg\" />"
+      "title": "Après le rejet du texte, quelles options restent-ils pour doter la France d'un budget ?",
+      "url": "https://www.franceinfo.fr/economie/budget/apres-le-rejet-du-texte-quelles-options-restent-ils-pour-doter-la-france-d-un-budget_7634618.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La partie recettes du budget 2026 a été rejetée en bloc, après 125 heures de débat. Tout le texte initial du gouvernement est donc envoyé au Sénat, qui s'en saisira la semaine prochaine. Mais désormais, quelles solutions sont encore possibles ? Éléments de réponse"
     },
     {
-      "title": "G20: le sommet s'ouvre en Afrique du Sud en l'absence de Donald Trump",
-      "url": "https://www.bfmtv.com/economie/international/g20-le-sommet-s-ouvre-en-afrique-du-sud-en-l-absence-de-donald-trump_AD-202511220144.html",
-      "summary": "L'Ukraine et le climat devraient s'inviter au sommet des grandes économies du G20 qui s'ouvre samedi 22 novembre à Johannesburg, en l'absence de Donald Trump.<br /><br /><img src=\"https://images.bfmtv.com/0PlbxeQe1vUv31Fd39_iAmXzF-o=/0x106:2048x1258/800x0/images/Trump-2163613.jpg\" />"
-    },
-    {
-      "title": "Budget 2026: l'Assemblée nationale rejette le texte à la quasi-unanimité",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-2026-l-assemblee-nationale-rejette-le-texte-a-la-quasi-unanimite_AD-202511220109.html",
-      "summary": "La quasi totalité de l'Assemblée a rejeté dans la nuit de vendredi à samedi 22 novembre le budget de l'État, un vote sans surprise, mais qui augure mal de son adoption avant la fin de l'année.<br /><br /><img src=\"https://images.bfmtv.com/R2Zt-FZ2JXYGB1gzCv-QvjEH-fg=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-le-19-novembre-2025-2185800.jpg\" />"
+      "title": "Illisible, éreintant, parfois inutile… L'examen du budget au Parlement doit-il être réformé ?",
+      "url": "https://www.franceinfo.fr/economie/budget/illisible-ereintant-parfois-inutile-l-examen-du-budget-au-parlement-doit-il-etre-reforme_7628891.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les critiques de parlementaires épuisés se multiplient sur l'organisation des débats budgétaires cet automne. Sans que des solutions ne fassent pour l'heure l'unanimité pour revoir le système actuel."
     },
     {
       "title": "Budget 2026 : face au risque d'une Sécu exsangue, le Sénat vote un transfert de 15 milliards de dette",
@@ -107,6 +107,11 @@
       "summary": "Dans la nuit de vendredi à samedi, l'Assemblée nationale a rejeté la partie recette du projet de budget de l'Etat."
     },
     {
+      "title": "L’info du jour | 23 novembre 2025 - Matin",
+      "url": "http://fr.euronews.com/video/2025/11/23/linfo-du-jour-23-novembre-2025-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
       "title": "L’info du jour | 22 novembre 2025 - Soir",
       "url": "http://fr.euronews.com/video/2025/11/22/linfo-du-jour-22-novembre-2025-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -135,11 +140,6 @@
       "title": "L’info du jour | 21 novembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/11/21/linfo-du-jour-21-novembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 novembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/11/20/linfo-du-jour-20-novembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "A Bourges, le boom de la défense irrigue le tissu économique local",
