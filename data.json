@@ -1,11 +1,6 @@
 {
-  "updated_at": "2025-11-25T07:33:09Z",
+  "updated_at": "2025-11-25T08:54:42Z",
   "articles": [
-    {
-      "title": "L’Europe centrale « devient vieille avant de devenir riche »",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/25/l-europe-centrale-devient-vieille-avant-de-devenir-riche_6654718_3234.html",
-      "summary": "Une étude de la Banque européenne pour la reconstruction et le développement alerte les gouvernements sur l’effondrement de la natalité en Europe centrale, qui va réduire la croissance économique de 0,4 point par an pendant vingt-cinq ans."
-    },
     {
       "title": "René Passet, le pionnier de la « bio-économie », est mort",
       "url": "https://www.lemonde.fr/disparitions/article/2025/11/24/rene-passet-le-pionnier-de-la-bio-economie-est-mort_6654680_3382.html",
@@ -17,9 +12,19 @@
       "summary": "En pleine hausse des dépenses liées aux arrêts maladie, le Sénat défend la liberté de prescription des médecins et s’oppose à de nouvelles restrictions proposées par le gouvernement."
     },
     {
-      "title": "En Suisse, la radio-télévision SRG SSR annonce la suppression de 900 postes d’ici 2029",
+      "title": "En Suisse, la radio-télévision SRG SSR annonce la suppression de 900 postes d’ici à 2029",
       "url": "https://www.lemonde.fr/economie/article/2025/11/24/en-suisse-la-radio-television-srg-ssr-annonce-la-suppression-de-900-postes-d-ici-2029_6654642_3234.html",
-      "summary": "La Société suisse de radiodiffusion et télévision a annoncé lundi un programme d’économies qui va se traduire par la suppression de 900 postes d’ici 2029, du fait des bouleversements du marché des médias et de la réduction progressive de la redevance."
+      "summary": "La Société suisse de radiodiffusion et télévision a annoncé lundi un programme d’économies qui va se traduire par la suppression de 900 postes d’ici à 2029, du fait des bouleversements du marché des médias et de la réduction progressive de la redevance."
+    },
+    {
+      "title": "Une légère hausse des investissements mais des exportations affaiblies par les droits de douane américains: l'économie allemande continue de stagner",
+      "url": "https://www.bfmtv.com/economie/international/une-legere-hausse-des-investissements-mais-des-exportations-affaiblies-par-les-droits-de-douane-americains-l-economie-allemande-continue-de-stagner_AD-202511250431.html",
+      "summary": "La stagnation économique se poursuit en Allemagne. Les données économiques du troisième trimestre 2025 indiquent une baisse des exportations, notamment en raison des droits de douane imposés par les États-Unis.<br /><br /><img src=\"https://images.bfmtv.com/Gy8bZj8Xqr6lLOqnVViTTwUtVq0=/0x85:2048x1237/800x0/images/L-Allemagne-confrontee-a-un-risque-croissant-en-matiere-de-stabilite-financiere-2176466.jpg\" />"
+    },
+    {
+      "title": "\"La moitié de la croissance de la zone euro, c'est la France\": Emmanuel Macron assure que \"notre pays est beaucoup plus fort\" sur les plans économique et militaire qu'on ne le dit",
+      "url": "https://www.bfmtv.com/economie/la-moitie-de-la-croissance-de-la-zone-euro-c-est-la-france-emmanuel-macron-assure-que-notre-pays-est-beaucoup-plus-fort-sur-les-plans-economique-et-militaire-qu-on-ne-le-dit_AN-202511250415.html",
+      "summary": "Le président Emmanuel Macron a vanté les mérites de la France et son dynamisme économique. Avec une croissance plus forte qu'attendu, la France a en effet contribué pour moitié à la croissance de la zone euro au troisième trismestre. Mais il faudra attendre de voir si la dynamique se poursuit. <br /><br /><img src=\"https://images.bfmtv.com/UgYYgNaqUxtdKYNEZs1XEXn5Q5Q=/0x106:2048x1258/800x0/images/Emmanuel-Macron-a-Berlin-ce-mardi-18-novembre-2025-2183373.jpg\" />"
     },
     {
       "title": "L’Espagne avance… sans budget",
@@ -32,19 +37,14 @@
       "summary": "Les débats budgétaires se poursuivent au Sénat, où la commission des finances retravaille la copie du gouvernement. L’état d’esprit est au compromis, même si rien n’est encore gagné.<br /><br /><img src=\"https://images.bfmtv.com/f5uXIKVa5z-eNMx4fgpn534n-MY=/0x0:1280x720/800x0/images/Budget-le-Senat-cherche-un-compromis-2188890.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Lecornu, simulation et dissimulation - 25/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-lecornu-simulation-et-dissimulation-25-11_VN-202511250223.html",
-      "summary": "Ce mardi 25 novembre, dans son édito, Raphaël Legendre a parlé des sonnettes d'alarme tirées par Sébastien Lecronu concernant le budget et de sa présentation d'une nouvelle méthode qui n'a pas convaincu les sénateurs LR. Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/sVUg9uw9qUyflx5Rz5y49l66F_8=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-Lecornu-simulation-et-dissimulation-25-11-2188818.jpg\" />"
+      "title": "Budget 2026 : \"Il n'y aura pas de 'shutdown', on aura un texte\", affirme Philippe Juvin, rapporteur du budget",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-25-novembre-2025_7638536.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Philippe Juvin, rapporteur du budget et député LR des Hauts-de-Seine est l'invité politique de \"La Matinale\" mardi 25 novembre. Il est venu réagir au rejet de la partie recette du budget par l'Assemblée nationale, qui a eu lieu vendredi 21 novembre."
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Lecornu, simulation et dissimulation - 25/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-lecornu-simulation-et-dissimulation-25-11_EN-202511250216.html",
-      "summary": "Ce mardi 25 novembre, les sonnettes d'alarme tirées par Sébastien Lecronu concernant le budget et sa présentation d'une nouvelle méthode qui n'a pas convaincu les sénateurs LR, ont été abordées par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "L’Edito de Raphaël Legendre : Lecornu, simulation et dissimulation - 25/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-lecornu-simulation-et-dissimulation-25-11_EN-202511250215.html",
-      "summary": "Ce mardi 25 novembre, les sonnettes d'alarme tirées par Sébastien Lecronu concernant le budget et sa présentation d'une nouvelle méthode qui n'a pas convaincu les sénateurs LR, ont été abordées par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
+      "title": "Budget 2026 : Sébastien Lecornu croit encore au vote avant la fin de l'année",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/budget-2026-sebastien-lecornu-croit-encore-au-vote-avant-la-fin-de-l-annee_7638455.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Sébastien Lecornu a pris la parole dans la matinée du lundi 24 novembre depuis Matignon, affirmant qu'un texte pourrait être voté avant le 31 décembre. Le Premier ministre, qui tente de sortir de l'impasse, en a profité pour dénoncer le cynisme de certains partis politiques."
     },
     {
       "title": "\"Il veut montrer qu'il gouverne\" : Sébastien Lecornu change-t-il de stratégie pour tenter de faire voter le budget par une majorité de députés ?",
@@ -60,16 +60,6 @@
       "title": "Budget 2026 : Sébastien Lecornu croit encore au vote avant la fin de l'année",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-sebastien-lecornu-croit-encore-au-vote-avant-la-fin-de-l-annee_7637354.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Sébastien Lecornu a pris la parole dans la matinée du lundi 24 novembre depuis Matignon, affirmant qu'un texte pourrait être voté avant le 31 décembre. Le Premier ministre, qui tente de sortir de l'impasse, en a profité pour dénoncer le cynisme de certains partis politiques."
-    },
-    {
-      "title": "Budget 2026 : \"Monsieur Lecornu invoque le Saint-Esprit du compromis\", ironise le député Philippe Ballard, porte-parole du RN",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-monsieur-lecornu-invoque-le-saint-esprit-du-compromis-ironise-le-depute-philippe-ballard-porte-parole-du-rn_7637177.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La partie recette du budget 2026 a été rejetée, samedi, par l'Assemblée nationale. Pour le porte-parole du RN, Philippe Ballard, la seule option qu'a le gouvernement c'est la démission, dit-il sur franceinfo"
-    },
-    {
-      "title": "VIDEO. Après le rejet du projet du budget à l'Assemblée, Sébastien Lecornu va demander un vote sur \"le renforcement de nos armées\" au Parlement",
-      "url": "https://www.franceinfo.fr/politique/parlement-francais/video-securite-defense-agriculture-le-gouvernement-va-organiser-des-debats-et-des-votes-sur-des-priorites-absolues-annonce-sebastien-lecornu_7636943.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Premier ministre envisage aussi de consulter les parlementaires sur d'autres \"priorités absolues\" comme l'énergie et l'agriculture, le vote des députés samedi ayant empêché l'examen par les députés du volet \"dépenses\" du projet de loi de finances."
     },
     {
       "title": "L’info du jour | 25 novembre 2025 - Matin",
