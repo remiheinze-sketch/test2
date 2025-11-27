@@ -1,15 +1,20 @@
 {
-  "updated_at": "2025-11-27T16:48:13Z",
+  "updated_at": "2025-11-27T17:32:24Z",
   "articles": [
     {
       "title": "En Bulgarie, le gouvernement retire le budget 2026 sous la pression de la rue",
       "url": "https://www.lemonde.fr/economie/article/2025/11/27/en-bulgarie-le-gouvernement-retire-le-budget-2026-sous-la-pression-de-la-rue_6655102_3234.html",
-      "summary": "Après une manifestation mercredi devant le Parlement à Sofia contre ce texte qui prévoit des hausses de cotisations sociales et des taxes sur les dividendes, le premier ministre a fait machine arrière."
+      "summary": "Après une manifestation, mercredi, devant le Parlement, à Sofia, contre ce texte qui prévoit des hausses de cotisations sociales et des taxes sur les dividendes, le premier ministre a fait machine arrière."
     },
     {
       "title": "Les Français de plus en plus critiques concernant l’utilisation de l’argent des impôts",
       "url": "https://www.lemonde.fr/politique/article/2025/11/27/les-francais-de-plus-en-plus-critiques-sur-l-utilisation-de-l-argent-des-impots_6655062_823448.html",
       "summary": "Le consentement à l’impôt reste élevé, montre un baromètre dévoilé jeudi 27 novembre par le Conseil des prélèvements obligatoires. Mais, de façon croissante, les Français jugent qu’ils n’en ont pas pour leur argent."
+    },
+    {
+      "title": "Budget: \"On se prépare à avoir, en 2026, une année noire pour le pouvoir d'achat\", affirme Sophie Binet, secrétaire générale de la CGT",
+      "url": "https://www.bfmtv.com/economie/video-budget-on-se-prepare-a-avoir-en-2026-une-annee-noire-pour-le-pouvoir-d-achat-affirme-sophie-binet-secretaire-generale-de-la-cgt_VN-202511270886.html",
+      "summary": "Sophie Binet, secrétaire générale de la CGT, était l'invitée de BFMTV ce jeudi 27 novembre pour évoquer le pouvoir d'achat des Français ainsi que le vote du budget 2026.<br /><br /><img src=\"https://images.bfmtv.com/1ZoXlZxZMW87jw0SuPKgsxCSh2Q=/0x0:1280x720/800x0/images/Budget-On-se-prepare-a-avoir-en-2026-une-annee-noire-pour-le-pouvoir-d-achat-affirme-Sophie-Binet-secretaire-generale-de-la-CGT-2190977.jpg\" />"
     },
     {
       "title": "\"Nous ne sommes pas un pays taxophile\": Olivier Faure assure que la France \"est dans la moyenne\" pour les impôts et que les entreprises ne vivent \"pas dans un enfer fiscal\"",
@@ -19,12 +24,17 @@
     {
       "title": "Le Smic français est un des plus élevés d'Europe: le groupe d'experts plaide pour la hausse automatique de 1,4% (soit 20 euros), sans coup de pouce",
       "url": "https://www.bfmtv.com/economie/le-smic-francais-est-un-des-plus-eleves-d-europe-le-groupe-d-experts-plaide-pour-l-augmentation-automatique-de-1-4-le-1er-janvier-sans-coup-de-pouce_AV-202511270820.html",
-      "summary": "Constatant que l'inflation reste faible aux alentours de 1%, le groupe d'experts sur le Smic recommande de ne pas augmenter le Smic plus que la hausse automatique, le salaire minimum français étant déjà supérieur aux repères fixés par la directive européenne sur les salaires minimums \"adéquats\".<br /><br /><img src=\"https://images.bfmtv.com/OPmQwj40tPzP-ltM_XhoP11_5V8=/0x106:2048x1258/800x0/images/SMIC-1962879.jpg\" />"
+      "summary": "Constatant que l'inflation reste faible aux alentours de 1%, le groupe d'experts sur le Smic recommande de ne pas l'augmenter plus que la hausse automatique, le salaire minimum français étant déjà supérieur aux repères fixés par la directive européenne sur les salaires minimums \"adéquats\".<br /><br /><img src=\"https://images.bfmtv.com/OPmQwj40tPzP-ltM_XhoP11_5V8=/0x106:2048x1258/800x0/images/SMIC-1962879.jpg\" />"
     },
     {
       "title": "Ras-le-bol fiscal : ces Français qui s'exilent à l'étranger",
       "url": "https://www.bfmtv.com/economie/video-ras-le-bol-fiscal-ces-francais-qui-s-exilent-a-l-etranger_VN-202511270815.html",
       "summary": "Alors que l'Assemblée et le Sénat s'écharpent sur le budget en ajoutant ou retirant chaque jour un nouvel impôt, de plus en plus de Français fortunés cherchent à s'exiler... quitte même à payer plus d'impôt. <br /><br /><img src=\"https://images.bfmtv.com/FAvp-Xkr9MLVFUv7ViiF7SaOTsM=/0x0:1280x720/800x0/images/Ras-le-bol-fiscal-ces-Francais-qui-s-exilent-a-l-etranger-2190904.jpg\" />"
+    },
+    {
+      "title": "Fêtes de fin d'année : acompte ou avance sur salaire, que demander à votre employeur ?",
+      "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/fetes-de-fin-d-annee-acompte-ou-avance-sur-salaire-que-demander-a-votre-employeur_7643570.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "À l'approche des fêtes de fin d'années, vous êtes de plus en plus nombreux à demander à votre employeur un acompte ou une avance sur salaire. Mais attention, ce n'est pas la même chose. Ce genre de demandes concerne désormais un salarié sur trois. Comment en profiter, sans mettre en danger son budget ? On vous explique tout."
     },
     {
       "title": "DIRECT. Budget 2026 : \"Le temps nous est compté\" et \"le compromis devient urgent\", alerte le ministre de l'Economie devant le Sénat",
@@ -45,6 +55,11 @@
       "title": "Budget de la Sécu : pas d'accord entre députés et sénateurs en commission mixte paritaire, le texte repart à l'Assemblée nationale",
       "url": "https://www.franceinfo.fr/economie/budget/les-deputes-et-les-senateurs-echouent-a-trouver-un-accord-sur-le-budget-de-la-securite-sociale-le-texte-repart-a-l-assemblee-nationale_7641791.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Aucune version de compromis n'a été trouvée sur le projet de loi de financement de la Sécurité sociale, face aux positions du Sénat et de l'Assemblée sur la suspension de la réforme des retraites ou le gel des minima sociaux et des pensions de retraites."
+    },
+    {
+      "title": "L’info du jour | 27 novembre 2025 - Soir",
+      "url": "http://fr.euronews.com/video/2025/11/27/linfo-du-jour-27-novembre-2025-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Bulgarie : le gouvernement annule son projet de budget 2026 après une vaste manifestation",
@@ -84,11 +99,6 @@
     {
       "title": "L’info du jour | 26 novembre 2025 - Mi-journée",
       "url": "http://fr.euronews.com/video/2025/11/26/linfo-du-jour-26-novembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 novembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/11/26/linfo-du-jour-26-novembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 novembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
