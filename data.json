@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-27T03:33:40Z",
+  "updated_at": "2025-11-27T04:44:52Z",
   "articles": [
+    {
+      "title": "Les conséquences de l’instabilité politique sur l’économie française",
+      "url": "https://www.lemonde.fr/podcasts/article/2025/11/27/les-consequences-de-l-instabilite-politique-sur-l-economie-francaise_6655005_5463015.html",
+      "summary": "L’incertitude politique liée au vote d’un budget pour l’année 2026 a déjà coûté 0,3 point de croissance à l’économie tricolore. Par quels mécanismes ? Explications en podcast avec Eric Albert, journaliste au service Economie du « Monde »."
+    },
     {
       "title": "Au Royaume-Uni, de nouvelles hausses d’impôts pour les classes moyennes",
       "url": "https://www.lemonde.fr/economie/article/2025/11/26/au-royaume-uni-de-nouvelles-hausses-d-impots-pour-les-classes-moyennes_6654990_3234.html",
@@ -20,11 +25,6 @@
       "title": "La France n’a « pas besoin » d’un emprunt « forcé » auprès des plus aisés, affirme le ministre Roland Lescure, en réaction à un dispositif proposé par le PS",
       "url": "https://www.lemonde.fr/politique/article/2025/11/26/le-ps-propose-un-emprunt-force-aupres-des-plus-fortunes-la-france-n-en-a-pas-besoin-selon-roland-lescure_6654895_823448.html",
       "summary": "Plusieurs amendements socialistes au projet de budget 2026 proposent d’instaurer un emprunt obligatoire à taux zéro pour environ 20 000 contribuables parmi les plus riches."
-    },
-    {
-      "title": "Le bonus écologique pour l’achat d’un véhicule électrique sera augmenté jusqu’à 5 700 euros en 2026, annonce Roland Lescure",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/26/le-bonus-ecologique-pour-l-achat-d-un-vehicule-electrique-sera-augmente-jusqu-a-5-700-euros-en-2026-annonce-roland-lescure_6654890_3234.html",
-      "summary": "« Je veux qu’on continue à soutenir la voiture électrique », a déclaré le ministre de l’économie, mercredi sur France Inter."
     },
     {
       "title": "FORUM BFM - Agriculture, énergies... Pour Yann, chargé de projet dans une multinationale aéroportuaire, \"le problème, c'est toujours les intermédiaires\"",
