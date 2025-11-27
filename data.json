@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-11-27T14:40:43Z",
+  "updated_at": "2025-11-27T15:37:38Z",
   "articles": [
+    {
+      "title": "En Bulgarie, le gouvernement retire le budget 2026 sous la pression de la rue",
+      "url": "https://www.lemonde.fr/economie/article/2025/11/27/en-bulgarie-le-gouvernement-retire-le-budget-2026-sous-la-pression-de-la-rue_6655102_3234.html",
+      "summary": "Après une manifestation mercredi devant le Parlement à Sofia contre ce texte qui prévoit des hausses de cotisations sociales et des taxes sur les dividendes, le premier ministre a fait machine arrière."
+    },
     {
       "title": "Les Français de plus en plus critiques concernant l’utilisation de l’argent des impôts",
       "url": "https://www.lemonde.fr/politique/article/2025/11/27/les-francais-de-plus-en-plus-critiques-sur-l-utilisation-de-l-argent-des-impots_6655062_823448.html",
@@ -10,11 +15,6 @@
       "title": "En Chine, les journées sans fin des petites mains de l’économie des plateformes",
       "url": "https://www.lemonde.fr/economie/article/2025/11/27/en-chine-les-journees-sans-fin-des-petites-mains-de-l-economie-des-plateformes_6655014_3234.html",
       "summary": "Les applis de services, de livraison et de mobilité façonnent la nouvelle économie chinoise. Dans une société aux maigres filets de protection, elles promettent un meilleur revenu aux travailleurs de première ligne, au prix d’efforts extrêmes."
-    },
-    {
-      "title": "Les conséquences de l’instabilité politique sur l’économie française",
-      "url": "https://www.lemonde.fr/podcasts/article/2025/11/27/les-consequences-de-l-instabilite-politique-sur-l-economie-francaise_6655005_5463015.html",
-      "summary": "L’incertitude politique liée au vote d’un budget pour l’année 2026 a déjà coûté 0,3 point de croissance à l’économie tricolore. Par quels mécanismes ? Explications en podcast avec Eric Albert, journaliste au service Economie du « Monde »."
     },
     {
       "title": "\"L'innovation se fait aujourd'hui davantage en Chine et ça c'est un péril mortel pour l'Europe\", alerte Gabriel Attal",
@@ -35,16 +35,6 @@
       "title": "Près de 8 Français sur 10 voudraient que les impôts diminuent mais ils ne veulent pas de baisses des dépenses publiques en contrepartie",
       "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/pres-de-8-francais-sur-10-voudraient-que-les-impots-diminuent-mais-ils-ne-veulent-pas-de-baisses-des-depenses-publiques-en-contrepartie_AD-202511270623.html",
       "summary": "78% des sondés considèrent que le niveau général des impôts et des cotisations est trop élevé, selon une enquête d'opinion. Concernant leur cas personnel, 61% des Français estiment payer trop d'impôts.<br /><br /><img src=\"https://images.bfmtv.com/tc-ax9EyweOfid8uB1nO3MMJgTg=/0x32:768x464/800x0/images/A-l-heure-ou-l-executif-promet-de-se-pencher-sur-la-question-des-familles-monoparentales-l-idee-d-une-reforme-de-la-fiscalite-des-pensions-alimentaires-refait-surface-1824198.jpg\" />"
-    },
-    {
-      "title": "Jusqu'à 50.000 jeunes, des hébergements, 800 euros par mois minimum... Emmanuel Macron annonce que le nouveau service militaire va coûter \"plus de 2 milliards d'euros\"",
-      "url": "https://www.bfmtv.com/economie/entreprises/defense/jusqu-a-50-000-jeunes-des-hebergements-800-euros-par-mois-emmanuel-macron-annonce-que-le-nouveau-service-militaire-va-couter-plus-de-2-milliards-d-euros_AV-202511270598.html",
-      "summary": "Emmanuel Macron a expliqué que le nouveau service national sera financé par une actualisation de la loi de programmation militaire. Un budget de 2,3 milliards d'euros sera prévu, dont 1,4 milliard sera dédié aux infrastructures. <br /><br /><img src=\"https://images.bfmtv.com/6o7LFJROWKJZUmfrKiB_lT7EFNU=/106x148:1754x1075/800x0/images/Emmanuel-Macron-lors-d-un-discours-a-Varces-Allieres-et-Risset-Isere-le-27-novembre-2025-2190688.jpg\" />"
-    },
-    {
-      "title": "Le Sénat examine la taxe sur les holdings",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-senat-examine-la-taxe-sur-les-holdings_VN-202511270566.html",
-      "summary": "\"Il y a des personnes qui quittent la France pour aller dans un pays où elles paient plus d’impôts, ça paraît fou, mais c’est parce qu’elles savent que l’année suivante et les années d’après, elles paieront toujours le même impôt.\"<br /><br /><img src=\"https://images.bfmtv.com/Gb0gT9h4bc8Ajd2-qipj29NfKWg=/0x0:1280x720/800x0/images/Le-Senat-examine-la-taxe-sur-les-holdings-2190696.jpg\" />"
     },
     {
       "title": "DIRECT. Budget 2026 : le Sénat récupère le projet de loi de finances de l'Etat, après l'échec des discussions avec les députés sur la Sécu",
@@ -129,7 +119,7 @@
     {
       "title": "L’économie du vélo s’engage sur de nouvelles pistes",
       "url": "https://www.alternatives-economiques.fr/leconomie-velo-sengage-de-nouvelles-pistes/00116098",
-      "summary": "<p>[Où en est la vélorution ? 3/5] Alors que les ventes stagnent, la relocalisation de la production de cycles en France n’est encore qu’un horizon, mais le développement de l’usage du vélo bénéficie à plusieurs secteurs.</p>"
+      "summary": "<p>[Où en est la vélorution ? 3/5] Alors que les ventes stagnent, la relocalisation de la production de cycles en France tarde, mais le développement de l’usage du vélo bénéficie à plusieurs secteurs.</p>"
     },
     {
       "title": "Le financement de la Sécu pèse-t-il trop sur le travail ?",
