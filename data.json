@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-01T15:40:48Z",
+  "updated_at": "2025-12-01T16:57:21Z",
   "articles": [
+    {
+      "title": "Grève du 2 décembre : transports, écoles, administrations… A quelles perturbations faut-il s’attendre ?",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/01/greve-du-2-decembre-transports-ecoles-administrations-a-quelles-perturbations-faut-il-s-attendre_6655590_3234.html",
+      "summary": "L’intersyndicale CGT, FSU et Solidaires veut tenter de faire pression sur le gouvernement, alors que le budget de la Sécurité sociale revient à l’Assemblée nationale mardi."
+    },
     {
       "title": "Donations, héritages, taxe foncière : le rapport qui propose un big bang fiscal",
       "url": "https://www.lemonde.fr/politique/article/2025/12/01/donations-heritages-taxe-fonciere-un-big-bang-fiscal-propose-au-gouvernement_6655539_823448.html",
@@ -12,9 +17,9 @@
       "summary": "Du remboursement des fauteuils roulants à la contribution sur les hauts revenus, plusieurs mesures entrent en vigueur au début de ce mois."
     },
     {
-      "title": "L’incertitude budgétaire met déjà l’audiovisuel public au régime sec",
-      "url": "https://www.lemonde.fr/economie/article/2025/12/01/l-incertitude-budgetaire-met-deja-l-audiovisuel-public-au-regime-sec_6655508_3234.html",
-      "summary": "Si France Télévisions, Radio France, France Médias Monde et l’Institut national de l’audiovisuel s’attendent tous à une année 2026 difficile, les économies imposées au groupe dirigé par Delphine Ernotte Cunci affaiblissent déjà l’ensemble de la filière audiovisuelle."
+      "title": "Vote du budget: “Beaucoup de PME ont trinqué”, explique Sébastien Lecornu",
+      "url": "https://www.bfmtv.com/economie/video-vote-du-budget-beaucoup-de-pme-ont-trinque-explique-sebastien-lecornu_VN-202512010736.html",
+      "summary": "Le premier ministre insiste sur l’importance d’adopter rapidement un budget afin d’assurer stabilité économique et visibilité pour les entreprises.<br /><br /><img src=\"https://images.bfmtv.com/xZRzgCysR-FJ59KmG8OVXI2B0GI=/0x0:1280x720/800x0/images/Vote-du-budget-Beaucoup-de-PME-ont-trinque-explique-Sebastien-Lecornu-2193033.jpg\" />"
     },
     {
       "title": "Les recettes d'impôts sur le patrimoine augmentent plus vite que le patrimoine lui-même: la Cour des comptes appelle à réformer cette imposition (notamment en augmentant la contribution des plus riches)",
@@ -27,7 +32,7 @@
       "summary": "En France, les grandes enseignes imposent souvent leurs conditions, affectant les marges des fabricants et les prix pour les consommateurs, surtout dans les petites communes. La concurrence reste clé pour le pouvoir d'achat, mais les marges des distributeurs français surpassent celles de l'étranger, selon l'Insee et l'UFC Que Choisir.<br /><br /><img src=\"https://images.bfmtv.com/OTCU1vNexDNnCV88eujxoRBxiCs=/0x0:1280x720/800x0/images/Pouvoir-d-achat-Je-regarde-les-prix-au-kilo-indique-Daniel-pour-lutter-contre-l-inflation-2192899.jpg\" />"
     },
     {
-      "title": "Budget 2026 : il n'y a des \"progrès\" mais \"pas encore\" de compromis avec le gouvernement, affirment les socialistes",
+      "title": "Budget 2026 : il y a des \"progrès\" mais \"pas encore\" de compromis avec le gouvernement, affirment les socialistes",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-pas-encore-de-compromis-mais-nous-progressons-dit-le-patron-du-ps-olivier-faure_7651343.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le Premier ministre a rencontré ce lundi les représentants du PS, interlocuteur de premier plan dans sa quête d'un accord sur les budgets."
     },
@@ -42,9 +47,9 @@
       "summary": "\"Croire qu'un pays peut prospérer sans budget voté, c'est une illusion dangereuse, qui s'installe pourtant progressivement chez certains\", estime le Premier ministre dans une lettre publiée sur les réseaux sociaux, au moment où les débats s'enlisent au Parlement."
     },
     {
-      "title": "Remboursement des fauteuils roulants, prime de Noël, impôts... Ce qui change à partir du 1er décembre",
-      "url": "https://www.franceinfo.fr/economie/remboursement-des-fauteuils-roulants-prime-de-noel-impots-ce-qui-change-a-partir-du-1er-decembre_7649309.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le remboursement intégral des fauteuils roulants est mis en œuvre à partir de lundi pour réparer \"une injustice énorme\", a expliqué Emmanuel Macron dans une vidéo postée sur le réseau social X dimanche."
+      "title": "France : grève nationale le 2 décembre, à quelles perturbations faut-il s'attendre ?",
+      "url": "http://fr.euronews.com/2025/12/01/france-greve-nationale-le-2-decembre-a-quelles-perturbations-faut-il-sattendre",
+      "summary": "La CGT, la FSU et Solidaires appellent à une grande journée nationale de grève et de manifestations, ce mardi, alors que le budget 2026 est en cours d’examen à l'Assemblée. Le petit tour d'horizon de perturbations attendues."
     },
     {
       "title": "La présidente de la CPI s'engage à résister aux pressions américaines et russes malgré les sanctions et les menaces",
