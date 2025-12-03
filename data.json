@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-03T04:20:50Z",
+  "updated_at": "2025-12-03T05:13:04Z",
   "articles": [
+    {
+      "title": "Assurance-vie : faut-il miser sur l’immobilier ou sur les entreprises non cotées ?",
+      "url": "https://www.lemonde.fr/argent/article/2025/12/03/assurance-vie-faut-il-miser-sur-l-immobilier-ou-sur-les-entreprises-non-cotees_6655783_1657007.html",
+      "summary": "La question taraude de nombreux épargnants, incités par le gouvernement à placer leurs économies au service de l’économie réelle. Mais le pari n’est pas sans risque."
+    },
     {
       "title": "La flambée des prix alimentaires amplifie les inégalités sociales",
       "url": "https://www.lemonde.fr/economie/article/2025/12/03/la-flambee-des-prix-alimentaires-amplifie-les-inegalites-sociales_6655772_3234.html",
@@ -10,11 +15,6 @@
       "title": "Des heurts entre police et manifestants ont éclaté en Bulgarie, sur fond de tensions autour du budget",
       "url": "https://www.lemonde.fr/international/video/2025/12/02/des-heurts-entre-police-et-manifestants-ont-eclate-en-bulgarie-sur-fond-de-tensions-autour-du-budget_6655705_3210.html",
       "summary": "Des dizaines de milliers de personnes étaient réunies à Sofia, la capitale bulgare, ce lundi 1ᵉʳ décembre, pour s’opposer notamment au projet de budget 2026 du gouvernement."
-    },
-    {
-      "title": "Selon l’OCDE, l’économie mondiale s’est montrée robuste face aux droits de douane de Trump",
-      "url": "https://www.lemonde.fr/economie/article/2025/12/02/selon-l-ocde-l-economie-mondiale-s-est-montree-robuste-face-aux-droits-de-douane-de-trump_6655684_3234.html",
-      "summary": "L’institution estime que la croissance planétaire atteindra les 3,2 % en 2025, soit un peu mieux que prévu en juin. Si les échanges commerciaux des Etats-Unis ont ralenti, ailleurs – et en particulier en Asie –, ils ont accéléré."
     },
     {
       "title": "BFM Awards 2025 : La 21e édition des BFM Awards",
@@ -105,6 +105,11 @@
       "title": "L’info du jour | 1er décembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/12/01/linfo-du-jour-1er-decembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Le « droit à la réparation » européen, de la théorie à la pratique",
+      "url": "https://www.alternatives-economiques.fr/laetitia-vasseur/droit-a-reparation-europeen-de-theorie-a-pratique/00116618",
+      "summary": "<p>On l’ignore souvent mais en coulisse, l’Union européenne (UE) creuse le sillon de l’économie circulaire.</p>"
     },
     {
       "title": "Recherche, développement, brevets… comment mesurer l’innovation ?",
