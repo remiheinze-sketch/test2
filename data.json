@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-04T04:22:23Z",
+  "updated_at": "2025-12-04T05:12:49Z",
   "articles": [
+    {
+      "title": "Sophie Binet : « Ce budget sacrifie l’avenir, il signe le déclassement du monde du travail et du pays »",
+      "url": "https://www.lemonde.fr/politique/article/2025/12/04/sophie-binet-ce-budget-sacrifie-l-avenir-il-signe-le-declassement-du-monde-du-travail-et-du-pays_6655925_823448.html",
+      "summary": "Dans un entretien au « Monde », la dirigeante de la CGT revient sur l’examen des textes budgétaires en cours et estime « qu’il est crucial de les nettoyer de toutes les horreurs qu’ils contiennent »."
+    },
     {
       "title": "Aux Etats-Unis, la chaîne de supermarchés Costco attaque les droits de douane de Donald Trump en justice",
       "url": "https://www.lemonde.fr/economie/article/2025/12/03/aux-etats-unis-la-chaine-de-supermarches-costco-attaque-les-droits-de-douane-de-donald-trump-en-justice_6655890_3234.html",
@@ -15,11 +20,6 @@
       "title": "« La qualité des relations géopolitiques avec les grandes économies a un impact très important sur la croissance »",
       "url": "https://www.lemonde.fr/idees/article/2025/12/03/la-qualite-des-relations-geopolitiques-avec-les-grandes-economies-a-un-impact-tres-important-sur-la-croissance_6655833_3232.html",
       "summary": "Une étude récente montre que l’importance de l’alignement d’un pays sur les autres a longtemps été sous-estimée par les économistes dans leurs analyses, rapporte la professeure Pauline Grosjean dans sa chronique."
-    },
-    {
-      "title": "Impôts : le fisc va être mieux informé sur vos comptes en cryptomonnaies",
-      "url": "https://www.lemonde.fr/argent/article/2025/12/03/impots-le-fisc-va-etre-mieux-informe-sur-vos-comptes-en-cryptomonnaies_6655795_1657007.html",
-      "summary": "Attention à ceux ouverts par vos enfants encore rattachés à votre foyer fiscal : en cas de contrôle, la facture peut être salée."
     },
     {
       "title": "\"Nous le limiterons à 2 milliards d'euros\": le Sénat réduit l'effort demandé aux collectivités locales",
@@ -102,9 +102,9 @@
       "summary": "À Sofia, une manifestation pacifique a dégénéré en violences, alors que des dizaines de milliers de Bulgares protestaient contre le projet de budget 2026 du gouvernement."
     },
     {
-      "title": "L’info du jour | 2 décembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/12/02/linfo-du-jour-2-decembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Les décisions de justice ne permettent pas l’émergence d’un capitalisme écologiquement « raisonnable »",
+      "url": "https://www.alternatives-economiques.fr/harold-levrel/decisions-de-justice-ne-permettent-lemergence-dun-capitalisme-e/00116848",
+      "summary": "<p>John Commons (1862-1945), un des pères fondateurs de l’économie institutionnaliste, prônait l’avènement d’un « capitalisme raisonnable », qui implique de concilier intérêts individuels, justice sociale et respect des principes démocratiques.</p>"
     },
     {
       "title": "Le « droit à la réparation » européen, de la théorie à la pratique",
@@ -115,11 +115,6 @@
       "title": "Recherche, développement, brevets… comment mesurer l’innovation ?",
       "url": "https://www.alternatives-economiques.fr/recherche-developpement-brevets-mesurer-linnovation/00116919",
       "summary": "<p>La nécessité d’innover, pour une économie nationale, fait consensus. Mais les indicateurs évaluant l’innovation en ont des conceptions différentes et comportent des limites, explique l’économiste Slim Thabet.</p>"
-    },
-    {
-      "title": "Pourquoi les jeux vidéo attirent les fonds d'investissement",
-      "url": "https://www.alternatives-economiques.fr/jeux-video-attirent-fonds-dinvestissement/00117089",
-      "summary": "<p>Dominé par quelques géants ultrarentables, le secteur du jeu vidéo, déjà important mais toujours en croissance, aiguise les appétits de la finance. Une euphorie dont ne profitent cependant pas tous les acteurs.</p>"
     }
   ]
 }
