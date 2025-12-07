@@ -1,6 +1,16 @@
 {
-  "updated_at": "2025-12-07T11:08:47Z",
+  "updated_at": "2025-12-07T12:20:10Z",
   "articles": [
+    {
+      "title": "Les réseaux de chaleur urbains, un fort levier de croissance pour Veolia",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/07/les-reseaux-de-chaleur-urbains-un-fort-levier-de-croissance-pour-veolia_6656355_3234.html",
+      "summary": "Présent en Europe centrale, le géant français de l’eau et des déchets investit 1,6 milliard d’euros pour décarboner ses centrales thermiques d’ici à 2030. Un marché potentiel de 80 milliards d’euros, selon la multinationale."
+    },
+    {
+      "title": "Emmanuel Macron menace la Chine de droits de douane « dans les tout prochains mois »",
+      "url": "https://www.lemonde.fr/international/article/2025/12/07/emmanuel-macron-menace-la-chine-de-droits-de-douane-dans-les-tout-prochains-mois_6656354_3210.html",
+      "summary": "Le président français, de retour d’un voyage officiel en Chine, estime que celle-ci doit prendre des mesures pour réduire le déficit commercial."
+    },
     {
       "title": "\"Une question de vie ou de mort pour l'industrie européenne\": Emmanuel Macron menace la Chine de droits de douane \"dans les tout prochains mois\" en prenant l'exemple sur les États-Unis",
       "url": "https://www.bfmtv.com/economie/international/prenant-l-exemple-sur-les-etats-unis-emmanuel-macron-menace-la-chine-de-droits-de-douane-dans-les-tout-prochains-mois_AD-202512070167.html",
@@ -27,6 +37,16 @@
       "summary": "Lors de l'examen du projet de budget 2026, les sénateurs ont approuvé l'augmentation du délai de carence appliqué aux arrêts maladie dans la fonction publique d'État et ont aussi voté le non-remplacement d'un fonctionnaire d'État sur deux partant à la retraite.<br /><br /><img src=\"https://images.bfmtv.com/0YsyIr-pR7Ti8GNWs4RFBAYtfIU=/3x222:2035x1365/800x0/images/Vue-de-l-hemicycle-du-Senat-le-11-novembre-2024-2017625.jpg\" />"
     },
     {
+      "title": "Bruno Retailleau appelle les députés Les Républicains à ne pas voter le budget de la Sécurité sociale mardi et dénonce \"un hold-up fiscal\"",
+      "url": "https://www.franceinfo.fr/economie/budget/bruno-retailleau-appelle-les-deputes-les-republicains-a-ne-pas-voter-le-budget-de-la-securite-sociale-mardi-et-denonce-un-hold-up-fiscal_7664041.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Ce texte n'est pas votable\" et les élus de la droite à l'Assemblée \"auront le choix de l'abstention ou de voter contre\", a déclaré dimanche le patron des LR."
+    },
+    {
+      "title": "Une démission de Sébastien Lecornu en cas de rejet du budget de la Sécu \"n'aurait pas de sens\", assure la porte-parole du gouvernement",
+      "url": "https://www.franceinfo.fr/economie/budget/une-demission-de-sebastien-lecornu-en-cas-de-rejet-du-budget-de-la-secu-n-aurait-pas-de-sens-assure-la-porte-parole-du-gouvernement_7663795.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Une démission du Premier ministre \"ajouterait de la crise à la crise, de l'instabilité, et cela interromprait toutes les discussions budgétaires en cours\", affirme Maud Bregeon dans \"La Tribune Dimanche\"."
+    },
+    {
       "title": "Vote du budget de la Sécurité sociale, appel à l'union de Nicolas Sarkozy... Le \"8h30 franceinfo\" de Julien Odoul",
       "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/vote-du-budget-de-la-securite-sociale-appel-a-l-union-de-nicolas-sarkozy-le-8h30-franceinfo-de-julien-odoul_7612091.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le député de l'Yonne et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", dimanche 7 décembre 2025."
@@ -40,11 +60,6 @@
       "title": "Stratégie de Sébastien Lecornu pour le budget, les Européens et l'Ukraine... Les informés du matin du dimanche 7 décembre",
       "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/strategie-de-sebastien-lecornu-pour-le-budget-les-europeens-et-l-ukraine-les-informes-du-matin-du-dimanche-7-decembre_7620095.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Tous les jours, les informés débattent de l'actualité autour de Mathilde Siraud et Hadrien Bect."
-    },
-    {
-      "title": "Une démission de Sébastien Lecornu en cas de rejet du budget de la Sécu \"n'aurait pas de sens\", assure la porte-parole du gouvernement",
-      "url": "https://www.franceinfo.fr/economie/budget/une-demission-de-sebastien-lecornu-en-cas-de-rejet-du-budget-de-la-secu-n-aurait-pas-de-sens-assure-la-porte-parole-du-gouvernement_7663795.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Une démission du Premier ministre \"ajouterait de la crise à la crise, de l'instabilité, et cela interromprait toutes les discussions budgétaires en cours\", a affirmé la porte-parole du gouvernement Maud Bregeon dans \"La Tribune Dimanche\"."
     },
     {
       "title": "Cambriolages : de plus en plus de Français s’équipent de dispositifs anti-intrusion",
@@ -67,9 +82,9 @@
       "summary": "Le texte amendé par le Sénat prévoyait une entrée en vigueur pour les enfants nés ou adoptés à partir de 2027. Les députés ont voté pour avancer la date au 1er janvier 2026."
     },
     {
-      "title": "L'Assemblée nationale rétablit la suspension de la réforme des retraites, en nouvelle lecture du budget de la Sécurité sociale",
-      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/l-assemblee-nationale-retablit-la-suspension-de-la-reforme-des-retraites-en-nouvelle-lecture-du-budget-de-la-securite-sociale_7661302.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Supprimée lors de son examen au Sénat, la mesure a été de nouveau proposée via des amendements identiques portés par le gouvernement, les socialistes, le RN, le groupe centriste Liot et quelques députés LR."
+      "title": "L’info du jour | 7 décembre 2025 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2025/12/07/linfo-du-jour-7-decembre-2025-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 décembre 2025 - Matin",
@@ -114,11 +129,6 @@
     {
       "title": "L’info du jour | 4 décembre 2025 - Soir",
       "url": "http://fr.euronews.com/video/2025/12/04/linfo-du-jour-4-decembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 4 décembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/12/04/linfo-du-jour-4-decembre-2025-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
