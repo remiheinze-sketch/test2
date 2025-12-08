@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-08T08:19:30Z",
+  "updated_at": "2025-12-08T09:19:07Z",
   "articles": [
+    {
+      "title": "Pierre Blanquet, juriste : « Le prétendu droit de regard de l’Etat sur le capital de Fnac Darty ne repose sur aucun instrument juridique »",
+      "url": "https://www.lemonde.fr/idees/article/2025/12/08/pierre-blanquet-juriste-le-pretendu-droit-de-regard-de-l-etat-sur-le-capital-de-fnac-darty-ne-repose-sur-aucun-instrument-juridique_6656451_3232.html",
+      "summary": "Dans une tribune au « Monde », le professeur de droit public estime que, dans l’affaire du rachat d’une partie du capital de l’enseigne française par le chinois JD.com, les déclarations rassurantes du ministre de l’économie n’étaient que des effets d’annonce. Il demande un contrôle plus rigoureux des investissements étrangers en France."
+    },
     {
       "title": "Terra Nova suggère de relever la TVA pour éviter une crise de la dette",
       "url": "https://www.lemonde.fr/politique/article/2025/12/08/terra-nova-suggere-de-relever-la-tva-pour-eviter-une-crise-de-la-dette_6656418_823448.html",
@@ -22,29 +27,44 @@
       "summary": "Le président français, de retour d’un voyage officiel en Chine, estime que celle-ci doit prendre des mesures pour réduire le déficit commercial."
     },
     {
+      "title": "Soit on augmente les déficits, soit on travaille plus, soit on baisse les revenus: l'ancien patron de l'Insee tacle les politiques qui sont \"dans le déni\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/soit-on-augmente-les-deficits-soit-on-travaille-plus-soit-on-baisse-les-revenus-l-ancien-patron-de-l-insee-tacle-les-politiques-qui-sont-dans-le-deni_AV-202512080329.html",
+      "summary": "Invité sur BFM Business, Jean-Luc Tavernier juge \"surprenante\" la résilience de l'économie française mais appelle à ne pas se satisfaire d'un croissance de 0,5% par trimestre, qui plus est dans un contexte de finances publiques dégradées. <br /><br /><img src=\"https://images.bfmtv.com/mCDR_7gtMjYvMXVMtS1Bn5X2-s4=/0x1:864x487/800x0/images/Jean-Luc-Tavernier-2196896.jpg\" />"
+    },
+    {
+      "title": "\"On ne peut pas prélever 50% de la richesse nationale et perdre 200 milliards\": le patron de Voyageurs du Monde estime qu'il faut baisser les dépenses sociales parce qu'on a \"tout faux\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/on-ne-peut-pas-prelever-50-de-la-richesse-nationale-et-perdre-200-milliards-le-patron-de-voyageurs-du-monde-estime-qu-il-faut-baisser-les-depenses-sociales-parce-qu-on-a-tout-faux_AV-202512080286.html",
+      "summary": "Sur RTL ce lundi, le PDG du tour-operator raille le gouvernement qui selon lui \"a tout faux\".<br /><br /><img src=\"https://images.bfmtv.com/3n0AW1XpCLDXMWpYRXNtzjaXUtU=/3x253:467x514/800x0/images/Le-patron-de-l-Office-de-tourisme-de-Paris-et-PDG-du-groupe-Voyageurs-du-Monde-Jean-Francois-Rial-le-19-juin-2014-a-Paris-1667512.jpg\" />"
+    },
+    {
+      "title": "L'éclaireur - 08/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-08-12_EN-202512080283.html",
+      "summary": "Ce lundi 8 décembre, la possible baisse de taux annoncée par la Fed, l'industrie allemande qui se montre plus résiliente, et la Chine qui continue d'acheter massivement de l'or, ont été abordés par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
+    },
+    {
+      "title": "L'éclaireur - 08/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-08-12_VN-202512080280.html",
+      "summary": "Ce lundi 8 décembre, la possible baisse de taux annoncée par la Fed, l'industrie allemande qui se montre plus résiliente, et la Chine qui continue d'acheter massivement de l'or, ont été abordés par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Ty5jWWgmr_miIptmT6ZiSeyQscs=/0x0:1280x720/800x0/images/L-eclaireur-08-12-2196873.jpg\" />"
+    },
+    {
       "title": "Finances publiques : des défis multiples",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-finances-publiques-des-defis-multiples_VN-202512080253.html",
       "summary": "\"On ne peut pas tout promettre. On peut réduire le déficit sans travailler plus en acceptant qu'il y ait des hausses de prélèvements et des baisses de pension. Ou on peut se résigner à travailler plus.\"<br /><br /><img src=\"https://images.bfmtv.com/QsU6TbI0_edKrL3d5JgnxaWyzq0=/0x0:1280x720/800x0/images/Finances-publiques-des-defis-multiples-2196837.jpg\" />"
     },
     {
-      "title": "Le Grand entretien : Budget, retraites, IA... Des idées multiples - 08/12",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-le-grand-entretien-budget-retraites-ia-des-idees-multiples-08-12_VN-202512080199.html",
-      "summary": "Jean-Luc Tavernier, inspecteur général des finances et ancien directeur général de l'Insee, était l'invité de Laure Closier dans Good Morning Business, ce lundi 8 décembre. Ils sont revenus sur les trois objectifs contradictoires que la France tente d'atteindre, sur la contrainte budgétaire à laquelle le pays fait face, et sur la résilience de la France aux chocs économiques , sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/f6V4IT-yY-b933HR2_z2ba8Xdfc=/0x0:1280x720/800x0/images/Le-Grand-entretien-Budget-retraites-IA-Des-idees-multiples-08-12-2196792.jpg\" />"
-    },
-    {
-      "title": "Médicaments : pourquoi la France est à la traîne",
-      "url": "https://www.bfmtv.com/economie/video-medicaments-pourquoi-la-france-est-a-la-traine_VN-202512080188.html",
-      "summary": "Les laboratoires de médicaments quittent la France. Prix trop bas, taxes trop nombreuses... Innover dans la santé en France n'est plus rentable.<br /><br /><img src=\"https://images.bfmtv.com/V5-OeQ57RyvTQHeeZZkIQnCBpN0=/0x0:1280x720/800x0/images/Medicaments-pourquoi-la-France-est-a-la-traine-2196781.jpg\" />"
-    },
-    {
-      "title": "Budget: vers un déficit public de 2025 moins mauvais que prévu ?",
-      "url": "https://www.bfmtv.com/economie/video-budget-vers-un-deficit-public-de-2025-moins-mauvais-que-prevu_VN-202512080177.html",
-      "summary": "La trajectoire mensuelle du déficit public laisse penser qu'il sera moins mauvais que prévu pour l'année 2025. Une information qui pourrait peut-être jouer dans les débats pour le vote du budget à l'Assemblée. <br /><br /><img src=\"https://images.bfmtv.com/EdVluPKTOmURUQ0OtNnLSmD6SzY=/0x0:1280x720/800x0/images/Budget-vers-un-deficit-public-de-2025-moins-mauvais-que-prevu-2196775.jpg\" />"
+      "title": "Budget de la Sécurité sociale : la tension monte à l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-la-tension-monte-a-l-assemblee-nationale_7665577.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Mardi 9 décembre, l'Assemblée nationale votera le budget de la Sécurité sociale. Du côté des Républicains et d'Horizons, la décision semble déjà prise."
     },
     {
       "title": "DIRECT. Budget de la Sécurité sociale : Olivier Faure appelle les députés socialistes à voter pour le texte",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-olivier-faure-appelle-les-deputes-socialistes-a-voter-pour-le-texte_7665532.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"Le Premier ministre s'est engagé (sur la suspension de la réforme des retraites), il s'est montré fiable dans toute la discussion\", a souligné le premier secrétaire du Parti socialiste, lundi sur BFMTV."
+    },
+    {
+      "title": "Sécurité sociale : \"Ce budget n'est pas parfait\" mais \"rester des mois sur la discussion ne nous permettra pas d'avancer\", estime Gabriel Attal",
+      "url": "https://www.franceinfo.fr/economie/budget/securite-sociale-ce-budget-n-est-pas-parfait-mais-rester-des-mois-sur-la-discussion-budgetaire-ne-nous-permettra-pas-d-avancer-estime-gabriel-attal_7665553.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'ancien Premier ministre a défendu le texte du gouvernement Lecornu, ce lundi sur France Inter, à la veille de son vote à l'Assemblée nationale."
     },
     {
       "title": "Édito. Vote du budget de la Sécurité sociale : Sébastien Lecornu peut-il réussir son pari ?",
@@ -60,21 +80,6 @@
       "title": "\"Hold-up fiscal\", \"déni de réalité\"... La tension monte à 48 heures du vote sur le budget de la Sécurité sociale à l'Assemblée nationale",
       "url": "https://www.franceinfo.fr/economie/budget/hold-up-fiscal-deni-de-realite-la-tension-monte-a-48-heures-du-vote-sur-le-budget-de-la-securite-sociale-a-l-assemblee-nationale_7664371.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La droite devrait voter contre l'ensemble du texte en raison des concessions faites par Sébastien Lecornu aux socialistes. Un rejet pourrait entraîner la démission du Premier ministre."
-    },
-    {
-      "title": "La croissance en 2025 atteindra \"au moins\" 0,8%, selon le ministre de l'Economie, Roland Lescure",
-      "url": "https://www.franceinfo.fr/economie/croissance/la-croissance-en-2025-atteindra-au-moins-0-8-selon-roland-lescure_7664101.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"On a un très bon troisième trimestre, donc il faudrait vraiment qu'on ait un mauvais quatrième, ce à quoi je ne crois pas, pour qu'on soit en dessous\", a précisé le ministre dimanche."
-    },
-    {
-      "title": "Bruno Retailleau appelle les députés Les Républicains à ne pas voter le budget de la Sécurité sociale mardi et dénonce \"un hold-up fiscal\"",
-      "url": "https://www.franceinfo.fr/economie/budget/bruno-retailleau-appelle-les-deputes-les-republicains-a-ne-pas-voter-le-budget-de-la-securite-sociale-mardi-et-denonce-un-hold-up-fiscal_7664041.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Ce texte n'est pas votable\" et les élus de la droite à l'Assemblée \"auront le choix de l'abstention ou de voter contre\", a déclaré dimanche le patron des LR."
-    },
-    {
-      "title": "Une démission de Sébastien Lecornu en cas de rejet du budget de la Sécu \"n'aurait pas de sens\", assure la porte-parole du gouvernement",
-      "url": "https://www.franceinfo.fr/economie/budget/une-demission-de-sebastien-lecornu-en-cas-de-rejet-du-budget-de-la-secu-n-aurait-pas-de-sens-assure-la-porte-parole-du-gouvernement_7663795.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Une démission du Premier ministre \"ajouterait de la crise à la crise, de l'instabilité, et cela interromprait toutes les discussions budgétaires en cours\", affirme Maud Bregeon dans \"La Tribune Dimanche\"."
     },
     {
       "title": "L’info du jour | 8 décembre 2025 - Matin",
