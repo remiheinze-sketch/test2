@@ -1,18 +1,23 @@
 {
-  "updated_at": "2025-12-09T08:18:13Z",
+  "updated_at": "2025-12-09T09:16:01Z",
   "articles": [
+    {
+      "title": "Pour juguler la surproduction d’électricité, RTE évoque un ralentissement du développement des renouvelables",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/09/pour-juguler-la-surcapacite-d-electricite-rte-evoque-un-ralentissement-du-developpement-des-renouvelables_6656591_3234.html",
+      "summary": "Les énergies fossiles – qui représentent près de 60 % de la consommation d’énergie en France – pourraient être remplacées par une hausse de l’utilisation d’électricité. A défaut, le gestionnaire du réseau français d’électricité n’exclut pas qu’il faille revoir à la baisse le rythme de croissance de l’éolien terrestre et du solaire."
+    },
     {
       "title": "Budget 2026 : les organisations patronales demandent au gouvernement de préserver « les allègements de cotisations » des entreprises",
       "url": "https://www.lemonde.fr/economie/article/2025/12/09/budget-2026-les-organisations-patronales-demandent-au-gouvernement-de-preserver-les-allegements-de-cotisations-des-entreprises_6656551_3234.html",
       "summary": "« Les raboter encore, c’est une taxe sur l’emploi. Et une taxe sur l’emploi, c’est une taxe sur les salaires de demain », assurent le Medef, la Confédération des petites et moyennes entreprises et l’U2P dans un communiqué publié lundi 8 décembre, à la veille du vote sur le budget de la Sécurité sociale."
     },
     {
-      "title": "Budget 2026 : « Le monde associatif est en grave danger »",
-      "url": "https://www.lemonde.fr/idees/article/2025/12/08/budget-2026-le-monde-associatif-est-en-grave-danger_6656514_3232.html",
-      "summary": "Au moment où la pauvreté et le chômage sont en recrudescence, le projet de budget du gouvernement amputerait massivement les financements d’un secteur indispensable à la cohésion sociale du pays, alerte, dans une tribune au « Monde », un collectif d’associations, d’organisations syndicales et patronales réuni par Le Mouvement associatif."
+      "title": "70 milliards d'euros de déficit à cause des hydrocarbures: RTE presse la France d'aller plus vite dans l'électrification alors qu'elle a les prix de l'électricité parmi les plus bas du continent",
+      "url": "https://www.bfmtv.com/economie/70-milliards-d-euros-de-deficit-a-cause-des-hydrocarbures-rte-presse-la-france-d-aller-plus-vite-dans-l-electrification-alors-qu-elle-a-prix-de-l-electricite-parmi-les-plus-bas-du-continent_AD-202512090360.html",
+      "summary": "Le pays accuse aujourd'hui un \"retard\" dans cette \"électrification\" alors qu'il dispose de \"l'avantage quasi-unique en Europe d'une production d'électricité particulièrement abondante et déjà décarbonée à 95%\", et avec des prix sur les marchés de gros parmi les plus bas du continent, souligne RTE. <br /><br /><img src=\"https://images.bfmtv.com/OPsXdDLYhDtodHwZvBdyQ56c1fo=/0x66:1280x786/800x0/images/Reforme-du-marche-de-l-electricite-l-UFC-Que-Choisir-et-la-CLCV-craignent-une-hausse-sur-la-facture-1962071.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget de la Sécu: la ministre Amélie de Montchalin \"ne sait pas\" si le texte sera adopté",
+      "title": "DIRECT. Budget de la Sécu: les Écologistes ne voteront pas \"pour\" le texte",
       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/direct-budget-de-la-secu-les-deputes-votent-sur-le-projet-de-loi-ce-mardi-un-scrutin-crucial-mais-incertain-pour-sebastien-lecornu_LN-202512090162.html",
       "summary": "Les députés se prononcent aujourd'hui sur le projet de loi de financement de la Sécurité sociale (PLFSS), un scrutin dont l'issue s'annonce incertaine et dont les conséquences politiques pourraient être majeures.<br /><br /><img src=\"https://images.bfmtv.com/fKvRCiG7OekEAivVqs8dZfMF-B0=/0x0:1920x1080/800x0/images/Amelie-de-Montchalin-ministre-chargee-des-Comptes-publics-invitee-du-Face-a-face-sur-BFMTV-RMC-le-mardi-9-decembre-2025-2197562.jpg\" />"
     },
@@ -27,19 +32,34 @@
       "summary": "Initialement prévu à 22,5 milliards d'euros (voire près de 30 milliards en cas d'absence de budget pour 2026), le déficit de la Sécurité sociale serait sous les 20 milliards d'euros selon le gouvernement. <br /><br /><img src=\"https://images.bfmtv.com/zCaT3nGw2oBGHF9v8WMDvBMYq6Y=/0x39:768x471/800x0/images/La-ministre-de-la-Sante-Stephanie-Rist-le-26-novembre-2025-a-Paris-2196637.jpg\" />"
     },
     {
-      "title": "PLFSS : vote décisif aujourd'hui",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-plfss-vote-decisif-aujourd-hui_VN-202512090182.html",
-      "summary": "\"C'est dans ce texte qu'on trouve la suspension de la réforme des retraites, l'augmentation des franchises médicales et l'objectif de dépenses des soins des français pour l'année à venir.\"<br /><br /><img src=\"https://images.bfmtv.com/jHJfP5nVYFF8WEIwuMKRPiwpVec=/0x0:1280x720/800x0/images/PLFSS-vote-decisif-aujourd-hui-2197499.jpg\" />"
+      "title": "Budget de la Sécu : il faut \"absolument\" l'adopter parce qu'\"il y a la suspension de la réforme des retraites dedans\", estime Marylise Léon (CFDT)",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-secu-il-faut-absolument-l-adopter-parce-qu-il-y-a-la-suspension-de-la-reforme-des-retraites-dedans-estime-marylise-leon-cfdt_7667788.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La secrétaire générale de la CFDT regrette toutefois le nouveau report de la mise en place de la protection sociale complémentaire dans la fonction publique hospitalière."
     },
     {
-      "title": "Budget 2026 : \" Ce texte prépare un crash social \", déclare Bruno Retailleau, président du parti Les Républicains et sénateur de la Vendée.",
-      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/budget-2026-ce-texte-prepare-un-crash-social-declare-bruno-retailleau-president-du-parti-les-republicains-et-senateur-de-la-vendee_7667695.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Mardi 9 décembre, Bruno Retailleau, président du parti Les Républicains et sénateur de la Vendée, était l’invité des 4 Vérités sur France 2. Alors que le vote du budget de la Sécurité sociale se tient aujourd’hui à l’Assemblée nationale, il a dénoncé un texte qu’il qualifie de \"l’un des pires depuis longtemps\" et a mis en garde contre ses conséquences sociales et économiques, notamment pour les jeunes générations et le financement des retraites"
+      "title": "Budget de la Sécurité sociale, laïcité, ... Les informés du matin du mardi 09 décembre 2025",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/budget-de-la-securite-sociale-laicite-les-informes-du-matin-du-mardi-09-decembre-2025_7638158.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
+    },
+    {
+      "title": "Congé de naissance, retraites : que prévoit le budget de la Sécurité sociale ?",
+      "url": "https://www.franceinfo.fr/economie/budget/conge-de-naissance-retraites-que-prevoit-le-budget-de-la-securite-sociale_7667758.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Ce 9 décembre, l’Assemblée vote : un congé naissance de 1 à 2 mois offert aux parents dès janvier, la réforme des retraites repoussée après 2027, les arrêts maladie mieux encadrés. Un scrutin sous haute tension, où chaque voix comptera"
+    },
+    {
+      "title": "Budget de la Sécu : \"Forte probabilité que nos députés votent majoritairement contre\", dit le secrétaire national du PCF Fabien Roussel",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-secu-forte-probabilite-que-nos-deputes-votent-majoritairement-contre-dit-le-secretaire-national-du-pcf-fabien-roussel_7667755.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'ancien député du Nord fustige le gel des pensions au-dessus de 1 400 euros."
     },
     {
       "title": "DIRECT. Vote sur le budget de la Sécurité sociale : \"L'abstention est une possibilité\" pour les écologistes, déclare la cheffe de file du groupe, Cyrielle Chatelain",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-les-deputes-vont-se-prononcer-sur-le-projet-de-loi-de-financement-de-la-securite-sociale-un-vote-crucial-mais-tres-incertain_7667497.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les députés votent, mardi après-midi, sur le volet \"dépenses\" du PLFSS, puis sur l'ensemble du texte."
+    },
+    {
+      "title": "Budget 2026 : \" Ce texte prépare un crash social \", déclare Bruno Retailleau, président du parti Les Républicains et sénateur de la Vendée.",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/budget-2026-ce-texte-prepare-un-crash-social-declare-bruno-retailleau-president-du-parti-les-republicains-et-senateur-de-la-vendee_7667695.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Mardi 9 décembre, Bruno Retailleau, président du parti Les Républicains et sénateur de la Vendée, était l’invité des 4 Vérités sur France 2. Alors que le vote du budget de la Sécurité sociale se tient aujourd’hui à l’Assemblée nationale, il a dénoncé un texte qu’il qualifie de \"l’un des pires depuis longtemps\" et a mis en garde contre ses conséquences sociales et économiques, notamment pour les jeunes générations et le financement des retraites"
     },
     {
       "title": "Budget 2026 : \"avec le texte que nous avons, le déficit sera ramené à 19,6 milliards d'euros\", affirme la ministre de la Santé",
@@ -70,21 +90,6 @@
       "title": "Budget 2026 : le projet de taxe sur la cigarette électronique est \"totalement inadapté\" et \"d'un cynisme absolu\", dénonce la Fédération interprofessionnelle de la vape",
       "url": "https://www.franceinfo.fr/sante/drogue-addictions/cigarette-electronique/budget-2026-le-projet-de-taxe-sur-la-vape-est-totalement-inadapte-et-d-un-cynisme-absolu-denonce-la-federation-interprofessionnelle-de-la-vape_7667575.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Jean Moiroud déplore un texte \"extrême\" qu'il mettrait en danger \"plus de 160 TPE, PME\" en France."
-    },
-    {
-      "title": "Personnes concernées, coût... Les conséquences d'une suspension de la réforme des retraites en cas de vote du budget de la Sécurité sociale",
-      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/personnes-concernees-cout-les-consequences-d-une-suspension-de-la-reforme-des-retraites-en-cas-de-vote-du-budget-de-la-securite-sociale_7666444.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'Assemblée nationale doit s'exprimer mardi sur le projet de budget de la Sécurité sociale pour 2026 qui comprend, notamment, la suspension de la réforme des retraites."
-    },
-    {
-      "title": "Budget de la Sécurité sociale : Edouard Philippe recommande aux députés Horizons de s'abstenir mardi lors du vote sur l'ensemble du texte",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-de-la-securite-sociale-olivier-faure-appelle-les-deputes-socialistes-a-voter-pour-le-texte_7665532.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Ce texte ne nous satisfait pas et nous ne pouvons pas le voter\", a justifié lundi soir le maire du Havre."
-    },
-    {
-      "title": "Budget de la Sécurité sociale : Edouard Philippe recommande aux députés Horizons de s'abstenir mardi lors du vote sur l'ensemble du texte",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-edouard-philippe-recommande-aux-deputes-horizons-de-s-abstenir-mardi-lors-du-vote-sur-l-ensemble-du-texte_7666552.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Ce texte ne nous satisfait pas et nous ne pouvons pas le voter\", a justifié le maire du Havre lundi soir, estimant que \"le compte n'y est pas\"."
     },
     {
       "title": "L’info du jour | 9 décembre 2025 - Matin",
