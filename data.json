@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-11T15:14:21Z",
+  "updated_at": "2025-12-11T16:17:59Z",
   "articles": [
+    {
+      "title": "Le gouvernement veut pérenniser les ruptures conventionnelles pour les fonctionnaires",
+      "url": "https://www.lemonde.fr/politique/article/2025/12/11/le-gouvernement-veut-perenniser-les-ruptures-conventionnelles-pour-les-fonctionnaires_6656919_823448.html",
+      "summary": "Un amendement vient d’être déposé au Sénat, dans le cadre du budget 2026, afin de prolonger le mécanisme institué en 2020 pour faciliter les reconversions professionnelles. Si aucune disposition législative n’est mise en place avant le 31 décembre, les fonctionnaires ne pourront plus bénéficier du dispositif."
+    },
     {
       "title": "En Suède, les médias de service public fragilisés",
       "url": "https://www.lemonde.fr/economie/article/2025/12/11/en-suede-les-medias-de-service-public-fragilises_6656906_3234.html",
@@ -12,9 +17,19 @@
       "summary": "Mercredi 10 décembre, la banque centrale américaine a réduit ses taux d’un quart de point. Donald Trump devrait nommer le successeur de son président, Jerome Powell, dans les jours à venir."
     },
     {
-      "title": "Il est au plus bas depuis 2020: le déficit commercial des États-Unis se réduit beaucoup plus fortement que prévu",
+      "title": "L'éco du monde : FED, le retour du quantitative easing ? – 11/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-fed-le-retour-du-quantitative-easing-11-12_EN-202512110676.html",
+      "summary": "Ce jeudi 11 décembre, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé la baisse de taux de la Fed en 2026, la croissance américaine en 2026, et la reprise de la Fed sur sur les achats de bons du Trésors US, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : FED, le retour du quantitative easing ? - 11/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-fed-le-retour-du-quantitative-easing-11-12_VN-202512110677.html",
+      "summary": "Ce jeudi 11 décembre, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé la baisse de taux de la Fed en 2026, la croissance américaine en 2026, et la reprise de la Fed sur sur les achats de bons du Trésors US, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/yJE13xk04oZ8zmd_IUotO829f_4=/0x0:1280x720/800x0/images/L-eco-du-monde-FED-le-retour-du-quantitative-easing-11-12-2199384.jpg\" />"
+    },
+    {
+      "title": "INFOGRAPHIE. Il est au plus bas depuis 2020: le déficit commercial des États-Unis se réduit beaucoup plus fortement que prévu",
       "url": "https://www.bfmtv.com/economie/international/il-est-au-plus-bas-depuis-2020-le-deficit-commercial-des-etats-unis-se-reduit-beaucoup-plus-fortement-que-prevu_AD-202512110653.html",
-      "summary": "Au mois de septembre, la balance commerciale des biens et services a vu son déficit s'établir à 52,8 milliards de dollars, soit un recul de 10,9% par rapport au mois précédent, lui-même déjà marqué par un fort recul.<br /><br /><img src=\"https://images.bfmtv.com/ANVMmT7AKI0Ad_9D61pPkRenhJM=/5x25:1109x646/800x0/images/Etats-Unis-2199361.jpg\" />"
+      "summary": "Au mois de septembre, la balance commerciale des biens et services a vu son déficit s'établir à 52,8 milliards de dollars, soit un recul de 10,9% par rapport au mois précédent, lui-même déjà marqué par un fort recul.<br /><br /><img src=\"https://images.bfmtv.com/VMq5qB8I9nQPQmdOqZlJJmtOwdc=/0x105:2048x1257/800x0/images/Donald-Trump-2198910.jpg\" />"
     },
     {
       "title": "Un député touche environ 650 euros de retraite lorsqu'il a effectué un mandat: l'Assemblée nationale gèle la pension des anciens députés pour faire 800.000 euros d'économie",
@@ -32,9 +47,14 @@
       "summary": "Le budget 2026 de la Sécu prévoit une surtaxe de 1,1 milliard d'euros sur les mutuelles. Les assurés pourraient en subir les effets, mais pas immédiatement. En 2025, les mutuelles avaient déjà augmenté leurs tarifs de 6% sans justification. <br /><br /><img src=\"https://images.bfmtv.com/9n7Iu4DTBR31jB9tTLJg9IyTNlg=/0x0:1280x720/800x0/images/En-2026-les-mutuelles-augmenteront-en-moyenne-leurs-tarifs-de-3-4-a-8-2199318.jpg\" />"
     },
     {
-      "title": "\"Il faut que chacun y mette du sien\": Roland Lescure \"convaincu\" que la France aura un budget au 31 décembre et espère un déficit à moins de 5%",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/il-faut-que-chacun-y-mette-du-sien-roland-lescure-convaincu-que-la-france-aura-un-budget-au-31-decembre-et-espere-un-deficit-a-moins-de-5_AD-202512110543.html",
-      "summary": "Le ministre de l'Économie a rappelé qu'il visait un déficit \"à pas plus de 5%\" en 2026. Pour l'atteindre, 4,5 milliards d'euros d'économies supplémentaires devront être trouvées pour compenser le coût des concessions accordées dans le budget de la Sécu. <br /><br /><img src=\"https://images.bfmtv.com/yBM8o3fgda-WcyFP9g9vup1dQeY=/0x1:2048x1153/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-a-l-Assemblee-nationale-le-28-octobre-2025-2175728.jpg\" />"
+      "title": "L'Assemblée nationale gèle les retraites des anciens députés pour 2026, une économie de 800 000 euros pour l'institution",
+      "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-gele-pour-2026-les-retraites-des-anciens-deputes-une-economie-de-800-000-euros-pour-l-institution_7672918.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La décision du bureau a été actée à l'unanimité sur proposition des questeurs de l'Assemblée, a appris franceinfo de source parlementaire."
+    },
+    {
+      "title": "EN DIRECT. Le Talk - Vote du budget de la Sécu : mais que s’est-il passé ? Prostitution : faut-il rouvrir les maisons closes ? Venez poser vos questions en direct dans le tchat !",
+      "url": "https://www.franceinfo.fr/economie/budget/en-direct-le-talk-vote-du-budget-de-la-secu-mais-que-s-est-il-passe-prostitution-faut-il-rouvrir-les-maisons-closes-venez-poser-vos-questions-en-direct-dans-le-tchat_7670581.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans le Talk de franceinfo jeudi 11 décembre, le vote du projet de loi de financement de la Sécurité sociale et la réouverture des maisons closes pour les travailleur.euses du sexe proposée par le Rassemblement national."
     },
     {
       "title": "Budget de la Sécurité sociale : \"Les socialistes permettent d'être la béquille du gouvernement\", regrette Éric Coquerel",
@@ -50,11 +70,6 @@
       "title": "Budget : \"Les entreprises vont certainement payer l'addition\", déplore Thierry Cotillard président du groupement Mousquetaires",
       "url": "https://www.franceinfo.fr/economie/budget/budget-les-entreprises-vont-certainement-payer-l-addition-deplore-thierry-cotillard-president-du-groupement-mousquetaires_7672528.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le budget 2026 est examiné au Sénat jusqu'au 15 décembre. La copie envoyée par l'Assemblée laisse le président du groupement Mousquetaires/Intermarché pessimiste. \"On va vers un risque d'asphyxie de l'économie\" déplore-t-il sur franceinfo jeudi 11 décembre."
-    },
-    {
-      "title": "Budget, Noël, négociations commerciales... le 8.30 franceinfo de Thierry Cotillard",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-noel-negociations-commerciales-le-8-30-franceinfo-de-thierry-cotillard_7672348.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le président du groupe Mousquetaires/Intermarché s'inquiète d'un allègement des cotisations patronales. Le Sénat poursuit l'examen du budget 2026 en première lecture, jusqu'au 15 décembre 2025. Le 4 décembre 2025, il a adopté sa partie \"recettes\"."
     },
     {
       "title": "L’info du jour | 11 décembre 2025 - Mi-journée",
