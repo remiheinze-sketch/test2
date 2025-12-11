@@ -1,15 +1,30 @@
 {
-  "updated_at": "2025-12-11T13:32:34Z",
+  "updated_at": "2025-12-11T14:15:40Z",
   "articles": [
+    {
+      "title": "En Suède, les médias de service public fragilisés",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/11/en-suede-les-medias-de-service-public-fragilises_6656906_3234.html",
+      "summary": "Si le rôle de la radio et de la télévision publiques est souvent mis en avant pour la défense civile du pays, le budget est à la traîne et plusieurs réformes récemment adoptées risquent de fragiliser les médias de service public."
+    },
     {
       "title": "La Réserve fédérale américaine baisse ses taux, sur fond de division des gouverneurs quant à l’état de l’économie aux Etats-Unis",
       "url": "https://www.lemonde.fr/international/article/2025/12/10/la-reserve-federale-americaine-baisse-ses-taux-sur-fond-de-division-des-gouverneurs-quant-a-l-etat-de-l-economie-aux-etats-unis_6656819_3210.html",
       "summary": "Mercredi 10 décembre, la banque centrale américaine a réduit ses taux d’un quart de point. Donald Trump devrait nommer le successeur de son président, Jerome Powell, dans les jours à venir."
     },
     {
-      "title": "Les opérateurs télécoms plaident pour une « consolidation du secteur » afin de continuer à investir",
-      "url": "https://www.lemonde.fr/economie/article/2025/12/10/les-operateurs-telecoms-plaident-pour-une-concentration-du-marche-pour-continuer-a-investir_6656770_3234.html",
-      "summary": "Le secteur martèle qu’un retour à trois opérateurs, dans le sillage d’un éventuel rachat de SFR, permettrait d’amortir les dépenses dans la fibre optique, la 5G ou l’intelligence artificielle."
+      "title": "\"Cela représente 800.000 euros d'économies\": l'Assemblée nationale gèle les retraites des anciens députés",
+      "url": "https://www.bfmtv.com/economie/patrimoine/retraite/cela-represente-800-000-euros-d-economies-l-assemblee-nationale-gele-les-retraites-des-anciens-deputes_AD-202512110615.html",
+      "summary": "Le bureau de l'Assemblée nationale, sa plus haute instance exécutive, a acté le gel des pensions de retraite des anciens députés pour 2026, a-t-on appris ce jeudi 11 décembre de sources parlementaires.<br /><br /><img src=\"https://images.bfmtv.com/pMVVqnW9wuMWcVUlB7iNodpBneI=/0x74:2048x1226/800x0/images/Assemblee-nationale-vote-2196794.jpg\" />"
+    },
+    {
+      "title": "Au lendemain de son adoption à Assemblée nationale, le Sénat approuve à son tour la hausse de 6,7 milliards d'euros du budget de la défense",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/au-lendemain-de-son-adoption-a-assemblee-nationale-le-senat-approuve-a-son-tour-la-hausse-de-6-7-milliards-d-euros-du-budget-de-la-defense_AD-202512110599.html",
+      "summary": "Les sénateurs ont très largement voté à main levée en faveur de la partie consacrée aux armées du projet de budget de l'Etat pour 2026. Les écologistes se sont abstenus et les communistes ont voté contre.<br /><br /><img src=\"https://images.bfmtv.com/nVGJvSai1yOe2bTPEqf83g3Lsv8=/0x40:768x472/800x0/images/Les-senateurs-votent-le-budget-de-la-Securite-sociale-au-Senat-le-26-novembre-2025-a-Paris-2190278.jpg\" />"
+    },
+    {
+      "title": "En 2026, les mutuelles augmenteront en moyenne leurs tarifs de 3,4% à 8%",
+      "url": "https://www.bfmtv.com/economie/video-en-2026-les-mutuelles-augmenteront-en-moyenne-leurs-tarifs-de-3-4-a-8_VN-202512110591.html",
+      "summary": "Le budget 2026 de la Sécu prévoit une surtaxe de 1,1 milliard d'euros sur les mutuelles. Les assurés pourraient en subir les effets, mais pas immédiatement. En 2025, les mutuelles avaient déjà augmenté leurs tarifs de 6% sans justification. <br /><br /><img src=\"https://images.bfmtv.com/9n7Iu4DTBR31jB9tTLJg9IyTNlg=/0x0:1280x720/800x0/images/En-2026-les-mutuelles-augmenteront-en-moyenne-leurs-tarifs-de-3-4-a-8-2199318.jpg\" />"
     },
     {
       "title": "\"Il faut que chacun y mette du sien\": Roland Lescure \"convaincu\" que la France aura un budget au 31 décembre et espère un déficit à moins de 5%",
@@ -50,11 +65,6 @@
       "title": "\"On manque un peu de transparence en France\" : l'embarrassant dossier des notes de frais des maires",
       "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-manque-un-peu-de-transparence-en-france-l-embarrassant-dossier-des-notes-de-frais-des-maires_7642520.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Après l'affaire emblématique des dépenses d'Anne Hidalgo en vêtements de luxe, opposants comme observateurs supportent difficilement l'opacité liée aux frais de représentation des maires. Cette polémique ne se limite pas, loin de là, à Paris. Des associations militent pour la publication de toutes les notes de frais."
-    },
-    {
-      "title": "Adoption du budget de la Sécurité sociale : de combien les mutuelles vont-elles augmenter ?",
-      "url": "https://www.franceinfo.fr/economie/budget/adoption-du-budget-de-la-securite-sociale-de-combien-les-mutuelles-vont-elles-augmenter_7672360.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Vos mutuelles vont-elles encore augmenter et de combien ? La question se pose après l'adoption du budget de la Sécurité sociale. Le texte prévoit la taxation exceptionnelle des complémentaires santé à hauteur d'un milliard d'euros. Sera-t-elle répercutée sur les assurés dans les années à venir ? France Télévisions vous livre les détails."
     },
     {
       "title": "L’info du jour | 11 décembre 2025 - Mi-journée",
