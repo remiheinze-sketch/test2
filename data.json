@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-15T04:04:18Z",
+  "updated_at": "2025-12-15T05:17:55Z",
   "articles": [
+    {
+      "title": "« Le Sénat doit ouvrir l’assurance-chômage aux artistes-auteurs et autrices »",
+      "url": "https://www.lemonde.fr/idees/article/2025/12/15/le-senat-doit-ouvrir-l-assurance-chomage-aux-artistes-auteurs-et-autrices_6657457_3232.html",
+      "summary": "Parce que créer est un métier et que le secteur de l’économie culturelle est traversé par une grande précarité, il est temps de reconnaître pleinement la condition des artistes-auteurs en leur ouvrant les droits à l’assurance-chômage, soutient, dans une tribune au « Monde », un collectif de créateurs parmi lesquels Pénélope Bagieu, Mona Chollet et Ernest Pignon-Ernest."
+    },
     {
       "title": "Budget 2026 : le Sénat vote un geste en faveur des fonctionnaires enceintes",
       "url": "https://www.lemonde.fr/politique/article/2025/12/14/budget-2026-le-senat-vote-un-geste-en-faveur-des-fonctionnaires-enceintes_6657274_823448.html",
@@ -10,6 +15,11 @@
       "title": "« La bonne nouvelle, c’est que la Chine, le plus grand pollueur de la planète, a commencé à se dépolluer »",
       "url": "https://www.lemonde.fr/planete/article/2025/12/14/la-bonne-nouvelle-c-est-que-la-chine-le-plus-grand-pollueur-de-la-planete-a-commence-a-se-depolluer_6657236_3244.html",
       "summary": "Les Chinois sont en passe de réussir leur pari de verdir leur économie. Certes, ils continuent d’ouvrir des centrales à charbon, mais celles-ci, plus souples que les anciennes, sont conçues pour intervenir en appui des énergies renouvelables, explique l’économiste Cédric Philibert dans un entretien au « Monde »."
+    },
+    {
+      "title": "Elle pèse à elle seule 1,6% du PIB du Portugal et 5% de ses exportations: c'est depuis cette usine près de Lisbonne que Volkswagen inonde l'Europe de ses T-Roc",
+      "url": "https://www.bfmtv.com/economie/entreprises/industries/elle-pese-a-elle-seule-1-6-du-pib-du-portugal-et-5-de-ses-exportations-c-est-depuis-cette-usine-pres-de-lisbonne-que-volkswagen-inonde-l-europe-de-ses-t-roc_AN-202512150034.html",
+      "summary": "Nous avons pu visiter l'usine de Palmela, près de Lisbonne, qui assemble le T-Roc, un SUV best-seller de Volkswagen. Un modèle largement exporté vers le reste de l'Europe, faisant de cette usine un poids lourd de l'économie du Portugal et qui représente une part non-négligeable de son produit intérieur brut et de sa balance commerciale.<br /><br /><img src=\"https://images.bfmtv.com/87rHk5BElUIJntEKSAxqyha9aSc=/0x83:1600x983/800x0/images/Usine-Volkswagen-Palmela-2199386.jpg\" />"
     },
     {
       "title": "Plusieurs dizaines de millions de dollars générés en quelques jours à Lagos: comment le Nigéria profite des fêtes de fin d'année pour booster son économie en crise",
@@ -30,16 +40,6 @@
       "title": "Dans trois semaines, le pays le plus pauvre de l'UE va adopter l'euro: en proie à une crise politique aiguë, la Bulgarie ne fête pas l'événement (même si l'Europe l'a beaucoup enrichie)",
       "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/dans-trois-semaines-le-pays-le-plus-pauvre-de-l-ue-va-adopter-l-euro-en-proie-a-une-crise-politique-aigue-la-bulgarie-ne-fete-pas-l-evenement-meme-si-l-europe-l-a-beaucoup-enrichie_AV-202512140113.html",
       "summary": "Après des manifestations massives contre un projet de budget accusé de renforcer la corruption, le gouvernement bulgare a annoncé sa démission, plongeant le pays dans l'instabilité politique quelques jours avant l'adoption de la monnaie unique.<br /><br /><img src=\"https://images.bfmtv.com/w88pJt39Q_ETBCEKFh5danEcGAY=/0x106:2048x1258/800x0/images/La-presidente-de-la-BCE-Christine-Lagarde-et-le-gouverneur-de-la-Banque-nationale-de-Bulgarie-2198353.jpg\" />"
-    },
-    {
-      "title": "Instabilité politique: une entreprise de taille intermédiaire sur deux estime avoir moins de commande qu'il y a un an",
-      "url": "https://www.bfmtv.com/economie/video-instabilite-politique-une-entreprise-de-taille-intermediaire-sur-deux-estime-avoir-moins-de-commande-qu-il-y-a-un-an_VN-202512140073.html",
-      "summary": "L'économie française est en train de payer au prix fort l'instabilité politique et budgétaire. C'est ce qui ressort d'un baromètre publié cette semaine. Les carnets de commandes sont en train de se vider.<br /><br /><img src=\"https://images.bfmtv.com/k414JbPmWv3K75c8zpJHq3zpzRc=/0x0:1280x720/800x0/images/Instabilite-politique-une-entreprise-de-taille-intermediaire-sur-deux-estime-avoir-moins-de-commande-qu-il-y-a-un-an-2200652.jpg\" />"
-    },
-    {
-      "title": "La taxe potentielle sur les navires de croisière divise à Bordeaux",
-      "url": "https://www.bfmtv.com/economie/video-la-taxe-potentielle-sur-les-navires-de-croisiere-divise-a-bordeaux_VN-202512140045.html",
-      "summary": "Si le budget de la Sécu est adopté, viendra ensuite la deuxième haie, plus haute encore : celle du budget de l’État, actuellement débattu au Sénat. Parmi les amendements proposés : une taxe sur les navires de croisière.15 euros par passager et par escale en France, sur le modèle d’une taxe de séjour.<br /><br /><img src=\"https://images.bfmtv.com/bWjU4fZ9DHSTyp6KOcT6iwiQMYk=/0x0:1280x720/800x0/images/La-taxe-potentielle-sur-les-navires-de-croisiere-divise-a-Bordeaux-2200634.jpg\" />"
     },
     {
       "title": "Noël et fêtes de fin d'année : cadeaux, dîner du réveillon... Les Français vont se serrer la ceinture",
