@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-16T21:12:53Z",
+  "updated_at": "2025-12-16T22:12:37Z",
   "articles": [
+    {
+      "title": "Chômage au plus haut depuis 2021, inflation… Donald Trump pris dans le piège du coût de la vie",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/16/chomage-au-plus-haut-depuis-2021-inflation-trump-pris-dans-le-piege-du-cout-de-la-vie_6658238_3234.html",
+      "summary": "Le nombre de chômeurs aux Etats-Unis s’établit à 7,8 millions en novembre. Soit 700 000 de plus qu’il y a un an, mois de la réélection du président américain."
+    },
     {
       "title": "La Chine limite les taxes imposées aux importations de porc européen",
       "url": "https://www.lemonde.fr/economie/article/2025/12/16/la-chine-limite-les-taxes-imposees-aux-importations-de-porc-europeen_6658171_3234.html",
@@ -12,14 +17,14 @@
       "summary": "L’économiste Nicolas Goetzmann accuse, dans une tribune au « Monde », la politique monétaire restrictive menée depuis juin 2022 par la Banque centrale européenne d’avoir bridé les économies de la zone euro, et en particulier celle de France."
     },
     {
-      "title": "Les députés adoptent définitivement le budget de la Sécu pour 2026: âge de la retraite, CSG, mutuelles, arrêts de travail... Voilà ce qui devrait changer",
-      "url": "https://www.bfmtv.com/economie/economie-social/coquille-les-deputes-adoptent-definitivement-le-budget-de-la-secu-pour-2026-age-de-la-retraite-csg-mutuelles-arrets-de-travail-voila-ce-qui-va-changer-si-c-est-valide-par-le-conseil-constitutionnel_AV-202512160779.html",
-      "summary": "Après deux mois de débats parlementaires particulièrement houleux, les députés ont adopté, définitivement et de justesse le budget de la Sécu pour 2026, ce mardi 16 décembre. Le texte doit désormais être examiné par le Conseil constitutionnel, avant d'être promulgué au Journal officiel.<br /><br /><img src=\"https://images.bfmtv.com/8uZzFCxk5AqzQS45EdBllJCMLSE=/0x106:2048x1258/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-11-decembre-2025-2201744.jpg\" />"
-    },
-    {
-      "title": "DIRECT. Budget 2026 : Sébastien Lecornu salue l'adoption définitive par les députés du budget de la Sécurité sociale",
+      "title": "Budget 2026 : Sébastien Lecornu salue l'adoption définitive par les députés du budget de la Sécurité sociale",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-ultime-vote-a-l-assemblee-nationale-sur-le-projet-de-loi-de-financement-de-la-securite-sociale_7683352.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le texte a été définitivement adopté à l'Assemblée nationale avec 247 voix pour et 232 contre."
+    },
+    {
+      "title": "Budget 2026 : l'Assemblée nationale adopte définitivement le projet de loi de financement de la Sécurité sociale",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-l-assemblee-nationale-adopte-definitivement-le-projet-de-loi-de-financement-de-la-securite-sociale_7683811.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "C'est une victoire politique pour Sébastien Lecornu qui espère également trouver un accord pour le budget de la nation examiné vendredi par les sénateurs et députés réunis en Comission mixte paritaire."
     },
     {
       "title": "Budget de la Sécurité sociale : comment a voté votre député lors de l'ultime lecture à l'Assemblée nationale ?",
