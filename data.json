@@ -1,10 +1,15 @@
 {
-  "updated_at": "2025-12-19T20:13:34Z",
+  "updated_at": "2025-12-19T21:11:36Z",
   "articles": [
     {
       "title": "Pourquoi la baisse des taux d’intérêt de la Banque centrale européenne n’a pas profité à l’économie",
       "url": "https://www.lemonde.fr/economie/article/2025/12/19/pourquoi-la-baisse-des-taux-d-interet-de-la-banque-centrale-europeenne-n-a-pas-profite-a-l-economie_6658646_3234.html",
       "summary": "L’institut de Francfort a fortement baissé ses taux d’intérêt entre 2024 et 2025 – avant de les garder inchangés jeudi 18 décembre –, mais pour les Etats, les ménages et les entreprises, cet assouplissement ne s’est guère concrétisé par une baisse du coût des emprunts."
+    },
+    {
+      "title": "La question macro de la semaine : A-t-on vaincu l'inflation ? - 19/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/la-question-macro-de-la-semaine-a-t-on-vaincu-l-inflation-19-12_EN-202512190926.html",
+      "summary": "Vendredi 19 décembre, l'inquiétude sur l'inflation en Europe a été abordé par Hervé Goulletquer, conseiller économique senior chez Accuracy, Denis Ferrand, directeur général de Rexecode, Sébastien Lalevée, directeur général de Montpensier Arbevel, et Stéphanie Maugey, gérante de portefeuilles à la Financière d'Uzès, reçus par Marc Fiorentino dans l'émission C'est Votre Argent sur BFM Business. Retrouvez l'émission le vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/MarcWEtbjm46v6Llqwim3QMBSvQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-98_1.jpg\" />"
     },
     {
       "title": "DIRECT. Colère des agriculteurs: la ministre de l'Agriculture appelle à \"l'apaisement\"",
@@ -37,12 +42,17 @@
       "summary": "Ce vendredi 19 décembre, Benoist Lombard, président de l'UCGP, s'est penché sur la sécurité des épargnes, ainsi que les stratégies face à l'inflation et à la baisse des taux, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/jHTXHQ5Oj6iaOp4nDGRxsjwG6dk=/0x0:1280x720/800x0/images/Les-reponses-a-vos-questions-19-12-2204327.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget 2026 : un Conseil des ministres se tiendra lundi soir pour préparer la suite des débats budgétaires",
+      "title": "Budget 2026 : un Conseil des ministres se tiendra lundi soir pour préparer la suite des débats budgétaires",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-deputes-et-senateurs-se-retrouvent-en-commission-mixte-paritaire-pour-tenter-de-trouver-un-accord_7687600.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Sébastien Lecornu a annoncé de son côté qu'il consulterait plus tôt dans la journée de lundi les principaux responsables politiques."
     },
     {
-      "title": "Budget 2026 : loi spéciale, examen avant Noël… Que va-t-il se passer après l'échec du compromis entre députés et sénateurs ?",
+      "title": "Budget 2026 : le coût du rejet des parlementaires",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-le-cout-du-rejet-des-parlementaires_7690714.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Députés et sénateurs ont été incapables de trouver un accord lors de la réunion de la commission mixte paritaire. Résultat : la France n’a pas de budget et le Premier ministre évoque désormais une loi spéciale. Un Conseil des ministres se tiendra lundi 22 décembre sur la question."
+    },
+    {
+      "title": "Budget 2026 : Conseil des ministres, loi spéciale avant la fin de l'année, reprise des débats en janvier… Que va-t-il se passer après l'échec du compromis entre députés et sénateurs ?",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-loi-speciale-examen-avant-noel-nouveau-projet-de-loi-de-finances-que-va-t-il-se-passer-apres-l-echec-du-compromis-entre-deputes-et-senateurs_7689877.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les représentants des deux chambres ont échoué, vendredi matin, à se mettre d'accord sur une version commune du projet de loi de finances pour 2026, en commission mixte paritaire. Le gouvernement doit déposer une loi spéciale pour contrer l'absence de budget au 1er janvier."
     },
@@ -84,11 +94,6 @@
     {
       "title": "L’info du jour | 18 décembre 2025 - Mi-journée",
       "url": "http://fr.euronews.com/video/2025/12/18/linfo-du-jour-18-decembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 décembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/12/18/linfo-du-jour-18-decembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
