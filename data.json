@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-22T12:24:29Z",
+  "updated_at": "2025-12-22T13:28:29Z",
   "articles": [
+    {
+      "title": "La Chine impose des droits antisubventions aux produits laitiers de l’UE, qui dénonce « des taxes injustifiées »",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/22/la-chine-impose-des-droits-antisubventions-aux-produits-laitiers-de-l-ue-qui-denonce-des-taxes-injustifiees_6659114_3234.html",
+      "summary": "Ces droits, qui concernent toute une série de produits, notamment les fromages frais et transformés, les fromages bleus, ainsi que certains laits et crèmes, s’échelonneront de 21,9 % à 42,7 % et entreront en vigueur mardi, a affirmé le ministère du commerce."
+    },
     {
       "title": "Stupeur après les coupes de Matignon dans des programmes de recherche sur la ville",
       "url": "https://www.lemonde.fr/culture/article/2025/12/22/stupeur-apres-les-coupes-de-matignon-dans-des-programmes-de-recherche-sur-la-ville_6659100_3246.html",
@@ -22,6 +27,16 @@
       "summary": "Olivier Garnier, chef économiste de la Banque de France, défend, dans une tribune au « Monde », le bilan récent des banques centrales : elles ont réussi à vaincre l’inflation sans récession ni même remontée significative du chômage, contrairement à ce qui s’était produit lors de chocs antérieurs."
     },
     {
+      "title": "L'Union européenne juge \"injustifiées\" les surtaxes de Pékin jusqu'à 42,7% sur certains produits laitiers européens",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-union-europeenne-juge-injustifiees-les-surtaxes-de-pekin-jusqu-a-42-7-sur-certains-produits-laitiers-europeens_AD-202512220437.html",
+      "summary": "La Chine a annoncé mettre en place des droits de douane sur les produits laitiers européens à hauteur de 21,9 à 42,7% à partir de mardi 23 décembre, ce que dénonce l'Union européenne.<br /><br /><img src=\"https://images.bfmtv.com/06R56gERsD-5JJ05gkv5JAMr7zs=/0x143:2048x1295/800x0/images/Drapeau-Union-europeenne-2185567.jpg\" />"
+    },
+    {
+      "title": "Elle permettra d'éviter un \"shutdown\" à l'américaine mais va bloquer le budget des armées et suspendre MaPrimeRénov': à quoi sert la \"loi spéciale\" qui va être votée en l'absence de budget?",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/elle-permettra-d-eviter-un-shutdown-a-l-americaine-mais-va-bloquer-le-budget-des-armees-et-suspendre-ma-prime-renov-a-quoi-sert-la-loi-speciale-qui-va-etre-votee-en-l-absence-de-budget_AD-202512220433.html",
+      "summary": "Faute de pouvoir adopter un budget 2026 à temps, un projet de \"loi spéciale\" va être examiné par les parlementaires pour assurer la continuité de l'État. <br /><br /><img src=\"https://images.bfmtv.com/TqDgJgP0yfsSYlwgwdBoZT31zSA=/0x0:2048x1152/800x0/images/Sebastien-Lecornu-2164574.jpg\" />"
+    },
+    {
       "title": "Un rendement commercial époustouflant, bientôt 8 millions de clients, plus de 3.000 embauches prévues... Comment fait Grand Frais pour attirer autant de monde malgré ses prix élevés",
       "url": "https://www.bfmtv.com/economie/un-rendement-commercial-epoustouflant-bientot-8-millions-de-clients-plus-de-3-000-embauches-prevus-comment-fait-grand-frais-pour-attirer-autant-de-monde-malgre-ses-prix-eleves_AV-202512220395.html",
       "summary": "Grand Frais poursuit une croissance fulgurante en France en multipliant les ouvertures et les recrutements, en élargissant fortement sa base de clients malgré des prix jugés élevés, grâce à une stratégie axée sur la qualité, l’efficacité opérationnelle et un rendement commercial record. <br /><br /><img src=\"https://images.bfmtv.com/dL9uJ2PGMrbPQGv0Is_tRjbnsTg=/0x106:2048x1258/800x0/images/Marseille-la-justice-demande-la-fermeture-de-deux-magasins-Grand-Frais-et-Marie-Blachere-1862062.jpg\" />"
@@ -37,14 +52,19 @@
       "summary": "Après l’échec de l’adoption du projet de loi de finances, le premier ministre mène des consultations avec les responsables politiques de droite et de gauche.<br /><br /><img src=\"https://images.bfmtv.com/6pUdhNBQj81WwtrdNRHUonyOwzU=/0x0:1280x720/800x0/images/Budget-2026-Jean-Christophe-Repon-president-de-la-CAPEB-demande-le-vote-du-PLF-2205317.jpg\" />"
     },
     {
+      "title": "Rejet du budget : un échec qui coûte cher ?",
+      "url": "https://www.franceinfo.fr/economie/budget/rejet-du-budget-un-echec-qui-coute-cher_7695883.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le feuilleton budgétaire se prolonge : aucun accord entre députés et sénateurs en commission mixte paritaire. La France reste sans budget et le Premier ministre évoque une loi spéciale."
+    },
+    {
+      "title": "DIRECT. Budget 2026 : \"On a face à nous une droite qui se refuse à toute forme de compromis\", regrette Olivier Faure après sa rencontre avec Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-poursuit-ses-consultations-avant-la-presentation-en-urgence-d-une-loi-speciale_7695463.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Après le PS, le chef du gouvernement s'entretient ensuite avec des responsables du bloc central, des Républicains, du Parti communiste et des Ecologistes."
+    },
+    {
       "title": "Budget 2026 : “Il faut avoir un budget le plus vite possible. Plus vous attendez, plus il y aura un impact”, estime le politologue Benjamin Morel",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-il-faut-avoir-un-budget-le-plus-vite-possible-plus-vous-attendez-plus-il-y-aura-un-impact-estime-le-politologue-benjamin-morel_7695910.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Benjamin Morel, politologue et spécialiste de la constitution française, est l’invité du “10 minutes info” du lundi 22 décembre. Il est revenu sur l’absence de budget pour 2026 et la loi spéciale qui sera soumise aux parlementaires ce lundi."
-    },
-    {
-      "title": "DIRECT. Budget 2026 : Sébastien Lecornu poursuit ses consultations et reçoit des responsables socialistes avant la présentation d'une loi spéciale",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-poursuit-ses-consultations-avant-la-presentation-en-urgence-d-une-loi-speciale_7695463.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Après cet échange avec des représentants socialistes lundi matin, le chef du gouvernement s'entretiendra avec des responsables du bloc central, des Républicains, du Parti communiste et des Ecologistes."
     },
     {
       "title": "Budget 2026 : le dispositif MaPrimeRénov' suspendu le 1er janvier",
@@ -55,61 +75,6 @@
       "title": "Budget 2026 : à quoi sert la loi spéciale, que le gouvernement veut faire adopter face au blocage sur le projet de loi de finances ?",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-a-quoi-sert-la-loi-speciale-que-le-gouvernement-veut-faire-adopter-face-au-blocage-sur-le-projet-de-loi-de-finances_7694035.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'absence d'accord entre députés et sénateurs sur le budget, vendredi, contraint à présenter ce texte minimaliste pour éviter une paralysie de l'Etat au 1er janvier. Il sera examiné dès lundi en Conseil des ministres."
-    },
-    {
-      "title": "Suspension de MaPrimeRénov' : \"L'irresponsabilité des parlementaires sur le non-vote du budget nous emmène encore dans une impasse\", dénonce le président de la Capeb",
-      "url": "https://www.franceinfo.fr/environnement/energie/politiques-energetiques/suspension-de-maprimerenov-l-irresponsabilite-des-parlementaires-sur-le-non-vote-du-budget-nous-emmene-encore-dans-une-impasse-denonce-le-president-de-la-capeb_7694362.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le président de la Confédération de l'artisanat et des petites entreprises du bâtiment assure vouloir travailler avec le ministre du logement \"pour trouver des solutions\" et \"un autre accompagnement\" pour compenser la suspension de MaPrimeRénov."
-    },
-    {
-      "title": "L’info du jour | 22 décembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/12/22/linfo-du-jour-22-decembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 22 décembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/12/22/linfo-du-jour-22-decembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 21 décembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/12/21/linfo-du-jour-21-decembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 21 décembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/12/21/linfo-du-jour-21-decembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 21 décembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/12/21/linfo-du-jour-21-decembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 décembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/12/20/linfo-du-jour-20-decembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 décembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/12/20/linfo-du-jour-20-decembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 décembre 2025 - Matin",
-      "url": "http://fr.euronews.com/video/2025/12/20/linfo-du-jour-20-decembre-2025-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 19 décembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/12/19/linfo-du-jour-19-decembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 19 décembre 2025 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2025/12/19/linfo-du-jour-19-decembre-2025-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
