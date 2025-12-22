@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T21:11:06Z",
+  "updated_at": "2025-12-22T22:12:10Z",
   "articles": [
     {
       "title": "Espagne : pourquoi Telefonica se sépare de 4 500 à 5 500 salariés",
@@ -27,6 +27,11 @@
       "summary": "Le groupement d’intérêt public qui pilote l’ambitieux projet Quartiers de demain, ayant mobilisé près d’un millier de professionnels, est amputé de 70 % de son budget."
     },
     {
+      "title": "Budget: Amélie de Montchalin enterre la proposition de réforme de la TVA des auto-entrepreneurs",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-amelie-de-montchalin-enterre-la-proposition-de-reforme-de-la-tva-des-auto-entrepreneurs_AD-202512220718.html",
+      "summary": "Le dispositif avait suscité une levée de boucliers des acteurs économiques, en premier lieu des micro-entreprises particulièrement ciblées. <br /><br /><img src=\"https://images.bfmtv.com/eBh-k7boEzuP3Vjtnr673YpTAYU=/0x53:1024x629/800x0/images/La-ministre-des-Comptes-publics-Amelie-de-Montchalin-a-l-Assemblee-nationale-le-9-decembre-2025-2205594.jpg\" />"
+    },
+    {
       "title": "Après l'échec des discussions budgétaires au Parlement, le projet de \"loi spéciale\" a été présenté en Conseil des ministres",
       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/apres-l-echec-des-discussions-budgetaires-au-parlement-le-projet-de-loi-speciale-a-ete-presente-en-conseil-des-ministres_AD-202512220679.html",
       "summary": "Cette \"loi spéciale\" permet de reconduire le budget 2025 en 2026, en attente de l'adoption d'un véritable budget pour la nouvelle année.<br /><br /><img src=\"https://images.bfmtv.com/VHR2-oVTbvVEZz54fH6sApl2wmc=/0x22:768x454/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-le-4-decembre-2025-a-l-Assemblee-nationale-a-Paris-2196635.jpg\" />"
@@ -35,6 +40,11 @@
       "title": "Jean-Philippe Tanguy (député RN) : Budget, dernières consultations à Matignon - 22/12",
       "url": "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-jean-philippe-tanguy-depute-rn-budget-dernieres-consultations-a-matignon-22-12_VN-202512220621.html",
       "summary": "Retrouvez Le 18/19 d'Hedwige Chevrillon en replay.<br /><br /><img src=\"https://images.bfmtv.com/V5LSfrPs0ApZu-7n0kDmrf62z04=/0x0:1280x720/800x0/images/Jean-Philippe-Tanguy-depute-RN-Budget-dernieres-consultations-a-Matignon-22-12-2205516.jpg\" />"
+    },
+    {
+      "title": "Le gouvernement renonce à réformer la TVA des auto-entrepreneurs en 2026",
+      "url": "https://www.franceinfo.fr/economie/impots/le-gouvernement-renonce-a-reformer-la-tva-des-auto-entrepreneurs-en-2026_7696477.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le projet de budget 2026 prévoyait d'abaisser le seuil du chiffre d'affaires annuel en deçà duquel les micro-entreprises sont exemptées de TVA."
     },
     {
       "title": "DIRECT. Budget 2026 : la loi spéciale, présentée en Conseil des ministres, n'offre qu'un \"délai supplémentaire\", insiste la ministre des Comptes publics",
@@ -50,6 +60,11 @@
       "title": "Budget non voté : quel sera l'impact sur les Français",
       "url": "https://www.franceinfo.fr/economie/budget/budget-non-vote-quel-sera-l-impact-sur-les-francais_7695994.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Sans budget voté pour 2026, une loi spéciale sera examinée en urgence ce lundi 22 décembre. Quelles seront les conséquences sur le quotidien des Français ?"
+    },
+    {
+      "title": "Budget français : une loi spéciale pour éviter le blocage avant de nouvelles négociations",
+      "url": "http://fr.euronews.com/2025/12/22/budget-2026-une-loi-speciale-pour-eviter-le-blocage-avant-de-nouvelles-negociations",
+      "summary": "Le texte, examiné dès mardi au Parlement, doit assurer la continuité de l’État avant la reprise des négociations budgétaires début janvier, alors que plane la question d’un éventuel recours au 49.3."
     },
     {
       "title": "L’info du jour | 22 décembre 2025 - Soir",
@@ -95,11 +110,6 @@
       "title": "L’info du jour | 20 décembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/12/20/linfo-du-jour-20-decembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 19 décembre 2025 - Soir",
-      "url": "http://fr.euronews.com/video/2025/12/19/linfo-du-jour-19-decembre-2025-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
