@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-22T15:13:10Z",
+  "updated_at": "2025-12-22T16:15:03Z",
   "articles": [
+    {
+      "title": "Distancée par Sephora, Marionnaud bataille pour revenir dans la course",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/22/distancee-par-sephora-marionnaud-bataille-pour-revenir-dans-la-course_6659135_3234.html",
+      "summary": "Déficitaire, l’enseigne de parfumerie espère renouer avec la rentabilité sous deux ans en France."
+    },
     {
       "title": "L’UE condamne les taxes douanières annoncées par la Chine sur certains produits laitiers européens",
       "url": "https://www.lemonde.fr/economie/article/2025/12/22/la-chine-impose-des-droits-antisubventions-aux-produits-laitiers-de-l-ue-qui-denonce-des-taxes-injustifiees_6659114_3234.html",
@@ -22,9 +27,29 @@
       "summary": "Portée par l’immigration, le tourisme et les fonds européens, l’économie espagnole affiche une croissance nettement supérieure à celle de ses voisins. Mais derrière ces performances, des fragilités structurelles persistent, explique l’économiste Juan Carlos Martinez Lazaro dans un entretien au « Monde »."
     },
     {
-      "title": "« Non, la politique monétaire n’est pas la cause des maux français »",
-      "url": "https://www.lemonde.fr/idees/article/2025/12/21/non-la-politique-monetaire-n-est-pas-la-cause-des-maux-francais_6658997_3232.html",
-      "summary": "Olivier Garnier, chef économiste de la Banque de France, défend, dans une tribune au « Monde », le bilan récent des banques centrales : elles ont réussi à vaincre l’inflation sans récession ni même remontée significative du chômage, contrairement à ce qui s’était produit lors de chocs antérieurs."
+      "title": "Inflation, chômage... Les indicateurs américains ne sont pas alarmants 🇺🇸",
+      "url": "https://www.bfmtv.com/economie/video-inflation-chomage-les-indicateurs-americains-ne-sont-pas-alarmants_VN-202512220548.html",
+      "summary": "Contre toute attente, le retour de Donald Trump ne s'est pas traduit par une explosion de l'inflation et du chômage aux États-Unis. En revanche, un certain nombre d'Américains sont toujours laissés sur le côté.<br /><br /><img src=\"https://images.bfmtv.com/EpUf3Xnkt-xHsf9FX7w-NpAJuso=/0x0:1280x720/800x0/images/Inflation-chomage-Les-indicateurs-americains-ne-sont-pas-alarmants-2205457.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : Le budget 2026 français, vers une loi spéciale ? – 22/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-le-budget-2026-francais-vers-une-loi-speciale-22-12_EN-202512220539.html",
+      "summary": "Ce lundi 22 décembre, Claire Dissaux, responsable des études macroéconomiques du Groupe AXA, a abordé les conséquences d'une loi spéciale sur le budget français pour le marché obligataire, les taux de la Banque du Japon relevés à 0,75 %, et la révision des prévisions de croissance pour l'Allemagne, dans l'émission BFM Bourse présentée par Guillaume Paul. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : Le budget 2026 français, vers une loi spéciale ? - 22/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-le-budget-2026-francais-vers-une-loi-speciale-22-12_VN-202512220540.html",
+      "summary": "Ce lundi 22 décembre, Claire Dissaux, responsable des études macroéconomiques du Groupe AXA, a abordé les conséquences d'une loi spéciale sur le budget français pour le marché obligataire, les taux de la Banque du Japon relevés à 0,75 %, et la révision des prévisions de croissance pour l'Allemagne, dans l'émission BFM Bourse présentée par Guillaume Paul. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/3p284pNY8gXWC0PTrgdbiQHzgYI=/0x0:1280x720/800x0/images/L-eco-du-monde-Le-budget-2026-francais-vers-une-loi-speciale-22-12-2205451.jpg\" />"
+    },
+    {
+      "title": "Culture Bourse : Le Venezuela, un \"pétro-État\" qui subit le blocus US, par Julie Cohen-Heurton – 22/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-le-venezuela-un-petro-etat-qui-subit-le-blocus-us-par-julie-cohen-heurton-22-12_EN-202512220525.html",
+      "summary": "Ce lundi 22 décembre, la définition du mot \"pétro-État\", et la conséquence du blocus US sur l'économie du Venezuela, ont été abordés dans la chronique Culture Bourse présentée par Julie Cohen-Heurton. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "Culture Bourse : Le Venezuela, un \"pétro-État\" qui subit le blocus US, par Julie Cohen-Heurton - 22/12",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-culture-bourse-le-venezuela-un-petro-etat-qui-subit-le-blocus-us-par-julie-cohen-heurton-22-12_VN-202512220521.html",
+      "summary": "Ce lundi 22 décembre, la définition du mot \"pétro-État\", et les conséquences du blocus US sur l'économie du Venezuela, ont été abordés dans la chronique Culture Bourse présentée par Julie Cohen-Heurton. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/_Vt565BzFn2K3qyt4VJJ18fJoPU=/0x0:1280x720/800x0/images/Culture-Bourse-Le-Venezuela-un-petro-Etat-qui-subit-le-blocus-US-par-Julie-Cohen-Heurton-22-12-2205438.jpg\" />"
     },
     {
       "title": "L'Union européenne juge \"injustifiées\" les surtaxes de Pékin jusqu'à 42,7% sur certains produits laitiers européens",
@@ -37,14 +62,9 @@
       "summary": "Faute de pouvoir adopter un budget 2026 à temps, un projet de \"loi spéciale\" va être examiné par les parlementaires pour assurer la continuité de l'État. <br /><br /><img src=\"https://images.bfmtv.com/TqDgJgP0yfsSYlwgwdBoZT31zSA=/0x0:2048x1152/800x0/images/Sebastien-Lecornu-2164574.jpg\" />"
     },
     {
-      "title": "Un rendement commercial époustouflant, bientôt 8 millions de clients, plus de 3.000 embauches prévues... Comment fait Grand Frais pour attirer autant de monde malgré ses prix élevés",
-      "url": "https://www.bfmtv.com/economie/un-rendement-commercial-epoustouflant-bientot-8-millions-de-clients-plus-de-3-000-embauches-prevus-comment-fait-grand-frais-pour-attirer-autant-de-monde-malgre-ses-prix-eleves_AV-202512220395.html",
-      "summary": "Grand Frais poursuit une croissance fulgurante en France en multipliant les ouvertures et les recrutements, en élargissant fortement sa base de clients malgré des prix jugés élevés, grâce à une stratégie axée sur la qualité, l’efficacité opérationnelle et un rendement commercial record. <br /><br /><img src=\"https://images.bfmtv.com/dL9uJ2PGMrbPQGv0Is_tRjbnsTg=/0x106:2048x1258/800x0/images/Marseille-la-justice-demande-la-fermeture-de-deux-magasins-Grand-Frais-et-Marie-Blachere-1862062.jpg\" />"
-    },
-    {
-      "title": "ÉDITO - Le ministre du Logement confirme la suspension de Maprimerenov’ au 1ᵉʳ janvier 2026",
-      "url": "https://www.bfmtv.com/economie/video-edito-le-ministre-du-logement-confirme-la-suspension-de-maprimerenov-au-1er-janvier-2026_VN-202512220387.html",
-      "summary": "Faute de budget voté, le dispositif MaPrimeRénov' pour aider au financement des travaux de rénovation énergétique va de nouveau être suspendu à partir du 1er janvier.<br /><br /><img src=\"https://images.bfmtv.com/k1GzXNDYh5blLx_MO9czBI7sgG8=/0x0:1280x720/800x0/images/EDITO-Le-ministre-du-Logement-confirme-la-suspension-de-Maprimerenov-au-1-janvier-2026-2205336.jpg\" />"
+      "title": "Taxe chinoise sur les produits laitiers européens : \"Ça arrive au pire des moments\", déplore la Fédération nationale de l’industrie laitière",
+      "url": "https://www.franceinfo.fr/monde/chine/taxe-chinoise-sur-les-produits-laitiers-europeens-ca-arrive-au-pire-des-moments-deplore-la-federation-nationale-de-l-industrie-laitiere_7696159.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Ces nouvelles taxes chinoises, pour l'instant provisoire, passent de 21,9% à 42,7% sur de nombreux produits laitiers dans un contexte agricole tendu en France entre le gouvernement et les éleveurs, après de nombreuses mobilisations de ces derniers."
     },
     {
       "title": "Budget non voté : quel sera l'impact sur les Français",
