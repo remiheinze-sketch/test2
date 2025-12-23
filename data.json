@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-23T08:18:02Z",
+  "updated_at": "2025-12-23T09:16:55Z",
   "articles": [
+    {
+      "title": "La cyberattaque visant La Poste « a baissé en intensité » mais « se poursuit », juste avant Noël",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/23/la-cyberattaque-visant-la-poste-a-baisse-en-intensite-mais-se-poursuit-juste-avant-noel_6659200_3234.html",
+      "summary": "« Si vous avez demandé un colis pour Noël, vous n’avez pas aujourd’hui les moyens d’aller voir sur le site où il en est, mais le colis, lui, est en train d’arriver », a assuré le ministre de l’économie, Roland Lescure."
+    },
     {
       "title": "Les semi-conducteurs, nouveau carburant de l’économie mondiale",
       "url": "https://www.lemonde.fr/economie/article/2025/12/23/les-semi-conducteurs-nouveau-carburant-de-l-economie-mondiale_6659185_3234.html",
@@ -32,6 +37,21 @@
       "summary": "Le groupement d’intérêt public qui pilote l’ambitieux projet Quartiers de demain, ayant mobilisé près d’un millier de professionnels, est amputé de 70 % de son budget."
     },
     {
+      "title": "Pas de budget, pas de nouveaux trains de nuit: le ministre des Transports explique qu'il ne peut pas passer la commande à un milliard d'euros qu'il avait prévu en janvier",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/pas-de-budget-pas-de-nouveaux-trains-de-nuit-le-ministre-des-transports-explique-qu-il-ne-peut-pas-passer-la-commande-a-un-milliard-d-euros-qu-il-avait-prevu-en-janvier_AV-202512230266.html",
+      "summary": "L'investissement d'un milliard d'euros qui devait être mobilisé début 2026 sera repoussé tant que la loi spéciale sera en vigueur.<br /><br /><img src=\"https://images.bfmtv.com/g3qQpC8CLFLfIrNwn8xOwnfBwTQ=/26x0:1082x594/800x0/images/-187324.jpg\" />"
+    },
+    {
+      "title": "\"Une décision inacceptable\": Roland Lescure annonce que la France saisit Bruxelles pour contester les droits de douane chinois sur les produits laitiers",
+      "url": "https://www.bfmtv.com/economie/une-decision-inacceptable-roland-lescure-annonce-que-la-france-saisit-bruxelles-pour-contester-les-droits-de-douane-chinois-sur-ls-produits-laitiers_AV-202512230250.html",
+      "summary": "Le ministre de l'économie Roland Lescure a annoncé ce matin sur BFMTV saisir le commissaire européen au commerce pour contester les sanctions de la Chine sur le lait européen. <br /><br /><img src=\"https://images.bfmtv.com/5fzWCWw6pkcjbJtWrjMq9f33RX8=/0x0:1920x1080/800x0/images/2205738.jpg\" />"
+    },
+    {
+      "title": "Une baisse des taux de la FED sans récession",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-une-baisse-des-taux-de-la-fed-sans-recession_VN-202512230238.html",
+      "summary": "\"Ce contexte dans lequel il y a un assouplissement monétaire américain avec en parallèle une croissance qui est robuste, ne nous incite pas à déloger le risque des constructions de portefeuilles.\"<br /><br /><img src=\"https://images.bfmtv.com/j51LlCqs4zR-Y3Rud6aeU3EqijU=/0x0:1280x720/800x0/images/Une-baisse-des-taux-de-la-FED-sans-recession-2205783.jpg\" />"
+    },
+    {
       "title": "Pékin augmente ses taxes sur le lait européen",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-pekin-augmente-ses-taxes-sur-le-lait-europeen_VN-202512230192.html",
       "summary": "\"'On est pris en otage dans ces décisions politiques. Ce qui est sûr, c'est que si les droits de douane sont définitifs, ce sera un manque à gagner énorme.'\"<br /><br /><img src=\"https://images.bfmtv.com/sL_f8kUSipcuPZh2HaVerDztD4s=/0x0:1280x720/800x0/images/Pekin-augmente-ses-taxes-sur-le-lait-europeen-2205746.jpg\" />"
@@ -42,24 +62,24 @@
       "summary": "Invité sur BFMTV-RMC, le ministre de l'Économie et des Finances a expliqué que la loi spéciale ne permettait que d'assurer la continuité de l'Etat. <br /><br /><img src=\"https://images.bfmtv.com/5fzWCWw6pkcjbJtWrjMq9f33RX8=/0x0:1920x1080/800x0/images/2205738.jpg\" />"
     },
     {
-      "title": "Du café et de l'huile de palme en échange de minéraux stratégiques: l'Indonésie finalise son accord avec les États-Unis sur les droits de douane",
-      "url": "https://www.bfmtv.com/economie/international/du-cafe-et-de-l-huile-de-palme-contre-des-mineraux-strategiques-l-indonesie-finalise-son-accord-avec-les-etats-unis-sur-les-droits-de-douane_AD-202512230154.html",
-      "summary": "Selon le ministre indonésien de l'Économie, le pays asiatique a finalisé les détails de son accord commercial avec les États-Unis, qui vont lui accorder des exemptions de droits de douane sur certains produits comme le café, le thé ou l'huile de palme.<br /><br /><img src=\"https://images.bfmtv.com/YQeFdYW1vRRpNHcEukXryWuSmwo=/0x0:2048x1152/800x0/images/Trump-Subianto-2205714.jpg\" />"
+      "title": "Budget 2026 : \"Le gouvernement n’est pas là pour imposer, mais pour créer les conditions d’un compromis entre les parlementaires\", affirme Laurent Panifous, ministre des Relations avec le Parlement.",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-le-gouvernement-n-est-pas-la-pour-imposer-mais-pour-creer-les-conditions-d-un-compromis-entre-les-parlementaires-affirme-laurent-panifous-ministre-des-relations-avec-le-parlement_7697659.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Mardi 23 décembre, Laurent Panifous, ministre des Relations avec le Parlement, était l’invité des 4 Vérités sur France 2. Il est revenu sur l’absence de budget de l’État au 31 décembre, les difficultés rencontrées lors de la commission mixte paritaire et l’adoption d’une loi spéciale pour garantir la continuité des finances publiques. Le ministre a également évoqué les négociations en cours pour parvenir à un compromis budgétaire, notamment autour de la réduction du déficit public et de la contribution des grandes entreprises à l’effort collectif."
     },
     {
-      "title": "Annalisa Cappellini : Le sinopessimisme, nouveau mal chinois - 23/12",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/annalisa-cappellini-le-sinopessimisme-nouveau-mal-chinois-23-12_EN-202512230119.html",
-      "summary": "Ce mardi 23 décembre, le bilan de Xi Jinping pour Chine, ainsi que ses difficultés à relancer la croissance et la consommation intérieure, ont été abordés par Annalisa Cappellini dans sa chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
+      "title": "Budget 2026 : \"Les discussions entre Noël et le jour de l’An vont se poursuivre\", assure Xavier Iacovelli, sénateur Renaissance des Hauts-de-Seine et vice-président du Sénat",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-23-decembre-2025_7697698.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Xavier Iacovelli, sénateur Renaissance des Hauts-de-Seine et vice-président du Sénat, était l’invité politique de La Matinale de franceinfo. Il est revenu sur l’absence de budget pour 2026 et l’examen d’une loi spéciale destinée à assurer un service minimum, appelant à un compromis parlementaire rapide. Il a défendu la stratégie du gouvernement visant à éviter, dans un premier temps, le recours au 49.3, tout en rappelant que le Premier ministre prendrait ses responsabilités en cas d’échec des négociations, afin d’éviter le recours aux ordonnances et une aggravation du déficit public."
+    },
+    {
+      "title": "DIRECT. Budget 2026 : \"Plus ça dure, plus ça coûte\", estime le ministre de l'Economie, qui regrette que des \"investissements d'avenir\" soient \"bloqués\"",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-l-assemblee-nationale-et-le-senat-doivent-voter-ce-mardi-la-loi-speciale-pour-continuer-a-financer-provisoirement-l-etat-et-les-administrations_7697569.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Après le vote de la loi spéciale, qui doit être présentée à l'Assemblée nationale puis au Sénat aujourd'hui, Roland Lescure réclame l'adoption d'un véritable budget \"au plus vite\"."
     },
     {
       "title": "Budget : le communiste Ian Brossat pas opposé au 49.3 s'il permet \"d'avancer dans le sens du progrès social\"",
       "url": "https://www.franceinfo.fr/economie/budget/budget-le-communiste-ian-brossat-pas-oppose-au-49-3-s-il-permet-d-avancer-dans-le-sens-du-progres-social_7697680.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"Le problème, c'est que jusqu'à présent, au cours des dernières années, les 49.3 ont toujours servi pour imposer des mesures impopulaires, observe le sénateur communiste. Si c'est ça, évidemment que nous censurons\"."
-    },
-    {
-      "title": "Budget 2026 : \"Le gouvernement n’est pas là pour imposer, mais pour créer les conditions d’un compromis entre les parlementaires\", affirme Laurent Panifous, ministre des Relations avec le Parlement.",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-le-gouvernement-n-est-pas-la-pour-imposer-mais-pour-creer-les-conditions-d-un-compromis-entre-les-parlementaires-affirme-laurent-panifous-ministre-des-relations-avec-le-parlement_7697659.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Lundi 23 décembre, Laurent Panifous, ministre des Relations avec le Parlement, était l’invité des 4 Vérités sur France 2. Il est revenu sur l’absence de budget de l’État au 31 décembre, les difficultés rencontrées lors de la commission mixte paritaire et l’adoption d’une loi spéciale pour garantir la continuité des finances publiques. Le ministre a également évoqué les négociations en cours pour parvenir à un compromis budgétaire, notamment autour de la réduction du déficit public et de la contribution des grandes entreprises à l’effort collectif."
     },
     {
       "title": "Budget : le \"en même temps\" du RN qui ne choisit pas entre libéralisme et étatisme",
@@ -72,19 +92,9 @@
       "summary": "Le cumul intégral entre pension et salaire, aujourd'hui avantageux, va être profondément modifié à partir de 2027. Une réforme, passée inaperçue, pourrait réduire les revenus de nombreux retraités, mais potentiellement fragiliser, à terme, les finances publiques."
     },
     {
-      "title": "DIRECT. Budget 2026 : l'Assemblée nationale et le Sénat doivent voter ce mardi la \"loi spéciale\" pour continuer à financer provisoirement l'Etat et les administrations",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-l-assemblee-nationale-et-le-senat-doivent-voter-ce-mardi-la-loi-speciale-pour-continuer-a-financer-provisoirement-l-etat-et-les-administrations_7697569.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Nous devrons au plus vite, en janvier, donner un budget à la nation\" qui \"devra tenir l'objectif de 5% de déficit et financer nos priorités\", a déclaré Emmanuel Macron lundi soir lors du Conseil des ministres, selon la porte-parole du gouvernement, Maud Bregeon."
-    },
-    {
       "title": "Budget 2026 : la loi spéciale, présentée en Conseil des ministres, n'offre qu'un \"délai supplémentaire\", insiste la ministre des Comptes publics",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-poursuit-ses-consultations-avant-la-presentation-en-urgence-d-une-loi-speciale_7695463.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Une loi spéciale a été présentée en Conseil des ministres lundi soir après que le Parlement a échoué à adopter un budget pour 2026 avant la fin de l'année."
-    },
-    {
-      "title": "Le gouvernement renonce à réformer la TVA des auto-entrepreneurs en 2026",
-      "url": "https://www.franceinfo.fr/economie/impots/le-gouvernement-renonce-a-reformer-la-tva-des-auto-entrepreneurs-en-2026_7696477.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le projet de budget 2026 prévoyait d'abaisser le seuil du chiffre d'affaires annuel en deçà duquel les micro-entreprises sont exemptées de TVA."
     },
     {
       "title": "L’info du jour | 23 décembre 2025 - Matin",
