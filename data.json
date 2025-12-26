@@ -1,15 +1,30 @@
 {
-  "updated_at": "2025-12-26T09:14:31Z",
+  "updated_at": "2025-12-26T10:13:14Z",
   "articles": [
+    {
+      "title": "« L’ombre de la Chine plane sur le prétendu décrochage économique de l’Europe par rapport aux Etats-Unis »",
+      "url": "https://www.lemonde.fr/idees/article/2025/12/26/l-ombre-de-la-chine-plane-sur-le-pretendu-decrochage-economique-de-l-europe-par-rapport-aux-etats-unis_6659466_3232.html",
+      "summary": "L’économiste Isabelle This Saint-Jean considère, dans une tribune au « Monde », que Gabriel Zucman a raison de contester le discours actuel qui voudrait que l’économie européenne soit condamnée au déclin."
+    },
     {
       "title": "Joigny, dans l’Yonne, « ville martyre » des fermetures répétées des services publics",
       "url": "https://www.lemonde.fr/politique/article/2025/12/25/joigny-dans-l-yonne-ville-martyre-des-fermetures-repetees-des-services-publics_6659409_823448.html",
       "summary": "La politique de rationalisation menée par l’Etat a entraîné la perte de 500 emplois publics dans cette ville de 9 000 habitants. Santé, éducation, impôts, justice… Tous les secteurs sont touchés, nourrissant une rancœur grandissante."
     },
     {
+      "title": "Les \"kidultes\", ces adultes passionnés de jeux, ont porté le marché du jouet en 2025",
+      "url": "https://www.bfmtv.com/economie/consommation/les-kidultes-ces-adultes-passionnes-de-jeux-ont-porte-le-marche-du-jouet-en-2025_AD-202512260213.html",
+      "summary": "Franck Matais s'est réjoui d'une excellente année pour le secteur des jouets, en croissance de 5%. Le porte-parole de Joué Club constate notamment un fort engouement de la part des adultes, qui portent les ventes.<br /><br /><img src=\"https://images.bfmtv.com/TSaJWW47SlXlJMHNnC6KbJJkFMY=/0x39:768x471/800x0/images/Des-employes-installent-des-jouets-en-rayon-a-La-P-tite-Boutique-a-Chaville-dans-les-Hauts-de-Seine-le-7-novembre-2025-2195618.jpg\" />"
+    },
+    {
       "title": "Elles ont appris à \"faire avec\": les entreprises françaises dépendent de moins en moins du contexte politique",
       "url": "https://www.bfmtv.com/economie/entreprises/elles-ont-appris-a-faire-avec-les-entreprises-francaises-dependent-de-moins-en-moins-du-contexte-politique_AD-202512260182.html",
       "summary": "Malgré les blocages politiques, les prévisions de la croissance française ont été relevées. La preuve que les entreprises s'émancipent de plus en plus du contexte politique, même si l'incertitude budgétaire pèse sur leurs projections.<br /><br /><img src=\"https://images.bfmtv.com/Rq_XuAayR-lAU1Wj-jypF8335TA=/0x0:1920x1080/800x0/images/Des-chefs-d-entreprises-s-inquietent-de-la-situation-politique-actuelle-2150642.jpg\" />"
+    },
+    {
+      "title": "L'IA fait des heureux: Musk, Huang et les magnats de la tech américaine ont empoché en cumulé 550 milliards de dollars en 2025",
+      "url": "https://www.bfmtv.com/economie/patrimoine/l-ia-fait-des-heureux-musk-huang-et-les-magnats-de-la-tech-americaine-ont-empoche-en-cumule-550-milliards-de-dollars-en-2025_AV-202512260205.html",
+      "summary": "La folle croissance de l'IA en 2025 a rapporté gros aux patrons. En cumulé, les milliardaires américains de la tech, menés par Elon Musk et Jensen Huang, ont vu leurs patrimoines augmenter de 550 milliards de dollars. <br /><br /><img src=\"https://images.bfmtv.com/zzPbyxWU6PyjoepCo2r_Nu2J_6U=/0x106:2048x1258/800x0/images/Elon-Musk-2203520.jpg\" />"
     },
     {
       "title": "Un \"don\" à 4,3 millions d'euros: pourquoi Michelin a offert de l'argent à l'État français",
@@ -20,6 +35,11 @@
       "title": "Hausse des dépenses de défense et des coûts de sécurité sociale : le gouvernement japonais présente un nouveau budget record pour 2026 (mais les marchés s'inquiètent de sa dette publique)",
       "url": "https://www.bfmtv.com/economie/entreprises/defense/hausse-des-depenses-defense-des-couts-de-securite-sociale-le-gouvernement-japonais-presente-un-nouveau-budget-record-pour-2026-mais-les-marches-s-inquietent-de-sa-dette-publique_AD-202512260069.html",
       "summary": "Le gouvernement japonais a présenté un budget record de 665 milliards d'euros pour 2026 afin de financer sa défense face à la Chine, mais aussi l'inflation. Les marchés s'inquiètent cependant d'un alourdissement de la dette publique, qui devrait déjà dépasser 232% du PIB selon le FMI. <br /><br /><img src=\"https://images.bfmtv.com/c5DuQ4VTItzTWuBYsCbhKysqkio=/0x0:2048x1152/800x0/images/Sanae-Takaichi-Premiere-ministre-du-Japon-2183714.jpg\" />"
+    },
+    {
+      "title": "Budget 2026 : \"Aucune\" condition ne permettra aux Insoumis de voter le texte, affirme Éric Coquerel",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-aucune-condition-ne-permettra-aux-insoumis-de-voter-le-texte-affirme-eric-coquerel_7703323.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le compromis est \"impossible\", martèle le député LFI. Il ne faut pas être \"naïfs\". le gouvernement ni'ira pas \"chercher l'argent là où il est, c'est-à-dire vers les ultra-riches\"."
     },
     {
       "title": "Sébastien Lecornu, le moine-soldat de Matignon face au défi du budget 2026",
