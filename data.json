@@ -1,6 +1,11 @@
 {
-  "updated_at": "2025-12-31T03:57:13Z",
+  "updated_at": "2025-12-31T04:35:36Z",
   "articles": [
+    {
+      "title": "La sortie patinoire de Fanny et sa fille : « Ça nous fait du bien et ça revient deux fois moins cher que l’aquarium »",
+      "url": "https://www.lemonde.fr/intimites/article/2025/12/31/la-sortie-patinoire-de-fanny-et-sa-fille-ca-nous-fait-du-bien-et-ca-revient-deux-fois-moins-cher-que-l-aquarium_6660127_6190330.html",
+      "summary": "« Mon p’tit luxe » (4/8). Ces modestes écarts dans un budget très serré, ils se les accordent de temps en temps, pour embellir un quotidien duraille. Mère solo, Fanny, 50 ans, ancienne infirmière libérale, emmène sa fille de 12 ans patiner une fois par mois, à Montpellier."
+    },
     {
       "title": "Les légumes frais de Ferhat : « Depuis que j’ai retrouvé un logement, je cuisine à nouveau pour le plaisir »",
       "url": "https://www.lemonde.fr/intimites/article/2025/12/30/les-legumes-frais-de-ferhat-depuis-que-j-ai-retrouve-un-logement-je-cuisine-a-nouveau-pour-le-plaisir_6659797_6190330.html",
@@ -110,6 +115,11 @@
       "title": "L’info du jour | 29 décembre 2025 - Matin",
       "url": "http://fr.euronews.com/video/2025/12/29/linfo-du-jour-29-decembre-2025-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Face à la Chine, l'Europe doit montrer ses muscles industriels",
+      "url": "https://www.alternatives-economiques.fr/isabelle-this-saint-jean/face-a-chine-leurope-montrer-muscles-industriels/00117298",
+      "summary": "<p>Parmi les multiples menaces et agressions auxquelles l’Europe doit faire face, celle de la montée en puissance de l’économie chinoise occupe aujourd’hui une place centrale dans le débat public. Et il est vrai que, dès que l’on se penche sur cette dernière, les données sont vertigineuses.</p>"
     }
   ]
 }
