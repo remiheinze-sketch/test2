@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-02T05:18:21Z",
+  "updated_at": "2026-01-02T06:20:15Z",
   "articles": [
     {
       "title": "La côte de bœuf de Viktor : « Avec les mini-crédits, je peux échelonner plein d’achats, même la viande »",
@@ -20,6 +20,16 @@
       "title": "Adam Posen, économiste : « La hausse des droits de douane, c’est cher et ça n’a aucun sens »",
       "url": "https://www.lemonde.fr/economie/article/2025/12/31/adam-posen-la-hausse-des-droits-de-douane-c-est-cher-et-ca-n-a-aucun-sens_6660183_3234.html",
       "summary": "Le président du Peterson Institute, think tank indépendant, analyse avec sévérité la politique de l’administration Trump axée sur les taxes douanières. Une stratégie incohérente et irréaliste, selon lui. Il considère aussi que l’Europe sous-estime ses capacités."
+    },
+    {
+      "title": "Cyberattaques: ce que cela coûte à l'économie française",
+      "url": "https://www.bfmtv.com/economie/video-cyberattaques-ce-que-cela-coute-a-l-economie-francaise_VN-202601020075.html",
+      "summary": "Les sites de La Poste, La Banque Postale et Docaposte sont de nouveau accessibles depuis la fin d'après-midi ce jeudi. Le groupe évoque une nouvelle cyberattaque \"d'une ampleur inédite\", avec \"plusieurs milliards de tentatives de connexion par seconde\" afin de saturer les serveurs. Cela, quelques jours après une première cyberattaque d'ampleur ayant eu des répercussions sur Noël.<br /><br /><img src=\"https://images.bfmtv.com/PeFeJ7A7kG5jpQ6XoZtEOED2NpM=/0x0:1280x720/800x0/images/Cyberattaques-ce-que-cela-coute-a-l-economie-francaise-2209416.jpg\" />"
+    },
+    {
+      "title": "Les ventes privées, de vraies bonnes affaires ?",
+      "url": "https://www.bfmtv.com/economie/video-les-ventes-privees-de-vraies-bonnes-affaires_VN-202601020072.html",
+      "summary": "C'est une manière de bien commencer l'année en faisant des économies : les soldes, coup d'envoi mercredi prochain. Et même dès ce vendredi matin 4 départements bénéficient d'une dérogation particulière. Ailleurs, il est quand même possible de réaliser dès maintenant de bonnes affaires grâce à ce qu'on appelle les \"ventes privées\".<br /><br /><img src=\"https://images.bfmtv.com/kwiXFXiLoNOLnwQyPo5NzKxbSQI=/0x0:1280x720/800x0/images/Les-ventes-privees-de-vraies-bonnes-affaires-2209413.jpg\" />"
     },
     {
       "title": "Portée par les puces mémoire et l'automobile, la Corée du Sud a battu son record d'exportations en 2025",
@@ -85,6 +95,46 @@
       "title": "Carburants : pourquoi le prix à la pompe augmente dès le 1er janvier",
       "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-pourquoi-le-prix-a-la-pompe-augmente-des-le-1er-janvier_7712866.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Dès le 1er janvier, le prix du carburant augmentera de 4 à 6 centimes à cause du certificat d'économie d'énergie. Cette contribution finance la transition énergétique et impacte aussi l'électricité et le gaz, représentant près de 7,50 € sur un plein de 50 litres."
+    },
+    {
+      "title": "L’info du jour | 2 janvier 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/01/02/linfo-du-jour-2-janvier-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 1er janvier 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/01/01/linfo-du-jour-1er-janvier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 1er janvier 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/01/01/linfo-du-jour-1er-janvier-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 1er janvier 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/01/01/linfo-du-jour-1er-janvier-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 31 décembre 2025 - Soir",
+      "url": "http://fr.euronews.com/video/2025/12/31/linfo-du-jour-31-decembre-2025-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 31 décembre 2025 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2025/12/31/linfo-du-jour-31-decembre-2025-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 31 décembre 2025 - Matin",
+      "url": "http://fr.euronews.com/video/2025/12/31/linfo-du-jour-31-decembre-2025-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 30 décembre 2025 - Soir",
+      "url": "http://fr.euronews.com/video/2025/12/30/linfo-du-jour-30-decembre-2025-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 décembre 2025. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Pour résister à la dérive autoritaire, les acteurs de l'économie sociale et solidaire doivent coopérer entre eux",
