@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-01-06T09:18:07Z",
+  "updated_at": "2026-01-06T10:14:00Z",
   "articles": [
     {
       "title": "« Je ne suis pas contre payer des impôts, je voudrais juste mieux comprendre à quoi ils servent » : le rapport complexe des jeunes adultes à la fiscalité",
       "url": "https://www.lemonde.fr/campus/article/2026/01/06/je-ne-suis-pas-contre-payer-des-impots-je-voudrais-juste-mieux-comprendre-a-quoi-ils-servent-le-rapport-complexe-des-jeunes-adultes-a-la-fiscalite_6660696_4401467.html",
-      "summary": "Entre méconnaissance, discours anxiogènes et faible socialisation à l’impôt, les jeunes actifs ou étudiants expriment une défiance comparable, voire plus marquée, que les autres générations envers le système fiscal."
+      "summary": "Entre méconnaissance, discours anxiogènes et faible socialisation, les jeunes expriment une défiance comparable, voire plus marquée, que les autres générations envers le système fiscal."
     },
     {
       "title": "Pourquoi il est devenu si difficile de se loger en France, peu importe son âge, ses revenus ou son lieu de résidence",
@@ -12,9 +12,39 @@
       "summary": "Le nombre de ménages augmente en France, en raison de la croissance démographique et de la décohabitation, et, pourtant, la croissance du parc de logements s’atténue."
     },
     {
+      "title": "Les Experts : Bercy envisage un déblocage de l'intéressement - 06/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-bercy-envisage-un-deblocage-de-l-interessement-06-01_VN-202601060441.html",
+      "summary": "Ce mardi 6 janvier, l'impact de l'inflation à 1% sur les Français, et l'idée d'un déblocage de l'intéressement envisagée par Bercy pour soutenir le pouvoir d'achat, ont été abordés par Céline Antonin, économiste à l'OFCE, Denis Ferrand, directeur général de Rexecode, et Gilbert Cette, économiste et professeur à Neoma Business School, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/iFgIG9oAkgbQ9Z3Ii3aiBFqI2rI=/0x0:1280x720/800x0/images/Les-Experts-Bercy-envisage-un-deblocage-de-l-interessement-06-01-2211425.jpg\" />"
+    },
+    {
+      "title": "Les Experts : Bercy envisage un déblocage de l'intéressement - 06/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-bercy-envisage-un-deblocage-de-l-interessement-06-01_EN-202601060433.html",
+      "summary": "Ce mardi 6 janvier, l'impact de l'inflation à 1% sur les Français, et l'idée d'un déblocage de l'intéressement envisagée par Bercy pour soutenir le pouvoir d'achat, ont été abordés par Céline Antonin, économiste à l'OFCE, Denis Ferrand, directeur général de Rexecode, et Gilbert Cette, économiste et professeur à Neoma Business School, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "L'impact de l'inflation pour les français",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-impact-de-l-inflation-pour-les-francais_VN-202601060431.html",
+      "summary": "\"Il y a beaucoup de facteurs qui entrent en compte et, effectivement, le ressenti est très différent de ce qu’on peut observer.\"<br /><br /><img src=\"https://images.bfmtv.com/bS2PxVe1YfSN05iRVIY9Xy_YYew=/0x0:1280x720/800x0/images/L-impact-de-l-inflation-pour-les-francais-2211410.jpg\" />"
+    },
+    {
       "title": "L'inflation ralentit légèrement à 0,8% sur un an au mois de décembre",
       "url": "https://www.bfmtv.com/economie/economie-social/l-inflation-ralentit-legerement-a-0-8-sur-un-an-au-mois-de-decembre_AD-202601060291.html",
       "summary": "Les prix à la consommation ont augmenté de 0,8% sur un an au mois de décembre, selon l'Insee. La tendance reste à peu près la même qu'au mois de novembre où l'inflation atteignait 0,9%.<br /><br /><img src=\"https://images.bfmtv.com/Bs28LIQFLd5nm9V15bszcZGwQfY=/0x107:2048x1259/800x0/images/Inflation-grande-distribution-1432221.jpg\" />"
+    },
+    {
+      "title": "Grève des médecins : 85 % des praticiens se disent prêts à la suivre, selon les syndicats",
+      "url": "https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-85-des-praticiens-se-disent-prets-a-la-suivre-selon-les-syndicats_7721995.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les médecins libéraux ont entamé une grève qui s'avère déjà bien suivie, lundi 5 janvier. Les praticiens sont remontés contre plusieurs mesures du budget de la Sécurité sociale, notamment celle concernant la limitation du nombre d'arrêts de travail. De nombreux cabinets sont restés porte close ce matin."
+    },
+    {
+      "title": "Grève des médecins : 85 % des praticiens se disent prêts à la suivre, selon les syndicats",
+      "url": "https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-85-des-praticiens-se-disent-prets-a-la-suivre-selon-les-syndicats_7723690.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les médecins libéraux ont entamé une grève qui s'avère déjà bien suivie, lundi 5 janvier. Les praticiens sont remontés contre plusieurs mesures du budget de la Sécurité sociale, notamment celle concernant la limitation du nombre d'arrêts de travail. De nombreux cabinets sont restés porte close ce matin."
+    },
+    {
+      "title": "Budget 2026 : \"La poursuite de la loi spéciale, c'est la pire des choses. Ça n'a que trop duré\", estime Jérôme Guedj, député PS de l'Essonne",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-6-janvier-2026_7723666.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Tout le monde a en tête le fait que personne n'a envie de voter ce budget-là\", rappelle l'élu socialiste, invité politique de \"La Matinale\", avant le rendez-vous des groupes parlementaires au ministère de l'Économie et des Finances en fin d'après-midi, mardi 6 janvier."
     },
     {
       "title": "Pourquoi les médecins font-ils grève ?",
