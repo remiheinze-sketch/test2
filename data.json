@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-06T07:19:09Z",
+  "updated_at": "2026-01-06T08:18:41Z",
   "articles": [
     {
       "title": "« Je ne suis pas contre payer des impôts, je voudrais juste mieux comprendre à quoi ils servent » : le rapport complexe des jeunes adultes à la fiscalité",
@@ -12,6 +12,11 @@
       "summary": "Le nombre de ménages augmente en France, en raison de la croissance démographique et de la décohabitation, et, pourtant, la croissance du parc de logements s’atténue."
     },
     {
+      "title": "L'inflation ralentit légèrement à 0,8% sur un an au mois de décembre",
+      "url": "https://www.bfmtv.com/economie/economie-social/l-inflation-ralentit-legerement-a-0-8-sur-un-an-au-mois-de-decembre_AD-202601060291.html",
+      "summary": "Les prix à la consommation ont augmenté de 0,8% sur un an au mois de décembre, selon l'Insee. La tendance reste à peu près la même qu'au mois de novembre où l'inflation atteignait 0,9%.<br /><br /><img src=\"https://images.bfmtv.com/Bs28LIQFLd5nm9V15bszcZGwQfY=/0x107:2048x1259/800x0/images/Inflation-grande-distribution-1432221.jpg\" />"
+    },
+    {
       "title": "ÉDITO - Les tarifs de nos assurances vont augmenter en 2026",
       "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/video-edito-les-tarifs-de-nos-assurances-vont-augmenter-en-2026_VN-202601060209.html",
       "summary": "Selon le bilan de Leocare, les prix de nos assurances vont augmenter entre 2 et 5 fois plus vite que l'inflation. C'est l'assurance habitation qui va augmenter le plus. <br /><br /><img src=\"https://images.bfmtv.com/wA7O8ny4nZgo7Jc-JseY7hT4WeQ=/0x0:1280x720/800x0/images/EDITO-Les-tarifs-de-nos-assurances-vont-augmenter-en-2026-2211186.jpg\" />"
@@ -20,11 +25,6 @@
       "title": "Vols annulés, trains ralentis, chantiers à l'arrêt, hausse des accidents de la route... Comment les épisodes neigeux perturbent l'économie",
       "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/vols-annules-trains-ralentis-chantiers-a-l-arret-hausse-des-accidents-de-la-route-comment-les-episodes-neigeux-perturbent-l-economie_7697353.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les épisodes neigeux peuvent potentiellement perturber fortement les transports, les chantiers et le commerce, entraînant retards, absentéisme et surcoûts pour les entreprises et les collectivités. Malgré ces impacts immédiats, les effets sur la croissance devraient rester limités et temporaires."
-    },
-    {
-      "title": "Grève des médecins : 85 % des praticiens se disent prêts à la suivre, selon les syndicats",
-      "url": "https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-85-des-praticiens-se-disent-prets-a-la-suivre-selon-les-syndicats_7721995.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les médecins libéraux ont entamé une grève qui s'avère déjà bien suivie, lundi 5 janvier. Les praticiens sont remontés contre plusieurs mesures du budget de la Sécurité sociale, notamment celle concernant la limitation du nombre d'arrêts de travail. De nombreux cabinets sont restés porte close ce matin."
     },
     {
       "title": "L’info du jour | 6 janvier 2026 - Matin",
@@ -60,11 +60,6 @@
       "title": "L’info du jour | 4 janvier 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/01/04/linfo-du-jour-4-janvier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 janvier 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/01/03/linfo-du-jour-3-janvier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Mathilde Viennot : « La planification écologique est complexe, car il est question de la décroissance de nombreux biens »",
