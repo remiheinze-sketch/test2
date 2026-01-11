@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-01-11T09:12:40Z",
+  "updated_at": "2026-01-11T10:12:08Z",
   "articles": [
+    {
+      "title": "« Une des conséquences inévitables du vieillissement démographique, en France, est la hausse des dépenses sociales »",
+      "url": "https://www.lemonde.fr/idees/article/2026/01/11/une-des-consequences-inevitables-du-vieillissement-demographique-en-france-est-la-hausse-des-depenses-sociales_6661381_3232.html",
+      "summary": "Le vieillissement démographique, dans l’Hexagone, freine durablement la croissance et creuse les déficits sociaux, tout en maintenant un taux d’épargne et une demande d’actifs risqués élevés, constate l’économiste Patrick Artus, dans sa chronique."
+    },
     {
       "title": "Paul Krugman, Nobel d’économie : « Les données sur lesquelles repose le prétendu retard européen sont bien plus fragiles qu’on ne l’imagine »",
       "url": "https://www.lemonde.fr/idees/article/2026/01/11/paul-krugman-nobel-d-economie-les-donnees-sur-lesquelles-repose-le-pretendu-retard-europeen-sont-bien-plus-fragiles-qu-on-ne-l-imagine_6661353_3232.html",
       "summary": "On surestime probablement les gains de productivité dans les nouvelles technologies et on a, par ailleurs, tort de penser que ceux dans la Silicon Valley profitent à tous les Américains, affirme l’économiste, dans une tribune au « Monde »."
+    },
+    {
+      "title": "\"À 27, ce serait trop long et trop lourd\": le Nobel d'Économie Philippe Aghion appelle l'UE à créer \"un marché unique des capitaux\" avec des pays volontaires",
+      "url": "https://www.bfmtv.com/economie/economie-social/a-27-ce-serait-trop-long-et-trop-lourd-le-nobel-d-economie-philippe-aghion-appelle-l-ue-a-creer-un-marche-unique-des-capitaux-avec-les-pays-volontaires-pour-enrayer-son-declin_AV-202601110151.html",
+      "summary": "Le français Philippe Aghion, prix Nobel d'Économie 2025, appelle à créer un marché unique des capitaux pour favoriser l'innovation et relancer la productivité en Europe. <br /><br /><img src=\"https://images.bfmtv.com/J2fKhU7vuK0sqvMJz-rCBQ4hV5Q=/0x106:2048x1258/800x0/images/Le-colaureat-du-Prix-Nobel-d-Economie-2025-Philippe-Aghion-2154056.jpg\" />"
     },
     {
       "title": "\"Les Américains se font arnaquer\": Donald Trump veut limiter les taux des cartes de crédit, les banques estiment que ça serait \"dévastateur\"",
