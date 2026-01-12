@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-12T15:16:34Z",
+  "updated_at": "2026-01-12T16:17:44Z",
   "articles": [
+    {
+      "title": "Au Mali, des attaques djihadistes contre trois sites industriels dans l’ouest du pays",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/12/au-mali-des-attaques-djihadistes-contre-trois-sites-industriels-dans-l-ouest-du-pays_6661509_3234.html",
+      "summary": "Alors que l’ouest du Mali connaît une vague d’attaques visant ses usines, les enlèvements de civils et la destruction d’infrastructures menacent de paralyser durablement l’économie locale."
+    },
     {
       "title": "Les formations sur le climat, concurrencées par celles sur l’IA, cherchent un second souffle",
       "url": "https://www.lemonde.fr/planete/article/2026/01/12/les-formations-sur-le-climat-concurrencees-par-celles-sur-l-ia-cherchent-un-second-souffle_6661429_3244.html",
@@ -12,19 +17,9 @@
       "summary": "Le vieillissement démographique, dans l’Hexagone, freine durablement la croissance et creuse les déficits sociaux, tout en maintenant un taux d’épargne et une demande d’actifs risqués élevés, constate l’économiste Patrick Artus, dans sa chronique."
     },
     {
-      "title": "Paul Krugman, Nobel d’économie : « Les données sur lesquelles repose le prétendu retard européen sont bien plus fragiles qu’on ne l’imagine »",
-      "url": "https://www.lemonde.fr/idees/article/2026/01/11/paul-krugman-nobel-d-economie-les-donnees-sur-lesquelles-repose-le-pretendu-retard-europeen-sont-bien-plus-fragiles-qu-on-ne-l-imagine_6661353_3232.html",
-      "summary": "On surestime probablement les gains de productivité dans les nouvelles technologies et on a, par ailleurs, tort de penser que ceux dans la Silicon Valley profitent à tous les Américains, affirme l’économiste, dans une tribune au « Monde »."
-    },
-    {
-      "title": "ÉDITO - Vers une hausse automatique du prix des transports?",
-      "url": "https://www.bfmtv.com/economie/entreprises/transports/video-edito-vers-une-hausse-automatique-du-prix-des-transports_VN-202601120515.html",
-      "summary": "Un projet de loi, attendu début février, prévoit l'indexation automatique des transports en commun sur l'inflation. <br /><br /><img src=\"https://images.bfmtv.com/i-DztWvcilm5CE2zXlPa4sQM8-k=/0x0:1280x720/800x0/images/EDITO-Vers-une-hausse-automatique-du-prix-des-transports-2215023.jpg\" />"
-    },
-    {
-      "title": "\"Que du sucré et pas de salé\": l'ex-ministre Eric Lombard qualifie le budget de la Sécu de \"pudding à l’arsenic\" et juge la situation actuelle \"pire\" qu'après Barnier",
-      "url": "https://www.bfmtv.com/economie/economie-social/que-du-sucre-et-pas-de-sale-l-ex-ministre-eric-lombard-qualifie-le-budget-de-la-secu-de-pudding-a-l-arsenic-et-juge-la-situation-actuelle-pire-qu-apres-barnier_AV-202601120481.html",
-      "summary": "L'ancien ministre de l'Economie Eric Lombard a estimé que le budget de la Sécurité sociale, adopté mi-décembre, ne réduisait pas assez le déficit. Il a globalement critiqué le manque de résultats du gouvernement. <br /><br /><img src=\"https://images.bfmtv.com/P0zX4Qip2d1vmIHrctKJrbTozqM=/0x0:2048x1152/800x0/images/Eric-Lombard-le-15-juillet-2025-a-Paris-2132209.jpg\" />"
+      "title": "Les Français se sont enfin remis à plus acheter, l'alimentaire a progressé plus en France qu'en Europe, la région Paca a sur-consommé... Le bilan 2025 de la consommation en France",
+      "url": "https://www.bfmtv.com/economie/consommation/les-francais-se-sont-enfin-remis-a-plus-acheter-l-alimentaire-a-progresse-plus-en-france-qu-en-europe-la-region-paca-a-sur-consomme-le-bilan-2025-de-la-consommation-en-france_AV-202601120693.html",
+      "summary": "En 2025, la consommation de produits de grande consommation rebondit timidement en France (+1,9%), portée par le retour des volumes et par l’alimentaire — où l’Hexagone surperforme l’Europe — mais reste freinée par des arbitrages budgétaires forts, un net ralentissement en fin d’année, des hypermarchés en difficulté et une reprise encore largement sous contrainte. <br /><br /><img src=\"https://images.bfmtv.com/KmdkobuU7W0hmyqtQfm-CJaBeWk=/0x0:768x432/800x0/images/La-hausse-des-prix-s-est-apaisee-ces-derniers-mois-mais-le-budget-des-consommateurs-reste-globalement-sous-tension-et-les-supermarches-se-livrent-une-concurrence-feroce-pour-les-attirer-2035840.jpg\" />"
     },
     {
       "title": "Grève des médecins : 2 000 spécialistes français du privé exilés en Belgique pour protester contre le budget de la Sécurité sociale",
