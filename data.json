@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-12T19:14:26Z",
+  "updated_at": "2026-01-12T20:14:33Z",
   "articles": [
+    {
+      "title": "Bernard Arnault intronisé à l’Académie des sciences morales et politiques devant un parterre de grandes fortunes",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/12/bernard-arnault-intronise-a-l-academie-des-sciences-morales-et-politiques-devant-un-parterre-de-grandes-fortunes_6661543_3234.html",
+      "summary": "Le milliardaire PDG de LVMH avait été élu en décembre 2024 au fauteuil numéro un de la section économie politique, statistique et finances. Le PDG de CMA CGM, Rodolphe Saadé, celui de Total, Patrick Pouyanné, Vincent Bolloré, ou encore le chanteur américain Pharrell Williams assistaient à la cérémonie."
+    },
     {
       "title": "Au Mali, des attaques djihadistes contre trois sites industriels dans l’ouest du pays",
       "url": "https://www.lemonde.fr/economie/article/2026/01/12/au-mali-des-attaques-djihadistes-contre-trois-sites-industriels-dans-l-ouest-du-pays_6661509_3234.html",
@@ -75,11 +80,6 @@
       "title": "L’info du jour | 10 janvier 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/01/10/linfo-du-jour-10-janvier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 9 janvier 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/01/09/linfo-du-jour-9-janvier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Comment expliquer la remontée de la pauvreté en France",
