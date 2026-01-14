@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-14T10:15:27Z",
+  "updated_at": "2026-01-14T11:13:32Z",
   "articles": [
+    {
+      "title": "« Trump, soucieux de remonter dans les sondages, se rappelle une promesse de campagne : limiter à 10 % le taux que les banques appliquent sur les cartes de crédit »",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/14/trump-soucieux-de-remonter-dans-les-sondages-se-rappelle-une-promesse-de-campagne-limiter-a-10-le-taux-que-les-banques-appliquent-sur-les-cartes-de-credit_6662141_3234.html",
+      "summary": "Alors que les cartes de crédit, premier moyen de paiement aux Etats-Unis, permettent aux ménages de financer leurs dépenses de consommation, le président américain entend obliger les banques à se conformer à cette règle à partir du 20 janvier. Le puissant lobby bancaire est vent debout, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
     {
       "title": "Impôts des plus riches : les inégalités fiscales s’invitent à nouveau dans le débat budgétaire",
       "url": "https://www.lemonde.fr/politique/article/2026/01/14/la-gauche-s-alarme-que-des-milliers-de-tres-riches-puissent-echapper-a-l-impot_6662095_823448.html",
@@ -17,9 +22,9 @@
       "summary": "Le président LFI de la commission des finances de l’Assemblée nationale a demandé des documents à Bercy après les propos tenus par l’ex-ministre de l’économie dans un entretien à « Libération »."
     },
     {
-      "title": "Etats-Unis : les prix restent hauts, malgré les déclarations de Donald Trump sur l’inflation stable",
-      "url": "https://www.lemonde.fr/economie/article/2026/01/13/etats-unis-malgre-les-cris-de-victoire-de-trump-sur-l-inflation-stable-les-prix-restent-hauts-outre-atlantique_6662057_3234.html",
-      "summary": "Les chiffres de décembre montrent une hausse des prix à la consommation de 2,7 % sur douze mois, équivalente à celle de novembre. Mais l’inflation alimentaire et énergétique (sauf l’essence) – la plus sensible au quotidien pour les citoyens – est élevée."
+      "title": "Midterms : Donald Trump fait campagne",
+      "url": "https://www.bfmtv.com/economie/video-midterms-donald-trump-fait-campagne_VN-202601140462.html",
+      "summary": "Geraldine Metifeux revient sur la croissance américaine et les tentatives de donald trump d'influer sur l'économie<br /><br /><img src=\"https://images.bfmtv.com/ashjEIdSQxerGlhqGW1dSMEZ66A=/0x0:1280x720/800x0/images/Midterms-Donald-Trump-fait-campagne-2216483.jpg\" />"
     },
     {
       "title": "L'intégrale de Good Morning Market du mercredi 14 janvier",
@@ -29,7 +34,7 @@
     {
       "title": "Le face à face du mercredi 14 janvier",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-face-a-face-du-mercredi-14-janvier_EN-202601140389.html",
-      "summary": "Ce mercredi 14 janvier, François Rimeu, stratégiste sénior chez Crédit Mutuel Asset Management, et Christophe Boucher, directeur des investissements chez ABN AMRO, ont notamment échangé leur point de vue sur le début de la saison des résultats, l'inflation américaine stable en décembre, la sensibilité des marchés à la géopolitique ainsi que sur les records de l'or et de l'argent, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
+      "summary": "Ce mercredi 14 janvier, François Rimeu, stratégiste sénior chez Crédit Mutuel Asset Management, et Christophe Boucher, directeur des investissements chez ABN AMRO IS, ont notamment échangé leur point de vue sur le début de la saison des résultats, l'inflation américaine stable en décembre, la sensibilité des marchés à la géopolitique ainsi que sur les records de l'or et de l'argent, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
     },
     {
       "title": "L'intégrale de Good Morning Market du mercredi 14 janvier",
@@ -39,37 +44,7 @@
     {
       "title": "Le face à face du mercredi 14 janvier",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-face-a-face-du-mercredi-14-janvier_VN-202601140387.html",
-      "summary": "Ce mercredi 14 janvier, François Rimeu, stratégiste sénior chez Crédit Mutuel Asset Management, et Christophe Boucher, directeur des investissements chez ABN AMRO, ont notamment échangé leur point de vue sur le début de la saison des résultats, l'inflation américaine stable en décembre, la sensibilité des marchés à la géopolitique ainsi que sur les records de l'or et de l'argent, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/qORcnbYxjZJvmnoN41zYfJfS944=/0x0:1280x720/800x0/images/Le-face-a-face-du-mercredi-14-janvier-2216412.jpg\" />"
-    },
-    {
-      "title": "Il salue le \"courage des entrepreneurs\" et celui des Français qui n'ont jamais autant travaillé: le gouverneur de la Banque de France explique pourquoi l'économie \"résiste\" dans le bazar politique et budgétaire",
-      "url": "https://www.bfmtv.com/economie/economie-social/france/il-salue-le-courage-des-entrepreneurs-et-celui-les-francais-qui-n-ont-jamais-autant-travaille-le-gouverneur-de-la-banque-de-france-explique-pourquoi-l-economie-resiste-dans-le-bazar-politique-et-budgetaire_AV-202601140364.html",
-      "summary": "Invité ce mercredi matin sur BFMTV-RMC, le gouverneur de la Banque de France a assuré que l'économie française faisait preuve de résistance en dépit du contexte d'incertitude politique et budgétaire, saluant \"le courage des entrepreneurs\" et \"le travail des Français\".<br /><br /><img src=\"https://images.bfmtv.com/ncL_8AZ9zFlaojQ86ohD9y9ncAc=/0x0:1920x1080/800x0/images/2216367.jpg\" />"
-    },
-    {
-      "title": "Déficit, budget, Livret A...L'interview du gouverneur de la Banque de France en intégralité",
-      "url": "https://www.bfmtv.com/economie/video-deficit-budget-livret-a-l-interview-du-gouverneur-de-la-banque-de-france-en-integralite_VN-202601140363.html",
-      "summary": "François Villeroy de Galhau, gouverneur de la Banque de France, était l'invité du Face à Face sur BFMTV et RMC ce mercredi 14 janvier. Il est notamment revenu sur la situation économique de la France, le budget ou encore l'accord avec le Mercosur.<br /><br /><img src=\"https://images.bfmtv.com/z6QSLijkm5k2c_wBJuAHbHym9SE=/0x0:1280x720/800x0/images/Deficit-budget-Livret-A-L-interview-du-gouverneur-de-la-Banque-de-France-en-integralite-2216388.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 14/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-14-01_VN-202601140327.html",
-      "summary": "Ce mercredi 14 janvier, l'inflation américaine, qui a augmenté de 2,7 % en un an, a été abordée par Philippe Trainar, professeur honoraire au Cnam et membre du Cercle des économistes, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/wJPQ6JXyv_AxiHeTAbOPnwCWcto=/0x0:1280x720/800x0/images/L-eclaireur-14-01-2216359.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 14/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-14-01_EN-202601140322.html",
-      "summary": "Ce mercredi 14 janvier, l'inflation américaine, qui a augmenté de 2,7 % en un an, a été abordée par Philippe Trainar, professeur honoraire au Cnam et membre du Cercle des économistes, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
-    },
-    {
-      "title": "\"Les taux du livret A devraient rester nettement supérieurs à l'inflation\", annonce François Villeroy de Galhau, gouverneur de la Banque de France",
-      "url": "https://www.bfmtv.com/economie/video-les-taux-du-livret-a-devraient-rester-nettement-superieurs-a-l-inflation-annonce-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140313.html",
-      "summary": "François Villeroy de Galhau, gouverneur de la Banque de France, était l'invité du Face à face sur RMC et BFMTV ce mercredi 14 janvier. <br /><br /><img src=\"https://images.bfmtv.com/S1tTgC77amM79GlO3HwsIZ0G5wI=/0x0:1280x720/800x0/images/Les-taux-du-livret-A-devraient-rester-nettement-superieurs-a-l-inflation-annonce-Francois-Villeroy-de-Galhau-gouverneur-de-la-Banque-de-France-2216352.jpg\" />"
-    },
-    {
-      "title": "Budget: \"Ces derniers temps, nous faisons systématiquement le choix des seniors plutôt que des jeunes\", regrette François Villeroy de Galhau, gouverneur de la Banque de France",
-      "url": "https://www.bfmtv.com/economie/video-budget-ces-derniers-temps-nous-faisons-systematiquement-le-choix-des-seniors-plutot-que-des-jeunes-regrette-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140311.html",
-      "summary": "François Villeroy de Gallo discute des changements démographiques en France, où les décès surpassent les naissances pour la première fois. Il exprime ses préoccupations concernant les choix budgétaires du gouvernement qui favorisent les seniors au détriment des jeunes générations. Cette approche pourrait affecter l'éducation, le climat et la recherche, tout en transférant la charge financière aux générations futures. Un débat essentiel sur l'équilibre intergénérationnel et les priorités budgétaires.<br /><br /><img src=\"https://images.bfmtv.com/NVLWYJXq9QLaADOGITLp3jKhobQ=/0x0:1280x720/800x0/images/Budget-Ces-derniers-temps-nous-faisons-systematiquement-le-choix-des-seniors-plutot-que-des-jeunes-regrette-Francois-Villeroy-de-Galhau-gouverneur-de-la-Banque-de-France-2216351.jpg\" />"
+      "summary": "Ce mercredi 14 janvier, François Rimeu, stratégiste sénior chez Crédit Mutuel Asset Management, et Christophe Boucher, directeur des investissements chez ABN AMRO IS, ont notamment échangé leur point de vue sur le début de la saison des résultats, l'inflation américaine stable en décembre, la sensibilité des marchés à la géopolitique ainsi que sur les records de l'or et de l'argent, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/qORcnbYxjZJvmnoN41zYfJfS944=/0x0:1280x720/800x0/images/Le-face-a-face-du-mercredi-14-janvier-2216412.jpg\" />"
     },
     {
       "title": "Budget 2026 : \"Il vaudrait mieux un retour aux urnes\", estime Éric Coquerel, député LFI",
@@ -125,11 +100,6 @@
       "title": "La course folle des budgets de défense en Europe",
       "url": "https://www.alternatives-economiques.fr/course-folle-budgets-de-defense-europe/00117435",
       "summary": "<p>L’Union européenne et ses pays membres ont décidé d’investir massivement dans leurs capacités de défense. Mais des freins à la fois financiers et productifs subsistent.</p>"
-    },
-    {
-      "title": "Comment expliquer la remontée de la pauvreté en France",
-      "url": "https://www.alternatives-economiques.fr/expliquer-remontee-de-pauvrete-france/00117438",
-      "summary": "<p>Le taux de pauvreté a atteint en 2023 son niveau le plus élevé depuis 1996. Une hausse portée par une inflation persistante et une érosion de l’efficacité du modèle redistributif.</p>"
     }
   ]
 }
