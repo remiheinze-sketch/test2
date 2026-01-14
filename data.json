@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-14T06:23:42Z",
+  "updated_at": "2026-01-14T07:18:53Z",
   "articles": [
+    {
+      "title": "Impôts des plus riches : les inégalités fiscales s’invitent à nouveau dans le débat budgétaire",
+      "url": "https://www.lemonde.fr/politique/article/2026/01/14/la-gauche-s-alarme-que-des-milliers-de-tres-riches-puissent-echapper-a-l-impot_6662095_823448.html",
+      "summary": "Selon l’ancien ministre de l’économie Eric Lombard, des milliers de grandes fortunes ne paient aucun impôt sur le revenu. Le président « insoumis » de la commission des finances de l’Assemblée nationale, Eric Coquerel, a réclamé des données précises à Bercy."
+    },
     {
       "title": "L’Autriche se démène pour rester le pays du ski",
       "url": "https://www.lemonde.fr/international/article/2026/01/14/l-autriche-se-demene-pour-rester-le-pays-du-ski_6662086_3210.html",
@@ -27,9 +32,9 @@
       "summary": "Les prix ont augmenté de 31,5% en Argentine en 2025, soit le taux d'inflation le plus bas depuis 8 ans pour le pays sud-américain. Mais des économistes mettent en garde sur les difficultés de l'économie argentine.<br /><br /><img src=\"https://images.bfmtv.com/J4Yur7Ti4w2Hz_4NecasmYbmMe0=/0x11:2048x1163/800x0/images/Javier-Milei-2196216.jpg\" />"
     },
     {
-      "title": "Pour la 1ère fois depuis 2016 les échanges commerciaux entre pays de l'UE ont baissé: le FMI pointe des barrières et \"taxes cachées\" qui seraient l'équivalent de 44 à 110% de droits de douane",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/pour-la-1ere-fois-depuis-2016-les-echanges-commerciaux-entre-pays-de-l-ue-ont-baisse-le-fmi-pointe-des-barrieres-et-taxes-cachees-qui-seraient-l-equivalent-de-44-a-110-de-droits-de-douane_AN-202601140073.html",
-      "summary": "Pour la première fois depuis près de dix ans, les échanges commerciaux entre les Vingt-Sept ont reculé en 2024, selon un rapport de la Commission dévoilé par le Financial Times. Cela illustre la faiblesse du marché unique, dont la réforme s'éternise. <br /><br /><img src=\"https://images.bfmtv.com/dKSqhyRCzQTqZEti9KJs9H5l45M=/0x20:2048x1172/800x0/images/Batiment-de-la-Commission-europeenne-2215841.jpg\" />"
+      "title": "Budget 2026 : dans les couloirs de l'Assemblée, des députés appellent à abréger les debats en utilisant le 49.3",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-dans-les-couloirs-de-l-assemblee-des-deputes-appellent-a-abreger-les-debats-en-utilisant-le-49-3_7740493.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Tandis que le gouvernement assure être toujours à la recherche d'un compromis notamment avec les socialistes, la tension et l'agacement se font de plus en plus sentir."
     },
     {
       "title": "\"Le risque me semble plus concret sur le budget\" : pourquoi les motions de censure contre l'accord UE-Mercosur n'ont \"aucune chance\" d'être votées",
