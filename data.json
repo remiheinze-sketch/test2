@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-01-15T16:22:42Z",
+  "updated_at": "2026-01-15T17:24:35Z",
   "articles": [
+    {
+      "title": "Le ministère de l’économie interdit à Actelios Solutions de fournir de l’électricité",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/15/le-ministere-de-l-economie-interdit-a-actelios-solutions-de-fournir-de-l-electricite_6662421_3234.html",
+      "summary": "Cette décision, qui entrera en vigueur le 22 janvier, fait suite à des alertes du médiateur national de l’énergie et de plusieurs clients sur les agissements du fournisseur, accusé par Bercy de « pratiques commerciales trompeuses »."
+    },
+    {
+      "title": "Le Japon s’enfonce dans la crise démographique",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/15/le-japon-s-enfonce-dans-la-crise-demographique_6662411_3234.html",
+      "summary": "L’archipel nippon devrait enregistrer le plus faible niveau du nombre de naissances depuis 1899. Le déclin démographique s’accélère, lourd de conséquences pour l’économie. Le gouvernement reste hostile à toute ouverture à l’immigration."
+    },
     {
       "title": "L’Allemagne est sortie de la récession en 2025, mais son modèle industriel reste en panne",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/l-allemagne-est-sortie-de-la-recession-en-2025-mais-son-modele-industriel-reste-en-panne_6662402_3234.html",
@@ -32,9 +42,24 @@
       "summary": "Si la France rejoignait la tête des pays de l’OCDE en mathématiques, en culture scientifique et en compréhension de l’écrit, elle pourrait regagner 2,7 points de productivité, rappelle la journaliste Béatrice Madeline dans sa chronique."
     },
     {
-      "title": "Jusqu’à 185 000 euros le traitement… De plus en plus chers, les médicaments innovants pèsent sur les dépenses de l’Assurance-maladie",
+      "title": "Les médicaments innovants, de plus en plus chers, pèsent sur les dépenses de l’Assurance-maladie",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/jusqu-a-185-000-euros-le-traitement-de-plus-en-plus-chers-les-medicaments-innovants-pesent-sur-les-depenses-de-l-assurance-maladie_6662256_3234.html",
       "summary": "L’organisme payeur a alerté, dans une étude dévoilée mercredi, sur l’envolée, depuis dix ans, des coûts de ces produits, en particulier les anticancéreux."
+    },
+    {
+      "title": "Autrefois considérés comme les nantis parmi les agriculteurs, les céréaliers sont au bord de \"l'effondrement\" et demandent un soutien massif",
+      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/autrefois-consideres-comme-les-nantis-parmi-les-agriculteurs-les-cerealiers-sont-au-bord-de-l-effondrement-et-demandent-un-soutien-massif_AV-202601150736.html",
+      "summary": "La fédération des céréaliers demande un total de 200 millions d'euros d'aides et de mesures fiscales (qui nécessiteraient l'adoption d'un budget) pour faire face aux difficultés économiques du secteur.<br /><br /><img src=\"https://images.bfmtv.com/VXXMSjjjIyI6Zw0gzropE63ixSo=/4x67:1252x769/800x0/images/Cereales-1454545.jpg\" />"
+    },
+    {
+      "title": "On refait la séance : \"Le luxe en hausse après une nouvelle croissance des ventes de Richemont : de bon augure pour tout le secteur ?\" - 15/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-on-refait-la-seance-le-luxe-en-hausse-apres-une-nouvelle-croissance-des-ventes-de-richemont-de-bon-augure-pour-tout-le-secteur-15-01_VN-202601150740.html",
+      "summary": "Ce jeudi 15 janvier, Alain du Brusle, directeur général délégué, responsable gestion OPCVM chez Claresco, et Éric Bleines, directeur de la Gestion Actions chez Swiss Life Gestion Privée, ont débriefé la séance du jour, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/uqkxxL4BLhXJEOaMBjEaltL5l2Y=/0x0:1280x720/800x0/images/On-refait-la-seance-Le-luxe-en-hausse-apres-une-nouvelle-croissance-des-ventes-de-Richemont-de-bon-augure-pour-tout-le-secteur-15-01-2217460.jpg\" />"
+    },
+    {
+      "title": "On refait la séance : \"Le luxe en hausse après une nouvelle croissance des ventes de Richemont : de bon augure pour tout le secteur ?\" – 15/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/on-refait-la-seance-le-luxe-en-hausse-apres-une-nouvelle-croissance-des-ventes-de-richemont-de-bon-augure-pour-tout-le-secteur-15-01_EN-202601150731.html",
+      "summary": "Ce jeudi 15 janvier, Alain du Brusle, directeur général délégué, responsable gestion OPCVM chez Claresco, et Éric Bleines, directeur de la Gestion Actions chez Swiss Life Gestion Privée, ont débriefé la séance du jour, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
       "title": "L'éco du monde : \"Croissance : vers une surprise européenne cette année ?\" – 15/01",
@@ -52,24 +77,9 @@
       "summary": "Ce jeudi 15 janvier, Olivier De Royère, gérant actions, Montpensier Arbevel, s'est penché sur les mesures paradoxales de D. Trump contre l'inflation US, et le recul de Richemont malgré ses résultats supérieurs aux attentes, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
-      "title": "La bourse cash : \"D. Trump veut combattre l'inflation mais fait tout pour la relancer\" - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-bourse-cash-d-trump-veut-combattre-l-inflation-mais-fait-tout-pour-la-relancer-15-01_VN-202601150644.html",
-      "summary": "Ce jeudi 15 janvier, Olivier De Royère, gérant actions chez Montpensier Arbevel, s'est penché sur les mesures paradoxales de D. Trump contre l'inflation US, et le recul de Richemont malgré ses résultats supérieurs aux attentes, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/md_vr-SaVuz0_Pcq-XS8tm-rJbk=/0x0:1280x720/800x0/images/La-bourse-cash-D-Trump-veut-combattre-l-inflation-mais-fait-tout-pour-la-relancer-15-01-2217397.jpg\" />"
-    },
-    {
-      "title": "\"L'Europe devrait être le leader\" et elle ne l'est pas: l'électricité représente 20% de l'énergie totale dans l'UE contre 32% en Chine et le chef de l'AIE appelle le Vieux continent à rapidement électrifier son économie",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/l-europe-devrait-etre-le-leader-et-elle-ne-l-est-pas-l-electricite-represente-20-de-l-energie-totale-dans-l-ue-contre-32-en-chine-et-le-chef-de-l-aie-appelle-le-vieux-continent-a-rapidement-electrifier-son-economie_AD-202601150602.html",
-      "summary": "Pour le directeur de l'Agence internationale de l'énergie, nous entrons dans \"l'ère de l'électricité\" et \"l'Europe devrait en être le leader\". Or, le Vieux continent est très en retard par rapport à la Chine. <br /><br /><img src=\"https://images.bfmtv.com/OPsXdDLYhDtodHwZvBdyQ56c1fo=/0x66:1280x786/800x0/images/Reforme-du-marche-de-l-electricite-l-UFC-Que-Choisir-et-la-CLCV-craignent-une-hausse-sur-la-facture-1962071.jpg\" />"
-    },
-    {
-      "title": "CALCULATEUR. Il va passer de 1,7 à 1,5%: quel sera votre manque à gagner après la baisse du taux du Livret A au 1er février?",
-      "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/calculateur-il-va-passer-de-1-7-a-1-5-quel-sera-votre-manque-a-gagner-apres-la-baisse-du-taux-du-livret-a-au-1er-fevrier_AV-202601150579.html",
-      "summary": "Compte tenu du net ralentissement de l'inflation, le gouvernement a annoncé ce jeudi une nouvelle baisse du rendement du Livret A qui passera de 1,7 à 1,5% au 1er février. <br /><br /><img src=\"https://images.bfmtv.com/FWLz8AqqposZeQu23mPCz1cdVZ4=/4x67:1252x769/800x0/images/Livret-A-1685999.jpg\" />"
-    },
-    {
-      "title": "Le taux du livret A va passer à 1,5% en février, son niveau le plus bas depuis quatre ans, où faut-il placer son argent?",
-      "url": "https://www.bfmtv.com/economie/video-le-taux-du-livret-a-va-passer-a-1-5-en-fevrier-son-niveau-le-plus-bas-depuis-quatre-ans-ou-faut-il-placer-son-argent_VN-202601150558.html",
-      "summary": "Le gouvernement va suivre la recommandation de la Banque de France avec une nouvelle baisse du taux du Livret A à 1,5% au 1er février, conséquence du fort ralentissement de l’inflation, au détriment des épargnants mais au bénéfice du logement social et des banques.<br /><br /><img src=\"https://images.bfmtv.com/vbcKLPu0L1skCNDCPm3rYiNzJVs=/0x0:1280x720/800x0/images/Le-taux-du-livret-A-va-passer-a-1-5-en-fevrier-son-niveau-le-plus-bas-depuis-quatre-ans-ou-faut-il-placer-son-argent-2217328.jpg\" />"
+      "title": "VRAI OU FAUX. Plusieurs milliers de Français fortunés ne paient-ils pas d'impôts sur le revenu, comme l'affirme l'ancien ministre Eric Lombard ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-plusieurs-milliers-de-francais-fortunes-ne-paient-ils-pas-d-impots-sur-le-revenu-comme-l-affirme-l-ancien-ministre-eric-lombard_7740856.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans une interview à \"Libération\", l'ex-ministre de l'Economie a déclaré que de nombreux contribuables fortunés avaient un revenu fiscal de référence égal à zéro, et étaient ainsi exonérés d'impôts sur le revenu. Une déclaration impossible à vérifier, mais jugée \"plausible\" par un spécialiste."
     },
     {
       "title": "Baisse du taux du Livret A : \"On gagnera peu avec son Livret A, mais on ne perdra pas d'argent\", si on prend en compte l'inflation, selon un économiste",
@@ -82,9 +92,9 @@
       "summary": "Le fournisseur est ainsi sanctionné pour \"pratiques commerciales trompeuses, affichages de tarifs mensongers, retard de paiement\". La sanction prendre effet le 22 janvier mais il n'y aura aucune coupure de courant pour les clients, rassure Bercy."
     },
     {
-      "title": "\"On ne s'interdit rien pour que la France ait un budget\", affirme le ministre de l'Économie et des Finances Roland Lescure",
-      "url": "https://www.franceinfo.fr/economie/budget/on-ne-s-interdit-rien-pour-que-la-france-ait-un-budget-affirme-le-ministre-de-l-economie-et-des-finances-roland-lescure_7742980.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Une adoption classique du projet de loi de finances semble totalement illusoire, tant les divergences sont grandes entre les partis politiques."
+      "title": "L’info du jour | 15 janvier 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/01/15/linfo-du-jour-15-janvier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 15 janvier 2026 - Mi-journée",
