@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-15T04:02:23Z",
+  "updated_at": "2026-01-15T05:18:56Z",
   "articles": [
+    {
+      "title": "Jusqu’à 185 000 euros le traitement… De plus en plus chers, les médicaments innovants pèsent sur les dépenses de l’Assurance-maladie",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/15/jusqu-a-185-000-euros-le-traitement-de-plus-en-plus-chers-les-medicaments-innovants-pesent-sur-les-depenses-de-l-assurance-maladie_6662256_3234.html",
+      "summary": "L’organisme payeur a alerté, dans une étude dévoilée mercredi, sur l’envolée, depuis dix ans, des coûts de ces produits, en particulier les anticancéreux."
+    },
     {
       "title": "Anne Krueger, économiste : « Les menaces de Trump contre Powell et la Fed ne doivent pas être prises à la légère »",
       "url": "https://www.lemonde.fr/idees/article/2026/01/14/anne-krueger-economiste-les-menaces-de-trump-contre-powell-et-la-fed-ne-doivent-pas-etre-prises-a-la-legere_6662216_3232.html",
@@ -10,11 +15,6 @@
       "title": "Finances publiques : les hauts fonctionnaires mis en cause bientôt mieux protégés",
       "url": "https://www.lemonde.fr/politique/article/2026/01/14/finances-publiques-les-hauts-fonctionnaires-mis-en-cause-bientot-mieux-proteges_6662161_823448.html",
       "summary": "Le gouvernement ouvre la voie à une meilleure protection des gestionnaires publics mis en cause au titre de leur responsabilité financière. Cela pourrait notamment se traduire par la prise en charge de leurs frais d’avocat."
-    },
-    {
-      "title": "« Trump, soucieux de remonter dans les sondages, se rappelle une promesse de campagne : limiter à 10 % le taux que les banques appliquent sur les cartes de crédit »",
-      "url": "https://www.lemonde.fr/economie/article/2026/01/14/trump-soucieux-de-remonter-dans-les-sondages-se-rappelle-une-promesse-de-campagne-limiter-a-10-le-taux-que-les-banques-appliquent-sur-les-cartes-de-credit_6662141_3234.html",
-      "summary": "Alors que les cartes de crédit, premier moyen de paiement aux Etats-Unis, permettent aux ménages de financer leurs dépenses de consommation, le président américain entend obliger les banques à se conformer à cette règle à partir du 20 janvier. Le puissant lobby bancaire est vent debout, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
     },
     {
       "title": "Amélie de Montchalin contredit Éric Lombard: la ministre des Comptes publics assure qu'\"il n'est pas vrai que des dizaines de milliers de Français fortunés ne paieraient aucun impôt sur le revenu\"",
