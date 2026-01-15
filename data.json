@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-15T10:14:25Z",
+  "updated_at": "2026-01-15T11:12:34Z",
   "articles": [
+    {
+      "title": "« En Inde, le “quick commerce” va trop vite »",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/15/en-inde-le-quick-commerce-va-trop-vite_6662358_3234.html",
+      "summary": "Pour renforcer la sécurité des livreurs à scooter, le gouvernement indien a demander aux plateformes du « quick commerce » d’abandonner leur promesse de satisfaire les clients en dix minutes. Pas de quoi freiner l’économie florissante de ces services pour impatients, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
     {
       "title": "Le taux de rémunération du Livret A ramené à 1,5 %, son plus bas niveau depuis 2022",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/le-taux-de-remuneration-du-livret-a-ramene-a-1-5-son-plus-bas-niveau-depuis-2022_6662341_3234.html",
@@ -22,9 +27,34 @@
       "summary": "En demandant sans cesse à la Réserve fédérale américaine de baisser les taux d’intérêt, Donald Trump met en péril le principe d’indépendance des banques centrales qui permet à ses dirigeants de réguler l’inflation, sans subir de pressions politiques, explique l’ancienne directrice générale adjointe du FMI dans une tribune au « Monde »."
     },
     {
+      "title": "Ils espéraient 5 milliards d'euros de recettes: les socialistes échouent à faire adopter un nouvel impôt sur la fortune",
+      "url": "https://www.bfmtv.com/economie/economie-social/ils-esperaient-5-milliards-d-euros-de-recettes-les-socialistes-echouent-a-faire-adopter-un-nouvel-impot-sur-la-fortune_AD-202601150420.html",
+      "summary": "L'Assemblée nationale a rejeté ce jeudi 15 janvier, lors de l'examen en nouvelle lecture du budget, la proposition des socialistes de mettre en place une nouvelle version de l'impôt sur la fortune, dont ils espéraient cinq milliards d'euros de recettes.<br /><br /><img src=\"https://images.bfmtv.com/ti0qi1EuLKsmsqFN3gHdtDm-Hq4=/0x106:2048x1258/800x0/images/L-Assemblee-nationale-ce-mercredi-14-janvier-2216718.jpg\" />"
+    },
+    {
+      "title": "Les Experts : Un protectionnisme intra-européen néfaste - 15/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-un-protectionnisme-intra-europeen-nefaste-15-01_EN-202601150419.html",
+      "summary": "Ce jeudi 15 janvier, la question de savoir si les barrières administratives internes à l'Union européenne sont le principal obstacle pour les entreprises, ainsi que sur les excédents commerciaux chinois, estimés à 1 200 milliards de dollars en 2025, ont été abordés par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Thomas Grjebine, responsable du programme macroéconomie et finance internationales au CEPII, et Jean-Marc Daniel, éditorialiste BFM Business, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "EDITO. L'Europe est assise sur un gisement de croissance: sans les frictions administratives au sein du marché unique, son PIB gonflerait de 2.000 milliards d'euros",
+      "url": "https://www.bfmtv.com/economie/edito-l-europe-est-assise-sur-un-gisement-de-croissance-sans-les-frictions-administratives-au-sein-du-marche-unique-son-pib-gonflerait-de-2-000-milliards-d-euros_AV-202601150403.html",
+      "summary": "Dans un article publié cette semaine, la Banque centrale européenne explique qu’une réduction de seulement 2% des barrières administratives au sein du marché unique suffirait, à terme, à compenser l’impact des droits de douane américains sur l’économie européenne.<br /><br /><img src=\"https://images.bfmtv.com/CBEnxBYnXtB6ey8dQt6k6G66ktc=/105x1:1145x586/800x0/images/-185839.jpg\" />"
+    },
+    {
+      "title": "EDITO. On n’a jamais fait un enfant pour un congé plus long: le gouvernement a-t-il tout faux en essayant de relancer la natalité et ne vaut-il pas mieux anticiper le fait que la population va reculer?",
+      "url": "https://www.bfmtv.com/economie/edito-on-n-a-jamais-fait-un-enfant-pour-un-conge-plus-long-le-gouvernement-a-t-il-tout-faux-en-essayant-de-relancer-la-natalite-et-ne-vaut-il-pas-mieux-anticiper-le-fait-que-la-population-va-reculer_AV-202601150398.html",
+      "summary": "Les naissances sont en France au plus bas depuis la fin de la Première Guerre mondiale. Un défi majeur pour notre économie qui nécessite, une fois n'est pas coutume, un peu d’anticipation.<br /><br /><img src=\"https://images.bfmtv.com/x3NBF1bke4e7oz3cwHJ76UKLlt8=/0x40:768x472/800x0/images/De-janvier-a-novembre-2025-le-nombre-de-naissances-quotidien-moyen-a-recule-de-2-4-par-rapport-a-la-meme-periode-en-2024-et-pourrait-atteindre-un-nouveau-point-bas-historique-sur-l-ensemble-de-l-annee-selon-l-Insee-2212902.jpg\" />"
+    },
+    {
       "title": "L'intégrale des Experts du jeudi 15 janvier",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-jeudi-15-janvier_EN-202601150395.html",
       "summary": "Ce jeudi 15 janvier, Raphaël Legendre a reçuRoland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Thomas Grjebine, responsable du programme macroéconomie et finance internationales au CEPII, et Jean-Marc Daniel, éditorialiste BFM Business, , FONCTION dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "L'intégrale des Experts du jeudi 15 janvier",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-jeudi-15-janvier_VN-202601150400.html",
+      "summary": "Ce jeudi 15 janvier, Raphaël Legendre a reçuRoland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Thomas Grjebine, responsable du programme macroéconomie et finance internationales au CEPII, et Jean-Marc Daniel, éditorialiste BFM Business, , FONCTION dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/OKHpDTvnRvLyeUGjXtYtL6jbvGY=/0x0:1280x720/800x0/images/L-integrale-des-Experts-du-jeudi-15-janvier-2217183.jpg\" />"
     },
     {
       "title": "Les Experts : Médicaments, comment réduire la facture ? - 15/01",
@@ -45,36 +75,6 @@
       "title": "Les Experts : Un protectionnisme intra-européen néfaste - 15/01",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-un-protectionnisme-intra-europeen-nefaste-15-01_VN-202601150367.html",
       "summary": "Ce jeudi 15 janvier, la question de savoir si les barrières administratives internes à l'Union européenne sont le principal obstacle pour les entreprises, ainsi que sur les excédents commerciaux chinois, estimés à 1 200 milliards de dollars en 2025, ont été abordés par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Thomas Grjebine, responsable du programme macroéconomie et finance internationales au CEPII, et Jean-Marc Daniel, éditorialiste BFM Business, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/mH3i2ptnzt_T89Q62DYyHNlwW_M=/0x0:1280x720/800x0/images/Les-Experts-Un-protectionnisme-intra-europeen-nefaste-15-01-2217149.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Good Morning Business du jeudi 15 janvier",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-integrale-de-good-morning-business-du-jeudi-15-janvier_EN-202601150297.html",
-      "summary": "Ce jeudi 15 janvier, Éric Vançon, cofondateur de Vistapod, Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Marie-Anne Barbat-Layani, présidente de l'Autorité des marchés financiers, David Popineau, responsable de Disney+ en France, Éric Bismuth, président fondateur de Montefiore Investment, Mathieu Jolivet et Annalisa Cappellini, journalistes BFM Business, étaient les invités dans l'émission Good Morning Business sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "Good Morning Business - Jeudi 15 janvier",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-good-morning-business-jeudi-15-janvier_VN-202601150340.html",
-      "summary": "Ce jeudi 15 janvier, Éric Vançon, cofondateur de Vistapod, Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Marie-Anne Barbat-Layani, présidente de l'Autorité des marchés financiers, David Popineau, responsable de Disney+ en France, Éric Bismuth, président fondateur de Montefiore Investment, Mathieu Jolivet et Annalisa Cappellini, journalistes BFM Business, étaient les invités dans l'émission Good Morning Business présentée par Laure Closier. Good Morning Business est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/N7YkMUn5-BgM2dNybrQ6xdaTlkc=/0x0:1280x720/800x0/images/Good-Morning-Business-Jeudi-15-janvier-2217125.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-15-01_EN-202601150281.html",
-      "summary": "Ce jeudi 15 janvier, la situation économique européenne, les chiffres de l'inflation et les taux de la BCE, ont été abordés par Michel Martinez, chef économiste Europe chez Société Générale CIB, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-15-01_VN-202601150280.html",
-      "summary": "Ce jeudi 15 janvier, la situation économique européenne, les chiffres de l'inflation et les taux de la BCE, ont été abordés par Michel Martinez, chef économiste Europe chez Société Générale CIB, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/XL9yg3n2_0vOkPGtbVVOcYzHsLE=/0x0:1280x720/800x0/images/L-eclaireur-15-01-2217077.jpg\" />"
-    },
-    {
-      "title": "Le gouvernement confirme que le taux du livret A va passer à 1,5% en février, son niveau le plus bas depuis 4 ans",
-      "url": "https://www.bfmtv.com/economie/il-a-baisse-de-plus-de-moitie-en-un-an-le-taux-du-livret-a-devrait-passer-a-1-5-en-fevrier-son-niveau-le-plus-bas-depuis-4-ans_AD-202601150276.html",
-      "summary": "Le gouvernement va suivre la recommandation de la Banque de France avec une nouvelle baisse du taux du Livret A à 1,5% au 1er février, conséquence du fort ralentissement de l’inflation, au détriment des épargnants mais au bénéfice du logement social et des banques.<br /><br /><img src=\"https://images.bfmtv.com/nHjmCruKthgSrNNfZZ2K9j7Z6vg=/0x40:768x472/800x0/images/Le-Livret-A-continue-de-capter-l-epargne-des-Francais-il-s-est-etoffe-de-pres-de-20-milliards-d-euros-au-premier-trimestre-un-record-depuis-2009-a-la-faveur-d-un-taux-de-remuneration-a-3-1622509.jpg\" />"
-    },
-    {
-      "title": "\"Ils n'ont qu'à soit quitter l'Europe, soit respecter le droit\": Roland Lescure assure que la régulation européenne du numérique est \"non négociable\" face aux grandes plateformes américaines",
-      "url": "https://www.bfmtv.com/economie/international/ils-n-ont-qu-a-soit-quitter-l-europe-soit-respecter-le-droit-roland-lescure-assure-que-la-regulation-europeenne-du-numerique-est-non-negociable-face-aux-grandes-plateformes-americaines_AD-202601150272.html",
-      "summary": "Invité sur France Inter, le ministre de l'Économie et des Finances a assuré que l'Europe \"ne courbera pas l'échine\" face aux Américains au sujet de la régulation du numérique.<br /><br /><img src=\"https://images.bfmtv.com/X70-h4ytou52OUVyt6V3XKxOesQ=/0x33:2048x1185/800x0/images/Roland-Lescure-2157319.jpg\" />"
     },
     {
       "title": "\"On ne s'interdit rien pour que la France ait un budget\", affirme le ministre de l'Économie et des Finances Roland Lescure",
