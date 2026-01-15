@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-15T07:18:29Z",
+  "updated_at": "2026-01-15T08:18:33Z",
   "articles": [
+    {
+      "title": "« Pour soutenir la croissance à long terme, l’éducation est la mère des batailles »",
+      "url": "https://www.lemonde.fr/idees/article/2026/01/15/pour-soutenir-la-croissance-a-long-terme-l-education-est-la-mere-des-batailles_6662338_3232.html",
+      "summary": "Si la France rejoignait la tête des pays de l’OCDE en mathématiques, en culture scientifique et en compréhension de l’écrit, elle pourrait regagner 2,7 points de productivité, rappelle la journaliste Béatrice Madeline dans sa chronique."
+    },
     {
       "title": "Jusqu’à 185 000 euros le traitement… De plus en plus chers, les médicaments innovants pèsent sur les dépenses de l’Assurance-maladie",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/jusqu-a-185-000-euros-le-traitement-de-plus-en-plus-chers-les-medicaments-innovants-pesent-sur-les-depenses-de-l-assurance-maladie_6662256_3234.html",
@@ -15,6 +20,21 @@
       "title": "Finances publiques : les hauts fonctionnaires mis en cause bientôt mieux protégés",
       "url": "https://www.lemonde.fr/politique/article/2026/01/14/finances-publiques-les-hauts-fonctionnaires-mis-en-cause-bientot-mieux-proteges_6662161_823448.html",
       "summary": "Le gouvernement ouvre la voie à une meilleure protection des gestionnaires publics mis en cause au titre de leur responsabilité financière. Cela pourrait notamment se traduire par la prise en charge de leurs frais d’avocat."
+    },
+    {
+      "title": "Il a baissé de plus de moitié en un an: le taux du livret A devrait passer à 1,5% en février, son niveau le plus bas depuis 4 ans",
+      "url": "https://www.bfmtv.com/economie/il-a-baisse-de-plus-de-moitie-en-un-an-le-taux-du-livret-a-devrait-passer-a-1-5-en-fevrier-son-niveau-le-plus-bas-depuis-4-ans_AD-202601150276.html",
+      "summary": "Le gouvernement devrait suivre la recommandation de la Banque de France avec une nouvelle baisse du taux du Livret A à 1,5% au 1er février, conséquence du fort ralentissement de l’inflation, au détriment des épargnants mais au bénéfice du logement social et des banques.<br /><br /><img src=\"https://images.bfmtv.com/Ma2ucBnmn0YfDfkbgrQh4RXrHK0=/0x73:768x505/800x0/images/Des-livrets-d-epargne-du-Livret-A-le-24-aout-2015-a-Lille-1450704.jpg\" />"
+    },
+    {
+      "title": "\"Ils n'ont qu'à soit quitter l'Europe, soit respecter le droit\": Roland Lescure assure que la régulation européenne du numérique est \"non négociable\" face aux grandes plateformes américaines",
+      "url": "https://www.bfmtv.com/economie/international/ils-n-ont-qu-a-soit-quitter-l-europe-soit-respecter-le-droit-roland-lescure-assure-que-la-regulation-europeenne-du-numerique-est-non-negociable-face-aux-grandes-plateformes-americaines_AD-202601150272.html",
+      "summary": "Invité sur France Inter, le ministre de l'Économie et des Finances a assuré que l'Europe \"ne courbera pas l'échine\" face aux Américains au sujet de la régulation du numérique.<br /><br /><img src=\"https://images.bfmtv.com/X70-h4ytou52OUVyt6V3XKxOesQ=/0x33:2048x1185/800x0/images/Roland-Lescure-2157319.jpg\" />"
+    },
+    {
+      "title": "L'inflation a atteint 0,9% en moyenne sur l'année 2025, selon l'Insee (contre 2% en 2024)",
+      "url": "https://www.bfmtv.com/economie/economie-social/l-inflation-a-atteint-0-9-en-moyenne-sur-l-annee-2025-selon-l-insee-contre-2-en-2024_AN-202601150257.html",
+      "summary": "La hausse des prix à la consommation a ralentit, atteignant 0,9% en moyenne sur l'année 2025. selon l'Insee. C'était 2% en 2024, après 4,9 % en 2023 et 5,2 % en 2022. <br /><br /><img src=\"https://images.bfmtv.com/Dih4QtiqPmSmrIEEvH0QRBP9PrI=/0x106:2048x1258/800x0/images/inflation-1646982.jpg\" />"
     },
     {
       "title": "Le monde qui bouge - L'Interview : Une mission militaire européenne au Groenland - 15/01",
@@ -32,24 +52,9 @@
       "summary": "Ce jeudi 15 janvier, Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, était l'invité d'Annalisa Cappellini dans Le monde qui bouge - L'Interview, de l'émission Good Morning Business, présentée par Laure Closier. Il a salué l'envoi des troupes françaises au Groenland, qui témoigne de la volonté des pays européens de s'unir pour faire obstacle à l'annexion américaine et pour défendre l'équilibre territorial de l'Europe. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/MD1KgRTgWagnX9uTQQRqrOIVoic=/0x0:1280x720/800x0/images/Le-monde-qui-bouge-L-Interview-Une-mission-militaire-europeenne-au-Groenland-15-01-2216981.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Un incroyable potentiel de croissance en Europe - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-un-incroyable-potentiel-de-croissance-en-europe-15-01_EN-202601150137.html",
-      "summary": "Ce jeudi 15 janvier, les effets d'une réduction de 2% des barrières administratives au sein du marché unique ont été abordés par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "L'Edito de Raphaël Legendre : Un incroyable potentiel de croissance en Europe - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-un-incroyable-potentiel-de-croissance-en-europe-15-01_VN-202601150139.html",
-      "summary": "Ce jeudi 15 janvier, dans son édito, Raphaël Legendre est revenu sur les effets d'une réduction de 2% des barrières administratives au sein du marché unique. Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/3FRBKyL7OUi7w1DFlMmnlPvFN_c=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-Un-incroyable-potentiel-de-croissance-en-Europe-15-01-2216960.jpg\" />"
-    },
-    {
-      "title": "L’Edito de Raphaël Legendre : Un incroyable potentiel de croissance en Europe - 15/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-un-incroyable-potentiel-de-croissance-en-europe-15-01_EN-202601150136.html",
-      "summary": "Ce jeudi 15 janvier, les effets d'une réduction de 2% des barrières administratives au sein du marché unique ont été abordés par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
-    },
-    {
-      "title": "Pour éviter l'entrée de 200.000 foyers fiscaux dans l'impôt sur le revenu, l'Assemblée nationale vote finalement son indexation sur l'inflation",
-      "url": "https://www.bfmtv.com/economie/pour-eviter-l-entree-de-200-000-foyers-fiscaux-dans-l-impot-sur-le-revenu-l-assemble-vote-finalement-son-indexation-sur-l-inflation_AD-202601150125.html",
-      "summary": "L'Assemblée nationale a finalement rétabli mercredi soir l'indexation du barème de l'impôt sur le revenu sur l'inflation pour toutes les tranches. Cette mesure doit encore être confirmée dans le compromis budgétaire final. <br /><br /><img src=\"https://images.bfmtv.com/6ic_degb6IRFCUShCqHW_LGlfHU=/0x106:2048x1258/800x0/images/Avis-d-impot-2066535.jpg\" />"
+      "title": "Le taux du Livret A \"va baisser légèrement\" au 1er février, confirme le ministre de l'Économie et des Finances Roland Lescure",
+      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/le-taux-du-livret-a-va-baisser-legerement-au-1er-fevrier-confirme-le-ministre-de-l-economie-et-des-finances-roland-lescure_7742836.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Il annoncera le taux retenu \"dans la journée\" mais promet qu'il restera \"significativement supérieur à l'inflation\"."
     },
     {
       "title": "Impôts : y a-t-il vraiment des milliers de Français fortunés qui ne paient aucun impôt sur le revenu ?",
@@ -74,11 +79,6 @@
     {
       "title": "L’info du jour | 13 janvier 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/01/13/linfo-du-jour-13-janvier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 janvier 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/01/13/linfo-du-jour-13-janvier-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
