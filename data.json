@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-16T19:13:54Z",
+  "updated_at": "2026-01-16T20:13:28Z",
   "articles": [
     {
       "title": "Les députés votent une baisse de taxe qui ampute le budget du CNC et profite à M6",
@@ -15,6 +15,16 @@
       "title": "« Médiocre, mais résiliente », l’économie européenne résiste aux droits de douane et aux tensions géopolitiques",
       "url": "https://www.lemonde.fr/economie/article/2026/01/16/mediocre-mais-resiliente-l-economie-europeenne-resiste-aux-droits-de-douane-et-aux-tensions-geopolitiques_6662464_3234.html",
       "summary": "La croissance de la zone euro (hors Irlande) était d’environ 1 % en 2025 et devrait rester au même niveau cette année."
+    },
+    {
+      "title": "Les efforts de la Banque centrale semblent payer: à 5,6%, l'inflation en Russie a fortement baissé en 2025",
+      "url": "https://www.bfmtv.com/economie/international/les-efforts-de-la-banque-centrale-semblent-payer-a-5-6-l-inflation-en-russie-a-fortement-baisse-en-2025_AD-202601160878.html",
+      "summary": "En maintenant son taux directeur à près de 20% pendant deux ans, la Banque centrale russe semble avoir réussi à ralentir la hausse des prix qui a atteint 5,6% l'an passé. <br /><br /><img src=\"https://images.bfmtv.com/zsFQZsUh3hhbZGB_6-zJKfP-9Gg=/0x1:2048x1153/800x0/images/Le-Kremlin-a-Moscou-le-24-avril-2024-1896858.jpg\" />"
+    },
+    {
+      "title": "Après avoir consulté des documents à Bercy, Éric Coquerel affirme que des \"milliers\" d'ultra-riches \"ne paient pas l'impôt qu'ils devraient payer au pays\"",
+      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/apres-avoir-consulte-des-documents-a-bercy-eric-coquerel-affirme-que-des-milliers-d-ultra-riches-ne-paient-pas-l-impot-qu-ils-devraient-payer-au-pays_AD-202601160863.html",
+      "summary": "Le député insoumis s'est rendu à Bercy ce vendredi pour consulter des documents et vérifier si plusieurs milliers de contribuables fortunés ne paient pas d'impôts, comme l'a affirmé l'ancien ministre Éric Lombard. <br /><br /><img src=\"https://images.bfmtv.com/T5a0Mp1BJouLBgSsFSMCN5QAnfE=/0x106:2048x1258/800x0/images/Eric-Coquerel-le-14-avril-2023-a-l-Assemblee-nationale-1646220.jpg\" />"
     },
     {
       "title": "Les experts sans frontières – Vendredi 16 janvier",
@@ -37,9 +47,9 @@
       "summary": "Lors d'une allocution télévisée ce vendredi, le Premier ministre a dévoilé une série de mesures qu'il entend intégrer au budget pour convaincre le Parti socialiste de ne pas le censurer en cas d'adoption du texte sans vote.<br /><br /><img src=\"https://images.bfmtv.com/sESTAvo0X-Gt-ZrkgK-DFg6crJ0=/0x0:1920x1080/800x0/images/Annonces-budgetaires-de-Sebastien-Lecornu-2218226.jpg\" />"
     },
     {
-      "title": "Budget 2026 : Sébastien Lecornu dit sa \"tristesse\" face à l'échec de sa méthode et évoque un texte \"meilleur\" et \"responsable\" après ses annonces",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-sebastien-lecornu-dit-sa-tristesse-face-a-l-echec-de-sa-methode-et-evoque-un-texte-meilleur-et-responsable-apres-ses-annonces_7746163.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Premier ministre, qui s'est résigné à une adoption du budget sans vote à l'Assemblée, par 49.3 ou par ordonnances, a fait plusieurs annonces vendredi, dont certains à destination des ménages."
+      "title": "\"Avancées réelles\" ou \"démagogie absolue\" : les réactions contrastées au discours de Lecornu sur le budget 2026",
+      "url": "https://www.franceinfo.fr/economie/budget/avancees-reelles-ou-demagogie-absolue-les-reactions-contrastees-au-discours-de-lecornu-sur-le-budget-2026_7746145.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre s'est exprimé vendredi pour tenter de trouver un compromis à propos du budget et d'éviter un passage en force."
     },
     {
       "title": "DIRECT. Budget 2026 : le Parti socialiste salue des \"avancées réelles\" après les annonces de Sébastien Lecornu",
@@ -47,14 +57,19 @@
       "summary": "Le Premier ministre a fait une série de mesures pour modifier le projet de budget de l'Etat et tenter d'éviter une censure des socialistes."
     },
     {
+      "title": "Budget 2026 : le Premier ministre Sébastien Lecornu exprime sa \"réelle déception\" après l'échec de sa méthode",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-sebastien-lecornu-dit-sa-tristesse-face-a-l-echec-de-sa-methode-et-evoque-un-texte-meilleur-et-responsable-apres-ses-annonces_7746163.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le chef du gouvernement s'est résigné à faire adopter le budget de l'Etat sans vote à l'Assemblée."
+    },
+    {
+      "title": "Budget 2026 : les dernières annonces de Sébastien Lecornu pour trouver un compromis",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-les-dernieres-annonces-de-sebastien-lecornu-pour-trouver-un-compromis_7746178.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Sébastien Lecornu propose, vendredi 16 janvier, la dernière possibilité d'un compromis budgétaire. Sur le perron de Matignon, le Premier ministre n'a évoqué ni le 49.3, ni les ordonnances, mais a détaillé plusieurs annonces concernant notamment l'agriculture et l'armée."
+    },
+    {
       "title": "Prime d'activité, impôt sur le revenu, logement… Ce qu'il faut retenir des annonces de Sébastien Lecornu sur le budget 2026",
       "url": "https://www.franceinfo.fr/economie/budget/prime-d-activite-impot-sur-le-revenu-logement-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-sur-le-budget-2026_7746112.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le Premier ministre, qui s'est résigné à une adoption du budget sans vote à l'Assemblée, par 49.3 ou par ordonnances, a fait plusieurs annonces vendredi, dont certaines à destination des ménages."
-    },
-    {
-      "title": "\"Avancées réelles\" ou \"démagogie absolue\" : les réactions contrastées au discours de Lecornu sur le budget 2026",
-      "url": "https://www.franceinfo.fr/economie/budget/avancees-reelles-ou-demagogie-absolue-les-reactions-contrastees-au-discours-de-lecornu-sur-le-budget-2026_7746145.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Premier ministre s'est exprimé vendredi pour tenter de trouver un compromis à propos du budget et d'éviter un passage en force."
     },
     {
       "title": "Baisse du taux de Livret A : où placer son épargne ?",
@@ -65,6 +80,36 @@
       "title": "Budget 2026 : \"Pour une entreprise, c’est toxique de ne pas avoir de lisibilité\", explique la présidente de Siemens France",
       "url": "https://www.franceinfo.fr/replay-radio/l-interview-eco/budget-2026-pour-une-entreprise-c-est-toxique-de-ne-pas-avoir-de-lisibilite-explique-la-presidente-de-siemens-france_7716001.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Doris Birkhofer, présidente de Siemens France était l'invitée de franceinfo, vendredi 16 janvier. L'occasion d'aborder les conséquences des discussions autour du budget."
+    },
+    {
+      "title": "Sébastien Lecornu : \"Tracer de nouvelles orientations budgétaires pour éviter tout blocage\"",
+      "url": "http://fr.euronews.com/2026/01/16/budget-les-debats-a-lassemblee-annules-sebastien-lecornu-prendra-la-parole-ce-vendredi",
+      "summary": "Le Premier ministre français s'est exprimé vendredi soir sur le budget de l'État pour 2026, après avoir acté, la veille, l’impossibilité d’un vote à l’Assemblée nationale."
+    },
+    {
+      "title": "L’info du jour | 16 janvier 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/01/16/linfo-du-jour-16-janvier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 16 janvier 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/01/16/linfo-du-jour-16-janvier-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 16 janvier 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/01/16/linfo-du-jour-16-janvier-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 15 janvier 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/01/15/linfo-du-jour-15-janvier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 15 janvier 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/01/15/linfo-du-jour-15-janvier-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Réforme de 2023 : moins de droits pour les chômeurs, plus d'économies pour l'assurance chômage",
