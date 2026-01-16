@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-16T17:17:10Z",
+  "updated_at": "2026-01-16T18:19:48Z",
   "articles": [
+    {
+      "title": "Les députés votent une baisse de taxe qui ampute le budget du CNC et profite à M6",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/16/les-deputes-votent-une-baisse-de-taxe-qui-ampute-le-budget-du-cnc-et-profite-a-m6_6662573_3234.html",
+      "summary": "Un amendement au projet de loi de finances, voté par Ensemble pour la République et le rassemblement National, réduit de 34 millions le budget du Centre national du cinéma et l’image animée, au profit des chaînes hertziennes. M6 est la grande gagnante"
+    },
     {
       "title": "L’échange de maisons, en pleine croissance, s’installe discrètement dans le paysage touristique",
       "url": "https://www.lemonde.fr/economie/article/2026/01/16/l-echange-de-maisons-en-pleine-croissance-s-installe-discretement-dans-le-paysage-touristique_6662543_3234.html",
@@ -10,6 +15,21 @@
       "title": "« Médiocre, mais résiliente », l’économie européenne résiste aux droits de douane et aux tensions géopolitiques",
       "url": "https://www.lemonde.fr/economie/article/2026/01/16/mediocre-mais-resiliente-l-economie-europeenne-resiste-aux-droits-de-douane-et-aux-tensions-geopolitiques_6662464_3234.html",
       "summary": "La croissance de la zone euro (hors Irlande) était d’environ 1 % en 2025 et devrait rester au même niveau cette année."
+    },
+    {
+      "title": "Les experts sans frontières – Vendredi 16 janvier",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-16-janvier_EN-202601160816.html",
+      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/M65hsM-k6LkGQ2eSrf8NEmo7scw=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_2.jpg\" />"
+    },
+    {
+      "title": "La tech chinoise en position de force",
+      "url": "https://www.bfmtv.com/economie/video-la-tech-chinoise-en-position-de-force_VN-202601160804.html",
+      "summary": "La tech chinoise en position de force 🇨🇳 Nicolas Voinchet et Christian Parisot reviennent sur les avantages de l'intelligence artificielle chinoise pour sa propre économie et pour les marchés émergeants <br /><br /><img src=\"https://images.bfmtv.com/u3O-PFeEzY86VstpNc4uvI5i9DU=/0x0:1280x720/800x0/images/La-tech-chinoise-en-position-de-force-2218242.jpg\" />"
+    },
+    {
+      "title": "Hausse de la prime d'activité, indexation du barème de l'impôt sur le revenu… Sébastien Lecornu annonce plusieurs mesures pour convaincre le PS et trouver un accord sur le budget",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/hausse-de-la-prime-d-activite-indexation-du-bareme-de-l-impot-sur-le-revenu-sebastien-lecornu-annonce-plusieurs-mesures-pour-convaincre-le-ps-et-trouver-un-accord-sur-le-budget_AV-202601160795.html",
+      "summary": "Lors d'une allocution télévisée ce vendredi, le Premier ministre a dévoilé une série de mesures qu'il entend intégrer au budget pour convaincre le Parti socialiste de ne pas le censurer en cas d'adoption du texte sans vote.<br /><br /><img src=\"https://images.bfmtv.com/sESTAvo0X-Gt-ZrkgK-DFg6crJ0=/0x0:1920x1080/800x0/images/Annonces-budgetaires-de-Sebastien-Lecornu-2218226.jpg\" />"
     },
     {
       "title": "L'éco du monde : \"L'accord Mercosur peut-il changer le potentiel de croissance européen ?\" - 16/01",
@@ -22,9 +42,19 @@
       "summary": "Ce vendredi 16 janvier, François Rimeu, stratégiste senior chez Crédit Mutuel AM, a abordé la production industrielle américaine en hausse, et le Mercosur au service de la croissance européenne, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
-      "title": "DIRECT. Budget 2026 : Sébastien Lecornu va s'exprimer à 18h30 pour tenter de trouver un accord avec les socialistes",
+      "title": "Baisse du taux de Livret A : où placer son épargne ?",
+      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/baisse-du-taux-de-livret-a-ou-placer-son-epargne_7746124.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "À partir du 1er février, le Livret A voit son taux d’intérêt baisser de 1,7% à 1,5 %, notamment en raison du ralentissement de l’inflation. Alors, où placer son épargne dans l'espoir d'un meilleur rendement ?"
+    },
+    {
+      "title": "DIRECT. Budget 2026 : Sébastien Lecornu annonce une hausse de la prime d'activité et assure que la fiscalité sur les ménages n'augmentera pas",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-prendra-la-parole-ce-vendredi-en-fin-de-journee-pour-tenter-de-trouver-un-accord_7745488.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Avant même de présenter depuis Matignon les \"éléments de fond\" visant ce compromis, le Premier ministre a annoncé une première mesure en direction du PS : la généralisation des repas universitaires à 1 euro."
+      "summary": "Le Premier ministre a déjà annoncé une première mesure en direction du PS : la généralisation des repas universitaires à 1 euro."
+    },
+    {
+      "title": "Budget 2026 : \"Pour une entreprise, c’est toxique de ne pas avoir de lisibilité\", explique la présidente de Siemens France",
+      "url": "https://www.franceinfo.fr/replay-radio/l-interview-eco/budget-2026-pour-une-entreprise-c-est-toxique-de-ne-pas-avoir-de-lisibilite-explique-la-presidente-de-siemens-france_7716001.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Doris Birkhofer, présidente de Siemens France était l'invitée de franceinfo, vendredi 16 janvier. L'occasion d'aborder les conséquences des discussions autour du budget."
     },
     {
       "title": "Réarmement : la ministre déléguée auprès de la ministre des Armées rappelle \"l’urgence\" d'avoir un budget pour \"accélérer\" l'industrie, \"le nerf de la guerre\"",
@@ -32,14 +62,9 @@
       "summary": "Alice Rufo plaide pour une \"industrie européenne forte\" et alerte sur la nécessité d'un vote du budget pour valider l'actualisation de la loi de programmation militaire 2026-2030 et l'augmentation des moyens alloués à la défense"
     },
     {
-      "title": "Est-il vrai que certaines grandes fortunes françaises échappent à l'impôt sur le revenu ?",
-      "url": "https://www.franceinfo.fr/economie/justice-fiscale-est-il-vrai-que-certaines-grandes-fortunes-francaises-echappent-a-l-impot_7744000.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que le vote du budget 2026 se fait attendre, les impôts des plus riches reviennent au cœur du débat. Notamment avec une déclaration choc de l'ancien ministre de l'Économie : Éric Lombard affirme que des milliers de grandes fortunes ne payent aucun impôt sur le revenu en France. Est-ce vrai, et combien de Français fortunés échappent réellement à l'impôt ?"
-    },
-    {
-      "title": "Budget 2026 : vers l’utilisation du 49.3 ou du recours aux ordonnances",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/budget-2026-vers-l-utilisation-du-49-3-ou-du-recours-aux-ordonnances_7745344.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le 49.3 est à nouveau sur la table pour faire adopter le budget 2026, en l’absence de majorité. Il est également possible pour le Premier ministre de passer pour la première fois par la voie des ordonnances."
+      "title": "L’info du jour | 16 janvier 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/01/16/linfo-du-jour-16-janvier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Budget : les débats à l'Assemblée annulés, Sébastien Lecornu prendra la parole ce vendredi",
