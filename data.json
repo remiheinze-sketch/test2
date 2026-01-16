@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-16T04:03:20Z",
+  "updated_at": "2026-01-16T05:18:10Z",
   "articles": [
+    {
+      "title": "« Médiocre mais résiliente », l’économie européenne résiste aux droits de douane et aux tensions géopolitiques",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/16/mediocre-mais-resiliente-l-economie-europeenne-resiste-aux-droits-de-douane-et-aux-tensions-geopolitiques_6662464_3234.html",
+      "summary": "La croissance de la zone euro (hors Irlande) était d’environ 1 % en 2025 et devrait rester au même niveau cette année."
+    },
     {
       "title": "Actelios Solutions, accusé par Bercy de « pratiques commerciales trompeuses », n’est plus autorisé à fournir de l’électricité",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/le-ministere-de-l-economie-interdit-a-actelios-solutions-de-fournir-de-l-electricite_6662421_3234.html",
@@ -25,11 +30,6 @@
       "title": "Donald Trump remet les industriels de la défense sous tension",
       "url": "https://www.lemonde.fr/economie/article/2026/01/15/donald-trump-remet-les-industriels-de-la-defense-sous-tension_6662376_3234.html",
       "summary": "Le président des Etats-Unis a promis de porter le budget de la défense à 1 500 milliards de dollars en 2027, 50 % de plus qu’attendu, mais il ne veut pas que cela profite avant tout aux actionnaires."
-    },
-    {
-      "title": "« En Inde, le “quick commerce” va trop vite »",
-      "url": "https://www.lemonde.fr/economie/article/2026/01/15/en-inde-le-quick-commerce-va-trop-vite_6662358_3234.html",
-      "summary": "Pour renforcer la sécurité des livreurs à scooter, le gouvernement indien a demandé aux plateformes du « quick commerce » d’abandonner leur promesse de satisfaire les clients en dix minutes. Pas de quoi freiner l’économie florissante de ces services pour impatients, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
     },
     {
       "title": "\"L'inflation très contenue\" assure Thierry Cotillard, président du groupement \"Les Mousquetaires\"",
