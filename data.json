@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-17T10:11:54Z",
+  "updated_at": "2026-01-17T11:10:10Z",
   "articles": [
+    {
+      "title": "Jean Pisani-Ferry, économiste : « L’IA nourrit-elle une nouvelle croissance ou une bulle ? »",
+      "url": "https://www.lemonde.fr/idees/article/2026/01/17/jean-pisani-ferry-economiste-l-ia-nourrit-elle-une-nouvelle-croissance-ou-une-bulle_6662941_3232.html",
+      "summary": "Quand deux Nobel se disputent sur les retombées potentielles de l’intelligence artificielle, c’est le signe que les investissements massifs en cours sont risqués, relève, dans sa chronique, l’économiste Jean Pisani-Ferry. Or, à travers son épargne, l’Europe est elle aussi exposée à ce risque."
+    },
     {
       "title": "Bourse : les métaux stratégiques, un secteur galvanisé par les tensions géopolitiques",
       "url": "https://www.lemonde.fr/argent/article/2026/01/17/bourse-les-metaux-strategiques-un-secteur-galvanise-par-les-tensions-geopolitiques_6662681_1657007.html",
@@ -77,14 +82,24 @@
       "summary": "Le député insoumis s'est rendu à Bercy ce vendredi pour consulter des documents et vérifier si plusieurs milliers de contribuables fortunés ne paient pas d'impôts, comme l'a affirmé l'ancien ministre Éric Lombard. <br /><br /><img src=\"https://images.bfmtv.com/T5a0Mp1BJouLBgSsFSMCN5QAnfE=/0x106:2048x1258/800x0/images/Eric-Coquerel-le-14-avril-2023-a-l-Assemblee-nationale-1646220.jpg\" />"
     },
     {
+      "title": "Les annonces de Sébastien Lecornu, le budget 2026... Le \"8h30 franceinfo\" de Philippe Brun",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/les-annonces-de-sebastien-lecornu-le-budget-2026-le-8h30-franceinfo-de-philippe-brun_7718002.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le député de l'Eure était l'invité de Mathilde Siraud et d'Hadrien Bect samedi 17 janvier."
+    },
+    {
+      "title": "Budget : \"Taxer les entreprises, ce n'est jamais un bon signal qu'on envoie à la compétitivité de notre pays\", estime le député EPR Renaissance Pierre Cazeneuve",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-taxer-les-entreprises-ce-n-est-jamais-un-bon-signal-qu-on-envoie-a-la-competitivite-de-notre-pays-estime-le-depute-epr-renaissance-pierre-cazeneuve_7747669.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Invité de \"La politique s'éclaire\" samedi 17 janvier, le député EPR Renaissance des Hauts-de-Seine Pierre Cazeneuve est revenu sur les annonces de Sébastien Lecornu du vendredi 16 janvier."
+    },
+    {
+      "title": "DIRECT. Annonces de Sébastien Lecornu sur le budget : \"Le PS est la béquille rouillée de la macronie\", tacle Marine Le Pen",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-annonces-de-sebastien-lecornu-sur-le-budget-le-meilleur-moyen-pour-que-le-travail-paye-plus-c-est-d-augmenter-les-salaires-reagit-sophie-binet_7747495.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre a énuméré vendredi soir une série de mesures pour le budget 2026, dans l'espoir de trouver notamment un accord avec les socialistes et d'éviter la censure."
+    },
+    {
       "title": "Annonces de Sébastien Lecornu : l'impossible réduction du déficit public ?",
       "url": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/annonces-de-sebastien-lecornu-l-impossible-reduction-du-deficit-public_7717984.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Tous les samedis, deux économistes débattent des sujets qui marquent l’actualité économique et sociale."
-    },
-    {
-      "title": "DIRECT. Annonces de Sébastien Lecornu sur le budget : \"On attend de voir comment tout cela va s'équilibrer\", réagit le député PS Philippe Brun",
-      "url": "https://www.franceinfo.fr/economie/budget/direct-annonces-de-sebastien-lecornu-sur-le-budget-le-meilleur-moyen-pour-que-le-travail-paye-plus-c-est-d-augmenter-les-salaires-reagit-sophie-binet_7747495.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Premier ministre a énuméré vendredi soir une série de mesures pour le budget 2026, dans l'espoir de trouver notamment un accord avec les socialistes et d'éviter la censure."
     },
     {
       "title": "Budget : les ultimes propositions de Sébastien Lecornu",
@@ -100,11 +115,6 @@
       "title": "Budget 2026 : le Parti socialiste salue des \"avancées réelles\" après les annonces de Sébastien Lecornu",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-prendra-la-parole-ce-vendredi-en-fin-de-journee-pour-tenter-de-trouver-un-accord_7745488.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le Premier ministre a fait une série de mesures pour modifier le projet de budget de l'Etat et tenter d'éviter une censure des socialistes."
-    },
-    {
-      "title": "\"Avancées réelles\" ou \"démagogie absolue\" : les réactions contrastées au discours de Lecornu sur le budget 2026",
-      "url": "https://www.franceinfo.fr/economie/budget/avancees-reelles-ou-demagogie-absolue-les-reactions-contrastees-au-discours-de-lecornu-sur-le-budget-2026_7746145.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Premier ministre s'est exprimé vendredi pour tenter de trouver un compromis à propos du budget et d'éviter un passage en force."
     },
     {
       "title": "L’info du jour | 17 janvier 2026 - Matin",
