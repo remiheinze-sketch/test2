@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-01-19T09:25:10Z",
+  "updated_at": "2026-01-19T10:18:52Z",
   "articles": [
+    {
+      "title": "Budget 2026 : les syndicats sceptiques sur la hausse de la prime d’activité annoncée par Sébastien Lecornu",
+      "url": "https://www.lemonde.fr/politique/article/2026/01/19/budget-2026-les-syndicats-sceptiques-sur-la-hausse-de-la-prime-d-activite-annoncee-par-sebastien-lecornu_6663196_823448.html",
+      "summary": "Plus de 3 millions de ménages modestes devraient voir cette prestation s’accroître « en moyenne de 50 euros par mois ». Les organisations de travailleurs ne critiquent pas l’intention du premier ministre, mais ils préféreraient une réflexion de fond et des avancées sur le niveau des salaires."
+    },
+    {
+      "title": "Prévisions du FMI : le dynamisme de la croissance mondiale surprend, porté par l’intelligence artificielle",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/19/previsions-du-fmi-le-dynamisme-de-la-croissance-mondiale-surprend-porte-par-l-intelligence-artificielle_6663192_3234.html",
+      "summary": "Dans la dernière mise à jour de ses prévisions, publiée lundi, le Fonds monétaire international a revu ses prévisions de croissance pour 2026 à 3,3 %, en hausse de 0,2 point par rapport à ce que l’institution prédisait en octobre 2025."
+    },
     {
       "title": "L’économie de la Chine est marquée par de profonds déséquilibres, avec une production et des exportations en hausse, et une consommation et une natalité en berne",
       "url": "https://www.lemonde.fr/economie/article/2026/01/19/l-economie-chinoise-est-marquee-par-de-profonds-desequilibres-avec-une-production-et-des-exportations-en-hausse-et-une-consommation-et-une-natalite-en-berne_6663185_3234.html",
@@ -32,6 +42,26 @@
       "summary": "Cette surtaxe, de 10 %, sera effective à partir du 1ᵉʳ février et pourrait s’envoler à 25 % au 1ᵉʳ juin. Emmanuel Macron a annoncé dimanche qu’il demanderait « l’activation de l’instrument anticoercition » de l’UE en cas de nouveaux droits de douane américains."
     },
     {
+      "title": "Les Experts : Budget 2026, un inévitable passage en force ? - 19/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-budget-2026-un-inevitable-passage-en-force-19-01_EN-202601190429.html",
+      "summary": "Ce lundi 19 janvier, les difficultés autour de la conception du budget 2026 et l'ouverture du plateforme Parcoursup ont été abordés par Patrick Artus, économiste et conseiller économique de la société de gestion Ossiam, Erwann Tison, chargé d'enseignement à l'université de Strasbourg, et Christian Saint-Étienne, économiste et auteur de \"Trump et nous : Comment sauver la France et l'Europe\", dans l'émission Les Experts, présentée par Ludovic Desautez sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "Les Experts : Budget 2026, un inévitable passage en force ? - 19/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-budget-2026-un-inevitable-passage-en-force-19-01_VN-202601190431.html",
+      "summary": "Ce lundi 19 janvier, les difficultés autour de la conception du budget 2026 et l'ouverture du plateforme Parcoursup ont été abordés par Patrick Artus, économiste et conseiller économique de la société de gestion Ossiam, Erwann Tison, chargé d'enseignement à l'université de Strasbourg, et Christian Saint-Étienne, économiste et auteur de \"Trump et nous : Comment sauver la France et l'Europe\", dans l'émission Les Experts, présentée par Ludovic Desautez sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/GQ_3TQzqrXU1yGp9UtQ5XMk53cw=/0x0:1280x720/800x0/images/Les-Experts-Budget-2026-un-inevitable-passage-en-force-19-01-2219254.jpg\" />"
+    },
+    {
+      "title": "Elle devrait atteindre 3,3%: malgré les tensions commerciales, le FMI révise à la hausse la croissance mondiale pour 2026 (et prévoit 1% pour la France)",
+      "url": "https://www.bfmtv.com/economie/international/elle-devrait-atteindre-3-3-malgre-les-tensions-commerciales-le-fmi-revise-a-la-hausse-la-croissance-mondiale-pour-2026-et-prevoit-1-pour-la-france_AN-202601190423.html",
+      "summary": "Selon les dernières prévisions du FMI, le PIB mondial devrait progresser de 3,3% en 2026, soit une révision à la hausse de 0,2 point justifiée par une meilleure adaptation que prévu aux droits de douane et des investissements dans l'IA soutenus. <br /><br /><img src=\"https://images.bfmtv.com/D-5CYVdBuUeRqadnxuK6-fUjnC0=/2x0:978x549/800x0/images/-477338.jpg\" />"
+    },
+    {
+      "title": "\"Je crois qu’elle ne souhaite pas créer le chaos\": le secrétaire au Trésor de Trump juge \"très improbable\" une annulation des droits de douane par la Cour suprême",
+      "url": "https://www.bfmtv.com/economie/je-crois-qu-elle-ne-souhaite-pas-creer-le-chaos-le-secretaire-au-tresor-de-trump-juge-tres-improbable-une-annulation-des-droits-de-douane-par-la-cour-supreme_AV-202601190394.html",
+      "summary": "Dans une interview accordée à NBC, Scott Bessent a estimé que la Cour suprême ne prendrait sans doute pas le risque d'annuler \"une mesure phare de la politique économique\" de Donald Trump.<br /><br /><img src=\"https://images.bfmtv.com/7XBO0R_PLoIAPf--tUvbLDzcJkM=/0x106:2048x1258/800x0/images/Trump-Bessent-2124905.jpg\" />"
+    },
+    {
       "title": "L'intégrale de Good Morning Market du lundi 19 janvier",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-integrale-de-good-morning-market-du-lundi-19-janvier_EN-202601190378.html",
       "summary": "Ce lundi 19 janvier, Étienne Bracq a reçu Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, Alexandre Baradez, chef analyste chez IG, Guillaume Law-Yee, analyste financier chez Optigestion, Erick Muller, responsable des stratégies obligataires corporate chez Muzinich & Co, Hervé Amourda, économiste chez Pro BTP Finance et membre du comité stratégique de BSI Economics, et Inès Barahhou, Advisory and Quantitative Solutions chez Kepler Cheuvreux, dans l'émission Good Morning Market, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
@@ -55,16 +85,6 @@
       "title": "L'éclaireur - 19/01",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-19-01_EN-202601190304.html",
       "summary": "Ce lundi 19 janvier, Donald Trump qui menace l'Europe de surtaxes, et le déclin démographique qui s'accentue en Chine, ont été abordés par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 19/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-19-01_VN-202601190305.html",
-      "summary": "Ce lundi 19 janvier, Donald Trump qui menace l'Europe de surtaxes, et le déclin démographique qui s'accentue en Chine, ont été abordés par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/7ozdYB4RwhyYwOSN39mXljsx4pQ=/0x0:1280x720/800x0/images/L-eclaireur-19-01-2219146.jpg\" />"
-    },
-    {
-      "title": "Groenland: outre le \"bazooka commercial\", la France souhaite réactiver le paquet de droits de douane supplémentaires de 93 milliards d'euros sur l'économie américaine",
-      "url": "https://www.bfmtv.com/economie/entreprises/groenland-outre-le-bazooka-commercial-la-france-souhaite-reactiver-le-paquet-de-droits-de-douane-supplementaires-de-93-milliards-d-euros-sur-l-economie-americaine_AV-202601190250.html",
-      "summary": "Sur France Inter ce lundi, Stéphane Séjourné, vice-président exécutif de la Commission européenne, affirme que l'accord signé l'an passé par la Commission avec les États-Unis sera \"caduque\" si l'administration Trump met ses dernières menaces à exécution. <br /><br /><img src=\"https://images.bfmtv.com/GrUaF7u0xfhQit_xTuaLJ9zsikE=/0x106:2048x1258/800x0/images/Stephane-Sejourne-a-Bruxelles-le-18-septembre-2024-1940910.jpg\" />"
     },
     {
       "title": "DIRECT. Budget 2026 : 49.3 ou ordonnance ? Le Premier ministre Sébastien Lecornu doit faire connaître sa décision",
