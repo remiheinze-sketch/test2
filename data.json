@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-20T03:00:56Z",
+  "updated_at": "2026-01-20T04:36:53Z",
   "articles": [
     {
       "title": "Budget 2026 : les syndicats sceptiques sur la hausse de la prime d’activité annoncée par Sébastien Lecornu",
@@ -125,6 +125,11 @@
       "title": "L’info du jour | 17 janvier 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/01/17/linfo-du-jour-17-janvier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Coupes budgétaires : ma mission locale va craquer",
+      "url": "https://www.alternatives-economiques.fr/coupes-budgetaires-mission-locale-va-craquer/00117557",
+      "summary": "<p>Le projet de budget prévoit une importante baisse de dotation pour les missions locales. Déjà soumis à une charge de travail en hausse ces dernières années, les conseillers craignent que la situation se dégrade davantage.</p>"
     }
   ]
 }
