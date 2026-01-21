@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-01-21T15:21:20Z",
+  "updated_at": "2026-01-21T16:26:48Z",
   "articles": [
+    {
+      "title": "Les Français recommencent timidement à consommer, les loisirs sacralisés",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/21/les-francais-recommencent-timidement-a-consommer-les-loisirs-sacralises_6663534_3234.html",
+      "summary": "Les Français ont légèrement desserré l’étreinte de leurs dépenses de consommation en 2025. Mais ils ont continué de rationaliser leurs achats en recherchant les meilleurs prix, pour pouvoir préserver les postes de loisirs et de bien-être."
+    },
     {
       "title": "Un an après l’arrivée de Trump, des doutes sur la direction que prend l’économie américaine",
       "url": "https://www.lemonde.fr/economie/article/2026/01/21/un-an-apres-l-arrivee-de-trump-des-doutes-sur-la-direction-que-prend-l-economie-americaine_6663484_3234.html",
       "summary": "Derrière les bons chiffres de la croissance, portés par les investissements massifs dans l’intelligence artificelle, de plus en plus d’Américains peinent à payer leurs factures."
     },
     {
-      "title": "Les droits de douane de Donald Trump n’ont pas modifié les grands déséquilibres macroéconomiques mondiaux",
-      "url": "https://www.lemonde.fr/economie/article/2026/01/21/malgre-les-droits-de-douane-les-grands-desequilibres-economiques-mondiaux-demeurent_6663433_3234.html",
-      "summary": "Si le déficit commercial américain s’est légèrement réduit depuis l’offensive commerciale lancée en 2025 par Donald Trump, les excédents chinois atteignent des records. Au risque de provoquer une nouvelle vague de droits de douane dans le reste du monde."
+      "title": "Le Parlement européen vote l'accélération des procédures pour prêter 90 milliards d'euros à l'Ukraine (dont 60 serviront à acheter des armes)",
+      "url": "https://www.bfmtv.com/economie/international/le-parlement-europeen-vote-l-acceleration-des-procedures-pour-preter-90-milliards-d-euros-a-l-ukraine-dont-60-serviront-a-acheter-des-armes_AD-202601210683.html",
+      "summary": "Le Parlement européen a voté en faveur de l'accélération des procédures pour accorder un prêt de 90 millions d'euros à l'Ukraine, dont les deux tiers sont fléchés vers des dépenses militaires.<br /><br /><img src=\"https://images.bfmtv.com/VRB-MzE7WkWIkXPt7X-nGARH4HI=/0x40:768x472/800x0/images/Le-Parlement-europeen-a-Strasbourg-le-21-octobre-2025-2219698.jpg\" />"
     },
     {
       "title": "A Davos, les lunettes façon Top Gun à 650 euros d’Emmanuel Macron (avec sa monture en or) mettent en lumière Henry Jullien, une manufacture jurassienne passée sous pavillon italien",
@@ -22,16 +27,6 @@
       "summary": "Un grand fonds de pension suédois, Alecta, a vendu l’essentiel de ses bons du Trésor américain en raison des risques croissants liés aux finances publiques et à l’imprévisibilité de la politique américaine, une décision contestée par le Trésor américain. <br /><br /><img src=\"https://images.bfmtv.com/L9a7gPIuyFL6BMRifdlkC-Rk8To=/0x212:2048x1364/800x0/images/Donald-Trump-drapeau-americain-2219721.jpg\" />"
     },
     {
-      "title": "Budget : le nouveau statut du bailleur privé",
-      "url": "https://www.bfmtv.com/economie/video-budget-le-nouveau-statut-du-bailleur-prive_VN-202601210504.html",
-      "summary": "Retenu à la dernière minute dans le projet de loi de finances, le nouveau statut du bailleur privé suscite un soulagement. \"C’est une excellente nouvelle qui était attendue\", confie Pierre-Emmanuel Jus, directeur délégué de Maslow<br /><br /><img src=\"https://images.bfmtv.com/PJ6xVXEtHgQQBMiOwHjT-Sj7J4o=/0x0:1280x720/800x0/images/Budget-le-nouveau-statut-du-bailleur-prive-2220795.jpg\" />"
-    },
-    {
-      "title": "\"Tout comme le Danemark lui-même est sans importance\": Scott Bessent \"n'est pas du tout inquiet\" de ventes massives de bons du Trésor liées aux menaces sur le Groenland",
-      "url": "https://www.bfmtv.com/economie/tout-comme-le-danemark-lui-meme-est-sans-importance-scott-bessent-n-est-pas-du-tout-inquiet-de-ventes-massives-de-bons-du-tresor-liees-aux-menaces-sur-le-groenland_AV-202601210465.html",
-      "summary": "A Davos, le secrétaire au Trésor des Etats-Unis Scott Bessent a également taclé des propos \"incendiaires\" d'Emmanuel Macron alors que le \"budget français est en ruine\".<br /><br /><img src=\"https://images.bfmtv.com/AQNsXGzLM05Fh1JMvxZX4NrJnAY=/0x184:2048x1336/800x0/images/Bessent-Trump-2095667.jpg\" />"
-    },
-    {
       "title": "L'enseigne de décoration Bouchara demande son placement en redressement judiciaire, 541 salariés concernés",
       "url": "https://www.franceinfo.fr/economie/l-enseigne-de-decoration-bouchara-demande-son-redressement-judiciaire-541-salaries-concernes_7755965.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La direction a justifié cette demande par \"un environnement de marché durablement contraint\", \"une baisse des dépenses des ménages\" et une concurrence qui s'intensifie."
@@ -40,11 +35,6 @@
       "title": "DIRECT. Budget 2026 : les députés Les Républicains ne voteront pas la censure du gouvernement, annonce Laurent Wauquiez",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-sebastien-lecornu-a-actionne-le-premier-article-49-3-d-une-serie-de-trois_7755419.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"Il ne serait pas sérieux de faire tomber le gouvernement et de laisser la France sans budget\" dans ce contexte international, a estimé le patron des députés LR."
-    },
-    {
-      "title": "Budget 2026 : \"L'apprentissage, c'est une politique qui marche, on ne la renie pas\", assure Jean-Pierre Farandou, ministre du Travail",
-      "url": "https://www.franceinfo.fr/economie/emploi/budget-2026-l-apprentissage-c-est-une-politique-qui-marche-on-ne-la-renie-pas-assure-jean-pierre-farandou-ministre-du-travail_7755734.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le ministre promet d'investir encore \"beaucoup de milliards\" dans l'apprentissage. L'an dernier, le gouvernement avait diminué les aides aux entreprises, ce qui avait fait baisser le nombre de signatures de contrats en alternance."
     },
     {
       "title": "L’info du jour | 21 janvier 2026 - Mi-journée",
@@ -64,11 +54,6 @@
     {
       "title": "L’info du jour | 20 janvier 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/01/20/linfo-du-jour-20-janvier-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 janvier 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/01/20/linfo-du-jour-20-janvier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
