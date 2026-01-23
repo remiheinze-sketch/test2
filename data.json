@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-23T13:36:12Z",
+  "updated_at": "2026-01-23T14:16:59Z",
   "articles": [
+    {
+      "title": "Les voyages organisés depuis la France aux Etats-Unis sont en chute de 15% sur un an",
+      "url": "https://www.bfmtv.com/economie/video-les-voyages-organises-depuis-la-france-aux-etats-unis-sont-en-chute-de-15-sur-un-an_VN-202601230579.html",
+      "summary": "Le nombre de voyages organisés aux Etats-Unis depuis la France a fortement baissé en 2025, une tendance partie pour se poursuivre en 2026, a indiqué jeudi le représentant des tour-opérateurs français, qui l'explique par un \"effet Trump\" et l'inflation aux Etats-Unis.<br /><br /><img src=\"https://images.bfmtv.com/7ia5m0ya8K-tz2d1v8sZhQU_3Sw=/0x0:1280x720/800x0/images/Les-voyages-organises-depuis-la-France-aux-Etats-Unis-sont-en-chute-de-15-sur-un-an-2222360.jpg\" />"
+    },
     {
       "title": "Bercy n'a pas attendu l'issue politique du budget 2026: le ministère de l'Economie a déjà lancé la procédure pour préparer celui de 2027",
       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/bercy-n-a-pas-attendu-l-issue-politique-du-budget-2026-le-ministere-de-l-economie-a-deja-lance-la-procedure-pour-preparer-celui-de-2027_AD-202601230576.html",
@@ -27,9 +32,14 @@
       "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
     },
     {
-      "title": "DIRECT. Sébastien Lecornu déclenche un nouveau 49.3, sur la partie \"dépenses\" du budget 2026",
+      "title": "DIRECT. Sébastien Lecornu déclenche un nouveau 49.3, sur la partie \"dépenses\" du budget 2026, la gauche et le RN déposent deux nouvelles motions de censure",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-le-premier-ministre-sebastien-lecornu-affronte-deux-motions-de-censure-avant-un-nouveau-49-3_7760177.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les deux motions de censure examinées vendredi ont sans surprise été rejetées par l'Assemblée nationale."
+    },
+    {
+      "title": "\"On manque un peu de transparence en France\" : l'embarrassant dossier des notes de frais des maires",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-manque-un-peu-de-transparence-en-france-l-embarrassant-dossier-des-notes-de-frais-des-maires_7642520.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Après l'affaire emblématique des dépenses d'Anne Hidalgo en vêtements de luxe, opposants comme observateurs supportent difficilement l'opacité liée aux frais de représentation des maires. Cette polémique ne se limite pas, loin de là, à Paris. Des associations militent pour la publication de toutes les notes de frais."
     },
     {
       "title": "Budget 2026 : les motions de censure du RN et de LFI contre Sébastien Lecornu rejetées tour à tour par l'Assemblée nationale",
@@ -45,11 +55,6 @@
       "title": "Budget : Les \"Français ont besoin de cette stabilité\", estime Jean-Pierre Farandou, ministre du Travail",
       "url": "https://www.franceinfo.fr/politique/budget-les-francais-ont-besoin-de-cette-stabilite-estime-jean-pierre-farandou-ministre-du-travail_7760249.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Jean-Pierre Farandou, ministre du Travail et des Solidarités, était l’invité des 4 Vérités ce vendredi 23 janvier 2026. Il est revenu sur la question du budget de la France et de la nécessité, selon lui, de le voter rapidement."
-    },
-    {
-      "title": "L'Europe peut-elle faire pression sur Donald Trump en vendant de la dette américaine ?",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-europe-peut-elle-faire-pression-sur-donald-trump-en-vendant-de-la-dette-americaine_7729891.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Donald Trump menace de \"grosses représailles\" si les Européens vendent de la dette américaine, une idée qui a circulé au plus fort des tensions autour du Groenland. Ce levier théorique reste un scénario autant risqué pour l'économie européenne que celle des États-Unis."
     },
     {
       "title": "Budget 2026 : le gouvernement Lecornu survit à deux motions de censure",
