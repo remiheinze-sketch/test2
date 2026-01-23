@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-01-23T12:27:08Z",
+  "updated_at": "2026-01-23T13:36:12Z",
   "articles": [
+    {
+      "title": "Bercy n'a pas attendu l'issue politique du budget 2026: le ministère de l'Economie a déjà lancé la procédure pour préparer celui de 2027",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/bercy-n-a-pas-attendu-l-issue-politique-du-budget-2026-le-ministere-de-l-economie-a-deja-lance-la-procedure-pour-preparer-celui-de-2027_AD-202601230576.html",
+      "summary": "Des conférences techniques vont être organisées pour \"analyser l'exécution 2025, établir une première prévision d'exécution 2026 et de définir l'évolution tendancielle des dépenses pour les exercices 2027 à 2029\".<br /><br /><img src=\"https://images.bfmtv.com/gndO8p9w_QnJ6laB1lIWMQl5FmM=/0x42:768x474/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-s-adresse-aux-medias-aux-cotes-de-la-ministre-des-Comptes-publics-Amelie-de-Montchalin-a-droite-apres-un-Conseil-des-ministres-extraordinaire-a-l-Elysee-a-Paris-le-22-decembre-2025-2205640.jpg\" />"
+    },
     {
       "title": "Air&Défense : Enfin un budget pour nos armées ? - 23/01",
       "url": "https://www.bfmtv.com/economie/replay-emissions/air-et-defense/air-defense-enfin-un-budget-pour-nos-armees-23-01_EN-202601230530.html",
@@ -22,19 +27,14 @@
       "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
     },
     {
-      "title": "L'intégrale des Experts du vendredi 23 janvier",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-vendredi-23-janvier_EN-202601230416.html",
-      "summary": "Ce vendredi 23 janvier, Raphaël Legendre a reçu Anthony Morlet-Lavidalie, économiste chez Rexecode, Christian Parisot, conseiller économique pour Aurel BGC, et Sébastien Jean, professeur titulaire de la Chaire Jean-Baptiste Say d'économie industrielle au CNAM, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Davos, l’Europe prête au bras de fer ? - 23/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-davos-l-europe-prete-au-bras-de-fer-23-01_EN-202601230414.html",
-      "summary": "Ce vendredi 23 janvier, le bilan du Forum économique mondial à Davos, qui est devenu davantage un sommet géopolitique qu’économique, et le divorce franco-allemand de l’accord du Mercosur, ont été abordés par Anthony Morlet-Lavidalie, économiste chez Rexecode, Christian Parisot, conseiller économique pour Aurel BGC, et Sébastien Jean, professeur titulaire de la Chaire Jean-Baptiste Say d'économie industrielle au CNAM, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
-    },
-    {
       "title": "DIRECT. Sébastien Lecornu déclenche un nouveau 49.3, sur la partie \"dépenses\" du budget 2026",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-le-premier-ministre-sebastien-lecornu-affronte-deux-motions-de-censure-avant-un-nouveau-49-3_7760177.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les deux motions de censure examinées vendredi ont sans surprises été rejetées par l'Assemblée nationale."
+      "summary": "Les deux motions de censure examinées vendredi ont sans surprise été rejetées par l'Assemblée nationale."
+    },
+    {
+      "title": "Budget 2026 : les motions de censure du RN et de LFI contre Sébastien Lecornu rejetées tour à tour par l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2026-les-motions-de-censure-du-rn-et-de-lfi-rejetees-par-l-assemblee-nationale_7760618.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans la foulée, le Premier ministre a de nouveau engagé la responsabilité de son gouvernement pour faire adopter sans vote la partie \"dépenses\" du budget et l'ensemble du texte."
     },
     {
       "title": "Budget 2026 : après l'échec des motions de censure contre Sébastien Lecornu, découvrez quels députés ont voté pour dans notre moteur de recherche",
@@ -50,11 +50,6 @@
       "title": "L'Europe peut-elle faire pression sur Donald Trump en vendant de la dette américaine ?",
       "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-europe-peut-elle-faire-pression-sur-donald-trump-en-vendant-de-la-dette-americaine_7729891.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Donald Trump menace de \"grosses représailles\" si les Européens vendent de la dette américaine, une idée qui a circulé au plus fort des tensions autour du Groenland. Ce levier théorique reste un scénario autant risqué pour l'économie européenne que celle des États-Unis."
-    },
-    {
-      "title": "TEMOIGNAGES. \"Je n'ai pas assez d'argent pour risquer quoi que ce soit\" : face à la baisse du taux du Livret A, six Français évoquent les conséquences pour leur épargne",
-      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/temoignages-je-n-ai-pas-assez-d-argent-pour-risquer-quoi-que-ce-soit-face-a-la-baisse-du-taux-du-livret-a-six-francais-evoquent-les-consequences-pour-leur-epargne_7745809.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le taux de rémunération du Livret A passe à 1,5%, au 1er février. La baisse est continue depuis un an, du fait du ralentissement de l'inflation, inférieure à 1% sur l'ensemble de l'année 2025."
     },
     {
       "title": "Budget 2026 : le gouvernement Lecornu survit à deux motions de censure",
