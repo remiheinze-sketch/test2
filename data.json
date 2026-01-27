@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-01-27T04:39:22Z",
+  "updated_at": "2026-01-27T05:20:03Z",
   "articles": [
+    {
+      "title": "Le budget, symbole et limite de la démocratie",
+      "url": "https://www.lemonde.fr/emploi/article/2026/01/27/le-budget-symbole-et-limite-de-la-democratie_6664257_1698637.html",
+      "summary": "Dans toute organisation, la gestion budgétaire incarne la prise de responsabilité vis-à-vis d’autrui, rappelle dans sa chronique le chercheur en sciences de gestion Armand Hatchuel. Les difficultés à obtenir un budget sans majorité invitent à repenser cette « bonne gestion »."
+    },
+    {
+      "title": "La honte de prendre l'avion n'est qu'un mirage: avec 183 millions de passagers en 2025, le trafic aérien bat son record historique en France (et ce malgré les taxes)",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/la-honte-de-prendre-l-avion-n-est-qu-un-mirage-avec-183-millions-de-passagers-en-2025-le-trafic-aerien-bat-son-record-historique-en-france-et-ce-malgre-les-taxes_AV-202601270063.html",
+      "summary": "Selon les chiffres de l'aviation civile, on a compté sur un an presque 3% de voyages aériens individuels de plus au départ ou à l'arrivée du territoire français.<br /><br /><img src=\"https://images.bfmtv.com/j_jksGZD4yxkBXWoeIY-GM3_yUQ=/0x39:768x471/800x0/images/Un-avion-commercial-de-la-compagnie-aerienne-allemande-Lufthansa-laisse-une-trainee-de-condensation-dans-le-ciel-le-3-avril-2017-au-dessus-de-la-station-des-Alpes-suisses-de-Verbier-1428190.jpg\" />"
+    },
     {
       "title": "\"Une attaque sans précédent contre l'information et la protection des consommateurs\": la CFDT dénonce le maintien de la liquidation de l'INC (60 millions de consommateurs)",
       "url": "https://www.bfmtv.com/economie/consommation/une-attaque-sans-precedent-contre-l-information-et-la-protection-des-consommateurs-la-cfdt-denonce-le-maintien-de-la-liquidation-de-l-inc-60-millions-de-consommateurs_AD-202601260876.html",
@@ -10,6 +20,11 @@
       "title": "Il détient 51% du marché mondial dans le civil et surtout 28% dans le militaire (contre 19% un an plus tôt): les hélicoptères Airbus sont plébiscités dans le monde (et surtout merci à l'Espagne)",
       "url": "https://www.bfmtv.com/economie/entreprises/defense/il-detient-51-du-marche-mondial-dans-le-civil-et-surtout-28-dans-le-militaire-contre-19-un-an-plus-tot-les-helicopteres-airbus-sont-plebiscites-dans-le-monde-et-surtout-merci-a-l-espagne_AN-202601260814.html",
       "summary": "Airbus Helicopters a enregistré en 2025 une forte croissance de ses ventes avec 544 hélicoptères commandés (+20%), portée par les commandes militaires européennes et le développement de systèmes intégrant drones et hélicoptères, dont une commande historique de 100 appareils par l’Espagne.<br /><br /><img src=\"https://images.bfmtv.com/wQnys48nQ2nxDUo52T3TmPxCu6c=/0x39:768x471/800x0/images/Ligne-d-assemblage-de-l-helicoptere-H160-d-AIrbus-a-Marignane-dans-le-sud-est-de-la-France-le-24-juillet-2025-2115449.jpg\" />"
+    },
+    {
+      "title": "Surtaxe sur les grandes entreprises, prime d'activité, hausse des crédits aux armées... Ce que contient le budget 2026 de Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/economie/budget/surtaxe-sur-les-grandes-entreprises-prime-d-activite-hausse-des-credits-aux-armees-ce-que-contient-le-budget-2026-de-sebastien-lecornu_7751320.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Plusieurs mesures du projet de loi de finances ont été abandonnées par le Premier ministre, qui affronte mardi deux nouvelles motions de censure sur la partie \"dépenses\" du texte."
     },
     {
       "title": "\"Il faut bien se mettre en tête que les États-Unis ne sont pas nos ennemis\", affirme Patrick Martin, président du Medef",
