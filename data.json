@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-01-27T11:16:15Z",
+  "updated_at": "2026-01-27T12:27:33Z",
   "articles": [
     {
       "title": "Le budget, symbole et limite de la démocratie",
       "url": "https://www.lemonde.fr/emploi/article/2026/01/27/le-budget-symbole-et-limite-de-la-democratie_6664257_1698637.html",
       "summary": "Dans toute organisation, la gestion budgétaire incarne la prise de responsabilité vis-à-vis d’autrui, rappelle dans sa chronique le chercheur en sciences de gestion Armand Hatchuel. Les difficultés à obtenir un budget sans majorité invitent à repenser cette « bonne gestion »."
+    },
+    {
+      "title": "Droits de douane: un accord entre l'Union Européenne et l'Inde va réduire ses taxes sur les voitures, le vin ou les pâtes",
+      "url": "https://www.bfmtv.com/economie/video-droits-de-douanes-un-accord-entre-l-union-europeenne-et-l-inde-va-reduire-ses-taxes-sur-les-voitures-le-vin-ou-les-pates_VN-202601270527.html",
+      "summary": "Droits de douanes: l'Inde va réduire ses taxes sur les voitures, le vin ou les pâtes après un accord entre l'Union Européenne<br /><br /><img src=\"https://images.bfmtv.com/OSZLEKks0X0E_saMGbPOXjTXTX4=/0x0:1280x720/800x0/images/Droits-de-douanes-un-accord-entre-l-Union-Europeenne-et-l-Inde-va-reduire-ses-taxes-sur-les-voitures-le-vin-ou-les-pates-2224306.jpg\" />"
     },
     {
       "title": "Le coffre-fort : Budget 2026, les changements pour l'épargne - 27/01",
@@ -25,11 +30,6 @@
       "title": "Plus forte croissance économique de l'UE, la Pologne remplit ses coffres de lingots d'or: elle en possède désormais plus que la Banque centrale européenne",
       "url": "https://www.bfmtv.com/economie/plus-forte-croissance-economique-de-l-ue-la-pologne-remplit-ses-coffres-de-lingots-d-or-elle-possede-desormais-plus-que-la-banque-centrale-europeenne_AV-202601270471.html",
       "summary": "La Pologne mène une stratégie ambitieuse d’accumulation d’or, portant ses réserves à 550 tonnes — désormais supérieures à celles de la BCE — afin de renforcer sa stabilité économique dans un contexte géopolitique incertain, tout en s’appuyant sur une croissance parmi les plus dynamiques d’Europe.<br /><br /><img src=\"https://images.bfmtv.com/VwPf2fD4ETi5V00yQI-kFDIFUls=/0x106:2048x1258/800x0/images/Lingot-d-or-2192943.jpg\" />"
-    },
-    {
-      "title": "Renault savoure pleinement l'accord entre l'UE et l'Inde car il compte y écouler son nouveau Duster après 5 ans d'absence (les droits de douane vont passer de 110 à 10% sur les voitures)",
-      "url": "https://www.bfmtv.com/economie/renault-savoure-pleinement-l-accord-entre-l-ue-et-l-inde-car-il-compte-y-ecouler-son-nouveau-duster-apres-5-ans-d-absence-les-droits-de-douane-vont-passer-de-110-a-10-sur-les-voitures_AD-202601270425.html",
-      "summary": "Renault s'est félicité, mardi, de l'annonce d'un accord commercial entre l'Union européenne et l'Inde. Après presque cinq années d'absence sur le marché indien, le constructeur français a révélé mardi un nouveau SUV Duster conçu notamment pour l'Inde afin d'y regagner des parts de marché et d'accélérer sa croissance hors d'Europe. <br /><br /><img src=\"https://images.bfmtv.com/gBxf52i1gezrUx2xLawI1vzS9hs=/0x106:2048x1258/800x0/images/Des-visiteurs-examinent-une-maquette-de-la-Renault-Duster-lors-du-lancement-de-ce-nouveau-modele-chez-Benchmark-Motors-en-peripherie-d-Amritsar-le-20-juillet-2019-2224204.jpg\" />"
     },
     {
       "title": "49.3 sur le budget, menaces de nouvelles taxes de Donald Trump... Le \"8h30 franceinfo\" de Mathilde Panot",
@@ -99,7 +99,7 @@
     {
       "title": "Lâchées par l'Etat, les universités filent vers le déficit généralisé",
       "url": "https://www.alternatives-economiques.fr/lachees-par-letat-les-universites-filent-vers-le-deficit-generalise/00117601",
-      "summary": ""
+      "summary": "<p>Presque toutes les universités devraient présenter un budget déficitaire pour 2026. Si le ministre de l’Enseignement supérieur a annoncé des « assises sur leur financement », il n’a pas évoqué de moyens supplémentaires.</p>"
     },
     {
       "title": "Un budget, enfin !",
