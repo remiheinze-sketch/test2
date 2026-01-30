@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-01-30T06:36:06Z",
+  "updated_at": "2026-01-30T07:34:13Z",
   "articles": [
+    {
+      "title": "La croissance française en hausse de 0,2 % au quatrième trimestre, et de 0,9 % pour l’année 2025",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/30/la-croissance-francaise-en-hausse-de-0-2-au-quatrieme-trimestre-2025-et-de-0-9-sur-l-ensemble-de-l-annee_6664707_3234.html",
+      "summary": "Le PIB a ralenti pendant les derniers mois de l’année après une robuste croissance de 0,5 % au troisième trimestre, selon une première estimation de l’Insee, publiée vendredi."
+    },
     {
       "title": "Budget 2026 : le Sénat rejette d’emblée le texte, un dernier 49.3 attendu vendredi à l’Assemblée",
       "url": "https://www.lemonde.fr/politique/article/2026/01/29/le-senat-rejette-d-emblee-le-budget-un-dernier-49-3-attendu-vendredi-a-l-assemblee_6664608_823448.html",
       "summary": "En adoptant à 203 voix contre 32 une motion de rejet préalable, les sénateurs ont fait le choix de ne pas retarder plus longtemps les débats budgétaires."
+    },
+    {
+      "title": "La croissance française ralentie mais résiste à 0,2% au quatrième trimestre 2025",
+      "url": "https://www.bfmtv.com/economie/entreprises/video-la-croissance-francaise-ralentie-mais-resiste-a-0-2-au-quatrieme-trimestre-2025_VN-202601300254.html",
+      "summary": "Le produit intérieur brut (PIB) français a augmenté de 0,9% sur l'année 2025, après une croissance de 0,2% au quatrième trimestre, a annoncé vendredi 30 janvier l'Insee dans une première estimation. La croissance a ainsi ralenti au quatrième trimestre, après un troisième trimestre plus vigoureux à 0,5%.<br /><br /><img src=\"https://images.bfmtv.com/APP-anINbDrxH4RW7cQljlXsZWM=/0x0:1280x720/800x0/images/La-croissance-francaise-ralentie-mais-resiste-a-0-2-au-quatrieme-trimestre-2025-2226262.jpg\" />"
+    },
+    {
+      "title": "Pas de bonne surprise pour l'économie française: la croissance du PIB a sérieusement ralenti au 4e trimestre 2025 à 0,2% (contre 0,5% sur le précédent)",
+      "url": "https://www.bfmtv.com/economie/pas-de-bonne-surprise-pour-l-economie-francaise-la-croissance-du-pib-a-serieusement-ralenti-au-4e-trimestre-2025-a-0-2_AD-202601300224.html",
+      "summary": "L'économie française a affiché une croissance de 0,9% sur l'ensemble de 2025, portée par les performances du début d'année.<br /><br /><img src=\"https://images.bfmtv.com/X0K7LhBuEu36gRgqBK0s2gP_L2U=/0x40:768x472/800x0/images/La-commission-des-comptes-de-la-Securite-sociale-se-reunit-a-Bercy-pour-reflechir-aux-leviers-d-un-retour-a-l-equilibre-financier-2091379.jpg\" />"
     },
     {
       "title": "Un nouveau \"shutdown\" semble inévitable: les Etats-Unis devraient entrer dans une nouvelle phase de paralysie budgétaire à partir de samedi",
@@ -17,19 +32,9 @@
       "summary": "Les budgets de l'ICE, la police de l'immigration américaine, ont explosé sous Donald Trump. Elle a attribué 22 milliards de dollars de contrats l'an dernier, les détails avec Antoine Heulard, correspondant pour BFM Business depuis Washington.<br /><br /><img src=\"https://images.bfmtv.com/HuLOO6Vka8CZbvHLAnzmBKXHR-g=/0x0:1280x720/800x0/images/Etats-Unis-la-police-de-l-immigration-un-marche-tres-juteux-2226184.jpg\" />"
     },
     {
-      "title": "\"Nous dénonçons cet acte brutal d'agression\": Cuba réagit aux menaces de Donald Trump d'imposer de nouveaux droits de douane sur le pétrole",
-      "url": "https://www.bfmtv.com/economie/international/nous-denoncons-cet-acte-brutal-d-agression-cuba-reagit-aux-menaces-de-donald-trump-d-imposer-de-nouveaux-droits-de-douane-sur-le-petrole_AD-202601300119.html",
-      "summary": "Le gouvernement cubain a vivement réagi après la signature d’un décret par Donald Trump, imposant des sanctions douanières aux pays fournissant du pétrole à l’île. Cette mesure vise à asphyxier l'économie cubaine, en ciblant ses approvisionnements énergétiques stratégiques.<br /><br /><img src=\"https://images.bfmtv.com/pZmJIXo9li_Rf80nGoCNPm8oPjM=/0x143:2048x1295/800x0/images/Penurie-de-petrole-Cuba-2225667.jpg\" />"
-    },
-    {
-      "title": "Les mutuelles vont-elles être contraintes de geler leurs tarifs? Les fédérations conviées à une réunion qui s'annonce tendue avec Stéphanie Rist et Amélie de Montchalin",
-      "url": "https://www.bfmtv.com/economie/economie-social/les-mutuelles-vont-elles-etre-contraintes-de-geler-leurs-tarifs-les-federations-conviees-a-une-reunion-qui-s-annonce-tendue-avec-stephanie-rist-et-amelie-de-montchalin_AV-202601300073.html",
-      "summary": "Les ministres de la Santé et des Comptes publics Stéphanie Rist et Amélie de Montchalin reçoivent, ce vendredi en fin de matinée les fédérations d'organismes complémentaires santé dans un contexte tendu, alors que le dernier budget de la Sécu leur impose un gel des tarifs pour 2026.<br /><br /><img src=\"https://images.bfmtv.com/zCaT3nGw2oBGHF9v8WMDvBMYq6Y=/0x39:768x471/800x0/images/La-ministre-de-la-Sante-Stephanie-Rist-le-26-novembre-2025-a-Paris-2196637.jpg\" />"
-    },
-    {
-      "title": "DIRECT. Budget 2026 : le texte arrive à l'Assemblée nationale pour un dernier recours au 49.3 de la part de Sébastien Lecornu",
+      "title": "DIRECT. Budget 2026 : le texte revient à l'Assemblée nationale pour un dernier recours au 49.3 de Sébastien Lecornu en vue de son adoption définitive",
       "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2026-le-texte-arrive-a-l-assemblee-nationale-pour-un-dernier-recours-au-49-3-de-la-part-de-sebastien-lecornu_7773929.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Après avoir été rejet jeudi au Sénat, le projet de budget passe par la case Assemblée nationale."
+      "summary": "Après avoir été rejet jeudi au Sénat, le projet de loi de finances est de retour au Palais-Bourbon vendredi pour une ultime étape."
     },
     {
       "title": "Budget 2026 : le Sénat rejette le projet de loi de finances sans l'examiner à nouveau, le texte retourne à l'Assemblée en vue de son adoption définitive",
