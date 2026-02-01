@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-02-01T12:27:20Z",
+  "updated_at": "2026-02-01T13:36:41Z",
   "articles": [
     {
       "title": "Livret A, factures d’électricité, prix du gaz, péages d’autoroutes, indemnisation des retards d’avions : ce qui change le 1ᵉʳ février pour votre budget",
       "url": "https://www.lemonde.fr/argent/article/2026/02/01/livret-a-factures-d-electricite-prix-du-gaz-peages-d-autoroutes-indemnisation-des-retards-d-avions-ce-qui-change-le-1-fevrier-pour-votre-budget_6664949_1657007.html",
       "summary": "Le changement de mois marque la hausse des péages, mais aussi de nombreuses baisses. Si celles-ci sont bénéfiques pour les factures d’électricité, elles sont pénalisantes pour les épargnants."
+    },
+    {
+      "title": "\"Soulagé\" que la France ait bientôt un budget, Pierre Moscovici juge néanmoins que la réduction du déficit n'est pas \"sur le bon rythme\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/soulage-que-la-france-ait-bientot-un-budget-pierre-moscovici-juge-neanmoins-que-la-reduction-du-deficit-n-est-pas-sur-le-bon-rythme_AD-202602010218.html",
+      "summary": "L'ex-président de la Cour des comptes estime que le projet de loi de finances qui est en passe d'être adopté par le Parlement et qui vise un déficit de 5% du PIB, \"améliore trop lentement les choses\".<br /><br /><img src=\"https://images.bfmtv.com/U9zKy_dEntb-ctJZe8AYnLc39j8=/0x106:2048x1258/800x0/images/Pierre-Moscovici-1765939.jpg\" />"
     },
     {
       "title": "Ultra-sensible aux droits de douane de Trump, le Mexique enregistre en 2025 sa pire performance économique depuis la pandémie",
@@ -15,11 +20,6 @@
       "title": "Permis de conduire : le gouvernement souhaite supprimer le financement par le CPF, les auto-écoles font le plein",
       "url": "https://www.franceinfo.fr/economie/automobile/permis-de-conduire-le-gouvernement-souhaite-supprimer-le-financement-par-le-cpf-les-auto-ecoles-font-le-plein_7777916.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Jusqu'à présent, le permis de conduire pouvait être financé grâce au Compte personnel de formation (CPF), ce qui représentait un quart des candidats au permis B. Cela pourrait changer dans les prochains jours, avec le vote du volet dépenses du budget 2026."
-    },
-    {
-      "title": "Permis de conduire : le gouvernement souhaite supprimer le financement par le CPF, les auto-écoles font le plein",
-      "url": "https://www.franceinfo.fr/economie/automobile/permis-de-conduire-le-gouvernement-souhaite-supprimer-le-financement-par-le-cpf-les-auto-ecoles-font-le-plein_7776650.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Jusqu'à présent, le permis de conduire pouvait être financé grâce au compte personnel de formation, ce qui représentait un quart des candidats au permis B. Cela pourrait changer dans les prochains jours, avec le vote du volet dépense du budget 2026."
     },
     {
       "title": "L’info du jour | 1er février 2026 - Mi-journée",
@@ -70,11 +70,6 @@
       "title": "L’info du jour | 30 janvier 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/01/30/linfo-du-jour-30-janvier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 janvier 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/01/29/linfo-du-jour-29-janvier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
