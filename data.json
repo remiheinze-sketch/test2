@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-02-02T16:26:03Z",
+  "updated_at": "2026-02-02T17:30:46Z",
   "articles": [
+    {
+      "title": "Budget 2026 : « Comment en vouloir à un élu d’être généreux avec l’argent public ? »",
+      "url": "https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html",
+      "summary": "Pour régler la question récurrente des déficits publics, le financier Jean Gatty suggère, dans une tribune au « Monde », de s’inspirer librement du milliardaire américain Warren Buffet, qui préconise le vote d’une loi qui interdirait aux parlementaires d’être rééligibles dès que le déficit dépasse 3 % du PIB."
+    },
     {
       "title": "Dans l’aéronautique, le milliardaire indien Gautam Adani s’allie au brésilien Embraer pour créer des avions made in India",
       "url": "https://www.lemonde.fr/economie/article/2026/02/02/dans-l-aeronautique-le-milliardaire-indien-gautam-adani-s-allie-au-bresilien-embraer-pour-creer-des-avions-made-in-india_6665083_3234.html",
       "summary": "Le conglomérat industriel indien Adani et l’avionneur brésilien Embraer ont signé un accord pour construire une usine d’assemblage d’avions en Inde, où le trafic aérien est en forte croissance."
+    },
+    {
+      "title": "Pouvoir acheter les médicaments sans passer chez le médecin (et faire faire des économies à la Sécu): cette association de laboratoires veut qu'on ajoute 134 produits à la liste des médicaments délivrés sans ordonnance",
+      "url": "https://www.bfmtv.com/economie/economie-social/pouvoir-acheter-les-medicaments-sans-passer-chez-le-medecin-et-faire-faire-des-economies-a-la-secu-cette-association-de-laboratoires-veut-qu-on-ajoute-134-produits-a-la-liste-des-medicaments-delivres-sans-ordonnance_AV-202602020691.html",
+      "summary": "Dans son baromètre 2025, NéreS, qui représente les laboratoires pharmaceutiques qui commercialisent des produits de premier recours, plaide pour ajouter 134 molécules à liste des médicaments délivrables en pharmacie sans ordonnance.<br /><br /><img src=\"https://images.bfmtv.com/g29kakM4H2XbRrNZ6Jcy1ZK6LoY=/0x6:1232x699/800x0/images/-316127.jpg\" />"
+    },
+    {
+      "title": "Le Club : \"Les banques françaises publient cette semaine !\" - 02/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-les-banques-francaises-publient-cette-semaine-02-02_VN-202602020685.html",
+      "summary": "Ce lundi 2 février, Céline Piquemal-Prade, présidente de Piquemal Houghton Investments, et Guillaume Gerino, directeur de la gestion chez Carlton Sélection, se sont penchés sur les indices des métaux rares, l'économie américaine et les marchés boursiers dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/dYWnodVUE6pKQZgjgHgpGcZT5Rc=/0x0:1280x720/800x0/images/Le-Club-Les-banques-francaises-publient-cette-semaine-02-02-2227892.jpg\" />"
     },
     {
       "title": "Budget 2026: Sébastien Lecornu fait face à deux dernières motions de censure",
@@ -20,6 +35,11 @@
       "title": "60 millions de consommateurs : \"Sous prétexte de faire des économies, on liquide le lanceur d'alerte et son magazine\", dénonce le journaliste Lionel Maugain",
       "url": "https://www.franceinfo.fr/economie/60-millions-de-consommateurs-sous-pretexte-de-faire-des-economies-on-liquide-le-lanceur-d-alerte-et-son-magazine-denonce-le-journaliste-lionel-maugain_7779866.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le budget de l'État pour 2026 prévoit la fermeture, d'ici le mois de mars, de l'INC et l'éventuelle cession du magazine à un acteur privé."
+    },
+    {
+      "title": "L’info du jour | 2 février 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/02/02/linfo-du-jour-2-fevrier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 février 2026 - Mi-journée",
@@ -65,11 +85,6 @@
       "title": "Quel avenir pour la langue russe en France, écartée des concours d'enseignement ?",
       "url": "http://fr.euronews.com/2026/01/30/quel-avenir-pour-la-langue-russe-en-france-ecartee-des-concours-denseignement",
       "summary": "Les acteurs associatifs s'alarment du désengagement de l'État vis-à-vis de l'enseignement du russe, qui, selon eux, pourrait entraîner une baisse des effectifs et, à terme, un déficit d'expertise sur la Russie. Sur le terrain, les enseignants assurent la survivance de leur discipline."
-    },
-    {
-      "title": "L’info du jour | 30 janvier 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/01/30/linfo-du-jour-30-janvier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 janvier 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
