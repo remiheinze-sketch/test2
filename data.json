@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-04T17:37:58Z",
+  "updated_at": "2026-02-04T18:35:16Z",
   "articles": [
+    {
+      "title": "Budget 2026 : le recrutement devient une variable d’ajustement dans les collectivités territoriales",
+      "url": "https://www.lemonde.fr/politique/article/2026/02/04/budget-2026-le-recrutement-devient-une-variable-d-ajustement-dans-les-collectivites-territoriales_6665417_823448.html",
+      "summary": "Face aux contraintes budgétaires qui pèsent sur les collectivités, la maîtrise de la masse salariale compte de plus en plus parmi leurs priorités, selon une enquête publiée mercredi."
+    },
     {
       "title": "La crise immobilière en Chine ébranle la foi en l’avenir",
       "url": "https://www.lemonde.fr/economie/article/2026/02/04/la-crise-immobiliere-en-chine-ebranle-la-foi-en-l-avenir_6665403_3234.html",
@@ -15,6 +20,11 @@
       "title": "Les taxis et entreprises d’ambulances fragilisés par les nouvelles règles du transport sanitaire",
       "url": "https://www.lemonde.fr/economie/article/2026/02/04/les-taxis-et-entreprises-d-ambulances-fragilises-par-les-nouvelles-regles-du-transport-sanitaire_6665349_3234.html",
       "summary": "La nouvelle convention de la Caisse nationale d’assurance-maladie, entrée en vigueur le 1er novembre 2025, et qui cherche à réduire les dépenses occasionnées par les taxis transportant des patients, a pour conséquence de faire baisser le chiffre d’affaires de ces derniers. Les petites entreprises rurales sont particulièrement touchées."
+    },
+    {
+      "title": "La chronique internationale – 04/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/la-chronique-internationale-04-02_EN-202602040828.html",
+      "summary": "Mercredi 4 février, La chronique internationale de Mathieu Jolivet fait un gros plan sur l'économie de guerre russe qui est à bout de souffle.<br /><br /><img src=\"https://images.bfmtv.com/PiLrRX5FvXxHhYvJu0GdI7AJ6so=/0x0:14000x14000/800x0/podcast/podcasts/principale-469_2.png\" />"
     },
     {
       "title": "Moscou s'inquiète de la baisse des achats de son pétrole par l'Inde: le déficit public russe risque de tripler en 2026 par rapport à l'objectif officiel",
@@ -40,11 +50,6 @@
       "title": "L'éco du monde : L'inflation française 4 fois inférieure à la moyenne européenne - 04/02",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-l-inflation-francaise-4-fois-inferieure-a-la-moyenne-europeenne-04-02_VN-202602040661.html",
       "summary": "Ce mercredi 4 février, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé le ralentissement de l'inflation à 1,7 % en janvier comme attendu dans la zone euro, l'inflation française au plus bas depuis 2020, et la BCE dans une position difficile avec l'attente d'un nouveau statu quo concernant ses taux, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/RfrC8XbQBk51L6OzCh_2KE1B6T8=/0x0:1280x720/800x0/images/L-eco-du-monde-L-inflation-francaise-4-fois-inferieure-a-la-moyenne-europeenne-04-02-2229708.jpg\" />"
-    },
-    {
-      "title": "Après Matignon, le ministre du Travail confirme aussi que le \"CDI jeunes\", soutenu par le Medef, n'est pas une proposition retenue par le gouvernement",
-      "url": "https://www.bfmtv.com/economie/economie-social/apres-matignon-le-ministre-du-travail-confirme-aussi-que-le-cdi-jeunes-soutenu-par-le-medef-n-est-pas-une-proposition-retenue-par-le-gouvernement_AD-202602040646.html",
-      "summary": "Le ministre du Travail Jean-Pierre Farandou a confirmé mercredi que la proposition du Medef d'un contrat à durée indéterminée (CDI) pouvant être rompu plus facilement pour lutter contre le chômage des jeunes n'était \"pas reprise\" par le gouvernement.<br /><br /><img src=\"https://images.bfmtv.com/aqZ9Kq58p5l_tJYq15XknzMTsdg=/0x40:768x472/800x0/images/Le-ministre-du-Travail-Jean-Pierre-Farandou-lors-du-debat-sur-le-budget-de-la-Securite-sociale-au-Senat-le-26-novembre-2025-a-Paris-2192350.jpg\" />"
     },
     {
       "title": "L’info du jour | 4 février 2026 - Soir",
@@ -75,11 +80,6 @@
       "title": "L’info du jour | 3 février 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/02/03/linfo-du-jour-3-fevrier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Budget 2026 : Lecornu survit aux deux dernières motions de censure, le PLF définitivement adopté",
-      "url": "http://fr.euronews.com/2026/02/02/budget-2026-lecornu-survit-a-la-premiere-motion-de-censure-le-plf-en-voie-detre-adopte",
-      "summary": "Après plusieurs mois de blocage, le budget de l'État pour 2026 est définitivement adopté ce lundi."
     },
     {
       "title": "Pour l’écologie, la petite hausse budgétaire qui cache la grande misère",
