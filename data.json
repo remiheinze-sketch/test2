@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-04T15:33:46Z",
+  "updated_at": "2026-02-04T16:35:00Z",
   "articles": [
+    {
+      "title": "La crise immobilière en Chine ébranle la foi en l’avenir",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/04/la-crise-immobiliere-en-chine-ebranle-la-foi-en-l-avenir_6665403_3234.html",
+      "summary": "A Jinan, comme dans de nombreuses villes chinoises, les prix de l’immobilier sont en chute libre depuis cinq ans. La crise du secteur fragilise les finances locales et l’ensemble de l’économie chinoise, tout en plongeant les ménages dans le pessimisme."
+    },
     {
       "title": "Les entreprises sont loin d’avoir compensé les récentes pertes de pouvoir d’achat pour leurs salariés, malgré des hausses de salaires supérieures à l’inflation pour 2026",
       "url": "https://www.lemonde.fr/economie/article/2026/02/04/les-entreprises-sont-loin-d-avoir-compense-les-recentes-pertes-de-pouvoir-d-achat-pour-leurs-salaries-malgre-des-hausses-de-salaires-superieures-a-l-inflation-pour-2026_6665368_3234.html",
@@ -12,9 +17,19 @@
       "summary": "La nouvelle convention de la Caisse nationale d’assurance-maladie, entrée en vigueur le 1er novembre 2025, et qui cherche à réduire les dépenses occasionnées par les taxis transportant des patients, a pour conséquence de faire baisser le chiffre d’affaires de ces derniers. Les petites entreprises rurales sont particulièrement touchées."
     },
     {
-      "title": "Droits de douane : les Etats-Unis relancent temporairement un accord commercial avec une trentaine de pays africains",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/04/droits-de-douane-les-etats-unis-relancent-temporairement-un-accord-commercial-avec-une-trentaine-de-pays-africains_6665295_3234.html",
-      "summary": "L’AGOA, qui permet à de nombreux produits africains importés aux Etats-Unis d’être exemptés de taxes, a été reconduit jusqu’à la fin de 2026 avec effet rétroactif. L’administration Trump l’avait laissé expirer le 30 septembre 2025."
+      "title": "Elles seraient jusqu'à 66% plus élevées que ce que prétend le Kremlin: le renseignement allemand accuse la Russie de sous-estimer volontairement ses dépenses militaires",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/elles-seraient-jusqu-a-66-plus-elevees-que-ce-que-pretend-le-kremlin-le-renseignement-allemand-accuse-la-russie-de-sous-estimer-volontairement-ses-depenses-militaires_AD-202602040683.html",
+      "summary": "Le renseignement allemand affirme que la définition russe de \"dépenses militaires\" n'a rien à voir avec celle de l'Otan. Si bien que Moscou exclut volontairement certaines dépenses pourtant liées à la défense. <br /><br /><img src=\"https://images.bfmtv.com/CA1vwIWV2LirJ7Iei2p0LxgkaGM=/0x0:2000x1125/800x0/images/Vladimir-Poutine-lors-d-une-rencontre-avec-l-armee-russe-le-1er-decembre-2025-2193631.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : L'inflation française 4 fois inférieure à la moyenne européenne – 04/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-l-inflation-francaise-4-fois-inferieure-a-la-moyenne-europeenne-04-02_EN-202602040662.html",
+      "summary": "Ce mercredi 4 février, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé le ralentissement de l'inflation à 1,7 % en janvier comme attendu dans la zone euro, l'inflation française au plus bas depuis 2020, et la BCE dans une position difficile avec l'attente d'un nouveau statu quo concernant ses taux, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : L'inflation française 4 fois inférieure à la moyenne européenne - 04/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-l-inflation-francaise-4-fois-inferieure-a-la-moyenne-europeenne-04-02_VN-202602040661.html",
+      "summary": "Ce mercredi 4 février, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé le ralentissement de l'inflation à 1,7 % en janvier comme attendu dans la zone euro, l'inflation française au plus bas depuis 2020, et la BCE dans une position difficile avec l'attente d'un nouveau statu quo concernant ses taux, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/RfrC8XbQBk51L6OzCh_2KE1B6T8=/0x0:1280x720/800x0/images/L-eco-du-monde-L-inflation-francaise-4-fois-inferieure-a-la-moyenne-europeenne-04-02-2229708.jpg\" />"
     },
     {
       "title": "Après Matignon, le ministre du Travail confirme aussi que le \"CDI jeunes\", soutenu par le Medef, n'est pas une proposition retenue par le gouvernement",
