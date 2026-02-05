@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-05T09:34:10Z",
+  "updated_at": "2026-02-05T10:31:25Z",
   "articles": [
+    {
+      "title": "Comment la sous-traitance et l’externalisation fragilisent les salariés",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/05/comment-la-mecanique-de-la-sous-traitance-et-de-l-externalisation-fragilise-les-salaries_6665507_3234.html",
+      "summary": "« Le travail morcelé » (5/5) Du nettoyage au bâtiment en passant par le nucléaire, la sous-traitance, omniprésente dans l’économie française, structure aujourd’hui des secteurs entiers. Derrière l’optimisation des coûts, ce modèle fragilise les conditions de travail et dilue les responsabilités."
+    },
     {
       "title": "Budget 2026 : le recrutement devient une variable d’ajustement dans les collectivités territoriales",
       "url": "https://www.lemonde.fr/politique/article/2026/02/04/budget-2026-le-recrutement-devient-une-variable-d-ajustement-dans-les-collectivites-territoriales_6665417_823448.html",
@@ -12,9 +17,49 @@
       "summary": "A Jinan, comme dans de nombreuses villes chinoises, les prix de l’immobilier sont en chute libre depuis cinq ans. La crise du secteur fragilise les finances locales et l’ensemble de l’économie chinoise, tout en plongeant les ménages dans le pessimisme."
     },
     {
-      "title": "Les entreprises sont loin d’avoir compensé les récentes pertes de pouvoir d’achat pour leurs salariés, malgré des hausses de salaires supérieures à l’inflation pour 2026",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/04/les-entreprises-sont-loin-d-avoir-compense-les-recentes-pertes-de-pouvoir-d-achat-pour-leurs-salaries-malgre-des-hausses-de-salaires-superieures-a-l-inflation-pour-2026_6665368_3234.html",
-      "summary": "La moyenne des augmentations de salaires pour 2026 s’élève à 1,73 %, selon une étude du Centre études & data du Groupe Alpha, à partir de 800 accords déjà signés en entreprise pour 2026."
+      "title": "Des terres de multilatéralisme ?",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-des-terres-de-multilateralisme_VN-202602050411.html",
+      "summary": "\"C’est le seul endroit où il se sent un tout petit peu en fragilité\" explique Roland Gillet, Professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne et à l'Université Libre de Bruxelles.<br /><br /><img src=\"https://images.bfmtv.com/uJBjKe9ComUw4kB3QJahOqcLgoM=/0x0:1280x720/800x0/images/Des-terres-de-multilateralisme-2230213.jpg\" />"
+    },
+    {
+      "title": "L'intégrale des Experts du jeudi 5 février",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-jeudi-5-fevrier_EN-202602050403.html",
+      "summary": "Ce jeudi 5 février, Raphaël Legendre a reçu Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "L'intégrale des Experts du jeudi 5 février",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-jeudi-5-janvier_VN-202602050419.html",
+      "summary": "Ce jeudi 5 février, Raphaël Legendre a reçu Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/juuPPqUUq20flOUYySVGX0NNoq4=/0x0:1280x720/800x0/images/L-integrale-des-Experts-du-jeudi-5-janvier-2230224.jpg\" />"
+    },
+    {
+      "title": "Les Experts : BCE, faut-il baisser les taux ? - 05/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-bce-faut-il-baisser-les-taux-05-02_EN-202602050399.html",
+      "summary": "Ce jeudi 5 février, la question de savoir si la BCE doit abaisser ses taux, étant donné que l'inflation est au plus bas depuis la crise Covid, ainsi que la réunion qui s'est tenue à Washington pour le sommet des minerais critiques, ont été abordées par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "Les Experts : BCE, faut-il baisser les taux ? - 05/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-bce-faut-il-baisser-les-taux-05-02_VN-202602050404.html",
+      "summary": "Ce jeudi 5 février, la question de savoir si la BCE doit abaisser ses taux, étant donné que l'inflation est au plus bas depuis la crise Covid, ainsi que la réunion qui s'est tenue à Washington pour le sommet des minerais critiques, ont été abordées par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/XY8Oi13c6b2_Obz51pDDyhGNljY=/0x0:1280x720/800x0/images/Les-Experts-BCE-faut-il-baisser-les-taux-05-02-2230208.jpg\" />"
+    },
+    {
+      "title": "L'IA, un pari gagnant pour Alphabet",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-ia-un-pari-gagnant-pour-alphabet_VN-202602050398.html",
+      "summary": "\"Le seul levier de croissance qu’on a à l’échelle mondiale, c’est l’investissement\" explique Nicolas Goetzmann, chef économiste de la Financière de la Cité<br /><br /><img src=\"https://images.bfmtv.com/8CFGy4uWNPXsy8S8u_zrQuYUEJA=/0x0:1280x720/800x0/images/L-IA-un-pari-gagnant-pour-Alphabet-2230204.jpg\" />"
+    },
+    {
+      "title": "Les Experts : UE, le grand scepticisme français - 05/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-ue-le-grand-scepticisme-francais-05-02_EN-202602050380.html",
+      "summary": "Ce jeudi 5 février, le sondage Odoxa concernant le moral des Français qui n'est pas au beau fixe malgré une économie prospère, les moyens de responsabiliser les citoyens français, et le déclassement de la France, ont été abordés par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
+    },
+    {
+      "title": "Les Experts : UE, le grand scepticisme français - 05/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-ue-le-grand-scepticisme-francais-05-02_VN-202602050385.html",
+      "summary": "Ce jeudi 5 février, le sondage Odoxa concernant le moral des Français qui n'est pas au beau fixe malgré une économie prospère, les moyens de responsabiliser les citoyens français, et le déclassement de la France, ont été abordés par Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne, Gaël Sliman, président d'Odoxa, et Gaëlle Macke, directrice déléguée de la rédaction chez Challenges, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/QeXqLsO1m6_I7RJenZZ1wmHCnlQ=/0x0:1280x720/800x0/images/Les-Experts-UE-le-grand-scepticisme-francais-05-02-2230192.jpg\" />"
+    },
+    {
+      "title": "L'éclaireur - 05/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-05-02_EN-202602050369.html",
+      "summary": "Ce jeudi 5 février, l'inflation en zone euro qui se tasse à 1,9 %, a été abordée par Mikael Petitjean, chef économiste de Waterloo AM et professeur à l'Université de Louvain, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/4jyjfXwb_wuJjVRtwUepk5z2uSI=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_1.jpg\" />"
     },
     {
       "title": "L'éclaireur - 05/02",
@@ -32,9 +77,9 @@
       "summary": "Retrouvez le débrief de l'actu du jeudi 5 février dans l'émission Good Morning Business, présentée par Laure Closier. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/8H36jJ7B3EkuLNgI_AbwhgLNf3s=/0x0:1280x720/800x0/images/Le-debrief-de-l-actu-Budget-2026-le-jour-d-apres-05-02-2230108.jpg\" />"
     },
     {
-      "title": "L’ÉCO - Les entreprises françaises subissent 80 à 100 milliards d’euros de retards de paiements",
-      "url": "https://www.bfmtv.com/economie/entreprises/video-l-eco-les-entreprises-francaises-subissent-80-a-100-milliards-d-euros-de-retards-de-paiements_VN-202602050225.html",
-      "summary": "Les retards de paiements ont un réel impact sur l'économie et les entreprises françaises. En effet, neuf entreprises sur dix déclarent perdre de l'argent à cause de ces délais de paiements. Plus généralement, le montant des retards de paiements que subissent les entreprises françaises représente 80 à 100 milliards d'euros. <br /><br /><img src=\"https://images.bfmtv.com/DaGgkWtmjE67tOgo-ZT8kJxkX0Y=/0x0:1280x720/800x0/images/L-ECO-Les-entreprises-francaises-subissent-80-a-100-milliards-d-euros-de-retards-de-paiements-2230045.jpg\" />"
+      "title": "\"On aurait bien aimé avoir ça quand on était petits\" : à Laval, les jeunes s’approprient la ville grâce au budget participatif",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-aurait-bien-aime-avoir-ca-quand-on-etait-petits-a-laval-les-jeunes-s-approprient-la-ville-grace-au-budget-participatif_7757537.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "À Laval, en Mayenne, la ville consacre 200 000 euros à un budget participatif dédié aux jeunes. Des projets imaginés et menés de A à Z par des jeunes de 12 à 25 ans. Un processus long et compliqué, mais qui porte ses fruits."
     },
     {
       "title": "Budget 2026 : des recours déposés par le Premier ministre Sébastien Lecornu et le RN devant le Conseil constitutionnel",
