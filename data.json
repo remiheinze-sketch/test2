@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-12T08:34:20Z",
+  "updated_at": "2026-02-12T09:38:17Z",
   "articles": [
+    {
+      "title": "L’économie britannique résiste aux incertitudes politiques",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/12/l-economie-britannique-resiste-aux-incertitudes-politiques_6666444_3234.html",
+      "summary": "Le produit intérieur brut britannique a progressé de 1,3 % en 2025, principalement soutenu par la consommation des ménages."
+    },
     {
       "title": "Aux Etats-Unis, la faiblesse du taux de chômage masque une croissance sans emploi",
       "url": "https://www.lemonde.fr/economie/article/2026/02/12/aux-etats-unis-la-faiblesse-du-taux-de-chomage-masque-une-croissance-sans-emploi_6666432_3234.html",
@@ -17,9 +22,9 @@
       "summary": "Les lieux d’accueil de la petite enfance ont battu des records de défaillance en 2025. En cause : leur mécanisme de financement par les caisses d’allocations familiales qui n’a pas pris en compte le choc inflationniste post-2022."
     },
     {
-      "title": "Assurance-chômage : les tensions entre partenaires sociaux mettent à l’épreuve la gestion paritaire",
-      "url": "https://www.lemonde.fr/politique/article/2026/02/11/assurance-chomage-les-tensions-entre-partenaires-sociaux-mettent-a-l-epreuve-la-gestion-paritaire_6666307_823448.html",
-      "summary": "Une nouvelle séance de discussions entre patronat et syndicats se tient mercredi sur les ruptures conventionnelles avec, pour objectif, au moins 400 millions d’euros d’économies. En cas d’échec, le gouvernement reprendra le dossier en main."
+      "title": "Les Experts : Un sommet pour sauver l'industrie européenne - 12/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-un-sommet-pour-sauver-l-industrie-europeenne-12-02_EN-202602120382.html",
+      "summary": "Ce jeudi 12 février, la question de la compétitivité et de la relance industrielle en Europe, ainsi que la feuille de route de la BCE envoyée aux 27, ont été abordées par Anne-Sophie Alsif, cheffe économiste du cabinet d'audit BDO France, professeur à Paris 1, Jean-Hervé Lorenzi, président du Cercle des Économistes, et Thomas Grjebine, responsable du programme Macroéconomie et finance internationales au CEPII, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WXfF6zLjuTCCgNMIkeHXqrPzpAo=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_2.jpg\" />"
     },
     {
       "title": "Volatilité du coût des énergies : quelles solutions pour les professionnels ?",
@@ -30,21 +35,6 @@
       "title": "Michel-Édouard Leclerc: \"Si j'étais décideur, j'augmenterais le pouvoir d'achat des Français par l'augmentation des salaires, déchargés de ces cotisations qui bloquent les salaires dans le bas\"",
       "url": "https://www.bfmtv.com/economie/video-michel-edouard-leclerc-si-j-etais-decideur-j-essaierais-de-trouver-de-la-croissance-en-augmentant-le-pouvoir-d-achat-des-francais-par-l-augmentation-des-salaires-decharges-de-ces-cotisations-qui-bloquent-les-salaires-dans-le-bas_VN-202602120283.html",
       "summary": "Michel-Édouard Leclerc, président du comité stratégique et porte-parole du mouvement E.Leclerc, était l’invité du Face à Face de ce jeudi 12 février sur RMC et BFMTV. <br /><br /><img src=\"https://images.bfmtv.com/AkmOjioGjT2qAmKqPCMx6Den2Zs=/0x0:1280x720/800x0/images/Michel-Edouard-Leclerc-Si-j-etais-decideur-j-essaierais-de-trouver-de-la-croissance-en-augmentant-le-pouvoir-d-achat-des-Francais-par-l-augmentation-des-salaires-decharges-de-ces-cotisations-qui-bloquent-les-salaires-dans-le-bas-2234103.jpg\" />"
-    },
-    {
-      "title": "Le Grand entretien : Data centers, le pari gagnant de Legrand - 12/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-le-grand-entretien-data-centers-le-pari-gagnant-de-legrand-12-02_VN-202602120225.html",
-      "summary": "Benoît Coquart, directeur général de Legrand, était l'invité de Laure Closier dans Good Morning Business, ce jeudi 12 février. Il s'est félicité de la croissance nette du chiffre d'affaires de son groupe, tirée essentiellement par les acquisitions et les centres de données, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Jqgdc6uS_zrboHeAJ5wY_U3TzP4=/0x0:1280x720/800x0/images/Le-Grand-entretien-Data-centers-le-pari-gagnant-de-Legrand-12-02-2234055.jpg\" />"
-    },
-    {
-      "title": "Benoît Coquart, directeur général de Legrand - 12/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/benoit-coquart-directeur-general-de-legrand-12-02_EN-202602120216.html",
-      "summary": "Benoît Coquart, directeur général de Legrand, était l'invité de Laure Closier dans Good Morning Business, ce jeudi 12 février. Il s'est félicité de la croissance nette du chiffre d'affaires de son groupe, tirée essentiellement par les acquisitions et les centres de données, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "Benoît Coquart, directeur général de Legrand - 12/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/benoit-coquart-directeur-general-de-legrand-12-02_EN-202602120213.html",
-      "summary": "Benoît Coquart, directeur général de Legrand, était l'invité de Laure Closier dans Good Morning Business, ce jeudi 12 février. Il s'est félicité de la croissance nette du chiffre d'affaires de son groupe, tirée essentiellement par les acquisitions et les centres de données, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/20cmcxWsBNy3vwAQ2hwX25Sjg7s=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_5.jpg\" />"
     },
     {
       "title": "Emplois : le secteur de la défense recrute en masse",
@@ -80,11 +70,6 @@
       "title": "L’info du jour | 10 février 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/02/10/linfo-du-jour-10-fevrier-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Cuba asphyxiée par l'embargo états-unien sur le pétrole, le secteur aérien à l'arrêt",
-      "url": "http://fr.euronews.com/2026/02/10/cuba-asphyxiee-par-lembargo-etats-unien-sur-le-petrole-le-secteur-aerien-a-larret",
-      "summary": "De nombreuses compagnies aériennes annulent leurs vols vers Cuba, car elles ne sont pas assurées de pouvoir ravitailler leurs avions à l'aéroport de La Havane. Le tourisme constitue pourtant un pilier essentiel de l’économie."
     },
     {
       "title": "La France devient-elle un pays pauvre ?",
