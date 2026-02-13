@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-02-13T15:32:53Z",
+  "updated_at": "2026-02-13T16:33:02Z",
   "articles": [
+    {
+      "title": "L’inflation ralentit aux Etats-Unis, Donald Trump s’en réjouit",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/13/l-inflation-ralentit-aux-etats-unis-donald-trump-s-en-rejouit_6666653_3234.html",
+      "summary": "L’indice des prix à la consommation a progressé de 2,4 % en janvier, selon les données publiées vendredi 13 février. Le président américain continue de plaider pour une baisse des taux, tandis que la banque centrale temporise."
+    },
     {
       "title": "En Andorre, les commerces et les stations de ski sont inquiets après la fermeture d’une route vers la France",
       "url": "https://www.lemonde.fr/economie/article/2026/02/13/en-andorre-les-commerces-et-les-stations-de-ski-sont-inquiets-apres-la-fermeture-d-une-route-vers-la-france_6666621_3234.html",
       "summary": "Après un gigantesque éboulement, la fermeture de la RN 20, reliant la France à la principauté, va paralyser les échanges. Au moment des vacances scolaires, les conséquences risquent d’être majeures pour l’économie locale des sports d’hiver et du commerce détaxé."
-    },
-    {
-      "title": "TVA : le ministère de l’économie décidé à colmater les fuites",
-      "url": "https://www.lemonde.fr/politique/article/2026/02/12/tva-bercy-decide-a-colmater-les-fuites_6666537_823448.html",
-      "summary": "La taxe sur la valeur ajoutée a rapporté de 6 à 7 milliards d’euros de moins que prévu en 2025. Le gouvernement espère améliorer ses prévisions et mieux lutter contre la fraude, notamment sur les petits colis venant de Chine."
     },
     {
       "title": "Cuba étouffe à nouveau: derrière la crise énergétique, l’échec discret de Mariel, ce port devenu symbole en 1980 lorsque Castro y autorisa (quelques mois) les Cubains à fuir le pays",
@@ -45,16 +45,6 @@
       "title": "Un ralentissement plus fort que prévu: malgré les droits de douane de Donald Trump, l'inflation américaine décélère encore en janvier, à 2,4% sur un an",
       "url": "https://www.bfmtv.com/economie/international/un-ralentissement-plus-fort-que-prevu-malgre-les-droits-de-douane-l-inflation-americaine-decelere-encore-en-janvier-a-2-4-sur-un-an_AD-202602130604.html",
       "summary": "L'inflation américaine a ralenti à 2,4% sur un an en janvier, après 2,7% le mois précédent. La hausse des prix de l'énergie reste toutefois très soutenue.<br /><br /><img src=\"https://images.bfmtv.com/iMAJDQmFxoZpa1TwWJvaXot22AI=/0x212:2048x1364/800x0/images/Le-president-americain-Donald-Trump-fait-une-annonce-dans-la-salle-Roosevelt-de-la-Maison-Blanche-a-Washington-DC-le-12-fevrier-2026-2234672.jpg\" />"
-    },
-    {
-      "title": "Le moteur de la croissance européenne cale: l’excédent commercial de l’UE s’érode sous la pression des États-Unis et de la Chine",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/le-moteur-de-la-croissance-europeenne-cale-l-excedent-commercial-de-l-ue-s-erode-sous-la-pression-des-etats-unis-et-de-la-chine_AV-202602130580.html",
-      "summary": "Le modèle économique de l'Union européenne est profondément remis en question alors que les droits de douane américains réduisent les exportations de biens vers les États-Unis et que la Chine vend désormais beaucoup plus de produits à l'Europe qu'elle ne lui en achète. <br /><br /><img src=\"https://images.bfmtv.com/ErqBtB5ys0-muzq3GzoRWlFJ1RU=/0x39:2048x1191/800x0/images/Macron-et-Merz-2235081.jpg\" />"
-    },
-    {
-      "title": "La France a importé 64 milliards d'euros d'énergies fossiles en 2024: le ministre de l'Economie lance des consultations sur le plan d'électrification qui sera présenté avant l'été",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/la-france-a-importe-64-milliards-d-euros-d-energies-fossiles-en-2024-le-ministre-de-l-economie-lance-des-consultations-sur-le-plan-d-electrification-qui-sera-presente-avant-l-ete_AD-202602130529.html",
-      "summary": "Roland Lescure a annoncé ce vendredi qu'il lançait des consultations pour le futur plan d'électrification français. Le ministre de l'Économie entend électrifier l'industrie en priorité.<br /><br /><img src=\"https://images.bfmtv.com/vkBsuLEpnwfNhx2patHVuDKtljA=/0x40:768x472/800x0/images/Le-ministre-de-l-Economie-et-des-Finances-Roland-Lescure-a-l-Assemblee-nationale-le-13-janvier-2026-2218411.jpg\" />"
     },
     {
       "title": "Bercy note des écarts de prévision \"de 9 milliards d'euros par an en moyenne\" sur les recettes que peut générer la TVA",
