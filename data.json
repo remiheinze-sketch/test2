@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-02-16T15:32:47Z",
+  "updated_at": "2026-02-16T16:31:57Z",
   "articles": [
     {
       "title": "Les ambitions du Grand Marché de Toulouse, ce petit Rungis en pleine croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/02/16/les-ambitions-du-grand-marche-de-toulouse-ce-petit-rungis-en-pleine-croissance_6666937_3234.html",
       "summary": "Très majoritairement consacré aux fruits et légumes, le marché de gros de la capitale occitane connaît une vive expansion depuis sa reprise par le gestionnaire du Rungis de la région parisienne. Reportage entre palettes et cageots."
+    },
+    {
+      "title": "IA : le retour en force de la vieille économie - 16/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-ia-le-retour-en-force-de-la-vieille-economie-16-02_VN-202602160676.html",
+      "summary": "Ce lundi 16 février, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, s'est penché sur le chamboulement des marchés avec l'IA entraînant le retour en force de la vieille économie, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/R44BZTvPqYLKiuawTeMFAtIDcJY=/0x0:1280x720/800x0/images/IA-le-retour-en-force-de-la-vieille-economie-16-02-2236600.jpg\" />"
+    },
+    {
+      "title": "IA : le retour en force de la vieille économie – 16/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/ia-le-retour-en-force-de-la-vieille-economie-16-02_EN-202602160675.html",
+      "summary": "Ce lundi 16 février, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, s'est penché sur le chamboulement des marchés avec l'IA entraînant le retour en force de la vieille économie, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : \"La Cour Suprême pourrait invalider vendredi les surtaxes douanières\" - 16/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-la-cour-supreme-pourrait-invalider-vendredi-les-surtaxes-douanieres-16-02_VN-202602160645.html",
+      "summary": "Ce lundi 16 février, Bastien Drut, économiste chez CPR AM, a abordé le grand plan quinquennal de la Chine présenté en mars, et la possible annulation des surtaxes douanières par la Cour Suprême américaine, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/UNgIj3al_vNQUHqQlrp6YoUPqhA=/0x0:1280x720/800x0/images/L-eco-du-monde-La-Cour-Supreme-pourrait-invalider-vendredi-les-surtaxes-douanieres-16-02-2236580.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : \"La Cour Suprême pourrait invalider vendredi les surtaxes douanières\" – 16/02",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-cour-supreme-pourrait-invalider-vendredi-les-surtaxes-douanieres-16-02_EN-202602160644.html",
+      "summary": "Ce lundi 16 février, Bastien Drut, économiste chez CPR AM, a abordé le grand plan quinquennal de la Chine présenté en mars, et la possible annulation des surtaxes douanières par la Cour suprême américaine, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
       "title": "Hortense Lacroix : \"Le narratif de l’IA s’est complètement inversé et n’a pas fini de redistribuer les cartes\"",
@@ -64,11 +84,6 @@
     {
       "title": "L’info du jour | 13 février 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/02/13/linfo-du-jour-13-fevrier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 février 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/02/13/linfo-du-jour-13-fevrier-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
