@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-02-18T19:40:27Z",
+  "updated_at": "2026-02-18T20:28:16Z",
   "articles": [
     {
       "title": "Les données de 1,2 million de comptes bancaires ont été consultées illégalement depuis la fin de janvier",
       "url": "https://www.lemonde.fr/pixels/article/2026/02/18/les-donnees-de-1-2-million-de-comptes-bancaires-ont-ete-consultees-illegalement-depuis-la-fin-de-janvier_6667286_4408996.html",
       "summary": "Les usagers concernés recevront dans les prochains jours une information individuelle les alertant qu’un accès à leurs données a été constaté, détaille le ministère de l’économie. Néanmoins, l’accès au contenu des comptes n’a, a priori, pas été possible."
+    },
+    {
+      "title": "Le manque à gagner a atteint les 1,7 milliard d'euros en 2024: un rapport confirme le sous-financement de mesures salariales dans les hôpitaux publics",
+      "url": "https://www.bfmtv.com/economie/le-manque-a-gagner-a-atteint-les-1-7-milliard-d-euros-en-2024-un-rapport-confirme-le-sous-financement-de-mesures-salariales-dans-les-hopitaux-publics_AD-202602180877.html",
+      "summary": "L'Etat a creusé le déficit des hôpitaux publics entre 2020 et 2024 en sous-compensant des mesures salariales dans les établissements, avec un manque à gagner estimé à 1,7 milliard d'euros à \"fin 2024\", selon un rapport de l'Inspection générale des affaires sociales (Igas) publié mercredi. En 2024, le déficit des hôpitaux publics était estimé à 3,1 milliards d'euros. <br /><br /><img src=\"https://images.bfmtv.com/d6PD23qQvLbj737Ff-tTkmifQWM=/14x3:2046x1146/800x0/images/Parking-hopital-Saint-Etienne-2225672.jpg\" />"
     },
     {
       "title": "Identité du titulaire, adresse, RIB/Iban... Bercy indique que les données d'1,2 million de comptes bancaires ont été consultées de manière \"illégitime\" par un \"acteur malveillant\"",
@@ -20,6 +25,11 @@
       "title": "\"Des cadres sont imposés à la tranche maximale et voient d’autres y échapper\": le sénateur qui a révélé que plus de 13.000 millionnaires esquivent l'impôt sur le revenu veut que \"chacun paie à sa juste proportion\"",
       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/des-cadres-sont-imposes-a-la-tranche-maximale-et-voient-d-autres-y-echapper-le-senateur-qui-a-revele-que-plus-de-13-000-millionnaires-esquivent-l-impot-sur-le-revenu-veut-que-chacun-paie-a-sa-juste-proportion_AV-202602180731.html",
       "summary": "À partir des documents transmis par le ministère de l'Économie, deux sénateurs ont découvert que 13.335 foyers ayant un patrimoine immobilier de plus d'1,3 million d'euros n'ont payé aucun impôt sur le revenu en 2024.<br /><br /><img src=\"https://images.bfmtv.com/LE1sN1NSjTmpvbPekgPK29Y8Thk=/0x107:2048x1259/800x0/images/Taxe-sur-les-entreprises-supprimee-fiscalite-revue-sur-les-holdings-Le-Senat-retravaille-le-budget-en-commission-2188558.jpg\" />"
+    },
+    {
+      "title": "Fiscalité : plus de 13 000 millionnaires ne paient pas l’impôt sur le revenu",
+      "url": "https://www.franceinfo.fr/economie/impots/fiscalite-plus-de-13-000-millionnaires-ne-paient-pas-l-impot-sur-le-revenu_7814507.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Plus de 13 000 millionnaires français ne paient aucun impôt sur le revenu en France, d’après une note du Sénat qui a fuité mercredi 18 février. Le document confirme les récentes déclarations de l'ancien ministre de l’Économie, Éric Lombard."
     },
     {
       "title": "Le gouverneur de la Banque de France revoit à la baisse l'estimation d'inflation pour 2026, estimée à \"un peu plus de 1%\"",
