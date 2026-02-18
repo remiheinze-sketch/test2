@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-02-18T18:38:39Z",
+  "updated_at": "2026-02-18T19:40:27Z",
   "articles": [
     {
       "title": "Les données de 1,2 million de comptes bancaires ont été consultées illégalement depuis la fin de janvier",
       "url": "https://www.lemonde.fr/pixels/article/2026/02/18/les-donnees-de-1-2-million-de-comptes-bancaires-ont-ete-consultees-illegalement-depuis-la-fin-de-janvier_6667286_4408996.html",
       "summary": "Les usagers concernés recevront dans les prochains jours une information individuelle les alertant qu’un accès à leurs données a été constaté, détaille le ministère de l’économie. Néanmoins, l’accès au contenu des comptes n’a, a priori, pas été possible."
+    },
+    {
+      "title": "Identité du titulaire, adresse, RIB/Iban... Bercy indique que les données d'1,2 million de comptes bancaires ont été consultées de manière \"illégitime\" par un \"acteur malveillant\"",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/identite-du-titulaire-adresse-rib-iban-bercy-indique-que-les-donnees-d-1-2-million-de-comptes-bancaires-ont-ete-consultees-de-maniere-illegitime-par-un-acteur-malveillant_AV-202602180739.html",
+      "summary": "Un \"acteur malveillant\" a pu consulter une partie du fichier national des comptes bancaires (FICOBA), qui recense l'ensemble des comptes bancaires ouverts dans des établissements français. Selon la Direction générale des Finances publiques (DGFiP), ces fuites \"ne permettent pas de consulter les soldes des comptes bancaires et a fortiori de faire des opérations\". La Fédération bancaire française invite néanmoins chacun à \"consulter régulièrement son compte pour détecter tout incident ou anomalie\". <br /><br /><img src=\"https://images.bfmtv.com/v1i9MOU4MwWL356ENe7i8jpZndg=/0x105:2048x1257/800x0/images/Les-paiments-en-carte-bancaire-incitent-a-depenser-plus-voici-comment-faire-des-economies-1901162.jpg\" />"
     },
     {
       "title": "Plus d'un poulet sur deux consommé en France est importé, contre un sur quatre en 2000: les Français consomment toujours plus de volaille et la production locale ne suit pas le rythme",
@@ -25,11 +30,6 @@
       "title": "Inde : entre ultra-riches et ultra-pauvres, le poison des inégalités",
       "url": "https://www.franceinfo.fr/monde/inde/inde-entre-ultra-riches-et-ultra-pauvres-le-poison-des-inegalites_7809998.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La croissance indienne, l’une des plus fortes de la planète, ne profite pas à tous. Des beaux quartiers de Mumbai peuplés de multimillionnaires, aux bidonvilles où les habitants vivent avec quelques euros par mois, l’écart ne cesse de se creuser."
-    },
-    {
-      "title": "Recours aux crédits, victimes de l'inflation… La Banque de France peine à expliquer la hausse du surendettement chez les plus jeunes",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/la-banque-de-france-alerte-sur-le-surendettement-des-jeunes_7809935.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "En 2025, environ 5 000 dossiers de surendettement concernaient des 18-25 ans, un chiffre en hausse de 65%, selon les chiffres présentés mardi par la Banque de France."
     },
     {
       "title": "L’info du jour | 18 février 2026 - Matin",
