@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-19T06:48:07Z",
+  "updated_at": "2026-02-19T07:42:20Z",
   "articles": [
+    {
+      "title": "« Paradoxalement, l’économie française connaît un regain d’optimisme »",
+      "url": "https://www.lemonde.fr/idees/article/2026/02/19/paradoxalement-l-economie-francaise-connait-un-regain-d-optimisme_6667352_3232.html",
+      "summary": "Malgré un contexte national et international inquiétant, Béatrice Madeline, journaliste au « Monde, constate, dans sa chronique, plusieurs signaux positifs auprès des chefs d’entreprise, portés notamment par l’industrie de la défense et l’aéronautique."
+    },
     {
       "title": "Les données de 1,2 million de comptes bancaires ont été consultées illégalement depuis la fin de janvier",
       "url": "https://www.lemonde.fr/pixels/article/2026/02/18/les-donnees-de-1-2-million-de-comptes-bancaires-ont-ete-consultees-illegalement-depuis-la-fin-de-janvier_6667286_4408996.html",
@@ -12,26 +17,6 @@
       "summary": "Croissance à l'international, nouveaux métiers et maitrise des coûts : c'est la nouvelle feuille de route d'Orange qui risque d'être chamboulée et totalement réécrite pour la France en cas de rachat de SFR. <br /><br /><img src=\"https://images.bfmtv.com/3MnSZ3YEb152itBp3qTJ_JepaWU=/0x0:1280x720/800x0/images/Orange-devoile-son-plan-strategique-2238348.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Impôts, il est urgent de simplifier - 19/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-impots-il-est-urgent-de-simplifier-19-02_EN-202602190144.html",
-      "summary": "Ce jeudi 19 février, dans son édito, Raphaël Legendre est revenu sur plus de 13.000 foyers fiscaux éligibles à l'impôt sur la fortune immobilière (IFI) . Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "L’Edito de Raphaël Legendre : Impôts, il est urgent de simplifier - 19/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-impots-il-est-urgent-de-simplifier-19-02_EN-202602190140.html",
-      "summary": "Ce jeudi 19 février, dans son édito, Raphaël Legendre est revenu sur plus de 13.000 foyers fiscaux éligibles à l'impôt sur la fortune immobilière (IFI) . Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
-    },
-    {
-      "title": "L’Edito de Raphaël Legendre : Impôts, il est urgent de simplifier - 19/02",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-impots-il-est-urgent-de-simplifier-19-02_VN-202602190138.html",
-      "summary": "Ce jeudi 19 février, dans son édito, Raphaël Legendre est revenu sur plus de 13.000 foyers fiscaux éligibles à l'impôt sur la fortune immobilière (IFI) . Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/J1I57P_gQX43dygKmsCSqvftBwo=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-Impots-il-est-urgent-de-simplifier-19-02-2238312.jpg\" />"
-    },
-    {
-      "title": "L'ÉCO - 13.000 foyers fortunés ne paient pas d'impôts sur le revenu",
-      "url": "https://www.bfmtv.com/economie/video-l-eco-13-000-foyers-fortunes-ne-paient-pas-d-impots-sur-le-revenu_VN-202602190103.html",
-      "summary": "Ils existent vraiment. En 2024, 13.335 foyers ayant un patrimoine immobilier de plus d'1,3 million d'euros n'ont payé aucun impôt sur le revenu. En réalité, ils sont même 18.525 si on inclut les personnes résidant à l'étranger et les personnes décédées au cours de l'année, selon un document du gouvernement transmis au Sénat et consulté par BFM Business, confirmant une information du Monde.<br /><br /><img src=\"https://images.bfmtv.com/yoAwxUZ4oGpKc12IM6ULy3kLG04=/0x0:1280x720/800x0/images/L-ECO-13-000-foyers-fortunes-ne-paient-pas-d-impots-sur-le-revenu-2238291.jpg\" />"
-    },
-    {
       "title": "Fiscalité : plus de 13 000 millionnaires ne paient pas l’impôt sur le revenu",
       "url": "https://www.franceinfo.fr/economie/impots/fiscalite-plus-de-13-000-millionnaires-ne-paient-pas-l-impot-sur-le-revenu_7814507.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Plus de 13 000 millionnaires français ne paient aucun impôt sur le revenu en France, d’après une note du Sénat qui a fuité mercredi 18 février. Le document confirme les récentes déclarations de l'ancien ministre de l’Économie, Éric Lombard."
@@ -40,11 +25,6 @@
       "title": "Le gouverneur de la Banque de France revoit à la baisse l'estimation d'inflation pour 2026, estimée à \"un peu plus de 1%\"",
       "url": "https://www.franceinfo.fr/economie/inflation/le-gouverneur-de-la-banque-de-france-revoit-a-la-baisse-l-estimation-d-inflation-pour-2026-estimee-a-un-peu-plus-de-1_7813769.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Cette inflation relativement faible est \"une bonne nouvelle pour notre pays\" selon François Villeroy de Galhau, patron de l'institution."
-    },
-    {
-      "title": "Inde : entre ultra-riches et ultra-pauvres, le poison des inégalités",
-      "url": "https://www.franceinfo.fr/monde/inde/inde-entre-ultra-riches-et-ultra-pauvres-le-poison-des-inegalites_7809998.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La croissance indienne, l’une des plus fortes de la planète, ne profite pas à tous. Des beaux quartiers de Mumbai peuplés de multimillionnaires, aux bidonvilles où les habitants vivent avec quelques euros par mois, l’écart ne cesse de se creuser."
     },
     {
       "title": "L’info du jour | 18 février 2026 - Matin",
