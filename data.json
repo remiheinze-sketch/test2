@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19T09:35:15Z",
+  "updated_at": "2026-02-19T10:33:44Z",
   "articles": [
     {
       "title": "« Paradoxalement, l’économie française connaît un regain d’optimisme »",
@@ -22,6 +22,21 @@
       "summary": "Plus de 13 000 millionnaires français ne paient aucun impôt sur le revenu en France, d’après une note du Sénat qui a fuité mercredi 18 février. Le document confirme les récentes déclarations de l'ancien ministre de l’Économie, Éric Lombard."
     },
     {
+      "title": "L’info du jour | 19 février 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/02/19/linfo-du-jour-19-fevrier-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 février 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/02/18/linfo-du-jour-18-fevrier-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 février 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/02/18/linfo-du-jour-18-fevrier-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
       "title": "L’info du jour | 18 février 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/02/18/linfo-du-jour-18-fevrier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -37,19 +52,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 17 février 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/02/17/linfo-du-jour-17-fevrier-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 février 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/02/16/linfo-du-jour-16-fevrier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "5 graphiques pour comprendre les défis de l’économie ukrainienne, quatre ans après l’invasion russe",
+      "url": "https://www.alternatives-economiques.fr/5-graphiques-pour-comprendre-les-defis-de-leconomie-ukrainienne-quatre-ans/00117766",
+      "summary": "<p>[Ukraine, 4 ans de guerre 2/4] L’invasion de 2022 puis l’installation du conflit dans la durée ont transformé l’économie ukrainienne, qui s’est tournée massivement vers la défense. Mais manque toujours de ressources financières.</p>"
     },
     {
       "title": "L’économie russe pourra-t-elle survivre à une éventuelle paix ?",
       "url": "https://www.alternatives-economiques.fr/leconomie-russe-pourra-t-elle-survivre-a-une-eventuelle-paix/00117829",
-      "summary": "<p>Quatre ans après l’invasion de l’Ukraine, l’économie russe s’est habituée à la guerre. Alors que certains secteurs ont été fragilisés et d’autres renforcés, un retour à la paix pourrait la déstabiliser davantage.</p>"
+      "summary": "<p>[Ukraine, 4 ans de guerre 1/4] L’économie russe s’est habituée à la guerre. Alors que certains secteurs ont été fragilisés et d’autres renforcés, un retour à la paix pourrait la déstabiliser davantage.</p>"
     }
   ]
 }
