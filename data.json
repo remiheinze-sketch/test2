@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-02-20T17:29:42Z",
+  "updated_at": "2026-02-20T18:32:53Z",
   "articles": [
+    {
+      "title": "EN DIRECT, droits de douane : suivez la conférence de presse de Donald Trump après la décision de la Cour suprême",
+      "url": "https://www.lemonde.fr/international/live/2026/02/20/en-direct-droits-de-douane-suivez-la-conference-de-presse-de-donald-trump-apres-la-decision-de-la-cour-supreme_6667585_3210.html",
+      "summary": "Le président américain a dépassé les pouvoirs prévus par la Constitution en imposant des taxes douanières sur la quasi-totalité des produits entrant aux Etats-Unis, a jugé la Cour suprême des Etats-Unis."
+    },
     {
       "title": "Permis de conduire et formation de langue : les restrictions budgétaires coupent les ailes du CPF",
       "url": "https://www.lemonde.fr/emploi/article/2026/02/20/permis-de-conduire-et-formation-de-langue-les-restrictions-budgetaires-coupent-les-ailes-du-cpf_6667592_1698637.html",
       "summary": "Accès limité pour le permis de conduire et le bilan de compétences, plafond pour la formation de langue, augmentation de la participation salariale de 100 à 150 euros, etc., le budget de l’Etat 2026 donne un tour de vis à des formations très demandées."
-    },
-    {
-      "title": "EN DIRECT, droits de douane : la Cour suprême américaine désavoue Donald Trump dans une décision historique aux conséquences incertaines",
-      "url": "https://www.lemonde.fr/international/live/2026/02/20/en-direct-droits-de-douane-la-cour-supreme-americaine-declare-illegale-une-grande-partie-des-taxes-de-donald-trump_6667585_3210.html",
-      "summary": "Le président américain a dépassé les pouvoirs prévus par la Constitution en imposant des taxes douanières sur la quasi-totalité des produits entrant aux Etats-Unis, a jugé la Cour suprême des Etats-Unis."
     },
     {
       "title": "Assurance-chômage : les négociations bloquées par des partenaires sociaux qui campent sur leurs positions",
@@ -17,9 +17,14 @@
       "summary": "Patronat et syndicats discutent depuis début janvier pour répondre à la demande du gouvernement de trouver « au moins » 400 millions d’euros d’économies sur les ruptures conventionnelles. Mais les organisations d’employeurs visent 1 milliard d’euros d’économies par an."
     },
     {
-      "title": "Droits de douane : « Pour ce qui est de ses effets économiques, la stratégie de Donald Trump ne convainc pas »",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/20/droits-de-douane-pour-ce-qui-est-de-ses-effets-economiques-la-strategie-de-donald-trump-ne-convainc-pas_6667542_3234.html",
-      "summary": "Les Etats-Unis ont enregistré, en 2025, un déficit record sur les échanges de marchandises, en dépit de l’objectif affiché de la Maison Blanche. Ces taxes ont pourtant eu pour effet de reconfigurer la géographie des échanges mondiaux, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      "title": "Les experts sans frontières – Vendredi 20 février",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-20-fevrier_EN-202602200805.html",
+      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/M65hsM-k6LkGQ2eSrf8NEmo7scw=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_2.jpg\" />"
+    },
+    {
+      "title": "Les experts sans frontières - Vendredi 20 février",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-20-fevrier_VN-202602200813.html",
+      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/oqGeWWexP6WBf8eOMAcP04ziKHA=/0x0:1280x720/800x0/images/Les-experts-sans-frontieres-Vendredi-20-fevrier-2239615.jpg\" />"
     },
     {
       "title": "Les pépites Tech encore à découvrir – 20/02",
@@ -95,11 +100,6 @@
       "title": "L’info du jour | 19 février 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/02/19/linfo-du-jour-19-fevrier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 février 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/02/18/linfo-du-jour-18-fevrier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Le déficit commercial se résorbe grâce à la baisse de la facture énergétique, et 3 autres infographies à ne pas rater",
