@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-21T03:57:51Z",
+  "updated_at": "2026-02-21T05:04:50Z",
   "articles": [
+    {
+      "title": "Après la décision de la Cour suprême sur les droits de douane, le monde à nouveau plongé dans l’incertitude",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/21/apres-la-decision-de-la-cour-supreme-sur-les-droits-de-douane-le-monde-a-nouveau-plonge-dans-l-incertitude_6667655_3234.html",
+      "summary": "La plupart des partenaires commerciaux des Etats-Unis ont réagi avec prudence après l’annulation des taxes douanières réciproques mises en place par Donald Trump. Le Parlement européen, qui s’apprêtait à relancer le processus de validation de l’accord commercial passé entre l’UE et les Etats-Unis, l’a de nouveau mis sur pause."
+    },
     {
       "title": "EN DIRECT, droits de douane : la nouvelle taxe mondiale de 10 % annoncée par Donald Trump entrera en vigueur le 24 février",
       "url": "https://www.lemonde.fr/international/live/2026/02/21/en-direct-droits-de-douane-donald-trump-veut-appliquer-de-nouveaux-droits-de-douane-mondiaux-de-10-l-avenir-de-l-accord-avec-l-ue-incertain_6667585_3210.html",
@@ -10,11 +15,6 @@
       "title": "Permis de conduire et formation de langue : les restrictions budgétaires coupent les ailes du CPF",
       "url": "https://www.lemonde.fr/emploi/article/2026/02/20/permis-de-conduire-et-formation-de-langue-les-restrictions-budgetaires-coupent-les-ailes-du-cpf_6667592_1698637.html",
       "summary": "Accès limité pour le permis de conduire et le bilan de compétences, plafond pour la formation de langue, augmentation de la participation salariale de 100 à 150 euros, etc., le budget de l’Etat 2026 donne un tour de vis à des formations très demandées."
-    },
-    {
-      "title": "Assurance-chômage : les négociations bloquées par des partenaires sociaux qui campent sur leurs positions",
-      "url": "https://www.lemonde.fr/politique/article/2026/02/20/assurance-chomage-les-negociations-bloquees-par-des-partenaires-sociaux-qui-campent-sur-leurs-positions_6667561_823448.html",
-      "summary": "Patronat et syndicats discutent depuis début janvier pour répondre à la demande du gouvernement de trouver « au moins » 400 millions d’euros d’économies sur les ruptures conventionnelles. Mais les organisations d’employeurs visent 1 milliard d’euros d’économies par an."
     },
     {
       "title": "La semaine de l'économie - 20/02",
@@ -80,16 +80,6 @@
       "title": "L’info du jour | 19 février 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/02/19/linfo-du-jour-19-fevrier-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Le déficit commercial se résorbe grâce à la baisse de la facture énergétique, et 3 autres infographies à ne pas rater",
-      "url": "https://www.alternatives-economiques.fr/le-deficit-commercial-se-resorbe-grace-a-la-baisse-de-la-facture-energetiq/00117846",
-      "summary": "<p>Le graphorama, c'est quatre infographies sélectionnées chaque semaine par la rédaction pour regarder l'actualité autrement.</p>"
-    },
-    {
-      "title": "5 graphiques pour comprendre les défis de l’économie ukrainienne",
-      "url": "https://www.alternatives-economiques.fr/5-graphiques-pour-comprendre-les-defis-de-leconomie-ukrainienne-quatre-ans/00117766",
-      "summary": "<p>[Ukraine, 4 ans de guerre 2/4] L’invasion de 2022 puis l’installation du conflit dans la durée ont transformé l’économie ukrainienne, qui s’est tournée massivement vers la défense. Mais manque toujours de ressources financières.</p>"
     }
   ]
 }
