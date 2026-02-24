@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-02-24T10:37:55Z",
+  "updated_at": "2026-02-24T11:33:29Z",
   "articles": [
+    {
+      "title": "Assurance-chômage : le coup de pression des syndicats",
+      "url": "https://www.lemonde.fr/politique/article/2026/02/24/assurance-chomage-le-coup-de-pression-des-syndicats_6668062_823448.html",
+      "summary": "Les dirigeants des cinq principales organisations de salariés ont tenu une conférence de presse, lundi, à l’avant-veille de la dernière de séance de négociations sur l’indemnisation des demandeurs d’emploi. Une manière de réaffirmer leur hostilité aux propositions du patronat, qui visent à réaliser 1 milliard d’euros d’économies par an."
+    },
     {
       "title": "« La Chine voit dans ses plans une des clés du développement du pays »",
       "url": "https://www.lemonde.fr/idees/article/2026/02/24/la-chine-voit-dans-ses-plans-une-des-cles-du-developpement-du-pays_6668046_3232.html",
@@ -15,11 +20,6 @@
       "title": "Droits de douane : le Japon confirme son accord commercial avec les Etats-Unis après le verdict de la Cour suprême",
       "url": "https://www.lemonde.fr/economie/article/2026/02/24/droits-de-douane-le-japon-confirme-l-accord-commercial-avec-les-etats-unis-apres-le-verdict-de-la-cour-supreme_6668000_3234.html",
       "summary": "En contrepartie d’un abaissement des surtaxes douanières américaines de 25 % à 15 %, Tokyo s’était engagé à investir 550 milliards de dollars d’ici à 2029 dans l’industrie américaine, un accord que les deux pays « continueront d’appliquer fidèlement » malgré le revers infligé par la Cour."
-    },
-    {
-      "title": "Après l’annonce de suppressions de postes chez Heineken, le marché de la bière en plein chamboulement",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/23/apres-l-annonce-de-suppressions-de-postes-chez-heineken-le-marche-de-la-biere-en-plein-chamboulement_6667939_3234.html",
-      "summary": "Le plan pour réaliser « des économies importantes », lancé le 11 février par le groupe néerlandais, traduit la chute de la consommation sur certains marchés comme l’Europe et l’évolution rapide de la demande vers des bières peu ou pas alcoolisées, aux arômes nouveaux."
     },
     {
       "title": "\"Quand je les prenais, c'est moi qui les payais\": Thierry Breton tacle la décision de l'UE d'augmenter le budget pour les déplacements en jets privés",
@@ -67,6 +67,11 @@
       "summary": "La nomination d'Amélie Montchalin à la tête de l'institution le 11 février a provoqué une vive polémique. L'opposition a dénoncé le conflit d'intérêts."
     },
     {
+      "title": "L’info du jour | 24 février 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/02/24/linfo-du-jour-24-fevrier-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
       "title": "L’info du jour | 24 février 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/02/24/linfo-du-jour-24-fevrier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -99,11 +104,6 @@
     {
       "title": "L’info du jour | 22 février 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/02/22/linfo-du-jour-22-fevrier-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 22 février 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/02/22/linfo-du-jour-22-fevrier-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
