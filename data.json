@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T10:34:47Z",
+  "updated_at": "2026-03-02T11:26:25Z",
   "articles": [
     {
       "title": "« Donald Trump met en place de nouveaux droits de douane tout aussi fragiles que ceux annulés par la Cour suprême »",
@@ -10,6 +10,11 @@
       "title": "Les bombardements en Iran ravivent les craintes d’un choc pétrolier",
       "url": "https://www.lemonde.fr/economie/article/2026/03/01/les-bombardements-en-iran-ravivent-les-craintes-d-un-choc-petrolier_6668907_3234.html",
       "summary": "La fermeture du détroit d’Ormuz et les frappes américano-israéliennes en Iran font ressurgir le spectre d’une flambée des prix du brut. Mais l’économie mondiale est aujourd’hui moins vulnérable que lors de la crise pétrolière de 1973."
+    },
+    {
+      "title": "Hébergement, prise en charge des dépenses: alors que les annulations de vols se multiplient, à quoi peuvent vraiment prétendre les milliers de touristes bloqués dans le Golfe persique?",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/hebergement-prise-en-charge-des-depenses-alors-que-les-annulations-de-vols-se-multiplient-a-quoi-peuvent-vraiment-pretendre-les-milliers-de-touristes-bloques-dans-le-golfe-persique_AV-202603020426.html",
+      "summary": "Alors que la plupart des compagnies aériennes ont annulé leurs vols vers et depuis Israël, Dubaï ou encore le Qatar, l'Arabie saoudite et Bahreïn, des dizaines de milliers de touristes en vacances ou en transit se retrouvent bloqués dans les aéroports.<br /><br /><img src=\"https://images.bfmtv.com/YiDN1XhRLJYO-T8yoAUeCqH1cPg=/0x106:2048x1258/800x0/images/Des-passagers-a-l-aeroport-de-Tel-Avi-le-25-juin-2025-2208016.jpg\" />"
     },
     {
       "title": "Le déchiffrage : L'escalade en Iran menace l'économie mondiale - 02/03",
@@ -52,24 +57,14 @@
       "summary": "Ce lundi 2 mars, Pierre Blanchet, responsable des solutions d'investissement retail chez Amundi, et Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, ont échangé leur point de vue sur le retour du risk-off sur les marchés, sur la réaction des marchés face au conflit en Iran, ainsi que sur le fait que les taux 10 ans américains repassent sous les 4%, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
     },
     {
-      "title": "Le face à face du lundi 2 mars",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-face-a-face-du-lundi-2-mars_VN-202603020350.html",
-      "summary": "Ce lundi 2 mars, Pierre Blanchet, responsable des solutions d'investissement retail chez Amundi, et Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, ont échangé leur point de vue sur le retour du risk-off sur les marchés, sur la réaction des marchés face au conflit en Iran, ainsi que sur le fait que les taux 10 ans américains repassent sous les 4%, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/8obZ45ORCR4F7lMhC74ffCFC77E=/0x0:1280x720/800x0/images/Le-face-a-face-du-lundi-2-mars-2244524.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 02/03",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-02-03_EN-202603020291.html",
-      "summary": "Ce lundi 2 mars, les réactions des marchés actions face à la guerre en Iran,ont a été abordées par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
-    },
-    {
-      "title": "L'éclaireur - 02/03",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-02-03_VN-202603020292.html",
-      "summary": "Ce lundi 2 mars, les réactions des marchés actions face à la guerre en Iran,ont a été abordées par Florian Ielpo, responsable de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/QecffGzcrfK0zGtMiKdZx9PBOtE=/0x0:1280x720/800x0/images/L-eclaireur-02-03-2244472.jpg\" />"
-    },
-    {
       "title": "\"Une distorsion de concurrence\" : les entreprises agricoles profitent du Salon pour dénoncer le crédit d’impôt visant à mutualiser les engins",
       "url": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/une-distorsion-de-concurrence-les-entreprises-agricoles-profitent-du-salon-pour-denoncer-le-credit-d-impot-visant-a-mutualiser-les-engins_7834217.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le budget 2026 prévoit un crédit d'impôt dédié aux adhérents des coopératives d’utilisation de matériel agricole. Cette aide, créée pour encourager les agriculteurs à partager leurs machines, désavantage les entreprises agricoles."
+    },
+    {
+      "title": "L’info du jour | 2 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/02/linfo-du-jour-2-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 mars 2026 - Matin",
@@ -109,11 +104,6 @@
     {
       "title": "L’info du jour | 27 février 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/02/27/linfo-du-jour-27-fevrier-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 février 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/02/27/linfo-du-jour-27-fevrier-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 février 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
