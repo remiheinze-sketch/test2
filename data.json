@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-03-06T04:00:23Z",
+  "updated_at": "2026-03-06T05:11:05Z",
   "articles": [
+    {
+      "title": "En Dordogne, l’ère des guerres et du réarmement ranime la poudrerie centenaire de Bergerac",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/06/en-dordogne-l-ere-des-guerres-et-du-rearmement-ranime-la-poudrerie-centenaire-de-bergerac_6669721_3234.html",
+      "summary": "La démultiplication des conflits mondiaux a relancé l’usine d’armement de la ville, créée durant la Grande Guerre et aujourd’hui détenue par une entreprise publique. L’activité revitalise l’économie d’une sous-préfecture longtemps sinistrée."
+    },
+    {
+      "title": "La France, championne du monde de l’attractivité touristique, oublie les autochtones",
+      "url": "https://www.lemonde.fr/idees/article/2026/03/06/la-france-championne-du-monde-de-l-attractivite-touristique-oublie-les-autochtones_6669701_3232.html",
+      "summary": "La priorité est donnée à l’accroissement des dépenses des touristes internationaux, sans prendre au sérieux d’autres enjeux comme le taux de départ en vacances et l’accessibilité financière pour les Français, les conflits d’usage entre touristes et habitants ou la qualité des emplois dans le secteur."
+    },
     {
       "title": "Conflit au Moyen-Orient : les marchés financiers « chamboulés » par une situation mouvante",
       "url": "https://www.lemonde.fr/economie/article/2026/03/05/conflit-au-moyen-orient-les-marches-financiers-chamboules-par-une-situation-mouvante_6669614_3234.html",
@@ -12,9 +22,9 @@
       "summary": "Le premier ministre Li Qiang a présenté le plan quinquennal destiné à relancer l’économie chinoise, qui connaît un ralentissement historique autour de 4,5 % de taux (officiel) de croissance."
     },
     {
-      "title": "Droits de douane américains : un juge ordonne à l’administration Trump d’arrêter de collecter les taxes annulées",
-      "url": "https://www.lemonde.fr/international/article/2026/03/05/droits-de-douane-americains-un-juge-ordonne-a-l-administration-trump-d-arreter-de-collecter-les-taxes-annulees_6669571_3210.html",
-      "summary": "Le Tribunal de commerce international des Etats-Unis a également statué, mercredi, que les entreprises qui ont payé des surtaxes invalidées en février par la Cour suprême ont droit à des remboursements. Le gouvernement américain a perçu plus de 130 milliards de dollars grâce à ces droits désormais abrogés."
+      "title": "Sinon ce sont les Français qui paieront pour rénover le réseau ferroviaire: la SNCF exhorte la concurrence à desservir elle aussi les gares non-rentables",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/sinon-ce-sont-les-francais-qui-paieront-pour-renover-le-reseau-ferroviaire-la-sncf-exhorte-la-concurrence-a-desservir-elle-aussi-les-gares-non-rentables_AV-202603060076.html",
+      "summary": "La compagnie ferroviaire s'estime lésée car elle doit maintenir sa desserte du territoire souvent déficitaire alors que la concurrence ne se positionne que sur les lignes les plus rentables. Elle prévient qu'à terme, les conséquences de cette situation pourraient être délétères soit pour le contribuable, soit pour l'entretien du réseau.<br /><br /><img src=\"https://images.bfmtv.com/FJhygqQa8xrtU1Dp9PmtQ8dJuAM=/0x105:2048x1257/800x0/images/TGV-BORDEAUX-2137709.jpg\" />"
     },
     {
       "title": "Prix à la pompe, stock suffisant de carburant… Ce qu’il faut retenir de la réunion entre les distributeurs et le ministère de l’Économie",
