@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-06T15:27:35Z",
+  "updated_at": "2026-03-06T16:28:01Z",
   "articles": [
+    {
+      "title": "Au Venezuela, l’inflation a grimpé à 475 % en 2025, selon la banque centrale du pays",
+      "url": "https://www.lemonde.fr/international/article/2026/03/06/au-venezuela-l-inflation-a-grimpe-a-475-en-2025-selon-la-banque-centrale-du-pays_6669791_3210.html",
+      "summary": "En fin d’année dernière, des économistes estimaient que le Venezuela se trouvait au seuil d’une hyperinflation, épisode que le pays caribéen avait déjà connu entre 2017 et 2022."
+    },
     {
       "title": "Avec l’industrie de l’armement israélienne, la Bourse de Tel-Aviv au beau fixe",
       "url": "https://www.lemonde.fr/international/article/2026/03/06/avec-l-industrie-de-l-armement-israelienne-la-bourse-de-tel-aviv-au-beau-fixe_6669749_3210.html",
@@ -22,24 +27,14 @@
       "summary": "La priorité est donnée à l’accroissement des dépenses des touristes internationaux, sans prendre au sérieux d’autres enjeux comme le taux de départ en vacances et l’accessibilité financière pour les Français, les conflits d’usage entre touristes et habitants ou la qualité des emplois dans le secteur."
     },
     {
+      "title": "USA : 92 000 emplois détruits en février",
+      "url": "https://www.bfmtv.com/economie/video-usa-92-000-emplois-detruits-en-fevrier_VN-202603060699.html",
+      "summary": "Michel Rumy revient sur le marché de l'emploi américain. Il explique que ces chiffres de l'emploi sont peut être des signes d'un affaiblissement de l'économie américaine <br /><br /><img src=\"https://images.bfmtv.com/6Dwep61CQoY2JiMi_wTvxV9Drg0=/0x0:1280x720/800x0/images/USA-92-000-emplois-detruits-en-fevrier-2247836.jpg\" />"
+    },
+    {
       "title": "Très mauvaise surprise aux États-Unis: l'économie américaine a détruit 92.000 emplois et le chômage grimpe (et c'était avant la guerre en Iran)",
       "url": "https://www.bfmtv.com/economie/international/tres-mauvaise-surprise-aux-etats-unis-l-economie-americaine-a-detruit-92-000-emplois-et-le-chomage-grimpe-et-c-etait-avant-la-guerre-en-iran_AN-202603060644.html",
       "summary": "Coup d’arrêt inattendu pour le marché du travail américain. En février, l'économie a détruit 92.000 emplois, loin des 59.000 créations espérées, portant le taux de chômage à 4,4 %. Une hausse globalement compensée par les bons résultats de janvier.<br /><br /><img src=\"https://images.bfmtv.com/_gd6ARaVTlMHKvU0z3OwNkY-ckE=/0x106:2048x1258/800x0/images/x-2236435.jpg\" />"
-    },
-    {
-      "title": "Chine : un coup de frein sur la croissance",
-      "url": "https://www.bfmtv.com/economie/video-chine-un-coup-de-frein-sur-la-croissance_VN-202603060519.html",
-      "summary": "Patrick Zweifel revient sur la croissance chinoise. Il rappelle que la Chine n'aura plus de taux de croissance à 10% car c'est une économie mature. Il considère donc que la Chine n'est pas aussi prospère qu'avant, mais que des mesures sont prises<br /><br /><img src=\"https://images.bfmtv.com/r4Rsfzv-fFowq9zS9D6uPqKTN0c=/0x0:1280x720/800x0/images/Chine-un-coup-de-frein-sur-la-croissance-2247704.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 6 mars",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-6-mars_VN-202603060482.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/WB-9ut1aBdyKwkWnUSgxPT_v6fQ=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-6-mars-2247672.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 6 mars",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-6-mars_EN-202603060473.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
     },
     {
       "title": "\"C'est une vraie économie pour le territoire\" : l'essor des locations type Airbnb au Puy-en-Velay, une aubaine pour la cité auvergnate",
