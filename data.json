@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-08T16:17:03Z",
+  "updated_at": "2026-03-08T17:15:31Z",
   "articles": [
     {
       "title": "En Algérie, l’impact contrasté de la crise du détroit d’Ormuz, entre profits pétrogaziers et risque inflationniste",
@@ -10,6 +10,11 @@
       "title": "La Russie, remise en selle par la guerre au Moyen-Orient, reprend ses ventes de pétrole à l’Inde",
       "url": "https://www.lemonde.fr/economie/article/2026/03/07/la-russie-remise-en-selle-par-la-guerre-au-moyen-orient-reprend-ses-ventes-de-petrole-a-l-inde_6669911_3234.html",
       "summary": "Même si Moscou vend son brut moins cher que le marché, la hausse de la demande et un prix du baril jamais vu depuis 2023 donnent une bouffée d’oxygène à une économie russe qui commençait à souffrir."
+    },
+    {
+      "title": "90% du pétrole exporté par l’Iran passe par l’île de Kharg: pourquoi Washington évite (pour le moment) de s'attaquer au coeur de l'économie iranienne",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/90-du-petrole-de-l-iran-est-exporte-depuis-l-ile-de-kharg-pourquoi-washington-evite-de-s-attaquer-au-coeur-de-l-economie-iranienne-pour-le-moment_AV-202603080295.html",
+      "summary": "Si l'armée israélienne a mené samedi de premières frappes contre des installations pétrolières en Iran, Tel Aviv et Washington ont jusqu'ici pris soin de ne pas toucher à la petite mais très stratégique île de Kharg. Une attaque risquerait de faire bondir les prix du pétrole et fâcherait la Chine. <br /><br /><img src=\"https://images.bfmtv.com/7VkyEYRvkuTvlanmkznm-E5LGIE=/0x75:992x633/800x0/images/L-ile-de-Kharg-2248662.jpg\" />"
     },
     {
       "title": "\"L'exploit accompli par l'Inde ne peut pas être minimisé\": le pays a dépassé la France en 2017, est en passe de doubler le Japon et pourtant jamais autant d'Indiens n'ont quitté le pays",
@@ -47,9 +52,49 @@
       "summary": "Le groupe Bouygues est \"assez peu présent au Moyen-Orient\", précise Olivier Roussat, samedi sur France Inter."
     },
     {
-      "title": "Carburants : les distributeurs profitent-ils de la guerre au Moyen-Orient pour gonfler les prix ?",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/carburants-les-distributeurs-profitent-ils-de-la-guerre-au-moyen-orient-pour-gonfler-les-prix_7850471.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La guerre au Moyen-Orient risque d’avoir des répercussions sur l’économie mondiale. Le baril de Brent a dépassé les 90 dollars pour la première fois depuis deux ans. Les prix dans les stations-service augmentent. Des prix justifiés ou gonflés ?"
+      "title": "L’info du jour | 8 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/08/linfo-du-jour-8-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 8 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/08/linfo-du-jour-8-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 8 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/08/linfo-du-jour-8-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 7 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/07/linfo-du-jour-7-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 7 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/07/linfo-du-jour-7-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 7 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/07/linfo-du-jour-7-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 6 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/06/linfo-du-jour-6-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 6 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/06/linfo-du-jour-6-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 6 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/06/linfo-du-jour-6-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Une enquête sur le trafic d'êtres humains, et 3 autres conseils de lecture",
