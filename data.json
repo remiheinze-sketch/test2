@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-03-09T19:33:40Z",
+  "updated_at": "2026-03-09T20:22:22Z",
   "articles": [
     {
       "title": "Comment le capitalisme pourrait entrer en état d’urgence",
       "url": "https://www.lemonde.fr/idees/article/2026/03/09/comment-le-capitalisme-pourrait-entrer-en-etat-d-urgence_6670143_3232.html",
       "summary": "Dans son essai « Le Problème à trois corps du capitalisme », le journaliste Romaric Godin analyse les trois grandes crises contemporaines, écologique, économique et humaine, comme produites par la dynamique interne de l’économie de marché."
+    },
+    {
+      "title": "Au moins 600 millions d'euros d'économies d'ici 4 ans et 15.000 retours à l'emploi: le gouvernement satisfait des changements concernant les ruptures conventionnelles",
+      "url": "https://www.bfmtv.com/economie/economie-social/au-moins-600-millions-d-euros-d-economies-d-ici-4-ans-et-15-000-retours-a-l-emploi-le-gouvernement-satisfait-des-changements-concernant-les-ruptures-conventionnelles_AD-202603090927.html",
+      "summary": "Les négociations entre les syndicats et le patronat ont abouti à un raccourcissement de la durée maximale d'indemnisation des ruptures conventionnelles. Cette mesure devrait faire économiser des centaines de millions d'euros à l'assurance-chômage, en plus de permettre jusqu'à 15.000 retours à l'emploi.<br /><br /><img src=\"https://images.bfmtv.com/98P5Tf8wZcJFsKY6uteEsxA9FdQ=/0x0:800x450/800x0/images/Ruptures-conventionnelles-973765.jpg\" />"
+    },
+    {
+      "title": "Le Tech Flash : \"Pentagone : première démission chez OpenAI\" par Léa Benaim - 09/03",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-pentagone-premiere-demission-chez-open-ai-par-lea-benaim-09-03_VN-202603090916.html",
+      "summary": "Ce lundi 9 mars, dans Le Tech Flash, Léa Benaim s'est penchée sur le la démission du patron de la robotique chez OpenAI, les créations générés par l'IA, les futurs lunettes connectées de Samsung, et la demande de remboursement des taxes en 2025 de Nitendo. Cette chronique est à voir ou écouter du lundi au jeudi dans Tech&amp;Co, la quotidienne, présentée par François Sorel sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/vY-13mXVbaKqQkTr6SoWWwDT9zc=/0x0:1280x720/800x0/images/Le-Tech-Flash-Pentagone-premiere-demission-chez-OpenAI-par-Lea-Benaim-09-03-2249426.jpg\" />"
     },
     {
       "title": "Blocage du détroit d'Ormuz : Serait-on à l'aube d'un nouveau choc pétrolier ?",
@@ -15,16 +25,6 @@
       "title": "La Data Room : la productivité du travail, dans le secteur non-agricole, aux Etats-Unis, est de 2,8 % au quatrième trimestre 2025 - 09/03",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-la-productivite-du-travail-dans-le-secteur-non-agricole-aux-etats-unis-est-de-2-8-au-quatrieme-trimestre-2025-09-03_VN-202603090735.html",
       "summary": "Ce lundi 9 mars, Christian Parisot, économiste et conseiller auprès de Aurel BGC et Roland Kaloyan, responsable de la Stratégie Actions Européennes chez Société Générale CIB, se sont respectivement penchés sur les dépenses mondiales en cybersécurité prévues pour 2026, s'élevant à 240 milliards de dollars et les gains de productivité de 2,8 % pour l'économie américaine sur l'ensemble de l'année 2025, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/-oEZnvDbSNjEBVy9F5IrQUkMmT4=/0x0:1280x720/800x0/images/La-Data-Room-la-productivite-du-travail-dans-le-secteur-non-agricole-aux-Etats-Unis-est-de-2-8-au-quatrieme-trimestre-2025-09-03-2249296.jpg\" />"
-    },
-    {
-      "title": "Pour Javier Milei la guerre au Moyen-Orient n'est pas une mauvaise nouvelle: le président argentin espère que ses exportations de pétrole en plein boum vont profiter de l'inflation",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/pour-javier-milei-la-guerre-au-moyen-orient-n-est-pas-une-mauvaise-nouvelle-le-president-argentin-espere-que-ses-exportations-de-petrole-en-plein-boum-vont-profiter-de-l-inflation_AD-202603090723.html",
-      "summary": "Javier Milei a assuré ce lundi que le conflit au Moyen-Orient va permettre à l'Argentine d'augmenter ses exportations. Pour le Président, il faut profiter de la fenêtre inflationniste avant que les prix ne se stabilisent.<br /><br /><img src=\"https://images.bfmtv.com/T9iGmyz-gsWmdN2ZJzheDvTc8nY=/0x106:2048x1258/800x0/images/Javier-Milei-2161664.jpg\" />"
-    },
-    {
-      "title": "Le Club : \"Midterms : D. Trump tenté de réserver le pétrole US aux américains, pour modérer les prix de l'essence ?\" - 09/03",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-midterms-d-trump-tente-de-reserver-le-petrole-us-aux-americains-pour-moderer-les-prix-de-l-essence-09-03_VN-202603090730.html",
-      "summary": "Ce lundi 9 mars, Christian Parisot, économiste et conseiller auprès de Aurel BGC, et Roland Kaloyan, responsable de la Stratégie Actions Européennes chez Société Générale CIB, se sont penchés sur l'impact de la guerre en Iran sur l'économie mondiale dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/GCRNLmi2iZJcsalWtF0kx5Jpo4s=/0x0:1280x720/800x0/images/Le-Club-Midterms-D-Trump-tente-de-reserver-le-petrole-US-aux-americains-pour-moderer-les-prix-de-l-essence-09-03-2249294.jpg\" />"
     },
     {
       "title": "L'UE met en garde contre un \"choc stagflationniste majeur\" en cas de guerre prolongée au Moyen-Orient",
