@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-11T11:25:22Z",
+  "updated_at": "2026-03-11T12:36:42Z",
   "articles": [
+    {
+      "title": "Le budget en baisse du ministère du travail mécontente les partenaires sociaux : formation, apprentissage, effectifs de France Travail...",
+      "url": "https://www.lemonde.fr/politique/article/2026/03/11/le-budget-en-baisse-du-ministere-du-travail-mecontente-les-partenaires-sociaux-formation-apprentissage-effectifs-de-france-travail_6670482_823448.html",
+      "summary": "Le gouvernement vient de publier un décret qui réduit les aides aux entreprises recrutant des apprentis. Le texte illustre la diminution de l’effort de l’Etat en faveur des politiques de l’emploi."
+    },
     {
       "title": "Guerre au Moyen-Orient : très attendu sur le prix des carburants, Sébastien Lecornu reçoit les forces politiques",
       "url": "https://www.lemonde.fr/politique/article/2026/03/11/guerre-au-moyen-orient-tres-attendu-sur-le-prix-des-carburants-sebastien-lecornu-recoit-les-forces-politiques_6670412_823448.html",
@@ -17,16 +22,6 @@
       "summary": "Volatilité des marchés : comment gérer ? \"Le vrai risque, c'est le phénomène de stagflation, c'est-à-dire une croissance assez faible. C'est le cas en Europe où on a aussi un risque d'inflation important lié à l'énergie\", explique Bastien Baron, de Justae. <br /><br /><img src=\"https://images.bfmtv.com/db8VYPyp7ePvkXE4HUy9czikGl0=/0x0:1280x720/800x0/images/La-volatilite-des-marches-s-installe-Le-vrai-sujet-c-est-le-phenomene-de-stagflation-2250557.jpg\" />"
     },
     {
-      "title": "Réarmement de l’Europe : le risque d’un choc de demande",
-      "url": "https://www.bfmtv.com/economie/video-rearmement-de-l-europe-le-risque-d-un-choc-de-demande_VN-202603110409.html",
-      "summary": "Réarmement de l'Europe \"Il y a une multiplication par cinq des budgets de défense à l’horizon 2035 : c’est un choc énorme sur la demande. Ce que l’on explique, c’est que si rien ne change, ce choc de demande, sans augmentation de l’offre, se traduira par une hausse des prix, un allongement des délais de livraison et une augmentation des importations\", explique Emmanuelle Auriol, professeure à l Toulouse School of Economics, membre du CAE. <br /><br /><img src=\"https://images.bfmtv.com/QqAMqa266qPOurcNHa9lNSbVj18=/0x0:1280x720/800x0/images/Rearmement-de-l-Europe-le-risque-d-un-choc-de-demande-2250546.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Moyen-Orient, le risque de la stagflation - 11/03",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-moyen-orient-le-risque-de-la-stagflation-11-03_VN-202603110371.html",
-      "summary": "Ce mercredi 11 mars, l'étude sur le réarmement de l'Europe et les défis liés à l'intégration économique et à l'innovation, le retour des prix du pétrole sous la barre des 90 dollars le baril, le risque de stagflation au Moyen-Orient, et la hausse rapide de la fiscalité par rapport à la croissance, ont été abordés par Anne-Sophie Alsif, cheffe économiste du cabinet d'audit BDO France et professeure à Paris 1, Emmanuelle Auriol, professeure à la Toulouse School of Economics et membre du CAE, et Pascal de Lima, chef économiste chez Novaminds, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/_cqiaVFXIJRICLqNwDevc4C9L9E=/0x0:1280x720/800x0/images/Les-Experts-Moyen-Orient-le-risque-de-la-stagflation-11-03-2250511.jpg\" />"
-    },
-    {
       "title": "Inflation sur les produits alimentaires : \"Si la guerre continue, ça peut flamber\", alerte Michel-Édouard Leclerc",
       "url": "https://www.franceinfo.fr/sante/alimentation/inflation-sur-les-produits-alimentaires-si-la-guerre-continue-ca-peut-flamber-alerte-michel-edouard-leclerc_7860353.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La guerre au Moyen-Orient, qui a éclaté alors que les négociations annuelles de l'agroalimentaire se terminaient, risque de relancer l'inflation. Le patron d'E. Leclerc craint que les industriels \"essaient de renégocier\"."
@@ -35,56 +30,6 @@
       "title": "La guerre au Moyen-Orient entraînera \"un peu plus d'inflation et un peu moins de croissance\", selon le gouverneur de la Banque de France",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-guerre-au-moyen-orient-entrainera-un-peu-plus-d-inflation-et-un-peu-moins-de-croissance-de-l-economie-francaise-selon-le-gouverneur-de-la-banque-de-france_7860281.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"Nous ne laisserons pas l'inflation s'installer\", a promis François Villeroy de Galhau, précisant que la hausse des prix \"restera basse\" en France."
-    },
-    {
-      "title": "Vrai ou faux. Guerre au Moyen-Orient : baisser la TVA sur les carburants de 20% à 5,5% coûterait-il vraiment 17 milliards d'euros aux finances publiques ?",
-      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/guerre-au-moyen-orient-baisser-la-tva-sur-les-carburants-de-20-a-5-5-couterait-il-vraiment-17-milliards-d-euros-aux-finances-publiques_7828226.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le Rassemblement national réclame au gouvernement une baisse importante de la TVA sur les carburants. Impossible selon le gouvernement qui estime le coût de cette mesure à 17 milliards d'euros. Ce chiffre est une estimation de Bercy qui date de juin 2024."
-    },
-    {
-      "title": "L’info du jour | 11 mars 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/03/11/linfo-du-jour-11-mars-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 10 mars 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/03/10/linfo-du-jour-10-mars-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L'Allemagne est désormais le quatrième exportateur d'armes au monde",
-      "url": "http://fr.euronews.com/2026/03/10/lallemagne-est-desormais-le-quatrieme-exportateur-darmes-au-monde",
-      "summary": "Selon l'institut de recherche suédois Sipri, l'Allemagne a détrôné la Chine. Alors que l'industrie de l'armement est en plein essor, le reste de l'économie allemande continue de s'affaiblir."
-    },
-    {
-      "title": "Jürgen Ligi : \"l'imprévisibilité est le plus grand danger pour l'économie\"",
-      "url": "http://fr.euronews.com/2026/03/10/jurgen-ligi-limprevisibilite-est-le-plus-grand-danger-pour-leconomie",
-      "summary": "Le ministre estonien des Finances, Jürgen Ligi, estime que, malgré la flambée des prix causée par le conflit au Moyen-Orient, l'UE avait les moyens de relever le défi."
-    },
-    {
-      "title": "L’info du jour | 10 mars 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/03/10/linfo-du-jour-10-mars-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 10 mars 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/03/10/linfo-du-jour-10-mars-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Les géants pétroliers russes ont gagné en valeur plus de 21 milliards d'euros depuis le début de la guerre au Moyen-Orient",
-      "url": "http://fr.euronews.com/2026/03/10/les-geants-petroliers-russes-ont-gagne-en-valeur-plus-de-21-milliards-deuros-depuis-le-deb",
-      "summary": "Les titres de Rosneft ont le plus grimpé, la valeur boursière de la société ayant augmenté de plus de 11 milliards d'euros depuis le 27 février. Ceci pourrait avoir un impact positif sur le budget russe et donc sur l'effort de guerre, mais, selon les experts, pas de manière significative."
-    },
-    {
-      "title": "L’info du jour | 9 mars 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/03/09/linfo-du-jour-9-mars-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 9 mars 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/03/09/linfo-du-jour-9-mars-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "La ville du bien-être ou comment concrétiser la post-croissance",
