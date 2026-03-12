@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-12T15:47:50Z",
+  "updated_at": "2026-03-12T16:49:45Z",
   "articles": [
+    {
+      "title": "L’ouverture aux opérateurs privés s’accélère au Centre spatial guyanais",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/12/l-ouverture-aux-operateurs-prives-s-accelere-au-centre-spatial-guyanais_6670778_3234.html",
+      "summary": "Après l’espagnol PLD Space, le français MaiaSpace, développeur du premier lanceur réutilisable européen, s’installe sur la base de Kourou, en pleine mutation. La Guyane mise sur l’essor du spatial, qui est l’un des moteurs de son économie."
+    },
     {
       "title": "« Le risque de voir revenir la stagflation est faible, mais c’est sans compter Donald Trump »",
       "url": "https://www.lemonde.fr/idees/article/2026/03/12/le-risque-de-voir-revenir-la-stagflation-est-faible-mais-c-est-sans-compter-donald-trump_6670729_3232.html",
@@ -22,9 +27,9 @@
       "summary": "Ce jeudi 12 mars, dans sa chronique USA Today, John Plassard, associé, responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur les mines iraniennes sur le détroit d'Ormuz, les marchés boursiers face au conflit au Moyen-Orient, les marchés vers un net rebond selon Goldman Sachs, l'indice des obligations mondiale sous tension, et le déficit commercial américaine en baisse. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/mTLYiBMujRryps6s-6ymtmt4DIA=/0x0:1280x720/800x0/images/USA-Today-Vers-un-net-rebond-des-marches-selon-Goldman-Sachs-par-John-Plassard-12-03-2251417.jpg\" />"
     },
     {
-      "title": "Malgré la guerre en Iran, la reprise économique de l'Allemagne va bien se poursuivre en 2026 mais sa croissance pourrait être moins forte si la hausse des prix de l'énergie se prolonge",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/malgre-la-guerre-en-iran-la-reprise-economique-de-l-allemagne-va-bien-se-poursuivre-en-2026-mais-sa-croissance-pourrait-etre-moins-forte-si-la-hausse-des-prix-de-l-energie-se-prolonge_AV-202603120524.html",
-      "summary": "La croissance allemande devrait atteindre 0,8% cette année, conformément à la précédente prévision. Sans la guerre en Iran, elle aurait pu atteindre 1%, selon l'institut Ifo.<br /><br /><img src=\"https://images.bfmtv.com/PA41lkMpotUw1FYchHbRWVCClEQ=/0x83:2048x1235/800x0/images/Friedrich-Merz-2189755.jpg\" />"
+      "title": "Huile, biscuits, farine… les prix vont-ils augmenter ?",
+      "url": "https://www.franceinfo.fr/economie/inflation/huile-biscuits-farine-les-prix-vont-ils-augmenter_7863359.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le conflit au Moyen-Orient aura un impact sur l'économie mondiale avec une hausse de l'inflation et un ralentissement de la croissance. Cela se traduira probablement par une diminution du pouvoir d'achat et une augmentation du coût des produits alimentaires."
     },
     {
       "title": "Leclerc, Super U... Les grandes enseignes annoncent des baisses et plafonnements de leurs prix à la pompe",
