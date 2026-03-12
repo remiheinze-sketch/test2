@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-12T10:29:27Z",
+  "updated_at": "2026-03-12T11:25:53Z",
   "articles": [
+    {
+      "title": "« Le risque de voir revenir la stagflation est faible, mais c’est sans compter Donald Trump »",
+      "url": "https://www.lemonde.fr/idees/article/2026/03/12/le-risque-de-voir-revenir-la-stagflation-est-faible-mais-c-est-sans-compter-donald-trump_6670729_3232.html",
+      "summary": "La remontée du prix du pétrole fait renaître le concept, fantôme des années 1970, associant croissance molle et inflation. Les conditions économiques entre les deux époques sont pourtant très différentes, analyse Pascal Riché, dans sa chronique."
+    },
     {
       "title": "Les Etats-Unis lancent des enquêtes commerciales sur les préjudices économiques et le travail forcé, de nouveaux droits de douane en vue",
       "url": "https://www.lemonde.fr/international/article/2026/03/12/les-etats-unis-lancent-des-enquetes-commerciales-sur-les-prejudices-economiques-et-le-travail-force-de-nouveaux-droits-de-douane-en-vue_6670575_3210.html",
@@ -10,16 +15,6 @@
       "title": "Pourquoi Zara est l’une des rares enseignes qui résiste à la concurrence de Shein",
       "url": "https://www.lemonde.fr/economie/article/2026/03/11/pourquoi-zara-est-l-une-des-rares-enseignes-qui-resiste-a-la-concurrence-de-shein_6670555_3234.html",
       "summary": "Inditex, numéro un mondial de l’habillement et maison mère de Zara, affiche une croissance de ses ventes et de ses bénéfices pour 2025. Ses recettes : investissement dans la vente en ligne et innovation commerciale, comme le déploiement de son enseigne à petits prix, Lefties, en Europe."
-    },
-    {
-      "title": "L’administration Trump n’est pas parvenue à réduire l’inflation en février… et c’était avant la guerre contre l’Iran",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/11/l-administration-trump-n-est-pas-parvenue-a-reduire-l-inflation-en-fevrier-et-c-etait-avant-la-guerre-contre-l-iran_6670517_3234.html",
-      "summary": "Les prix à la consommation ont augmenté de 0,3 % d’un mois sur l’autre en février, établissant l’inflation à 2,4 % sur un an, selon les données publiées mercredi. La promesse de Donald Trump de faire baisser le coût de la vie pour les Américains reste hors d’atteinte."
-    },
-    {
-      "title": "Comment ChatGPT a été utilisé par les troupes d’Elon Musk pour récuser 1 477 projets soupçonnés de valoriser la diversité",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/11/comment-chatgpt-a-ete-utilise-par-les-troupes-d-elon-musk-pour-recuser-1-477-projets-soupconnes-de-valoriser-la-diversite_6670512_3234.html",
-      "summary": "Deux employés du DOGE, entité créée pour couper dans les dépenses fédérales des Etats-Unis, avaient utilisé l’IA pour supprimer des financements fédéraux à des programmes de sciences humaines, a révélé le « New York Times ». Une plainte a été déposée pour discrimination et atteinte à la liberté d’expression."
     },
     {
       "title": "L'intégrale des Experts du jeudi 12 mars",
@@ -52,19 +47,9 @@
       "summary": "Ce jeudi 12 mars, l'impact sur les marchés de la décision de l'Agence internationale de l'énergie (AIE) de libérer 400 millions de barils de stocks stratégiques pétroliers ainsi que la stratégie de gestion de l’État face à la hausse des prix à la pompe ont notamment été abordés par Charlotte de Montpellier, économiste senior chez ING, Patrice Geoffron, professeur à Paris-Dauphine et membre du Cercle des Économistes, et Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon-Sorbonne et à l'ULB, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/F3oijlSyxBYimsIBe34Rp0wzEKY=/0x0:1280x720/800x0/images/Les-Experts-Le-baril-de-petrole-remonte-a-100-dollars-12-03-2251230.jpg\" />"
     },
     {
-      "title": "Des centaines de vols annulés, des billets qui flambent... Les compagnies aériennes de l'Asie-Pacifique subissent de plein fouet la flambée du pétrole et le blocage du détroit d'Ormuz",
-      "url": "https://www.bfmtv.com/economie/entreprises/transports/des-centaines-de-vols-annules-des-billets-qui-flambent-les-compagnies-aeriennes-de-l-asie-pacifique-subissent-de-plein-fouet-la-flambee-du-petrole-et-le-blocage-du-detroit-d-ormuz_AD-202603120317.html",
-      "summary": "Le carburant est le deuxième poste de dépenses des compagnies aériennes après les salaires.<br /><br /><img src=\"https://images.bfmtv.com/ewjvtr3ZzxokXW6MTTI7m-66OZQ=/0x106:2048x1258/800x0/images/Ravitaillement-en-kerosene-d-un-avion-a-l-aeroport-de-Roissy-1603885.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Good Morning Business du jeudi 12 mars",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-integrale-de-good-morning-business-du-jeudi-12-mars_EN-202603120298.html",
-      "summary": "Ce jeudi 12 mars, Daniel Damien, fondateur de Seebee community, Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Jean-Charles Decaux, co-directeur général de JCDecaux, Roxane Laigle, cofondatrice et directrice générale de Lemrock, Paul du Pontavice, co-président de la délégation française aux Jeux olympiques de l'économie, et Bertille Bayart, rédactrice en chef au Figaro, étaient les invités dans l'émission Good Morning Business sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "Good Morning Business - Jeudi 12 mars",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-good-morning-business-jeudi-12-mars_VN-202603120319.html",
-      "summary": "Ce jeudi 12 mars, Daniel Damien, fondateur de Seebee community, Roland Gillet, professeur d'économie financière à l'Université Paris 1 Panthéon Sorbonne, Jean-Charles Decaux, co-directeur général de JCDecaux, Roxane Laigle, cofondatrice et directrice générale de Lemrock, Paul du Pontavice, co-président de la délégation française aux Jeux olympiques de l'économie, et Bertille Bayart, rédactrice en chef au Figaro, étaient les invités dans l'émission Good Morning Business présentée par Laure Closier. Good Morning Business est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/G3s8m6phx2Utt_GT0eRT3AACCZs=/0x0:1280x720/800x0/images/Good-Morning-Business-Jeudi-12-mars-2251188.jpg\" />"
+      "title": "Détroit d'Ormuz bloqué, production de pétrole limitée... La guerre au Moyen-Orient provoque \"la plus importante perturbation\" de l'histoire sur le marché de l'or noir",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-guerre-au-moyen-orient-est-responsable-de-la-plus-importante-perturbation-de-l-approvisionnement-mondial-en-petrole-de-l-histoire_7862879.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans un rapport, l'Agence internationale de l'énergie s'alarme des conséquences du conflit entre les Etats-Unis, Israël et l'Iran sur l'économie mondiale."
     },
     {
       "title": "La guerre au Moyen-Orient va-t-elle bouleverser la stratégie immobilière des pays du Golfe ?",
@@ -75,6 +60,11 @@
       "title": "Quels produits alimentaires pourraient bientôt coûter plus cher à cause de la crise du pétrole ?",
       "url": "https://www.franceinfo.fr/economie/pouvoir-achat/quels-produits-alimentaires-pourraient-bientot-couter-plus-cher-a-cause-de-la-crise-du-petrole_7861325.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les prix du pétrole et du gaz ne sont pas les seuls à s'envoler depuis le début de la guerre au Moyen-Orient. Selon le gouverneur de la Banque de France, il faudrait s'attendre à un peu plus d'inflation, et un peu moins de croissance. Quelles conséquences sur le pouvoir d'achat et sur la facture des produits alimentaires ?"
+    },
+    {
+      "title": "L’info du jour | 12 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/12/linfo-du-jour-12-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "1,7% du PIB à la défense : Prague baisse son budget et n'atteint pas l'objectif de l'OTAN",
@@ -120,16 +110,6 @@
       "title": "L’info du jour | 10 mars 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/03/10/linfo-du-jour-10-mars-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 10 mars 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/03/10/linfo-du-jour-10-mars-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Les géants pétroliers russes ont gagné en valeur plus de 21 milliards d'euros depuis le début de la guerre au Moyen-Orient",
-      "url": "http://fr.euronews.com/2026/03/10/les-geants-petroliers-russes-ont-gagne-en-valeur-plus-de-21-milliards-deuros-depuis-le-deb",
-      "summary": "Les titres de Rosneft ont le plus grimpé, la valeur boursière de la société ayant augmenté de plus de 11 milliards d'euros depuis le 27 février. Ceci pourrait avoir un impact positif sur le budget russe et donc sur l'effort de guerre, mais, selon les experts, pas de manière significative."
     },
     {
       "title": "La ville du bien-être ou comment concrétiser la post-croissance",
