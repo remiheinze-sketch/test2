@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-03-13T13:53:05Z",
+  "updated_at": "2026-03-13T14:35:47Z",
   "articles": [
+    {
+      "title": "La guerre au Moyen-Orient fragilise les pays d’Asie fortement dépendants du travail de leur diaspora dans le Golfe",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/13/la-guerre-au-moyen-orient-fragilise-les-pays-d-asie-fortement-dependants-du-travail-de-leur-diaspora-dans-le-golfe_6671044_3234.html",
+      "summary": "Des millions de travailleurs venus d’Inde, du Népal, du Bangladesh ou des Philippines se sont établis au Moyen-Orient. Leurs transferts d’argent jouent un rôle majeur dans les économies de leurs pays d’origine."
+    },
     {
       "title": "La RATP affiche ses premiers bénéfices en quatre ans, une croissance portée par les filiales",
       "url": "https://www.lemonde.fr/economie/article/2026/03/13/la-ratp-affiche-ses-premiers-benefices-en-quatre-ans-une-croissance-portee-par-les-filiales_6671019_3234.html",
-      "summary": "La régie parisienne de transports a dégagé un profit net de 217 millions d’euros en 2025, essentiellement grâce à la renégociation de son contrat avec la région Ile-de-France."
+      "summary": "La régie parisienne de transports a dégagé un profit net de 217 millions d’euros en 2025, essentiellement grâce à la renégociation de son contrat avec Ile-de-France Mobilités."
     },
     {
       "title": "Ces mesures prises par les pays européens contre l’envolée des prix à la pompe",
@@ -55,6 +60,11 @@
       "title": "Finances publiques : les maires, modèles à suivre ?",
       "url": "https://www.bfmtv.com/economie/video-finances-publiques-les-maires-modeles-a-suivre_VN-202603130451.html",
       "summary": "Alors que la France renouvelle ses 35.000 maires, un rapport parlementaire montre qu'ils cochent toutes les cases de la bonne gestion financière.<br /><br /><img src=\"https://images.bfmtv.com/O94NFy2nClYo5roXhUivthGlGh0=/0x0:1280x720/800x0/images/Finances-publiques-les-maires-modeles-a-suivre-2252005.jpg\" />"
+    },
+    {
+      "title": "Le prix des carburants a-t-il réellement baissé ce vendredi, comme l'ont promis certains distributeurs ?",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/le-prix-des-carburants-a-t-il-reellement-baisse-ce-vendredi-comme-l-ont-promis-certains-distributeurs_7865651.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "En France, la hausse des prix des carburants pèse dans le budget au quotidien. Vendredi 13 mars, plusieurs distributeurs, comme l'enseigne Leclerc, ont annoncé des baisse jusqu'à 30 centimes sur le prix au litre. Promesse tenue ?"
     },
     {
       "title": "Prix des carburants : la Fédération nationale des infirmiers demande \"une mesure pérenne\" et des aides spécifiques pour la profession",
