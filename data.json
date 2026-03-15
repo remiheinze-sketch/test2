@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-15T17:19:01Z",
+  "updated_at": "2026-03-15T18:24:37Z",
   "articles": [
+    {
+      "title": "Guerre en Iran : les taux d’intérêt de la France au plus haut depuis 2011",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/15/guerre-en-iran-les-taux-d-interet-de-la-france-au-plus-haut-depuis-2011_6671315_3234.html",
+      "summary": "Avec l’envolée des cours du pétrole, les marchés financiers anticipent un regain d’inflation, ce qui pousse les taux d’intérêt à la hausse. La France, comme l’Allemagne, se finance à son plus cher niveau depuis quinze ans."
+    },
     {
       "title": "Immobilier : comment Florence et Alexandre sont devenus propriétaires à Tourbes pour un budget de 200 000 euros",
       "url": "https://www.lemonde.fr/argent/article/2026/03/15/immobilier-comment-florence-et-alexandre-sont-devenus-proprietaires-a-tourbes-pour-un-budget-de-200-000-euros_6671272_1657007.html",
@@ -94,11 +99,6 @@
     {
       "title": "L’info du jour | 12 mars 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/03/12/linfo-du-jour-12-mars-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 12 mars 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/03/12/linfo-du-jour-12-mars-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
