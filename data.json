@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-03-17T17:52:36Z",
+  "updated_at": "2026-03-17T18:47:45Z",
   "articles": [
+    {
+      "title": "Grande Interview - Jean-Hervé Lorenzi (Cercle des économistes) : Quel choc pour l'économie mondiale ? - 17/03",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-grande-interview-jean-herve-lorenzi-cercle-des-economistes-quel-choc-pour-l-economie-mondiale-17-03_VN-202603170836.html",
+      "summary": "Retrouvez Le 18/19 d'Hedwige Chevrillon en replay et en podcast.<br /><br /><img src=\"https://images.bfmtv.com/pqcSwEGRtOa44kx0D_JhyO7FjP8=/0x0:1280x720/800x0/images/Grande-Interview-Jean-Herve-Lorenzi-Cercle-des-economistes-Quel-choc-pour-l-economie-mondiale-17-03-2254450.jpg\" />"
+    },
+    {
+      "title": "\"Je sais que c'est un gros mot mais je le dis en anglais\": le ministre de l'Economie veut des fonds de pensions de retraites en France (pour ne plus dépendre des capitaux américains)",
+      "url": "https://www.bfmtv.com/economie/je-sais-que-c-est-un-gros-mot-mais-je-le-dis-en-anglais-le-ministre-de-l-economie-veut-des-fonds-de-pensions-de-retraites-en-france-pour-ne-plus-dependre-des-capitaux-americains_AD-202603170833.html",
+      "summary": "Le ministre de l’Économie Roland Lescure défend la création de fonds de pension en France pour renforcer les investissements de long terme et l’autonomie économique, malgré les réticences liées au modèle de retraite par répartition.<br /><br /><img src=\"https://images.bfmtv.com/QSt5eF2ia6ioSVWi80Q0qfQW9ac=/0x40:768x472/800x0/images/Le-ministre-francais-des-Finances-Roland-Lescure-s-adresse-aux-medias-a-l-issue-d-un-sommet-des-ministres-des-Finances-du-G7-par-videoconference-a-Bruxelles-le-9-mars-2026-2249819.jpg\" />"
+    },
     {
       "title": "\"On commence à arriver à l'os\": les syndicats de l'administration fiscale alertent contre la vague de suicides, après la suppression de \"plus de 30.000\" postes depuis 2008",
       "url": "https://www.bfmtv.com/economie/emploi/on-commence-a-arriver-a-l-os-les-syndicats-de-l-administration-fiscale-alertent-contre-la-vague-de-suicides-apres-la-suppression-de-plus-de-30-000-postes-depuis-2008_AD-202603170724.html",
       "summary": "Des syndicats des finances publiques ont alerté ce mardi 17 mars sur le suicide de 20 agents de cette administration et 30 tentatives de suicide depuis début 2025, estimant \"insuffisant\" le plan de prévention mis en place.<br /><br /><img src=\"https://images.bfmtv.com/X0K7LhBuEu36gRgqBK0s2gP_L2U=/0x40:768x472/800x0/images/La-commission-des-comptes-de-la-Securite-sociale-se-reunit-a-Bercy-pour-reflechir-aux-leviers-d-un-retour-a-l-equilibre-financier-2091379.jpg\" />"
-    },
-    {
-      "title": "\"On a un déficit de candidatures alors que les besoins sont énormes\", dit le président de la Fédération de l'aide et du soin à domicile",
-      "url": "https://www.franceinfo.fr/economie/emploi/metiers/services-a-la-personne-et-aide-a-l-enfance/on-a-un-deficit-de-candidatures-alors-que-les-besoins-sont-enormes-dit-le-president-de-la-federation-de-l-aide-et-du-soin-a-domicile_7874372.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Manque d'attractivité auprès des jeunes, manque de financements... Le secteur de l'aide et du soin à domicile, qui célèbre sa journée nationale mardi, peine à recruter."
     },
     {
       "title": "« L'Iran ne doit pas prendre l'économie mondiale en otage », dit une ministre des EAU",
@@ -40,16 +45,6 @@
       "title": "L’info du jour | 15 mars 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/03/15/linfo-du-jour-15-mars-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "\"L'Iran ne doit pas être autorisé à prendre l'économie mondiale en otage\", dit la cheffe de la diplomatie émiratie",
-      "url": "http://fr.euronews.com/2026/03/14/liran-ne-doit-pas-etre-autorise-a-prendre-leconomie-mondiale-en-otage-dit-la-cheffe-de-la-",
-      "summary": "Dans une interview accordée à Euronews, Lana Nusseibeh, ministre des Affaires étrangères des Émirats arabes unis, a appelé le monde à ne pas laisser le \"comportement d'État-voyou\" de l'Iran prendre en otage l'économie mondiale."
-    },
-    {
-      "title": "L’info du jour | 14 mars 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/03/14/linfo-du-jour-14-mars-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Moins de dépenses publiques, c’est moins de consommation",
