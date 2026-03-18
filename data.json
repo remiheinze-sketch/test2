@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-18T12:45:00Z",
+  "updated_at": "2026-03-18T14:15:38Z",
   "articles": [
     {
-      "title": "Le marché français de la musique toujours loin de son record de 2002, malgré une décennie de croissance",
+      "title": "Le marché de la musique en France toujours loin de son record de 2002, malgré une décennie de croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/03/18/le-marche-francais-de-la-musique-toujours-loin-de-son-record-de-2002-malgre-une-decennie-de-croissance_6672062_3234.html",
       "summary": "En 2025, le secteur a augmenté de 3,6 %, un rythme inférieur à la moyenne mondiale. Plus chers, les abonnements au streaming ont moins progressé qu’en 2024."
     },
@@ -32,6 +32,11 @@
       "summary": "Les cartes Pokémon, dont les prix ont grimpé en flèche au cours des dernières années, sont dans le viseur du Fisc. Les reventes seront désormais taxées à hauteur de plus de 36%."
     },
     {
+      "title": "Face à la guerre en Iran, la Chine ménage ses intérêts énergétiques et sa neutralité",
+      "url": "http://fr.euronews.com/2026/03/18/face-a-la-guerre-en-iran-la-chine-menage-ses-interets-energetiques-et-sa-neutralite",
+      "summary": "La guerre en Iran perturbe les flux énergétiques mondiaux et accroît le risque d'escalade régionale, laissant des économies majeures comme la Chine sur la corde raide."
+    },
+    {
       "title": "Starmer dit à Zelensky que « l'attention doit rester concentrée sur l'Ukraine » en pleine guerre contre l'Iran",
       "url": "http://fr.euronews.com/2026/03/17/starmer-dit-a-zelensky-que-lattention-doit-rester-concentree-sur-lukraine-en-pleine-guerre",
       "summary": "La visite de Zelensky à Londres intervient alors que la guerre au Moyen-Orient a relancé, grâce à l'augmentation des recettes pétrolières, l'économie russe en difficulté et a fait échouer les négociations menées sous l'égide des États-Unis pour mettre fin à l'invasion de l'Ukraine par la Russie."
@@ -47,7 +52,7 @@
       "summary": "Les pays du Golfe sont en état d'alerte alors que Téhéran étend ses cibles aux infrastructures civiles et aux principaux centres commerciaux. Alors qu'Israël affirme avoir considérablement réduit les capacités des missiles iraniens, le coût humain continue de s'alourdir sur de multiples fronts."
     },
     {
-      "title": "Non, l’Etat-providence n’explique pas la dette publique française",
+      "title": "Nicolas Dufourcq a tort : l’Etat-providence n’explique pas la dette publique française",
       "url": "https://www.alternatives-economiques.fr/non-letat-providence-nexplique-pas-la-dette-publique-francaise/00117968",
       "summary": "<p>Contrairement aux affirmations de Nicolas Dufourcq, directeur de la BPI, les dépenses sociales ne pèsent pas pour 60 % de l’endettement de la France : il faut à la fois refaire les calculs et en finir avec ce faux débat.</p>"
     },
