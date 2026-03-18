@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-18T21:25:56Z",
+  "updated_at": "2026-03-18T22:23:31Z",
   "articles": [
+    {
+      "title": "La Réserve fédérale s’inquiète des conséquences potentielles de la crise énergétique sur l’inflation",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/18/la-reserve-federale-s-inquiete-des-consequences-potentielles-de-la-crise-energetique-sur-l-inflation_6672139_3234.html",
+      "summary": "Mercredi 18 mars, la Fed a maintenu ses taux directeurs inchangés. Son président Jerome Powell, très critiqué par Donald Trump, a indiqué qu’il resterait en poste jusqu’à la fin de son mandat, le 15 mai."
+    },
     {
       "title": "Le marché de la musique en France toujours loin de son record de 2002, malgré une décennie de croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/03/18/le-marche-francais-de-la-musique-toujours-loin-de-son-record-de-2002-malgre-une-decennie-de-croissance_6672062_3234.html",
@@ -30,16 +35,6 @@
       "title": "La construction du nouveau porte-avions français s'apprête à bouleverser l'économie de Saint-Nazaire",
       "url": "https://www.franceinfo.fr/economie/emploi/nouveau-porte-avions-francais-des-milliers-d-emplois-crees-a-saint-nazaire_7877321.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le chantier du nouveau porte-avions nucléaire français va profiter à la ville de Saint-Nazaire (Loire-Atlantique). Près de 15 000 emplois pourraient y être créés. Sur place, tout le monde s'y prépare."
-    },
-    {
-      "title": "La Cour des comptes épingle les aides publiques aux énergies renouvelables",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-cour-des-comptes-epingle-les-aides-publiques-aux-energies-renouvelables_7844099.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les aides publiques aux énergies renouvelables coûtent trop cher à l’État. C'est le constat dressé par la Cour des comptes dans son dernier rapport. L'institution appelle, chiffres à l'appui, à un meilleur contrôle des dépenses."
-    },
-    {
-      "title": "Impôts : les cartes Pokémon dans le viseur du fisc",
-      "url": "https://www.franceinfo.fr/economie/impots/impots-les-cartes-pokemon-dans-le-viseur-du-fisc_7876103.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les cartes Pokémon, dont les prix ont grimpé en flèche au cours des dernières années, sont dans le viseur du Fisc. Les reventes seront désormais taxées à hauteur de plus de 36%."
     },
     {
       "title": "Face à la guerre en Iran, la Chine ménage ses intérêts énergétiques et sa neutralité",
