@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-19T17:46:57Z",
+  "updated_at": "2026-03-19T18:42:12Z",
   "articles": [
+    {
+      "title": "Pour la BCE, le « choc » du conflit au Moyen-Orient entraînera un bond de l’inflation et un creux de la croissance",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/19/pour-la-banque-centrale-europeenne-le-choc-du-conflit-au-moyen-orient-entrainera-un-bond-de-l-inflation-et-un-creux-de-la-croissance_6672463_3234.html",
+      "summary": "Les prix à la consommation devraient augmenter de 2,6 % cette année en zone euro, contre 1,9 % initialement prévu. Conséquence : la BCE n’a pas touché à ses taux d’intérêt et pourrait même les relever vers la fin de l’année."
+    },
     {
       "title": "Malgré les droits de douane, le commerce mondial a progressé de 4,6 % en 2025",
       "url": "https://www.lemonde.fr/economie/article/2026/03/19/malgre-les-droits-de-douane-le-commerce-mondial-a-progresse-de-4-6-en-2025_6672423_3234.html",
@@ -10,6 +15,11 @@
       "title": "Aux Etats-Unis, la Fed s’inquiète des conséquences de la crise énergétique sur l’inflation",
       "url": "https://www.lemonde.fr/economie/article/2026/03/18/la-reserve-federale-s-inquiete-des-consequences-potentielles-de-la-crise-energetique-sur-l-inflation_6672139_3234.html",
       "summary": "Mercredi, la Réserve fédérale a maintenu ses taux directeurs inchangés. Son président, Jerome Powell, très critiqué par Donald Trump, a indiqué qu’il resterait en poste jusqu’à la fin de son mandat, le 15 mai."
+    },
+    {
+      "title": "La chronique internationale – 19/03",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/la-chronique-internationale-19-03_EN-202603190849.html",
+      "summary": "Jeudi 19 mars, La chronique internationale de Mathieu Jolivet fait un gros plan sur le choc sur l'économie chinoise à cause de la flambée du pétrole. <br /><br /><img src=\"https://images.bfmtv.com/PiLrRX5FvXxHhYvJu0GdI7AJ6so=/0x0:14000x14000/800x0/podcast/podcasts/principale-469_2.png\" />"
     },
     {
       "title": "Ils ont engendré le versement de près de 11 milliards d'euros d'indemnités journalières en 2024: le gouvernement réfléchit à de nouvelles économies sur les arrêts maladie",
@@ -25,11 +35,6 @@
       "title": "Le Club : \"Les perspectives de marché face à la guerre\" - 19/03",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-les-perspectives-de-marche-face-a-la-guerre-19-03_VN-202603190723.html",
       "summary": "Ce jeudi 19 mars, Alexandre Baradez, chef analyste chez IG, et Patrick Barbe, responsable de l'investissement obligataire Investment grade en Europe chez Neuberger Berman, se sont penchés sur la volatilité des marchés qui retombent dans le rouge avec la flambée des cours du pétrole et du gaz, les perspectives de marché face à la guerre, et la BCE qui relève ses prévisions d'inflation, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/pNi65bQXRDaKyscfvzu6uDrRm9g=/0x0:1280x720/800x0/images/Le-Club-Les-perspectives-de-marche-face-a-la-guerre-19-03-2255888.jpg\" />"
-    },
-    {
-      "title": "\"Les prévisions de la BCE montrent une inflation sous-jacente au-dessus de 2% en 2026\"",
-      "url": "https://www.bfmtv.com/economie/video-les-previsions-de-la-bce-montrent-une-inflation-sous-jacente-au-dessus-de-2-en-2026_VN-202603190670.html",
-      "summary": "Selon Gilles Moëc, chef économiste du groupe AXA, \"la BCE a fait preuve de transparence en actualisant ses prévisions. Mais celles-ci montrent une inflation sous-jacente au-dessus de 2% en 2026, malgré des anticipations de hausse de taux, ce qui suggère des effets de diffusion.\"<br /><br /><img src=\"https://images.bfmtv.com/-bbnisgLZx-kaMZCKY7JGphKgvA=/0x0:1280x720/800x0/images/Les-previsions-de-la-BCE-montrent-une-inflation-sous-jacente-au-dessus-de-2-en-2026-2255830.jpg\" />"
     },
     {
       "title": "Budget de l'université de Tours : \"Ça devient infernal, on n'a plus aucune réserve\", alerte son président",
@@ -85,11 +90,6 @@
       "title": "Nicolas Dufourcq a tort : l’Etat-providence n’explique pas la dette publique française",
       "url": "https://www.alternatives-economiques.fr/non-letat-providence-nexplique-pas-la-dette-publique-francaise/00117968",
       "summary": "<p>Contrairement aux affirmations de Nicolas Dufourcq, directeur de la BPI, les dépenses sociales ne pèsent pas pour 60 % de l’endettement de la France : il faut à la fois refaire les calculs et en finir avec ce faux débat.</p>"
-    },
-    {
-      "title": "Moins de dépenses publiques, c’est moins de consommation",
-      "url": "https://www.alternatives-economiques.fr/moins-de-depenses-publiques-cest-moins-de-consommation/00117891",
-      "summary": "<p>Le montant de la dépense publique est un indicateur trop biaisé pour mesurer l’ampleur de l’intervention publique, assure l’économiste Christophe Ramaux. Il invite à en élaborer d’autres basés sur les trois modes de calcul du PIB.</p>"
     }
   ]
 }
