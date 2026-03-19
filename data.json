@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T06:44:51Z",
+  "updated_at": "2026-03-19T07:39:43Z",
   "articles": [
     {
       "title": "Aux Etats-Unis, la Fed s’inquiète des conséquences de la crise énergétique sur l’inflation",
@@ -10,6 +10,16 @@
       "title": "Le marché de la musique en France toujours loin de son record de 2002, malgré une décennie de croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/03/18/le-marche-francais-de-la-musique-toujours-loin-de-son-record-de-2002-malgre-une-decennie-de-croissance_6672062_3234.html",
       "summary": "En 2025, le secteur a augmenté de 3,6 %, un rythme inférieur à la moyenne mondiale. Plus chers, les abonnements au streaming ont moins progressé qu’en 2024."
+    },
+    {
+      "title": "Essence à 2 euros : Intermarché critique les taxes",
+      "url": "https://www.bfmtv.com/economie/video-essence-a-2-euros-intermarche-critique-les-taxes_VN-202603190199.html",
+      "summary": "Invité de Focus Retail sur BFM Business, Thierry Cotillard, patron du groupement des Mousquetaires/Intermarché, rappelle que sur un carburant à 2 euros le litre, la moitié correspond aux taxes de l'État. Il interpelle le gouvernement sur sa volonté (ou non) de \"donner un coup de main aux Français\".<br /><br /><img src=\"https://images.bfmtv.com/cPg28LtWcpQqbYZiefgWKoOf_7M=/0x0:1280x720/800x0/images/Essence-a-2-euros-Intermarche-critique-les-taxes-2255423.jpg\" />"
+    },
+    {
+      "title": "La guerre provoque un risque d'inflation",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-guerre-provoque-un-risque-d-inflation_VN-202603190181.html",
+      "summary": "\"D'un point de vue budgétaire, la meilleure chose c'est d'adopter des mesures très ciblées sur les secteurs qui en ont le plus besoin et les ménages les plus vulnérables.\"<br /><br /><img src=\"https://images.bfmtv.com/b9ftKgJBYGkOVitOvRpVz0F4uFY=/0x0:1280x720/800x0/images/La-guerre-provoque-un-risque-d-inflation-2255407.jpg\" />"
     },
     {
       "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Inflation, est-ce que la vague arrive ? - 19/03",
@@ -32,14 +42,19 @@
       "summary": "L'Italie a annoncé une baisse des prix du carburant de 25 centimes par litre. Le Japon va mettre en place des subventions pour réduire le prix à la pompe. De même, le Portugal, la Serbie et l'Espagne vont réduire les taxes pour faire baisser la facture. <br /><br /><img src=\"https://images.bfmtv.com/CFcJF1M8ldYS8_jrLapFc-hNBLI=/0x106:2048x1258/800x0/images/x-2249229.jpg\" />"
     },
     {
-      "title": "Les nouvelles frappes iraniennes au Qatar font rebondir le pétrole: +11,4% pour le Brent en 24 heures et le retour de la crainte d'une inflation globale",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/les-nouvelles-frappes-iraniennes-au-qatar-font-rebondir-le-petrole-11-4-pour-le-brent-en-24-heures-et-le-retour-de-la-crainte-d-une-inflation-globale_AD-202603190091.html",
-      "summary": "Les frappes iraniennes sur des infrastructures énergétiques au Qatar ont fait repartir à la hausse les cours du pétrole. Le baril de Brent, référence mondiale, a repris plus de 11% sur les 24 dernières heures.<br /><br /><img src=\"https://images.bfmtv.com/Q44isAK_6xqcDT9a7A38BbxVXgo=/0x106:2048x1258/800x0/images/De-la-fumee-au-dessus-d-un-immeuble-de-Teheran-en-Iran-apres-des-frappes-americano-israelienne-2248452.jpg\" />"
-    },
-    {
       "title": "La construction du nouveau porte-avions français s'apprête à bouleverser l'économie de Saint-Nazaire",
       "url": "https://www.franceinfo.fr/economie/emploi/nouveau-porte-avions-francais-des-milliers-d-emplois-crees-a-saint-nazaire_7877321.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le chantier du nouveau porte-avions nucléaire français va profiter à la ville de Saint-Nazaire (Loire-Atlantique). Près de 15 000 emplois pourraient y être créés. Sur place, tout le monde s'y prépare."
+    },
+    {
+      "title": "L’info du jour | 19 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/19/linfo-du-jour-19-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/18/linfo-du-jour-18-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Face à la guerre en Iran, la Chine ménage ses intérêts énergétiques et sa neutralité",
@@ -47,19 +62,34 @@
       "summary": "La guerre en Iran perturbe les flux énergétiques mondiaux et accroît le risque d'escalade régionale, laissant des économies majeures comme la Chine sur la corde raide."
     },
     {
+      "title": "L’info du jour | 18 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/18/linfo-du-jour-18-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/18/linfo-du-jour-18-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
       "title": "Starmer dit à Zelensky que « l'attention doit rester concentrée sur l'Ukraine » en pleine guerre contre l'Iran",
       "url": "http://fr.euronews.com/2026/03/17/starmer-dit-a-zelensky-que-lattention-doit-rester-concentree-sur-lukraine-en-pleine-guerre",
       "summary": "La visite de Zelensky à Londres intervient alors que la guerre au Moyen-Orient a relancé, grâce à l'augmentation des recettes pétrolières, l'économie russe en difficulté et a fait échouer les négociations menées sous l'égide des États-Unis pour mettre fin à l'invasion de l'Ukraine par la Russie."
     },
     {
-      "title": "L’Iran ne doit pas prendre l’économie mondiale en otage, affirme une ministre des EAU à Euronews",
-      "url": "http://fr.euronews.com/2026/03/16/liran-ne-doit-pas-prendre-leconomie-mondiale-en-otage-affirme-une-ministre-des-eau-a-euron",
-      "summary": "Émirats: la ministre Lana Nusseibeh avertit l’UE que la stabilité régionale conditionne ses intérêts économiques et sécuritaires"
+      "title": "L’info du jour | 17 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/17/linfo-du-jour-17-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L'Iran intensifie ses attaques de drones et de missiles contre les pays du Golfe pour faire pression sur les économies mondiales",
-      "url": "http://fr.euronews.com/2026/03/16/liran-intensifie-ses-attaques-de-drones-et-de-missiles-contre-les-pays-du-golfe-pour-faire",
-      "summary": "Les pays du Golfe sont en état d'alerte alors que Téhéran étend ses cibles aux infrastructures civiles et aux principaux centres commerciaux. Alors qu'Israël affirme avoir considérablement réduit les capacités des missiles iraniens, le coût humain continue de s'alourdir sur de multiples fronts."
+      "title": "L’info du jour | 17 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/17/linfo-du-jour-17-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 17 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/17/linfo-du-jour-17-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Nicolas Dufourcq a tort : l’Etat-providence n’explique pas la dette publique française",
