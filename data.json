@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-03-19T12:38:56Z",
+  "updated_at": "2026-03-19T14:02:12Z",
   "articles": [
+    {
+      "title": "Malgré les droits de douane, le commerce mondial a progressé de 4,6 % en 2025",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/19/malgre-les-droits-de-douane-le-commerce-mondial-a-progresse-de-4-6-en-2025_6672423_3234.html",
+      "summary": "Les échanges de marchandises devraient progresser de 1,9 % en 2026, selon les chiffres de l’Organisation mondiale du commerce publiés jeudi. Une prévision incertaine en raison de la guerre au Moyen-Orient, qui pourrait amputer la croissance du commerce de 0,5 point de pourcentage."
+    },
     {
       "title": "Aux Etats-Unis, la Fed s’inquiète des conséquences de la crise énergétique sur l’inflation",
       "url": "https://www.lemonde.fr/economie/article/2026/03/18/la-reserve-federale-s-inquiete-des-consequences-potentielles-de-la-crise-energetique-sur-l-inflation_6672139_3234.html",
       "summary": "Mercredi, la Réserve fédérale a maintenu ses taux directeurs inchangés. Son président, Jerome Powell, très critiqué par Donald Trump, a indiqué qu’il resterait en poste jusqu’à la fin de son mandat, le 15 mai."
     },
     {
-      "title": "Le marché de la musique en France toujours loin de son record de 2002, malgré une décennie de croissance",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/18/le-marche-francais-de-la-musique-toujours-loin-de-son-record-de-2002-malgre-une-decennie-de-croissance_6672062_3234.html",
-      "summary": "En 2025, le secteur a augmenté de 3,6 %, un rythme inférieur à la moyenne mondiale. Plus chers, les abonnements au streaming ont moins progressé qu’en 2024."
+      "title": "Elle attend d'y voir plus clair: la Banque centrale européenne laisse ses taux directeurs inchangés, malgré la flambée des cours de l'énergie",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/elle-attend-d-y-voir-plus-clair-la-banque-centrale-europeenne-laisse-ses-taux-directeurs-inchanges-malgre-la-flambee-des-cours-de-l-energie_AV-202603190576.html",
+      "summary": "La BCE a choisi de maintenir son taux de référence à 2%, en dépit des craintes d'une remontée de l'inflation en raison de la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/Y82MdgDg2cayvE6lqAGtserOgOQ=/0x0:2048x1152/800x0/images/Christine-Lagarde-2255736.jpg\" />"
     },
     {
       "title": "INFOGRAPHIES. Le déficit de la Sécu a atteint 21,6 milliards d'euros en 2025 contre 15,3 un an plus tôt (mais il était attendu à 23 milliards d'euros)",
@@ -58,7 +63,7 @@
     },
     {
       "title": "Face à la guerre en Iran, la Chine ménage ses intérêts énergétiques et sa neutralité",
-      "url": "http://fr.euronews.com/2026/03/18/face-a-la-guerre-en-iran-la-chine-menage-ses-interets-energetiques-et-sa-neutralite",
+      "url": "http://fr.euronews.com/business/2026/03/18/face-a-la-guerre-en-iran-la-chine-menage-ses-interets-energetiques-et-sa-neutralite",
       "summary": "La guerre en Iran perturbe les flux énergétiques mondiaux et accroît le risque d'escalade régionale, laissant des économies majeures comme la Chine sur la corde raide."
     },
     {
@@ -95,11 +100,6 @@
       "title": "Moins de dépenses publiques, c’est moins de consommation",
       "url": "https://www.alternatives-economiques.fr/moins-de-depenses-publiques-cest-moins-de-consommation/00117891",
       "summary": "<p>Le montant de la dépense publique est un indicateur trop biaisé pour mesurer l’ampleur de l’intervention publique, assure l’économiste Christophe Ramaux. Il invite à en élaborer d’autres basés sur les trois modes de calcul du PIB.</p>"
-    },
-    {
-      "title": "Vers une remise en cause du régime de la garantie des salaires ?",
-      "url": "https://www.alternatives-economiques.fr/vers-une-remise-en-cause-du-regime-de-la-garantie-des-salaires/00118082",
-      "summary": "<p>La Cour des comptes appelle à faire des économies sur le système garantissant les salaires en cas de défaillances des entreprises. En prenant le risque d’une dégradation des droits des salariés.</p>"
     }
   ]
 }
