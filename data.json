@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-19T23:20:49Z",
+  "updated_at": "2026-03-20T01:12:23Z",
   "articles": [
+    {
+      "title": "Sécurité sociale : le déficit un peu moins important que prévu en 2025, grâce notamment « à des dépenses légèrement inférieures à celles prévues »",
+      "url": "https://www.lemonde.fr/politique/article/2026/03/20/securite-sociale-le-deficit-un-peu-moins-important-que-prevu-en-2025-grace-notamment-a-des-depenses-legerement-inferieures-a-celles-prevues_6672545_823448.html",
+      "summary": "Le déficit de la Sécurité sociale a atteint 21,6 milliards d’euros, soit moins que les 22,1 milliards anticipés dans le budget de la Sécu 2025, et les 23 milliards prévus dans le cadre du budget 2026. Les dépenses d’assurance maladie sont notamment inférieures à celles estimées."
+    },
     {
       "title": "Pour la BCE, le « choc » du conflit au Moyen-Orient entraînera un bond de l’inflation et un creux de la croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/03/19/pour-la-banque-centrale-europeenne-le-choc-du-conflit-au-moyen-orient-entrainera-un-bond-de-l-inflation-et-un-creux-de-la-croissance_6672463_3234.html",
@@ -10,11 +15,6 @@
       "title": "Malgré les droits de douane, le commerce mondial a progressé de 4,6 % en 2025",
       "url": "https://www.lemonde.fr/economie/article/2026/03/19/malgre-les-droits-de-douane-le-commerce-mondial-a-progresse-de-4-6-en-2025_6672423_3234.html",
       "summary": "Les échanges de marchandises devraient progresser de 1,9 % en 2026, selon les chiffres de l’Organisation mondiale du commerce, publiés jeudi. Une prévision incertaine en raison de la guerre en Iran, qui pourrait amputer la croissance du commerce de 0,5 point de pourcentage."
-    },
-    {
-      "title": "Aux Etats-Unis, la Fed s’inquiète des conséquences de la crise énergétique sur l’inflation",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/18/la-reserve-federale-s-inquiete-des-consequences-potentielles-de-la-crise-energetique-sur-l-inflation_6672139_3234.html",
-      "summary": "Mercredi, la Réserve fédérale a maintenu ses taux directeurs inchangés. Son président, Jerome Powell, très critiqué par Donald Trump, a indiqué qu’il resterait en poste jusqu’à la fin de son mandat, le 15 mai."
     },
     {
       "title": "La chronique internationale – 19/03",
