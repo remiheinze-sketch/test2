@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-03-22T14:18:46Z",
+  "updated_at": "2026-03-22T15:17:04Z",
   "articles": [
     {
-      "title": "En Inde, les jeunes diplômés confrontés à un chômage massif",
+      "title": "Le premier ministre belge appelle l’Europe à répliquer à la Chine « qui dévaste notre économie »",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/22/le-premier-ministre-belge-appelle-l-europe-a-repliquer-a-la-chine-qui-devaste-notre-economie_6673783_3234.html",
+      "summary": "Dans un courrier envoyé à la Commission européenne, Bart De Wever demande un renforcement des moyens d’enquête sur les pratiques commerciales de la Chine et une action concertée des Etats membres afin d’éviter des accords bilatéraux fragmentés."
+    },
+    {
+      "title": "Une bombe à retardement économique en Inde : plus de la moitié des jeunes diplômés sont au chômage",
       "url": "https://www.lemonde.fr/economie/article/2026/03/22/en-inde-les-jeunes-diplomes-confrontes-a-un-chomage-massif_6673782_3234.html",
-      "summary": "Plus de la moitié des jeunes diplômés indiens n’ont pas d’emploi, une proportion quatre fois supérieure à celle des autres tranches d’âge, souligne une étude parue le 18 mars. La croissance du pays ne permet pas d’absorber les millions de moins de 25 ans entrant sur le marché du travail chaque année."
+      "summary": "Cette proportion est quatre fois supérieure à celle des autres tranches d’âge, souligne une étude parue le 18 mars. La croissance du pays ne permet pas d’absorber les millions de moins de 25 ans entrant sur le marché du travail chaque année."
     },
     {
       "title": "« Le cours des céréales reste au ras des pâquerettes »",
@@ -15,6 +20,11 @@
       "title": "Le Royaume-Uni avance vers \"une solution à la française\" qui déplaît aux patrons: plus d'emplois qualifiés, moins de bas salaires, plus d'impôts... et plus de chômage (il dépasse désormais celui de l'Italie)",
       "url": "https://www.bfmtv.com/economie/international/le-royaume-uni-avance-vers-une-solution-a-la-francaise-qui-deplait-aux-patrons-plus-d-emplois-qualifies-moins-de-bas-salaires-plus-d-impots-et-plus-de-chomage-il-depasse-desormais-celui-de-l-italie_AN-202603220125.html",
       "summary": "Depuis son arrivée au pouvoir, Keir Starmer et son gouvernement ont pris une série de mesures visant à lutter contre les emplois à bas salaires. De quoi, espèrent-ils, stimuler l'investissement et relancer la productivité particulièrement faible du pays. Les chefs d'entreprise britanniques déplorent, eux, une stratégie qui s'attaque à la flexibilité du travail.<br /><br /><img src=\"https://images.bfmtv.com/n590UbuSZdfX0ygtl141U-VFliM=/0x46:2048x1198/800x0/images/Emmanuel-Macron-et-Keir-Starmer-copresideront-une-reunion-pour-le-renforcement-de-la-defense-en-Ukraine-2107069.jpg\" />"
+    },
+    {
+      "title": "Réparation automobile : l'essor alarmant des garages clandestins",
+      "url": "https://www.franceinfo.fr/economie/automobile/reparation-automobile-l-essor-alarmant-des-garages-clandestins_7886045.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Arrêtons-nous sur un marché en plein essor de l’économie souterraine : les garages clandestins. Tenus par des mécaniciens non déclarés, ils attirent des clients malgré les risques, principalement grâce à des prix plus bas."
     },
     {
       "title": "L’essor alarmant des garages clandestins",
