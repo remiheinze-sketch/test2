@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T09:53:40Z",
+  "updated_at": "2026-03-23T10:43:10Z",
   "articles": [
     {
       "title": "Du choc pétrolier provoqué par la guerre en Iran à la spirale inflationniste, comment la hausse des prix se propage à l’économie",
@@ -15,6 +15,16 @@
       "title": "Une bombe à retardement économique en Inde : plus de la moitié des jeunes diplômés sont au chômage",
       "url": "https://www.lemonde.fr/economie/article/2026/03/22/en-inde-les-jeunes-diplomes-confrontes-a-un-chomage-massif_6673782_3234.html",
       "summary": "Cette proportion est quatre fois supérieure à celle des autres tranches d’âge, souligne une étude parue le 18 mars. La croissance du pays ne permet pas d’absorber les millions de moins de 25 ans entrant sur le marché du travail chaque année."
+    },
+    {
+      "title": "Le déchiffrage : Finances, les jeunes se prennent en mains - 23/03",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-dechiffrage-finances-les-jeunes-se-prennent-en-mains-23-03_EN-202603230427.html",
+      "summary": "Ce lundi 23 mars, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance de Trade Republic, et Christian Fontaine, directeur de la rédaction du magazine Le Revenu, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/c8CA1F63_MIRKyZRpD3guotSYrk=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_3.jpg\" />"
+    },
+    {
+      "title": "Le déchiffrage : Finances, les jeunes se prennent en mains - 23/03",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-dechiffrage-finances-les-jeunes-se-prennent-en-mains-23-03_VN-202603230428.html",
+      "summary": "Ce lundi 23 mars, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance de Trade Republic, et Christian Fontaine, directeur de la rédaction du magazine Le Revenu, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/10jN1xNN4HgLbnoJ-Fa-mMS66bQ=/0x0:1280x720/800x0/images/Le-dechiffrage-Finances-les-jeunes-se-prennent-en-mains-23-03-2257846.jpg\" />"
     },
     {
       "title": "L'intégrale de Good Morning Market du lundi 23 mars",
@@ -35,11 +45,6 @@
       "title": "L'éclaireur : Le 10 ans français à un plus haut de 2009 - 23/03",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-le-10-ans-francais-a-un-plus-haut-de-2009-23-03_VN-202603230286.html",
       "summary": "Ce lundi 23 mars, le retour du 10 ans français à 3,8% et l'entrée en bear market de l'once d'or, ont été abordés par Florian Ielpo, responsable en charge de la macroéconomie chez Lombard Odier IM, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xpVGBmUJ2j-lLXO0L2sld4X-YjI=/0x0:1280x720/800x0/images/L-eclaireur-Le-10-ans-francais-a-un-plus-haut-de-2009-23-03-2257723.jpg\" />"
-    },
-    {
-      "title": "La guerre en Iran inquiète de plus en plus les marchés: le taux de la dette française à 10 ans dépasse 3,8%, un niveau jamais vu depuis 2009",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-guerre-en-iran-inquiete-de-plus-en-plus-les-marches-le-taux-de-la-dette-francaise-a-10-ans-depasse-3-8-un-niveau-jamais-vu-depuis-2009_AD-202603230265.html",
-      "summary": "Les craintes du retour de l'inflation en zone euro en raison de la guerre au Moyen-Orient poussent les investisseurs à exiger un rendement plus élevé. <br /><br /><img src=\"https://images.bfmtv.com/CaFJyYwuCYd0DhcMftg97vAZVj0=/0x0:1248x702/800x0/images/Le-ministere-de-l-Economie-a-Bercy-le-5-juin-2023-1911564.jpg\" />"
     },
     {
       "title": "Réparation automobile : l'essor alarmant des garages clandestins",
@@ -100,11 +105,6 @@
       "title": "L’info du jour | 20 mars 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/03/20/linfo-du-jour-20-mars-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "En pleine crise énergétique, l’Etat reste mal armé contre l’inflation des carburants",
-      "url": "https://www.alternatives-economiques.fr/en-pleine-crise-energetique-letat-reste-mal-arme-contre-linflation-des/00118132",
-      "summary": "<p>La précédente crise de l’énergie a montré que les mesures de blocage ou de baisse des prix à la pompe sont coûteuses et profitent surtout aux ménages riches. La crise actuelle confirme l’urgence à se sevrer du pétrole.</p>"
     }
   ]
 }
