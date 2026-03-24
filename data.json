@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-24T20:31:19Z",
+  "updated_at": "2026-03-24T21:28:28Z",
   "articles": [
+    {
+      "title": "Face au « choc pétrolier », Sébastien Lecornu refuse l’idée d’un nouveau bouclier tarifaire",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/24/face-au-choc-petrolier-sebastien-lecornu-refuse-l-idee-d-un-nouveau-bouclier-tarifaire_6674127_3234.html",
+      "summary": "La guerre en Iran a provoqué un vrai « choc énergétique », a reconnu mardi 24 mars le premier ministre. Compte tenu de la dégradation des finances publiques, il n’est cependant pas question d’aller au-delà de quelques mesures ciblées."
+    },
     {
       "title": "Plus d’inflation et moins de croissance en France pour le premier semestre, selon l’Insee",
       "url": "https://www.lemonde.fr/economie/article/2026/03/24/plus-d-inflation-et-moins-de-croissance-en-france-pour-le-premier-semestre-selon-l-insee_6674099_3234.html",
@@ -12,14 +17,9 @@
       "summary": "Selon Michel Picon, président de l’U2P, \"au mois de février, le record d’entreprises faisant appel à l’association de garantie des salaires a été battu. Nous avons avancé 199 millions d’euros. La situation, avant même la crise au Moyen-Orient, n’était déjà pas brillante.\"<br /><br /><img src=\"https://images.bfmtv.com/mmj1SqOkOmd21ksGatinwFuVwjA=/0x0:1280x720/800x0/images/Croissance-des-mois-qui-s-annoncent-inquietants-2258821.jpg\" />"
     },
     {
-      "title": "Énergie : \"Nous demandons des mesures sectorielles\"",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-energie-nous-demandons-des-mesures-sectorielles_VN-202603240782.html",
-      "summary": "Selon Michel Picon, président de l’U2P, \"l’État ne doit pas bénéficier de recettes supplémentaires dans cette affaire. Nous demandons des mesures sectorielles. Certaines professions, comme les infirmières, subissent la hausse sans pouvoir la répercuter. Si l’État profite via les taxes, cela n’est pas encore documenté.\"<br /><br /><img src=\"https://images.bfmtv.com/VkxxGvoX8-PHvk8JMmPk08gSL6c=/0x0:1280x720/800x0/images/Energie-Nous-demandons-des-mesures-sectorielles-2258817.jpg\" />"
-    },
-    {
       "title": "La flambée des prix des carburants continue",
       "url": "https://www.franceinfo.fr/economie/automobile/essence/la-flambee-des-prix-des-carburants-continue_7891751.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les prix du carburants continuent d'augmenter. Malgré l'opposition, Sébastien Lecornu a rappelé ce mardi 24 mars qu'il n'était pas question de baisser les taxes sur le carburant."
+      "summary": "Les prix des carburants continuent d'augmenter. Malgré l'opposition, Sébastien Lecornu a rappelé ce mardi 24 mars qu'il n'était pas question de baisser les taxes sur le carburant."
     },
     {
       "title": "L'économie française est \"percutée\" par la guerre au Moyen-Orient selon l'Insee, qui prédit un \"net regain d'inflation\"",
