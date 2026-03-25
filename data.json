@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-03-25T18:42:23Z",
+  "updated_at": "2026-03-25T19:38:47Z",
   "articles": [
+    {
+      "title": "La Banque de France exclut toute récession, même dans son scénario d’un baril de pétrole à 145 dollars",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/25/blocage-du-detroit-d-ormuz-la-banque-de-france-exclut-toute-recession-meme-dans-son-scenario-d-un-baril-de-petrole-a-145-dollars_6674272_3234.html",
+      "summary": "Parmi les trois hypothèses élaborées par l’institution française, la plus pessimiste table sur une inflation de 3,3 % en 2026 et une croissance de 0,3 %."
+    },
+    {
+      "title": "Une croissance de 0,9% dans le meilleur des cas, de 0,3% dans le pire (avec un baril à 145 dollars): la Banque de France dévoile ses scénarios en 2026 pour l'économie française",
+      "url": "https://www.bfmtv.com/economie/economie-social/france/une-croissance-de-0-9-dans-le-meilleur-des-cas-de-0-3-dans-le-pire-avec-un-baril-a-145-dollars-la-banque-de-france-devoile-ses-scenarios-en-2026-pour-l-economie-francaise_AN-202603250692.html",
+      "summary": "La Banque de France a révisé sa prévision de croissance pour 2026, tablant désormais dans son scénario de base sur 0,9%, contre 1% en décembre. Le PIB tricolore pourrait en revanche progresser beaucoup plus modestement si le conflit au Moyen-Orient se prolongeait. <br /><br /><img src=\"https://images.bfmtv.com/OupRZPu0S-WKaNXNaiQTeBhrjRE=/2x83:1250x785/800x0/images/-454433.jpg\" />"
+    },
     {
       "title": "Il veut que les Allemandes travaillent plus et que l'impôt sur le revenu baisse: le vice-chancelier annonce une série de réformes pour stimuler la croissance en Allemagne",
       "url": "https://www.bfmtv.com/economie/international/il-veut-que-les-allemandes-travaillent-plus-et-que-l-impot-sur-le-revenu-baisse-le-vice-chancelier-annonce-une-serie-de-reformes-pour-stimuler-la-croissance-en-allemagne_AN-202603250783.html",
@@ -25,6 +35,11 @@
       "title": "La Data Room : 0,4 % = c’est l’écart des révisions des prévisions de croissance entre la Fed et la BCE – 25/03",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/la-data-room-0-4-c-est-l-ecart-des-revisions-des-previsions-de-croissance-entre-la-fed-et-la-bce-25-03_EN-202603250707.html",
       "summary": "Ce mercredi 25 mars, Olivier Malteste, directeur des Investissements de Althéis by Yomoni, et Benoit Peloille, CIO chez Natixis Wealth Management, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "La hausse des prix à la pompe est-elle vraiment une aubaine pour le gouvernement ?",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/la-hausse-des-prix-a-la-pompe-est-elle-vraiment-une-aubaine-pour-le-gouvernement_7894028.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Une polémique monte en marge de la guerre au Moyen-Orient, lancée par Marine Le Pen, qui accuse l'État de se comporter en profiteur de crise. En clair, de cacher les recettes indues liées à la flambée des prix du pétrole. Les finances publiques bénéficient-elles vraiment du choc énergétique ?"
     },
     {
       "title": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale",
