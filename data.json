@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T13:46:01Z",
+  "updated_at": "2026-03-29T14:25:40Z",
   "articles": [
     {
       "title": "Banque populaire Caisse d’épargne veut faire de l’Allemagne l’un de ses moteurs de croissance",
@@ -10,11 +10,6 @@
       "title": "Choc pétrolier : « Le verdissement de l’économie européenne sert aussi un objectif de sécurité »",
       "url": "https://www.lemonde.fr/idees/article/2026/03/28/choc-petrolier-le-verdissement-de-l-economie-europeenne-sert-aussi-un-objectif-de-securite_6674953_3232.html",
       "summary": "Si la guerre menée contre l’Iran a pour conséquence immédiate d’augmenter le prix du gaz et du pétrole, celle-ci devrait surtout convaincre les dirigeants européens d’accélérer la transition vers une Union décarbonée, souligne l’économiste Jean Pisani-Ferry, dans sa chronique au « Monde »."
-    },
-    {
-      "title": "Alexandre Péraud, chercheur : « Littérature et économie prétendent toutes deux proposer une représentation du monde et des scénarios possibles »",
-      "url": "https://www.lemonde.fr/idees/article/2026/03/28/alexandre-peraud-chercheur-litterature-et-economie-pretendent-toutes-deux-proposer-une-representation-du-monde-et-des-scenarios-possibles_6674840_3232.html",
-      "summary": "Le thème de la dette est commun à de très nombreux romans au XIXᵉ siècle. Partant de ce constat, le professeur de littérature, montre, dans un entretien au « Monde », comment l’essor du roman, genre dominant de la littérature, a accompagné celui du capitalisme financier."
     },
     {
       "title": "\"Nous les adapterons en fonction de l'évolution de la crise\": Roland Lescure garde pour l'instant le cap de mesures \"ciblées\" pour le mois d'avril face à la hausse des prix des carburants, mais invite à rester \"agile\"",
@@ -37,9 +32,49 @@
       "summary": "Les plafonds de plusieurs primes à l'installation de bornes électriques dans les copropriétés vont être rehaussés à partir du 1er avril dans le cadre du programme Advenir, financé par les Certificats d'économie d'énergie. Ils pourront aller jusqu'à 12.500 euros par immeuble jusqu'à 100 places, soit la moitié du coût d'installation moyen, de 25.000 euros.<br /><br /><img src=\"https://images.bfmtv.com/EOB3IyFzyJp994xyVpPi7KUvd4U=/0x128:2048x1280/800x0/images/Borne-de-recharge-electrique-2261137.jpg\" />"
     },
     {
-      "title": "Eurozapping : l'Espagne face à une inflation supérieure à 3%",
-      "url": "https://www.franceinfo.fr/monde/espagne/eurozapping-l-espagne-face-a-une-inflation-superieure-a-3_7900154.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du vendredi 27 mars."
+      "title": "L’info du jour | 29 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/29/linfo-du-jour-29-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 29 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/29/linfo-du-jour-29-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 28 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/28/linfo-du-jour-28-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 28 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/28/linfo-du-jour-28-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 28 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/28/linfo-du-jour-28-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 27 mars 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/03/27/linfo-du-jour-27-mars-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Suisse : le chef l'armée signale des \"lacunes\" dans les systèmes de défense",
+      "url": "http://fr.euronews.com/2026/03/27/suisse-le-chef-larmee-signale-des-lacunes-dans-les-systemes-de-defense",
+      "summary": "Le chef l'armée suisse affirme que la défense du pays a des \"lacunes\", notamment contre d'éventuelles attaques de drones. Une déclaration qui survient alors que Berne s'apprête à augmenter ses dépenses militaires."
+    },
+    {
+      "title": "L’info du jour | 27 mars 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/03/27/linfo-du-jour-27-mars-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 27 mars 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/03/27/linfo-du-jour-27-mars-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
