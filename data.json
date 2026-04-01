@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T18:45:46Z",
+  "updated_at": "2026-04-01T19:51:44Z",
   "articles": [
     {
       "title": "Guerre au Moyen-Orient : comment le plastique et la chimie, ingrédients-clés de l’économie, alimentent l’inflation",
@@ -7,9 +7,9 @@
       "summary": "Depuis un mois et le déclenchement de la guerre américano-israélienne contre l’Iran, c’est toute l’industrie dépendant de la chimie qui subit de plein fouet un choc des prix avec la flambée des cours des hydrocarbures et le quasi-blocage du détroit d’Ormuz."
     },
     {
-      "title": "Carburants : le SP95 franchit la barre des 2 euros le litre, le débat sur les recettes fiscales s’enflamme",
+      "title": "Carburant : le SP-95 franchit la barre des 2 euros le litre, le débat sur les recettes fiscales s’enflamme",
       "url": "https://www.lemonde.fr/economie/article/2026/04/01/carburant-le-sp95-franchit-la-barre-des-2-euros-le-litre-le-debat-sur-les-recettes-fiscales-s-enflamme_6675937_3234.html",
-      "summary": "Le gouvernement compte utiliser des recettes fiscales supplémentaires de la hausse des prix du pétrole pour électrifier l’économie. La mesure est dénoncée par la droite et l’extrême droite, tandis que La France insoumise et le Parti communiste se prononcent plutôt pour un blocage des prix."
+      "summary": "Le gouvernement a annoncé vouloir consacrer une partie des recettes fiscales issues la hausse du prix des carburants à la décarbonation, alors que les oppositions réclament plutôt une baisse des taxes et un élargissement des aides."
     },
     {
       "title": "Le projet de fusion des deux centres de recherche en économie OFCE-Cepii contesté en interne",
@@ -17,14 +17,14 @@
       "summary": "Malgré l’opposition manifestée par les économistes des deux structures, les deux directeurs tentent de passer en force. Pour faire naître le nouvel ensemble, il ne manque plus que la signature du premier ministre."
     },
     {
+      "title": "Le Haut-Commissariat au plan plaide pour un encadrement renforcé des dépenses des collectivités locales",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/01/collectivites-le-haut-commissariat-a-la-strategie-et-au-plan-plaide-pour-un-encadrement-renforce-des-depenses-des-collectivites-locales_6675907_823448.html",
+      "summary": "« Les collectivités locales ne sauraient être écartées de l’effort urgent d’assainissement des finances publiques », souligne l’organisme de réflexion placé auprès de Matignon, dans une note dévoilée mercredi 1er avril."
+    },
+    {
       "title": "Carburants : accusé de profiter de la hausse des prix, l’Etat assure qu’il n’y a « pas de cagnotte »",
       "url": "https://www.lemonde.fr/economie/article/2026/04/01/carburants-accuse-de-profiter-de-la-hausse-des-prix-l-etat-assure-qu-il-n-y-a-pas-de-cagnotte_6675904_3234.html",
       "summary": "Laurent Wauquiez (Les Républicains) a évalué les surplus fiscaux perçus par l’Etat à « 2 à 3 milliards » d’euros depuis le début de la crise, souhaitant qu’ils soient « redonnés aux automobilistes sous forme de baisse de taxes »."
-    },
-    {
-      "title": "Franceinfo ou Ici à la place de France Musique, restitution des fréquences de Mouv’ : Radio France lance son grand chantier de la distribution",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/01/franceinfo-ou-ici-a-la-place-de-france-musique-restitution-des-frequences-de-mouv-radio-france-lance-son-grand-chantier-de-la-distribution_6675843_3234.html",
-      "summary": "Le groupe public va restituer une trentaine de fréquences FM de Mouv’afin de faire des économies. La direction en profite pour attribuer davantage de places aux stations d’information, au détriment de France Musique."
     },
     {
       "title": "Économie spatiale : “L’europe est en retard” - 01/04",
@@ -37,6 +37,11 @@
       "summary": "Retrouvez Le 18/19 d'Hedwige Chevrillon en replay et en podcas.<br /><br /><img src=\"https://images.bfmtv.com/kz4QN798rXjc8lsKxiCQmgwlq3c=/0x0:14000x14000/800x0/podcast/podcasts/principale-74_3.jpg\" />"
     },
     {
+      "title": "La crise énergétique entraîne un surplus fiscal en faveur du gouvernement, l'opposition sur le qui-vive",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/la-crise-energetique-entraine-un-surplus-fiscal-en-faveur-du-gouvernement-l-opposition-sur-le-qui-vive_7909391.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La crise énergétique a-t-elle rapporté une manne financière à l'Etat ? Le Premier ministre, Sébastien Lecornu, a reconnu pour la première fois, mercredi 1er avril, que la flambée du pétrole depuis un mois de guerre a rapporté un surplus de recettes, qu'il veut utiliser pour accélérer l'électrification de l'économie."
+    },
+    {
       "title": "REPORTAGE. \"J'ai peur de ne pas pouvoir payer mon loyer\" : ces salariés sous le Smic subissent de plein fouet la hausse des prix à la consommation",
       "url": "https://www.franceinfo.fr/economie/reportage-j-ai-peur-de-ne-pas-pouvoir-payer-mon-loyer-ces-salaries-sous-le-smic-subissent-de-plein-fouet-la-hausse-des-prix-a-la-consommation_7909130.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Selon une estimation provisoire de l'Insee, publiée mardi, les prix à la consommation ont augmenté de 1,7% entre mars 2025 et mars 2026. Cette hausse de l'inflation est notamment due à un important rebond des prix de l'énergie et particulièrement des produits pétroliers."
@@ -45,11 +50,6 @@
       "title": "APPEL A TEMOIGNAGES. Trajets du quotidien, dépenses, vacances... La flambée des prix des carburants a-t-elle modifié vos habitudes ? Racontez-nous",
       "url": "https://www.franceinfo.fr/economie/automobile/essence/appel-a-temoignages-trajets-du-quotidien-depenses-vacances-la-flambee-des-prix-des-carburants-a-t-elle-modifie-vos-habitudes-racontez-nous_7908662.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Franceinfo aimerait interroger des Français sur les conséquences de cette crise des carburants dans leur vie de tous les jours, alors que la guerre au Moyen-Orient ne faiblit pas."
-    },
-    {
-      "title": "Inflation : les prix ont augmenté de 1,7% en mars dans un contexte de hausse du carburant, selon l'Insee",
-      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-a-augmente-de-1-7-en-france-sur-un-an-selon-l-insee_7906097.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette reprise est notamment due à un important rebond des produits pétroliers, qui coûtent 7,3% de plus qu'à la même période en 2025."
     },
     {
       "title": "L’info du jour | 1er avril 2026 - Soir",
