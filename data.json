@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-01T14:24:42Z",
+  "updated_at": "2026-04-01T16:01:11Z",
   "articles": [
+    {
+      "title": "Le projet de fusion des deux centres de recherche en économie OFCE-Cepii contesté en interne",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/01/le-projet-de-fusion-des-deux-centres-de-recherche-en-economie-ofce-cepii-conteste-en-interne_6675923_3234.html",
+      "summary": "Malgré l’opposition manifestée par les économistes des deux structures, les deux directeurs tentent de passer en force. Pour faire naître le nouvel ensemble, il ne manque plus que la signature du premier ministre."
+    },
     {
       "title": "Carburants : accusé de profiter de la hausse des prix, l’Etat assure qu’il n’y a « pas de cagnotte »",
       "url": "https://www.lemonde.fr/economie/article/2026/04/01/carburants-accuse-de-profiter-de-la-hausse-des-prix-l-etat-assure-qu-il-n-y-a-pas-de-cagnotte_6675904_3234.html",
@@ -12,34 +17,9 @@
       "summary": "Le groupe public va restituer une trentaine de fréquences FM de Mouv’afin de faire des économies. La direction en profite pour attribuer davantage de places aux stations d’information, au détriment de France Musique."
     },
     {
-      "title": "Ce qui change le 1ᵉʳ avril : chèque énergie, prime d’activité, aides sociales, prix du gaz…",
-      "url": "https://www.lemonde.fr/argent/article/2026/04/01/prime-d-activite-aides-sociales-prix-du-gaz-cheque-energie-ce-qui-change-le-1-avril_6675834_1657007.html",
-      "summary": "Plusieurs hausses ou baisses affectant le budget des ménages interviennent mercredi 1ᵉʳ avril."
-    },
-    {
-      "title": "\"La perte de pétrole en avril sera deux fois supérieure à celle de mars\": le patron de l'AIE prédit une catastrophe économique pire que les crises de 1973, 1979 et 2022 réunies",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/la-perte-de-petrole-en-avril-sera-deux-fois-superieure-a-celle-de-mars-le-patron-de-l-aie-predit-une-catastrophe-economique-pire-que-les-crises-de-1973-1979-et-2022-reunies_AV-202604010635.html",
-      "summary": "Selon Agence internationale de l’énergie, la guerre entre les États-Unis et l'Iran provoque une crise énergétique majeure appelée à s’aggraver dès avril, avec des pertes de pétrole inédites, des risques de rationnement et un fort impact sur l’inflation et la croissance mondiale.<br /><br /><img src=\"https://images.bfmtv.com/UtEb6jnrrW0PcFa13Z58HQhOs8E=/0x29:768x461/800x0/images/Le-directeur-de-l-AIE-Fatih-Birol-le-28-fevrier-2019-a-Washington-1070814.jpg\" />"
-    },
-    {
-      "title": "\"C’était donc déjà un mensonge\": Marine Le Pen considère que le gouvernement n'a pas dit la vérité sur les recettes fiscales du carburant et exige des baisses de taxes",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/c-etait-donc-deja-un-mensonge-marine-le-pen-considere-que-le-gouvernement-n-a-pas-dit-la-verite-sur-les-recettes-fiscales-du-carburant-et-exige-des-baisses-de-taxes_AN-202604010567.html",
-      "summary": "Marine Le Pen continue de réclamer une baisse immédiate de la TVA pour calmer la flambée des prix à la pompe. De son côté, l'exécutif fustige des propositions \"irresponsables\" et n'annonce, pour le moment, pas de nouvelles mesures d'urgence à destination des travailleurs.<br /><br /><img src=\"https://images.bfmtv.com/8Yu8tX6iGMMQDPQxh3AwUC6CcH4=/0x106:2048x1258/800x0/images/Marine-Le-Pen-2263200.jpg\" />"
-    },
-    {
-      "title": "Le gouvernement assure que le surplus de taxes sur les carburants \"ne se compte pas en milliards\" et ouvre la voie à des mesures d'économies d'énergie en cas de difficultés d'approvisionnement",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/le-gouvernement-assure-que-le-surplus-de-taxes-sur-les-carburants-ne-se-compte-pas-en-milliards-et-ouvre-la-voie-a-des-mesures-d-economies-d-energie-en-cas-de-difficultes-d-approvisionnement_AD-202604010553.html",
-      "summary": "Le gouvernement n'exclut pas des mesures d'économies d'énergie en cas de problèmes, \"même minimes\", d'approvisionnement en carburants, a prévenu la porte-parole du gouvernement, Maud Bregeon, en ajoutant que ce sera d'abord à l'État de \"donner l'exemple\".<br /><br /><img src=\"https://images.bfmtv.com/N2iwdbe6nw98f5B6oijjJdzofI0=/0x40:768x472/800x0/images/La-porte-parole-du-gouvernement-francais-Maud-Bregeon-donne-une-conference-de-presse-a-l-Elysee-a-Paris-le-14-janvier-2026-2218955.jpg\" />"
-    },
-    {
-      "title": "Les syndicats mettent la pression sur le gouvernement",
-      "url": "https://www.bfmtv.com/economie/video-les-syndicats-mettent-la-pression-sur-le-gouvernement_VN-202604010524.html",
-      "summary": "L'inflation a quasiment doublé en mars. Après les organisations patronales, les syndicats montent aussi au créneau pour réclamer des aides pour les salariés. <br /><br /><img src=\"https://images.bfmtv.com/QzfY4Tk2LPtjOLNXFCahuNQPSZQ=/0x0:1280x720/800x0/images/Les-syndicats-mettent-la-pression-sur-le-gouvernement-2263182.jpg\" />"
-    },
-    {
-      "title": "\"On a l’impression d’assister à un poisson d’avril\": tollé de l'association des automobilistes après les annonces de Matignon d'utiliser le \"surplus de recettes fiscales\" pour l'électrification",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/on-a-l-impression-d-assister-a-un-poisson-d-avril-tolle-de-l-association-des-automobilistes-apres-les-annonces-de-matignon-d-utiliser-le-surplus-de-recettes-fiscales-pour-l-electrification_AV-202604010491.html",
-      "summary": "Réuni autour de Sébastien Lecornu, le gouvernement veut financer l’électrification grâce aux recettes des carburants, une stratégie vivement critiquée par 40 millions d’automobilistes qui dénonce une fiscalité écrasante, tandis que l’exécutif reconnaît qu’une hausse des prix de l’énergie dégrade à la fois l’économie et les finances publiques.<br /><br /><img src=\"https://images.bfmtv.com/nNLX3dtIrEV7Zl0CWUuP9fRPeCc=/0x40:768x472/800x0/images/Un-automobiliste-prend-du-carburant-une-station-service-Total-Energy-a-Saint-Leonard-le-9-mars-2026-dans-le-Pas-de-Calais-2249149.jpg\" />"
+      "title": "Les conséquences économiques du réchauffement climatique sous-estimées ?",
+      "url": "https://www.bfmtv.com/economie/video-les-consequences-economiques-du-rechauffement-climatique-sous-estimees_VN-202604010696.html",
+      "summary": "Adrien Bilal, lauréat du Prix du meilleur jeune économiste 2026, souhaite démontrer que les modèles sous-estiment les conséquences économiques du réchauffement climatique. Selon lui, l'Union européenne devrait idéalement décarboner 70% de son économie. <br /><br /><img src=\"https://images.bfmtv.com/NmTFUZHwZ5SZRE2eoZdGRHx4Cog=/0x0:1280x720/800x0/images/Les-consequences-economiques-du-rechauffement-climatique-sous-estimees-2263310.jpg\" />"
     },
     {
       "title": "APPEL A TEMOIGNAGES. Trajets du quotidien, dépenses, vacances... La flambée des prix des carburants a-t-elle modifié vos habitudes ? Racontez-nous",
