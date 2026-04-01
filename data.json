@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-01T12:54:41Z",
+  "updated_at": "2026-04-01T14:24:42Z",
   "articles": [
+    {
+      "title": "Carburants : accusé de profiter de la hausse des prix, l’Etat assure qu’il n’y a « pas de cagnotte »",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/01/carburants-accuse-de-profiter-de-la-hausse-des-prix-l-etat-assure-qu-il-n-y-a-pas-de-cagnotte_6675904_3234.html",
+      "summary": "Laurent Wauquiez (Les Républicains) a évalué les surplus fiscaux perçus par l’Etat à « 2 à 3 milliards » d’euros depuis le début de la crise, souhaitant qu’ils soient « redonnés aux automobilistes sous forme de baisse de taxes »."
+    },
     {
       "title": "Franceinfo ou Ici à la place de France Musique, restitution des fréquences de Mouv’ : Radio France lance son grand chantier de la distribution",
       "url": "https://www.lemonde.fr/economie/article/2026/04/01/franceinfo-ou-ici-a-la-place-de-france-musique-restitution-des-frequences-de-mouv-radio-france-lance-son-grand-chantier-de-la-distribution_6675843_3234.html",
@@ -10,6 +15,11 @@
       "title": "Ce qui change le 1ᵉʳ avril : chèque énergie, prime d’activité, aides sociales, prix du gaz…",
       "url": "https://www.lemonde.fr/argent/article/2026/04/01/prime-d-activite-aides-sociales-prix-du-gaz-cheque-energie-ce-qui-change-le-1-avril_6675834_1657007.html",
       "summary": "Plusieurs hausses ou baisses affectant le budget des ménages interviennent mercredi 1ᵉʳ avril."
+    },
+    {
+      "title": "\"La perte de pétrole en avril sera deux fois supérieure à celle de mars\": le patron de l'AIE prédit une catastrophe économique pire que les crises de 1973, 1979 et 2022 réunies",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/la-perte-de-petrole-en-avril-sera-deux-fois-superieure-a-celle-de-mars-le-patron-de-l-aie-predit-une-catastrophe-economique-pire-que-les-crises-de-1973-1979-et-2022-reunies_AV-202604010635.html",
+      "summary": "Selon Agence internationale de l’énergie, la guerre entre les États-Unis et l'Iran provoque une crise énergétique majeure appelée à s’aggraver dès avril, avec des pertes de pétrole inédites, des risques de rationnement et un fort impact sur l’inflation et la croissance mondiale.<br /><br /><img src=\"https://images.bfmtv.com/UtEb6jnrrW0PcFa13Z58HQhOs8E=/0x29:768x461/800x0/images/Le-directeur-de-l-AIE-Fatih-Birol-le-28-fevrier-2019-a-Washington-1070814.jpg\" />"
     },
     {
       "title": "\"C’était donc déjà un mensonge\": Marine Le Pen considère que le gouvernement n'a pas dit la vérité sur les recettes fiscales du carburant et exige des baisses de taxes",
@@ -32,14 +42,19 @@
       "summary": "Réuni autour de Sébastien Lecornu, le gouvernement veut financer l’électrification grâce aux recettes des carburants, une stratégie vivement critiquée par 40 millions d’automobilistes qui dénonce une fiscalité écrasante, tandis que l’exécutif reconnaît qu’une hausse des prix de l’énergie dégrade à la fois l’économie et les finances publiques.<br /><br /><img src=\"https://images.bfmtv.com/nNLX3dtIrEV7Zl0CWUuP9fRPeCc=/0x40:768x472/800x0/images/Un-automobiliste-prend-du-carburant-une-station-service-Total-Energy-a-Saint-Leonard-le-9-mars-2026-dans-le-Pas-de-Calais-2249149.jpg\" />"
     },
     {
+      "title": "APPEL A TEMOIGNAGES. Trajets du quotidien, dépenses, vacances... La flambée des prix des carburants a-t-elle modifié vos habitudes ? Racontez-nous",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/appel-a-temoignages-trajets-du-quotidien-depenses-vacances-la-flambee-des-prix-des-carburants-a-t-elle-modifie-vos-habitudes-racontez-nous_7908662.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Franceinfo aimerait interroger des Français sur les conséquences de cette crise des carburants dans leur vie de tous les jours, alors que la guerre au Moyen-Orient ne faiblit pas."
+    },
+    {
       "title": "Inflation : les prix ont augmenté de 1,7% en mars dans un contexte de hausse du carburant, selon l'Insee",
       "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-a-augmente-de-1-7-en-france-sur-un-an-selon-l-insee_7906097.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Cette reprise est notamment due à un important rebond des produits pétroliers, qui coûtent 7,3% de plus qu'à la même période en 2025."
     },
     {
-      "title": "Prix des carburants : \"l'Etat doit rendre toutes les recettes supplémentaires en baisses de taxes\", requiert Laurent Wauquiez",
-      "url": "https://www.franceinfo.fr/politique/prix-des-carburants-l-etat-doit-rendre-toutes-les-recettes-supplementaires-en-baisses-de-taxes-requiert-laurent-wauquiez_7908362.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Laurent Wauquiez, député Les Républicains de Haute-Loire et président du groupe LR à l'Assemblée nationale, est l'invité des \"4 Vérités\" mercredi 1er avril 2026. Il est revenu sur les solutions possibles face à la hausse des prix des carburants, et sur le reste de l'actualité politique en France et à l'international."
+      "title": "Afrique du Sud : carburant en hausse et stations-service prises d'assaut",
+      "url": "http://fr.euronews.com/2026/04/01/afrique-du-sud-flambee-historique-des-prix-du-carburant",
+      "summary": "Alors que le gouvernement sud-africain a annoncé mardi une réduction temporaire des taxes sur le carburant, les automobilistes ont été confrontés à une envolée historique des prix à la pompe, conséquence directe du conflit au Moyen-Orient."
     },
     {
       "title": "L’info du jour | 1er avril 2026 - Mi-journée",
@@ -70,11 +85,6 @@
       "title": "L’info du jour | 31 mars 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/03/31/linfo-du-jour-31-mars-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 30 mars 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/03/30/linfo-du-jour-30-mars-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 mars 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L'inflation est-elle de retour ?",
