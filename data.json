@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T15:32:49Z",
+  "updated_at": "2026-04-03T16:28:54Z",
   "articles": [
     {
       "title": "« La proposition de Thierry Breton d’un déficit public à 1 % du PIB français prive toute capacité à répondre à un choc ou faciliter la transformation de la société »",
@@ -10,6 +10,11 @@
       "title": "« Donald Trump rend un service involontaire, mais considérable, à la transition énergétique »",
       "url": "https://www.lemonde.fr/idees/article/2026/04/03/donald-trump-rend-un-service-involontaire-mais-considerable-a-la-transition-energetique_6676339_3232.html",
       "summary": "A la suite du choc pétrogazier mondial provoqué par l’attaque américaine sur l’Iran, le président des Etats-Unis s’est transformé en médecin du climat, accélérant la bascule des grandes économies vers les énergies décarbonées, décrypte l’économiste Patrice Geoffron, dans une tribune au « Monde »."
+    },
+    {
+      "title": "\"Sollicitez-nous\": le conseil de l'Assurance maladie appréhende les annonces du gouvernement pour contenir les dépenses liées aux arrêts maladie",
+      "url": "https://www.bfmtv.com/economie/economie-social/sollicitez-nous-le-conseil-de-l-assurance-maladie-apprehende-les-annonces-du-gouvernement-pour-contenir-les-depenses-liees-aux-arrets-maladie_AD-202604030671.html",
+      "summary": "Regroupant partenaires sociaux et représentants de la société civile, le conseil de l'Assurance maladie s'est dit \"prêt à répondre favorablement à toute sollicitation\" du gouvernement, qui va bientôt annoncer des mesures pour contenir la hausse des indemnités pour arrêts de travail.<br /><br /><img src=\"https://images.bfmtv.com/NJ6yZUsi5oS6EFYWsdPf3bHcjaU=/0x0:2048x1152/800x0/images/Arret-de-travail-arret-maladie-2264678.jpg\" />"
     },
     {
       "title": "+19% dans l'agriculture, +9% dans les transports, +7,6% dans la restauration... Le nombre de faillites d'entreprises s'accélère en France (et c'était avant la guerre au Moyen-Orient)",
@@ -52,11 +57,6 @@
       "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/TbdsHODInXaTzt_qLFeIYQ1DfZE=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-3-avril-2264513.jpg\" />"
     },
     {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 3 avril",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-3-avril_EN-202604030453.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
       "title": "Pouvoir d'achat : viande, légumes... Quels produits pourraient être prochainement concernés par l'inflation ?",
       "url": "https://www.franceinfo.fr/economie/pouvoir-achat/pouvoir-d-achat-viande-legumes-quels-produits-pourraient-etre-prochainement-concernes-par-l-inflation_7911707.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Au-delà de l'envol des prix du carburant, celui des denrées alimentaires ou du quotidien va-t-il aussi augmenter ? Explications."
@@ -70,31 +70,6 @@
       "title": "Baisse des taxes, transports publics... Comment s'adaptent les autres pays d'Europe face à la crise ?",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/baisse-des-taxes-transports-publics-comment-s-adaptent-les-autres-pays-d-europe-face-a-la-crise_7911704.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Alors que Sébastien Lecornu envisage de nouvelles aides ciblées \"en début de semaine prochaine\", comment s'adaptent nos voisins européens ? L'Espagne a notamment mis en place des baisses de 30 centimes à la pompe, et l'Italie limité une partie des taxes. Quant à la Lituanie, elle a divisé par deux le prix des billets de train."
-    },
-    {
-      "title": "L’info du jour | 3 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/03/linfo-du-jour-3-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/03/linfo-du-jour-3-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 2 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/02/linfo-du-jour-2-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 2 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/02/linfo-du-jour-2-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 2 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/02/linfo-du-jour-2-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Au Liban, la guerre s’abat sur une économie déjà en ruine",
