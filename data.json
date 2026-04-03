@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-03T07:55:42Z",
+  "updated_at": "2026-04-03T08:42:43Z",
   "articles": [
+    {
+      "title": "« Donald Trump rend un service involontaire, mais considérable, à la transition énergétique »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/03/donald-trump-rend-un-service-involontaire-mais-considerable-a-la-transition-energetique_6676339_3232.html",
+      "summary": "A la suite du choc pétrogazier mondial provoqué par l’attaque américaine sur l’Iran, le président des Etats-Unis s’est transformé en médecin du climat, accélérant la bascule des grandes économies vers les énergies décarbonées, décrypte l’économiste Patrice Geoffron, dans une tribune au « Monde »."
+    },
     {
       "title": "Choc pétrolier : la France s’endette aux taux les plus élevés depuis quinze ans",
       "url": "https://www.lemonde.fr/economie/article/2026/04/02/choc-petrolier-la-france-s-endette-aux-taux-les-plus-eleves-depuis-quinze-ans_6676182_3234.html",
@@ -37,11 +42,6 @@
       "summary": "Au-delà de l'envol des prix du carburant, celui des denrées alimentaires ou du quotidien va-t-il aussi augmenter ? Explications."
     },
     {
-      "title": "Flambée des prix du carburant : ces Français qui redoublent d'ingéniosité pour faire des économies",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/flambee-des-prix-du-carburant-ces-francais-qui-redoublent-d-ingeniosite-pour-faire-des-economies_7911695.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que le prix du pétrole flambe, tous les automobilistes se posent la même question : comment rouler moins cher et faire baisser la facture de transports ? Les équipes de France Télévisions ont rencontré des Français qui s'échangent les astuces et les bons plans."
-    },
-    {
       "title": "L’info du jour | 3 avril 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/04/03/linfo-du-jour-3-avril-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -67,9 +67,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Afrique du Sud : carburant en hausse et stations-service prises d'assaut",
-      "url": "http://fr.euronews.com/2026/04/01/afrique-du-sud-flambee-historique-des-prix-du-carburant",
-      "summary": "Alors que le gouvernement sud-africain a annoncé mardi une réduction temporaire des taxes sur le carburant, les automobilistes ont été confrontés à une envolée historique des prix à la pompe, conséquence directe du conflit au Moyen-Orient."
+      "title": "Vendre la dette américaine, une arme pour l’Europe ?",
+      "url": "https://www.alternatives-economiques.fr/vendre-la-dette-americaine-une-arme-pour-leurope/00118218",
+      "summary": "<p>[Etats-Unis versus Europe 7/8] La vente massive des actifs états-uniens détenus par la zone euro affecterait aussi notre continent. Mais une sortie progressive pourrait favoriser l’affaiblissement de l’économie américaine.</p>"
     },
     {
       "title": "Cinq pistes non répressives pour répondre à la hausse des arrêts maladie de longue durée",
