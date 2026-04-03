@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-03T11:30:55Z",
+  "updated_at": "2026-04-03T12:39:33Z",
   "articles": [
+    {
+      "title": "« La proposition de Thierry Breton d’un déficit public à 1 % du PIB français prive toute capacité à répondre à un choc ou faciliter la transformation de la société »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/03/la-proposition-de-thierry-breton-d-un-deficit-public-a-1-du-pib-francais-prive-toute-capacite-a-repondre-a-un-choc-ou-faciliter-la-transformation-de-la-societe_6676367_3232.html",
+      "summary": "Les économistes Michel Cabannes et Jean-Marie Harribey considèrent, dans une tribune au « Monde », que le projet de l’ancien ministre de mettre en place une règle d’or limitant le déficit public serait un carcan et un piège perpétuels pour l’économie française."
+    },
     {
       "title": "« Donald Trump rend un service involontaire, mais considérable, à la transition énergétique »",
       "url": "https://www.lemonde.fr/idees/article/2026/04/03/donald-trump-rend-un-service-involontaire-mais-considerable-a-la-transition-energetique_6676339_3232.html",
@@ -10,6 +15,11 @@
       "title": "Choc pétrolier : la France s’endette aux taux les plus élevés depuis quinze ans",
       "url": "https://www.lemonde.fr/economie/article/2026/04/02/choc-petrolier-la-france-s-endette-aux-taux-les-plus-eleves-depuis-quinze-ans_6676182_3234.html",
       "summary": "Le Trésor a réussi à placer 12,5 milliards d’euros de dettes sur le marché, jeudi 2 avril. Mais il a dû accepter de payer des taux d’intérêt jamais vus depuis 2011. La guerre en Iran commence à marquer les finances publiques de son empreinte."
+    },
+    {
+      "title": "Le gouvernement Meloni n'a pas atteint son objectif: le déficit italien est finalement resté au-dessus des 3% en 2025 et le pays pourrait même entrer en récession si la guerre se poursuit",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/le-gouvernement-meloni-n-a-pas-atteint-son-objectif-le-deficit-italien-est-finalement-reste-au-dessus-des-3-en-2025-et-le-pays-pourrait-meme-entrer-en-recession-si-la-guerre-se-poursuit_AD-202604030510.html",
+      "summary": "En respectant le plafond fixé par le Pacte de stabilité et de croissance européen, l'Italie voulait échapper aux mesures de surveillance de la Commission européenne pour déficit public excessif, qui concernent aussi bien la France que la Belgique ou la Hongrie.<br /><br /><img src=\"https://images.bfmtv.com/XE_21D-ztp6B0kwxmUEr9M_PFcM=/7x111:2039x1254/800x0/images/La-presidente-du-Conseil-des-ministres-d-Italie-Giorgia-Meloni-a-Rome-le-10-fevrier-2025-2036430.jpg\" />"
     },
     {
       "title": "Accusé de profiter de la flambée des prix à la pompe, le gouvernement indique que les taxes sur les carburants ont rapporté en mars un surplus fiscal de 270 millions d'euros pour l'État",
@@ -35,11 +45,6 @@
       "title": "Le litre y est 20 centimes moins cher qu'en France: l'Italie prolonge d'un mois les réductions de taxes sur les carburants",
       "url": "https://www.bfmtv.com/economie/entreprises/energie/le-litre-y-est-20-centimes-moins-cher-qu-en-france-l-italie-prolonge-d-un-mois-les-reductions-de-taxes-sur-les-carburants_AD-202604030417.html",
       "summary": "Le gouvernement italien, par la voix de Giancarlo Giorgetti, a prolongé jusqu’au 1er mai la baisse temporaire des taxes sur les carburants pour limiter la hausse des prix liée aux tensions internationales, tout en laissant ouverte la possibilité de nouvelles mesures selon l’évolution de la situation.<br /><br /><img src=\"https://images.bfmtv.com/-yybElWPq5VKye_HTKLg640j0Fw=/0x106:2048x1258/800x0/images/Carburant-2264473.jpg\" />"
-    },
-    {
-      "title": "Hausse des prix des carburants : \"270 millions\" d'euros de recettes supplémentaires en mars mais un coût bien supérieur pour l'Etat",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-pris-des-carburants-270-millions-d-euros-de-recettes-supplementaires-en-mars-mais-un-cout-bien-superieur-pour-l-etat_7913306.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Selon le ministre des Comptes publics David Amiel, les gains fiscaux liés à la hausse des prix restent largement inférieurs aux dépenses et à la charge de la dette."
     },
     {
       "title": "Pouvoir d'achat : viande, légumes... Quels produits pourraient être prochainement concernés par l'inflation ?",
@@ -85,6 +90,11 @@
       "title": "L’info du jour | 1er avril 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/04/01/linfo-du-jour-1er-avril-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Au Liban, la guerre s’abat sur une économie déjà en ruine",
+      "url": "https://www.alternatives-economiques.fr/au-liban-la-guerre-sabat-sur-une-economie-deja-en-ruine/00118244",
+      "summary": "<p>En plein marasme économique et politique, le Liban subit une énième offensive israélienne en même temps que l’onde de choc de l’attaque contre l’Iran. Le pays risque à la fois une désagrégation productive et une crise sociale.</p>"
     },
     {
       "title": "Vendre la dette américaine, une arme pour l’Europe ?",
