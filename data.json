@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-04-07T09:58:21Z",
+  "updated_at": "2026-04-07T10:53:31Z",
   "articles": [
     {
       "title": "« Les grands fonds de crédits privés américains inspirent de moins en moins confiance »",
       "url": "https://www.lemonde.fr/idees/article/2026/04/07/les-grands-fonds-de-credits-prives-americains-inspirent-de-moins-en-moins-confiance_6677848_3232.html",
       "summary": "Blue Owl Capital, la star du crédit privé à New York, a annoncé, jeudi 2 avril, des chiffres catastrophiques. Cela nourrit encore les doutes sur la solidité du secteur, dont la crise pourrait contaminer toute l’économie, et surtout le secteur bancaire traditionnel, selon Nicolas Chapuis, dans sa chronique."
+    },
+    {
+      "title": "Inflation, qui va payer la note ?",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-inflation-qui-va-payer-la-note_VN-202604070436.html",
+      "summary": "Ce mardi 7 avril, le surplus de taxes à la pompe perçu par l'État en mars, ainsi que la possibilité que la crise en Iran fasse exploser notre modèle social, ont été abordés par Céline Antonin, économiste à l'OFCE, Erwann Tison, directeur des études de l'Institut de l'Entreprise, et Markus Kerber, avocat et professeur de finances publiques à Berlin, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/V2xXluxwl1nMlgKuPcZyNfU6OuE=/0x0:1280x720/800x0/images/Inflation-qui-va-payer-la-note-2266096.jpg\" />"
     },
     {
       "title": "Les Experts : Crédit privé, faut-il vraiment s'alarmer ? - 07/04",
@@ -57,9 +62,14 @@
       "summary": "Le prix du gaz explose, en pleine guerre au Moyen-Orient, ayant des répercussions jusque dans les boulangeries françaises. Mais beaucoup disposent déjà d'un four électrique, et peuvent ainsi réaliser des économies."
     },
     {
-      "title": "Avec la guerre au Moyen-Orient, la hausse de l'inflation complique l’équation budgétaire",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/avec-la-guerre-au-moyen-orient-la-hausse-de-l-inflation-complique-l-equation-budgetaire_7890236.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le budget 2026, construit sur une inflation de 1,5 %, pourrait rapidement devenir obsolète en cas de hausse plus forte des prix. Une inflation plus élevée alourdirait aussi fortement la charge de la dette, augmentant les dépenses de plusieurs milliards d’euros."
+      "title": "L’info du jour | 7 avril 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/04/07/linfo-du-jour-7-avril-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Centaure : le système grec qui aveugle les drones",
+      "url": "http://fr.euronews.com/2026/04/07/centaure-le-systeme-grec-qui-aveugle-les-drones",
+      "summary": "Le système antidrone utilise des technologies de guerre électronique pour détecter et neutraliser les drones sans munitions. Opérationnellement éprouvé, il offre un faible coût, une longue portée fait l'objet de commandes en forte croissance."
     },
     {
       "title": "L’info du jour | 7 avril 2026 - Matin",
@@ -120,11 +130,6 @@
       "title": "Au Liban, la guerre s’abat sur une économie déjà en ruine",
       "url": "https://www.alternatives-economiques.fr/au-liban-la-guerre-sabat-sur-une-economie-deja-en-ruine/00118244",
       "summary": "<p>En plein marasme économique et politique, le Liban subit une énième offensive israélienne en même temps que l’onde de choc de l’attaque contre l’Iran. Le pays risque à la fois une désagrégation productive et une crise sociale.</p>"
-    },
-    {
-      "title": "Vendre la dette américaine, une arme pour l’Europe ?",
-      "url": "https://www.alternatives-economiques.fr/vendre-la-dette-americaine-une-arme-pour-leurope/00118218",
-      "summary": "<p>[Etats-Unis versus Europe 7/8] La vente massive des actifs états-uniens détenus par la zone euro affecterait aussi notre continent. Mais une sortie progressive pourrait favoriser l’affaiblissement de l’économie américaine.</p>"
     }
   ]
 }
