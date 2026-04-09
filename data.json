@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-04-09T16:13:03Z",
+  "updated_at": "2026-04-09T17:52:57Z",
   "articles": [
+    {
+      "title": "Avec la guerre en Iran, la Commission européenne redoute un « choc stagflationniste »",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/09/conflit-au-moyen-orient-la-commission-europeenne-redoute-un-choc-stagflationniste_6678625_3234.html",
+      "summary": "La présidente du conseil italien, Giorgia Meloni, demande à Bruxelles d’envisager une suspension du pacte de stabilité et de croissance, si la guerre au Moyen-Orient devait durer."
+    },
+    {
+      "title": "L’aide au développement a enregistré en 2025 une chute historique",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/09/l-aide-au-developpement-a-enregistre-en-2025-une-chute-historique_6678624_3234.html",
+      "summary": "Le soutien financier aux pays les plus pauvres a chuté de 23,1 % en 2025, selon l’OCDE, principalement en raison de l’effondrement des budgets américains."
+    },
     {
       "title": "Impôts : la campagne de déclaration des revenus 2025 débute jeudi",
       "url": "https://www.lemonde.fr/economie/article/2026/04/09/declaration-de-revenus-2025-la-campagne-debute-jeudi_6678582_3234.html",
@@ -12,14 +22,19 @@
       "summary": "Parce qu’elle a renforcé son autonomie stratégique dans nombre de domaines, dont les terres rares, Pékin pourrait voir son statut de grande puissance renforcée par la guerre en Iran, en dépit de ses fragilités, estime Marie Charrel, journaliste au « Monde », dans sa chronique."
     },
     {
-      "title": "« Journée blanche » des ambulanciers, qui alertent sur un secteur à bout de souffle",
-      "url": "https://www.lemonde.fr/emploi/article/2026/04/08/journee-blanche-des-ambulanciers-qui-alertent-sur-un-secteur-a-bout-de-souffle_6678306_1698637.html",
-      "summary": "Le patronat du secteur dénonce la dégradation de son modèle économique, entre gel des tarifs, mesures d’économies de l’Assurance-maladie et hausse des prix des carburants."
-    },
-    {
       "title": "La Data Room : 20 milliards de dollars = les demandes de rachat sur les principaux fonds de dette privée sur le 1er trimestre 2026 - 09/04",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-20-milliards-de-dollars-les-demandes-de-rachat-sur-les-principaux-fonds-de-dette-privee-sur-le-1er-trimestre-2026-09-04_VN-202604090724.html",
       "summary": "Ce jeudi 9 avril, Laurent Chaudeurge, membre du comité d’investissement de BDL Capital Management ; Alexandre Baradez, chef analyste chez IG, se sont penchés sur les demandes de rachat sur les principaux fonds de dette privée sur le 1er trimestre 2026 et la prévision de croissance au T1 pour les États-Unis, dans l'émission BFM Bourse présentée par Antoine Larigaudrie. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/2YyfJDZiiFbKP1d3aBYYdSNDqDk=/0x0:1280x720/800x0/images/La-Data-Room-20-milliards-de-dollars-les-demandes-de-rachat-sur-les-principaux-fonds-de-dette-privee-sur-le-1er-trimestre-2026-09-04-2267557.jpg\" />"
+    },
+    {
+      "title": "On a demandé à Chat GPT de nous aider avec la déclaration d'impôts… et ce n'est pas forcément une bonne idée",
+      "url": "https://www.franceinfo.fr/economie/impots/on-a-demande-a-chat-gpt-de-nous-aider-avec-la-declaration-d-impots-et-ce-n-est-pas-forcement-une-bonne-idee_7926773.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les Français ont de plus en plus recours à l'intelligence artificielle, notamment pour les taches administratives. Sur le papier, l'IA semble pouvoir être utile mais cela comporte également des risques."
+    },
+    {
+      "title": "Hausse du prix du carburant : les agriculteurs en difficulté bénéficieront d'une aide de 20 millions d'euros supplémentaires",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-du-prix-du-carburant-les-agriculteurs-en-difficulte-beneficieront-d-une-aide-de-20-millions-d-euros-supplementaires_7926956.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les exploitations les plus en difficulté auront droit à une prise en charge de leurs cotisations sociales, dans un contexte où leurs dépenses de carburant et d'engrais augmentent à cause de la guerre au Moyen-Orient."
     },
     {
       "title": "Déclaration d'impôts : comment l'IA peut vous aider à déclarer vos revenus",
@@ -37,14 +52,9 @@
       "summary": "Anne-Sophie Alsif, cheffe économiste BDO France et professeure d’économie à la Sorbonne, était l'invitée de franceinfo ce jeudi 9 avril."
     },
     {
-      "title": "Tout comprendre à la déclaration d’impôts sur le revenu 2026",
-      "url": "https://www.franceinfo.fr/economie/impots/tout-comprendre-a-la-declaration-d-impots-sur-le-revenu-2026_7926197.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La campagne de déclaration d’impôts sur le revenu 2026 a ouvert jeudi 9 avril. On vous explique les nouveautés de cette année"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : \"Si cela dure toute l'année\", le coût pour les finances publiques sera \"aux alentours de 4 milliards d'euros\", estime le ministre de l'Économie",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-si-cela-dure-toute-l-annee-le-cout-pour-les-finances-publiques-sera-aux-alentours-de-4-8-milliards-d-euros-estime-le-ministre-de-l-economie_7925912.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cet impact est pour le moment \"relativement modéré\" sur la croissance précise Roland Lescure."
+      "title": "L’info du jour | 9 avril 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/04/09/linfo-du-jour-9-avril-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 avril 2026 - Mi-journée",
