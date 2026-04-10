@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-04-10T15:41:00Z",
+  "updated_at": "2026-04-10T16:39:28Z",
   "articles": [
+    {
+      "title": "L’inflation bondit aux Etats-Unis : les Américains reçoivent la facture amère de la guerre en Iran de Donald Trump",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/10/l-inflation-bondit-aux-etats-unis-les-americains-recoivent-la-facture-amere-de-la-guerre-en-iran-de-donald-trump_6679066_3234.html",
+      "summary": "Selon les données officielles publiées vendredi, la hausse des prix a fortement accéléré en mars aux Etats-Unis, à 3,3 % sur un an, en raison de l’envolée des prix à la pompe."
+    },
     {
       "title": "Etats-Unis : l’inflation grimpe à 3,3 % en mars, portée par la flambée des prix de l’essence liée à la guerre au Moyen-Orient",
       "url": "https://www.lemonde.fr/international/article/2026/04/10/etats-unis-l-inflation-grimpe-a-3-3-en-mars-portee-par-la-flambee-des-prix-de-l-essence-liee-a-la-guerre-au-moyen-orient_6679012_3210.html",
       "summary": "L’exécutif américain, élu notamment sur la promesse de redresser le pouvoir d’achat, assure que les perturbations économiques sur le sol national seront temporaires."
+    },
+    {
+      "title": "Le Club : Marché obligataire, une forte volatilité - 10/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-marche-obligataire-une-forte-volatilite-10-04_VN-202604100699.html",
+      "summary": "Ce vendredi 10 avril, Thierry Le Clercq, président de Alphajet Fair Investors, et Alexandre Taieb, analyste et gérant chez Sycomore AM, se sont penchés sur le retour au calme des marchés et les secteurs impactés suite à l'accord de cessez-le-feu au Moyen-Orient, la volatilité du marché obligataire, les bons résultats de TSMC au T1, la belle croissance de Brunello Cucinelli, ainsi que le pari de nos experts sur les marchés boursiers, dans l'émission BFM Bourse présentée par Antoine Larigaudrie. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/qSy02yjKguZCJIg3UxV_JqIrwy0=/0x0:1280x720/800x0/images/Le-Club-Marche-obligataire-une-forte-volatilite-10-04-2268262.jpg\" />"
     },
     {
       "title": "Tech Stocks : Le bitcoin montre une grande résilience – 10/04",
@@ -52,24 +62,19 @@
       "summary": "Ce vendredi 10 avril, Thierry Gautier, directeur général de GSD Gestion, s'est penché sur TSMC dépassant ses attentes au T1 en termes de chiffre d'affaires, la chute libre de Sodexo après son avertissement sur l'abaissement des prévisions de résultat, Brunello Cucinelli suscitant l'espoir dans le secteur du luxe, la baisse des livraisons de Porsche au T1, le retour au calme des marchés boursiers, la forte croissance de Robertet en 2025, ainsi que Pernod Ricard concurrencé par Brown-Forman, dans l'émission BFM Bourse présentée par Antoine Larigaudrie. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/rjsCrRF0V3MvQsKO6T_KSbABMnA=/0x0:1280x720/800x0/images/Sodexo-Cuccinnelli-Porsche-Robertet-Pernod-Ricard-TSMC-10-04-2268218.jpg\" />"
     },
     {
-      "title": "\"Souffrance au travail, conditions matérielles dégradées, agressions\": des agents des finances publiques manifestent alors que s'ouvre la campagne de l'impôt sur le revenu",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/souffrance-au-travail-conditions-materielles-degradees-agressions-des-agents-des-finances-publiques-manifestent-alors-que-s-ouvre-la-campagne-de-l-impot-sur-le-revenu_AD-202604100613.html",
-      "summary": "Le ministre de l'Action et des Comptes publics, David Amiel, s'est rendu vendredi dans l'Oise à l'occasion du lancement de la campagne de déclaration des revenus 2025, sur fond de grogne d'agents des finances publiques concernant leurs conditions de travail. <br /><br /><img src=\"https://images.bfmtv.com/6ic_degb6IRFCUShCqHW_LGlfHU=/0x106:2048x1258/800x0/images/Avis-d-impot-2066535.jpg\" />"
-    },
-    {
-      "title": "USA Today : Les indicateurs impactés (ou non) par la guerre en Iran, par John Plassard – 10/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-les-indicateurs-impactes-ou-non-par-la-guerre-en-iran-par-john-plassard-10-04_EN-202604100610.html",
-      "summary": "Ce vendredi 10 avril, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la forte accélération de l'inflation américaine en mars, les négociations sous haute tension entre les États-Unis et l'Iran avec le cessez-le-feu deux semaines, l'alerte de la Maison Blanche vis-à-vis de son personnel concernant le délit d'initié, le dépassement des attentes en termes de chiffre d'affaires au T1 pour TSMC, ainsi qu'Anthropic envisageant de concevoir ses propres puces IA. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Antoine Larigaudrie sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
-    },
-    {
-      "title": "USA Today : Les indicateurs impactés (ou non) par la guerre en Iran, par John Plassard - 10/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-les-indicateurs-impactes-ou-non-par-la-guerre-en-iran-par-john-plassard-10-04_VN-202604100612.html",
-      "summary": "Ce vendredi 10 avril, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la forte accélération de l'inflation américaine en mars, les négociations sous haute tension entre les États-Unis et l'Iran avec le cessez-le-feu deux semaines, l'alerte de la Maison Blanche vis-à-vis de son personnel concernant le délit d'initié, le dépassement des attentes en termes de chiffre d'affaires au T1 pour TSMC, ainsi qu'Anthropic envisageant de concevoir ses propres puces IA. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Antoine Larigaudrie sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/Dlu77tRxGjvesvPUIMN4k4hOfFA=/0x0:1280x720/800x0/images/USA-Today-Les-indicateurs-impactes-ou-non-par-la-guerre-en-Iran-par-John-Plassard-10-04-2268189.jpg\" />"
+      "title": "Négociations entre Washington et Téhéran : les Etats-Unis sous la pression de l'inflation causée par la guerre au Moyen-Orient",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/negociations-entre-washington-et-teheran-les-etats-unis-sous-la-pression-de-l-inflation-causee-par-la-guerre-au-moyen-orient_7929167.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'inflation s'est fortement accélérée le mois dernier aux États-Unis, à 3,3% sur un an, reflétant l'envolée des prix à la pompe consécutive à la guerre au Moyen-Orient."
     },
     {
       "title": "\"Entre 700 et 800 euros par mois d'économies d'énergie\" : face aux prix du gaz, de nombreux boulangers passent au four électrique",
       "url": "https://www.franceinfo.fr/economie/entre-700-et-800-euros-par-mois-d-economies-d-energie-face-aux-prix-du-gaz-de-nombreux-boulangers-passent-au-four-electrique_7929029.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Dès le 1er mai, le prix du gaz augmentera de plus 15 %, ce qui, outre les familles, impacte aussi les artisans et notamment les boulangers. Leur facture a déjà considérablement augmenté ces dernières années, si bien que certains d'entre eux font le choix de l'électrique, en s'équipant de nouveaux fours. Nous avons suivi Aurélien, boulanger à Montreuil-sur-Mer, dans le Pas-de-Calais."
+    },
+    {
+      "title": "L’info du jour | 10 avril 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/04/10/linfo-du-jour-10-avril-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "\"Les impôts m’ont demandé pourquoi je n’avais rien déclaré\" : un ex-otage face à l'administration",
