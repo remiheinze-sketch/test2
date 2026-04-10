@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-04-10T12:44:57Z",
+  "updated_at": "2026-04-10T14:11:11Z",
   "articles": [
+    {
+      "title": "Etats-Unis : l’inflation grimpe à 3,3 % en mars, portée par la flambée des prix de l’essence liée à la guerre au Moyen-Orient",
+      "url": "https://www.lemonde.fr/international/article/2026/04/10/etats-unis-l-inflation-grimpe-a-3-3-en-mars-portee-par-la-flambee-des-prix-de-l-essence-liee-a-la-guerre-au-moyen-orient_6679012_3210.html",
+      "summary": "L’exécutif américain, élu notamment sur la promesse de redresser le pouvoir d’achat, assure que les perturbations économiques sur le sol national seront temporaires."
+    },
+    {
+      "title": "\"Souffrance au travail, conditions matérielles dégradées, agressions\": des agents des finances publiques manifestent alors que s'ouvre la campagne de l'impôt sur le revenu",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/souffrance-au-travail-conditions-materielles-degradees-agressions-des-agents-des-finances-publiques-manifestent-alors-que-s-ouvre-la-campagne-de-l-impot-sur-le-revenu_AD-202604100613.html",
+      "summary": "Le ministre de l'Action et des Comptes publics, David Amiel, s'est rendu vendredi dans l'Oise à l'occasion du lancement de la campagne de déclaration des revenus 2025, sur fond de grogne d'agents des finances publiques concernant leurs conditions de travail. <br /><br /><img src=\"https://images.bfmtv.com/6ic_degb6IRFCUShCqHW_LGlfHU=/0x106:2048x1258/800x0/images/Avis-d-impot-2066535.jpg\" />"
+    },
+    {
+      "title": "USA Today : Les indicateurs impactés (ou non) par la guerre en Iran, par John Plassard – 10/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-les-indicateurs-impactes-ou-non-par-la-guerre-en-iran-par-john-plassard-10-04_EN-202604100610.html",
+      "summary": "Ce vendredi 10 avril, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la forte accélération de l'inflation américaine en mars, les négociations sous haute tension entre les États-Unis et l'Iran avec le cessez-le-feu deux semaines, l'alerte de la Maison Blanche vis-à-vis de son personnel concernant le délit d'initié, le dépassement des attentes en termes de chiffre d'affaires au T1 pour TSMC, ainsi qu'Anthropic envisageant de concevoir ses propres puces IA. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Antoine Larigaudrie sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+    },
+    {
+      "title": "USA Today : Les indicateurs impactés (ou non) par la guerre en Iran, par John Plassard - 10/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-les-indicateurs-impactes-ou-non-par-la-guerre-en-iran-par-john-plassard-10-04_VN-202604100612.html",
+      "summary": "Ce vendredi 10 avril, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la forte accélération de l'inflation américaine en mars, les négociations sous haute tension entre les États-Unis et l'Iran avec le cessez-le-feu deux semaines, l'alerte de la Maison Blanche vis-à-vis de son personnel concernant le délit d'initié, le dépassement des attentes en termes de chiffre d'affaires au T1 pour TSMC, ainsi qu'Anthropic envisageant de concevoir ses propres puces IA. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Antoine Larigaudrie sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/Dlu77tRxGjvesvPUIMN4k4hOfFA=/0x0:1280x720/800x0/images/USA-Today-Les-indicateurs-impactes-ou-non-par-la-guerre-en-Iran-par-John-Plassard-10-04-2268189.jpg\" />"
+    },
+    {
+      "title": "Les États-Unis paient les conséquences de la guerre: l'inflation bondit à 3,3% sur un an, les prix de l'énergie enregistrent la plus forte hausse depuis 2005",
+      "url": "https://www.bfmtv.com/economie/international/les-etats-unis-paient-les-consequences-de-la-guerre-l-inflation-bondit-a-3-3-sur-un-an-les-prix-de-l-energie-enregistrent-la-plus-forte-hausse-depuis-2005_AD-202604100571.html",
+      "summary": "L'inflation aux États-Unis s'élève à 0,9% sur le seul mois de mars, sous l’effet d’une flambée de 10,9% des coûts de l’énergie, soit la plus forte hausse depuis 2005. <br /><br /><img src=\"https://images.bfmtv.com/L9a7gPIuyFL6BMRifdlkC-Rk8To=/0x212:2048x1364/800x0/images/Donald-Trump-drapeau-americain-2219721.jpg\" />"
+    },
     {
       "title": "Eurosatory, vitrine de la guerre moderne",
       "url": "https://www.bfmtv.com/economie/video-eurosatory-vitrine-de-la-guerre-moderne_VN-202604100534.html",
@@ -10,26 +35,6 @@
       "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 10 avril",
       "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-10-avril_EN-202604100470.html",
       "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 10 avril",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-10-avril_VN-202604100481.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/n3ffSYAcT9fBx2f-0pucsY73T90=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-10-avril-2268090.jpg\" />"
-    },
-    {
-      "title": "L'inflation : le grand sujet dans les semaines à venir - 10/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-inflation-le-grand-sujet-dans-les-semaines-a-venir-10-04_EN-202604100465.html",
-      "summary": "Ce vendredi 10 avril, Christopher Dembik a cité l'inflation en France, le prix à la production aux États-Unis et l'estimation du PIB chinois au premier trimestre de l'année 2026 parmi les principales annonces économiques de la semaine prochaine, dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "L'inflation : le grand sujet dans les semaines à venir - 10/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-inflation-le-grand-sujet-dans-les-semaines-a-venir-10-04_VN-202604100464.html",
-      "summary": "Ce vendredi 10 avril, Christopher Dembik a cité l'inflation en France, le prix à la production aux États-Unis et l'estimation du PIB chinois au premier trimestre de l'année 2026 parmi les principales annonces économiques de la semaine prochaine, dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/2RBkFb2mMFo1r70kk-9D6VcLqKc=/0x0:1280x720/800x0/images/L-inflation-le-grand-sujet-dans-les-semaines-a-venir-10-04-2268072.jpg\" />"
-    },
-    {
-      "title": "Iran : un choc durable sur la croissance",
-      "url": "https://www.bfmtv.com/economie/video-iran-un-choc-durable-sur-la-croissance_VN-202604100437.html",
-      "summary": "Le plateau des experts est revenu sur l'impact de la guerre en iran. Thomas Grebin souligne que les infrastructures touchées par la guerre vont avoir un impact sur le prix du pétrole, et donc sur le PIB.<br /><br /><img src=\"https://images.bfmtv.com/8RW_V8Yi5ka1TJ8-I3-ZDw-NLPw=/0x0:1280x720/800x0/images/Iran-un-choc-durable-sur-la-croissance-2268053.jpg\" />"
     },
     {
       "title": "On a demandé à ChatGPT de nous aider avec la déclaration d'impôts… et ce n'est pas forcément une bonne idée",
@@ -69,11 +74,6 @@
     {
       "title": "L’info du jour | 8 avril 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/04/08/linfo-du-jour-8-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 8 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/08/linfo-du-jour-8-avril-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
