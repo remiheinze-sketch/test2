@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T10:06:39Z",
+  "updated_at": "2026-04-14T11:51:23Z",
   "articles": [
     {
       "title": "Jean-Marc Jancovici : « La hausse des prix à la pompe n’est qu’un apéritif par rapport à ce qui pourrait advenir si la décarbonation n’est pas gérée »",
@@ -22,6 +22,11 @@
       "summary": "Elu le 22 mars, l’édile d’extrême droite va retirer les budgets de la mairie consacrés au Groupe La Dépêche du Midi et à ses trois titres locaux."
     },
     {
+      "title": "Europe : faut il craindre la stagflation ?",
+      "url": "https://www.bfmtv.com/economie/video-europe-faut-il-craindre-la-stagflation_VN-202604140440.html",
+      "summary": "Pour Frédéric Loisel, le conflit en Iran va amener de la stagflation. Il explique que le marché prévoit que les coûts engendrés par la crise iranienne ce qui risquent d'avoir un impact sur la croissance, qui risque de stagner<br /><br /><img src=\"https://images.bfmtv.com/5qYirlYw_q7LHEiTHq9O7GrWXOE=/0x0:1280x720/800x0/images/Europe-faut-il-craindre-la-stagflation-2269953.jpg\" />"
+    },
+    {
       "title": "La boîte à outils : Déclaration d'impôts, la saison est ouverte - 14/04",
       "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-boite-a-outils-declaration-d-impots-la-saison-est-ouverte-14-04_EN-202604140413.html",
       "summary": "Ce mardi 14 avril, Antoine Larigaudrie a reçu Christian Fontaine, directeur de la rédaction du magazine Le Revenu, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/c8CA1F63_MIRKyZRpD3guotSYrk=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_3.jpg\" />"
@@ -32,11 +37,6 @@
       "summary": "Ce mardi 14 avril, Antoine Larigaudrie a reçu Christian Fontaine, directeur de la rédaction du magazine Le Revenu, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/qP3ZXWXB7RlM9TXsAibpn15xRns=/0x0:1280x720/800x0/images/La-boite-a-outils-Declaration-d-impots-la-saison-est-ouverte-14-04-2269939.jpg\" />"
     },
     {
-      "title": "Le face à face : Faut-il craindre une stagflation ? - 14/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-face-a-face-faut-il-craindre-une-stagflation-14-04_VN-202604140344.html",
-      "summary": "Ce mardi 14 avril, Maxime Darmet, économiste senior chez Allianz Trade, et Frédéric Loisel, fund manager chez Quaero Capital, ont parlé des risques de stagflation au sein de la zone euro et des répercussions de la crise au Moyen-Orient sur les perspectives de croissance européenne, qu'ils jugent peu satisfaisantes, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/HQu0K9lHLUcjtmHADzlsfqzALWg=/0x0:1280x720/800x0/images/Le-face-a-face-Faut-il-craindre-une-stagflation-14-04-2269889.jpg\" />"
-    },
-    {
       "title": "Hausse des prix des carburants : la France trop endettée pour copier l’Allemagne ?",
       "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/hausse-des-prix-des-carburants-la-france-trop-endettee-pour-copier-l-allemagne_7905695.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Face à la hausse des prix, l’Allemagne baisse ses taxes quand la France privilégie des aides ciblées pour préserver ses finances publiques. Un choix risqué, entre rigueur budgétaire, transition énergétique et montée possible du mécontentement social."
@@ -45,6 +45,11 @@
       "title": "Eurozapping : l'Allemagne annonce une baisse des taxes sur les carburants",
       "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/eurozapping-l-allemagne-annonce-une-baisse-des-taxes-sur-les-carburants_7936580.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du lundi 13 avril."
+    },
+    {
+      "title": "L’info du jour | 14 avril 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/04/14/linfo-du-jour-14-avril-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 14 avril 2026 - Matin",
@@ -92,9 +97,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Notre agriculture, otage de la géopolitique mondiale",
-      "url": "https://www.alternatives-economiques.fr/notre-agriculture-otage-de-la-geopolitique-mondiale/00118294",
-      "summary": "<p>La dépendance de l’agriculture à une énergie fossile fortement soumise aux turbulences internationales met en péril l’économie des fermes, leur capacité à produire… et à nous nourrir. Or des solutions existent.</p>"
+      "title": "Les inégalités plombent la croissance, et ça se voit à l'œil nu",
+      "url": "https://www.alternatives-economiques.fr/les-inegalites-plombent-la-croissance-et-ca-se-voit-a-loeil-nu/00118310",
+      "summary": "<p>L’envolée des revenus financiers des riches se traduit par un taux d’épargne élevé, ce qui freine la croissance. Si le mécanisme est connu, il est rare de pouvoir l’observer de façon si nette, pointe l’économiste Michaël Zemmour.</p>"
     }
   ]
 }
