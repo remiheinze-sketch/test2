@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-14T15:05:10Z",
+  "updated_at": "2026-04-14T16:54:33Z",
   "articles": [
+    {
+      "title": "Rémunérations dans la fonction publique : un chantier déjà mal engagé",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/14/remunerations-dans-la-fonction-publique-un-chantier-deja-mal-engage_6679962_823448.html",
+      "summary": "En l’absence de réponse du gouvernement concernant des mesures salariales immédiates, l’ensemble des syndicats de la fonction publique a quitté, lundi 13 avril, la réunion de lancement du chantier voulu par le ministre du budget, David Amiel, sur les carrières et les rémunérations des agents publics."
+    },
     {
       "title": "« La liberté diplomatique de l’Espagne n’est pas seulement politique, elle est énergétique »",
       "url": "https://www.lemonde.fr/idees/article/2026/04/14/la-liberte-diplomatique-de-l-espagne-n-est-pas-seulement-politique-elle-est-energetique_6679941_3232.html",
@@ -12,9 +17,9 @@
       "summary": "Le Fonds monétaire international s’attend à un ralentissement de la croissance et à une accélération de l’inflation, face à « la plus grande crise énergétique de l’époque moderne »."
     },
     {
-      "title": "Jean-Marc Jancovici : « La hausse des prix à la pompe n’est qu’un apéritif par rapport à ce qui pourrait advenir si la décarbonation n’est pas gérée »",
-      "url": "https://www.lemonde.fr/planete/article/2026/04/14/jean-marc-jancovici-la-hausse-des-prix-a-la-pompe-n-est-qu-un-aperitif-par-rapport-a-ce-qui-pourrait-advenir-si-la-decarbonation-n-est-pas-geree_6679882_3244.html",
-      "summary": "Le président du centre de réflexion The Shift Project, qui publie son Plan robuste pour l’économie française, estime que les citoyens ne perçoivent pas encore suffisamment les bénéfices qu’ils pourraient tirer d’une sortie des énergies fossiles."
+      "title": "Bercy vise toujours un déficit à 5% mais baisse sa prévision de croissance à 0,9% pour 2026 et relève celle d'inflation de 1,3% à 1,9%",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/bercy-baisse-sa-prevision-de-croissance-a-0-9-pour-2026-et-releve-celle-d-inflation-a-1-9-mais-maintient-la-trajectoire-de-deficit-public-a-5_AD-202604140666.html",
+      "summary": "Le gouvernement français a abaissé légèrement sa prévision de croissance à 0,9% en 2026, contre 1% auparavant, en raison de la situation économique liée à la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/0rvT2Axi5pAXxM5zmhqb55hno90=/0x0:1456x819/800x0/images/Amiel-2260616.jpg\" />"
     },
     {
       "title": "L'éco du monde : Le FMI actualise ses prévisions économiques mondiales – 14/04",
@@ -27,9 +32,14 @@
       "summary": "Ce mardi 14 avril, Victor Lequillerier, économiste et vice-président du Think Tank \"BSI Economics\", a abordé les prix à la production aux États-Unis plus bas que prévu, la Chine entravée par le blocus américain à Ormuz, et la baisse des prévisions du FMI sur la croissance économique mondiale, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/GSeAyhtZ4T6RDMVuXyHDV6CWCJ4=/0x0:1280x720/800x0/images/L-eco-du-monde-Le-FMI-actualise-ses-previsions-economiques-mondiales-14-04-2270073.jpg\" />"
     },
     {
-      "title": "L'inflation de la zone euro va bondir de 2,1 à 2,6% cette année: le FMI prévoit que la croissance du bloc va finalement ralentir à 1,1% à cause de la guerre au Moyen-Orient",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-inflation-de-la-zone-euro-va-bondir-de-2-1-a-2-6-cette-annee-le-fmi-prevoit-que-la-croissance-du-bloc-va-finalement-ralentir-a-1-1-a-cause-de-la-guerre-au-moyen-orient_AV-202604140573.html",
-      "summary": "Le bloc monétaire, qui importe la majeure partie de son énergie, est particulièrement vulnérable à la flambée des coûts énergétiques, d'autant plus que la guerre menée par la Russie en Ukraine a déjà mis à rude épreuve l'accès du bloc aux ressources essentielles.<br /><br /><img src=\"https://images.bfmtv.com/AhfC317BPzQ7NZM2L1OKaoa1Acc=/0x17:800x467/800x0/images/1239334.jpg\" />"
+      "title": "La France revoit à la hausse ses prévisions d'inflation à 1,9% pour 2026 et anticipe une croissance plus faible que prévu",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-france-revoit-a-la-hausse-ses-previsions-d-inflation-a-1-9-pour-2026-et-anticipe-une-croissance-plus-faible-que-prevu_7937324.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le gouvernement compte malgré tout maintenir sa trajectoire budgétaire de déficit public à 5%."
+    },
+    {
+      "title": "L’info du jour | 14 avril 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/04/14/linfo-du-jour-14-avril-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 14 avril 2026 - Mi-journée",
