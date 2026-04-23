@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-23T18:54:47Z",
+  "updated_at": "2026-04-23T20:06:31Z",
   "articles": [
+    {
+      "title": "En Allemagne, les espoirs de reprise économique s’éloignent",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/23/en-allemagne-les-espoirs-de-reprise-economique-s-eloignent_6682853_3234.html",
+      "summary": "Le gouvernement a divisé par deux sa prévision de croissance pour 2026, à 0,5 %. La dépense publique reste le seul soutien réel à l’activité. Et les milieux patronaux critiquent l’action du gouvernement."
+    },
     {
       "title": "Le gouvernement a présenté son plan d’électrification de l’économie : MaPrimeRénov’ ne concernera plus les rénovations qui conservent un chauffage au gaz",
       "url": "https://www.lemonde.fr/economie/article/2026/04/23/le-dispositif-maprimerenov-ne-concernera-plus-les-renovations-qui-conservent-un-chauffage-au-gaz-annonce-le-gouvernement-dans-son-plan-d-electrification_6682789_3234.html",
@@ -17,14 +22,19 @@
       "summary": "Alors que le site de Saint-Nazaire subit une forte baisse de son activité de maintenance de camions militaires, celui de Limoges se prépare à accueillir une commande de 7 000 poids lourds."
     },
     {
+      "title": "Charles Beigbeder (Audacia) : NewSpace, l'économie à la conquête du cosmos - 23/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-charles-beigbeder-audacia-new-space-l-economie-a-la-conquete-du-cosmos-23-04_VN-202604230879.html",
+      "summary": "Charles Beigbeder, entrepreneur et président d'Audacia, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce jeudi 23 avril. Il s'est penché sur le livre \"Newspace : l'économie à la conquête du Cosmos\" dont il est l'auteur et la course à l'espace sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/HBEgz-sNVPwmrnsHUN0zhvM1mmk=/0x0:1280x720/800x0/images/Charles-Beigbeder-Audacia-NewSpace-l-economie-a-la-conquete-du-cosmos-23-04-2275257.jpg\" />"
+    },
+    {
+      "title": "Charles Beigbeder, entrepreneur et président d'Audacia – 23/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/charles-beigbeder-entrepreneur-et-president-d-audacia-23-04_EN-202604230874.html",
+      "summary": "Charles Beigbeder, entrepreneur et président d'Audacia, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce jeudi 23 avril. Il s'est penché sur le livre \"Newspace : l'économie à la conquête du Cosmos\" dont il est l'auteur sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/3dDHtuVlvhhFTdVC0XH5ti156Jw=/0x0:14000x14000/800x0/podcast/podcasts/principale-77_1.jpg\" />"
+    },
+    {
       "title": "Le climat des affaires au plus mal en France",
       "url": "https://www.bfmtv.com/economie/video-le-climat-des-affaires-au-plus-mal-en-france_VN-202604230760.html",
       "summary": "Bertrand Dumazy est revenu sur le climat des affaires. Il explique que le taux de chômage augmente en Europe et que l'inflation induise par le conflit au proche orient dégradent les économies du vieux continent.<br /><br /><img src=\"https://images.bfmtv.com/T0b1PN5xhsK8tdVmY4rfcSS9vZ8=/0x0:1280x720/800x0/images/Le-climat-des-affaires-au-plus-mal-en-France-2275160.jpg\" />"
-    },
-    {
-      "title": "Le Club : \"Wall Street double l'Europe et bat de nouveaux records\" - 23/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-wall-street-double-l-europe-et-bat-de-nouveaux-records-23-04_VN-202604230656.html",
-      "summary": "Ce jeudi 23 avril, Bertrand Puiffe, gérant action chez Fidelity International, et Henri Chabadel, CIO de BlackRock France, se sont penchés sur Wall Street qui double l'Europe sur l'année 2026 et bat de nouveaux records, l'activité du privé qui se contracte dans la zone euro, l'Allemagne qui abaisse sa prévision de croissance, la résistance des marchés malgré l'escalade en Iran, ainsi que le retour en force de la tech sur les marchés, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/GZWjcmQLg-QfDbwKO74dXtssLY0=/0x0:1280x720/800x0/images/Le-Club-Wall-Street-double-l-Europe-et-bat-de-nouveaux-records-23-04-2275076.jpg\" />"
     },
     {
       "title": "Par stress ou par ennui, plus de la moitié des Espagnols achètent des choses dont ils n'ont pas besoin",
