@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-30T10:45:37Z",
+  "updated_at": "2026-04-30T12:07:40Z",
   "articles": [
+    {
+      "title": "« A elle seule, Céline Dion rapportera l’équivalent d’un cinquième des retombées économiques des JO de Paris »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/30/a-elle-seule-celine-dion-rapportera-l-equivalent-d-un-cinquieme-des-retombees-economiques-des-jo-de-paris_6684583_3232.html",
+      "summary": "La série de concerts prévus à l’automne de la star québécoise pourrait rapporter jusqu’à 1 milliard d’euros à l’économie française, selon une étude de Natixis, explique Béatrice Madeline, journaliste au « Monde », dans sa chronique."
+    },
     {
       "title": "Appel à témoignages : vous roulez au diesel, vous vous chauffez au fioul ou au gaz, et vous ressentez l’impact de la hausse des prix de l’énergie ? Racontez-nous",
       "url": "https://www.lemonde.fr/economie/appel-temoignages/2026/04/30/appel-a-temoignages-vous-roulez-au-diesel-vous-vous-chauffez-au-fioul-ou-au-gaz-et-vous-ressentez-l-impact-de-la-hausse-des-prix-de-l-energie-racontez-nous_6684575_3234.html",
@@ -30,6 +35,11 @@
       "title": "La productivité comme antidote au décrochage de l’Europe",
       "url": "https://www.lemonde.fr/idees/article/2026/04/29/la-productivite-comme-antidote-au-decrochage-de-l-europe_6684309_3232.html",
       "summary": "Dans son ouvrage « La Prospérité retrouvée », l’économiste Antonin Bergeaud propose une voie pour retrouver le chemin de la croissance sans sacrifier le modèle social et environnemental européen."
+    },
+    {
+      "title": "Une croissance ahurissante de 13,7% au 1er trimestre: grâce à son géant des puces TSMC, l'économie de Taïwan enregistre son plus grand bond depuis 1987",
+      "url": "https://www.bfmtv.com/economie/international/une-croissance-ahurissante-de-13-7-au-1er-trimestre-grace-a-son-geant-des-puces-tsmc-l-economie-de-taiwan-enregistre-son-plus-grand-bond-depuis-1987_AD-202604300509.html",
+      "summary": "Portée par la demande mondiale en IA et le rôle central de TSMC, l’économie de Taiwan a bondi de 13,7 % au T1 2026 —un record depuis 1987— malgré les tensions au Moyen-Orient, illustrant une croissance forte mais très dépendante du secteur des semi-conducteurs.<br /><br /><img src=\"https://images.bfmtv.com/uC8R9W8McOh3viPYgdX-MpKbfTY=/0x0:2048x1152/800x0/images/Kaohsiung-Taiwan-2206403.jpg\" />"
     },
     {
       "title": "Cette fois c'est la France qui plombe l'Europe avec son 0%: la croissance de la zone euro bloquée à 0,1% au premier trimestre mais l'Espagne à 0,6% et l'Allemagne à 0,3% s'en sortent",
@@ -67,79 +77,19 @@
       "summary": "Le Produit intérieur brut (PIB) en volume est resté stable au premier trimestre 2026, ce qui signifie qu'il n'a pas crû par rapport au trimestre précédent (0,0% contre 0,2% au dernier trimestre 2025), a annoncé l'Insee ce jeudi 30 avril dans une première estimation, en raison d'une demande intérieure \"atone\", et d'une contribution du commerce extérieur \"fortement négative\".<br /><br /><img src=\"https://images.bfmtv.com/RYbSrOBzgTGj973w33FDBKlgZSw=/0x0:1280x720/800x0/images/La-croissance-cale-a-0-au-premier-trimestre-alors-que-la-Banque-de-France-prevoyait-0-3-2278662.jpg\" />"
     },
     {
-      "title": "\"Nous continuons de caracoler en tête\": contrairement à la France qui est à 0%, l'Espagne enregistre \"une croissance solide\" à 0,6% au premier trimestre",
-      "url": "https://www.bfmtv.com/economie/international/nous-continuons-de-caracoler-en-tete-contrairement-a-la-france-qui-est-a-0-l-espagne-enregistre-une-croissance-solide-a-0-6-au-premier-trimestre_AV-202604300325.html",
-      "summary": "La quatrième économie de la zone euro continue sa marche en avant, même si la Banque d'Espagne s'attend à un \"ralentissement significatif\" dans les mois à venir à cause de la guerre au Moyen-Orient. <br /><br /><img src=\"https://images.bfmtv.com/cgsBx3_2dPv84aOQC_Eex0lhdpQ=/0x108:2048x1260/800x0/images/x-2266186.jpg\" />"
+      "title": "Flambée du prix des carburants : l'Allemagne baisse sa taxe de 17 centimes par litre",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/flambee-du-prix-des-carburants-l-allemagne-baisse-sa-taxe-de-17-centimes-par-litre_7974302.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Face à la hausse des prix, Berlin a décidé d'alléger temporairement ses taxes, bien que les économistes demandaient des aides ciblées pour préserver les finances publiques."
+    },
+    {
+      "title": "La croissance française est nulle au premier trimestre 2026",
+      "url": "https://www.franceinfo.fr/economie/croissance/la-croissance-francaise-est-nulle-au-premier-trimestre-2026_7974296.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Ce résultat s'explique par une demande intérieure \"atone\" et une contribution du commerce extérieur \"fortement négative\", selon l'Insee."
     },
     {
       "title": "La région Bourgogne-Franche-Comté supprime 1 700 places de formation en raison de la baisse du budget alloué par l'État",
       "url": "https://www.franceinfo.fr/economie/budget/la-region-bourgogne-franche-comte-supprime-1-700-places-de-formation-en-raison-de-la-baisse-du-budget-alloue-par-l-etat_7974002.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Un nouvel effort financier de plus de 40 millions d'euros est imposé à la collectivité en 2026. Toutefois, la région va maintenir la gratuité des transports scolaires et la tarification avantageuse de la restauration scolaire."
-    },
-    {
-      "title": "Plus de trois mois de grève à la poudrerie Eurenco, en Dordogne, la CGT demande l'intervention de la ministre des Armées",
-      "url": "https://www.franceinfo.fr/economie/industrie/plus-de-trois-mois-de-greve-a-la-poudrerie-eurenco-en-dordogne-la-cgt-demande-l-intervention-de-la-ministre-des-armees_7973975.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Mobilisés depuis fin janvier, les salariés d'Eurenco, près de Bergerac, réclament une hausse de leur salaire de 130 euros brut par mois en raison de la forte croissance du groupe dans le contexte de réarmement."
-    },
-    {
-      "title": "L'inflation en France s'élève à 2,2% sur un an en avril, poussée par la hausse rapide des prix de l'énergie",
-      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-s-eleve-a-2-2-sur-un-an-en-avril-poussee-par-la-hausse-rapide-des-prix-de-l-energie_7973981.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'augmentation des prix s'établissait en mars à 1,7% sur un an. Elle s'explique par une augmentation des prix des services, notamment des transports et de l'hébergement, et surtout par une forte hausse des prix de l'énergie."
-    },
-    {
-      "title": "L’info du jour | 30 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 30 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Vacances d'été : les Français privilégient l'Hexagone face à la crise géopolitique et l'inflation",
-      "url": "http://fr.euronews.com/voyages/2026/04/29/vacances-dete-les-francais-privilegient-lhexagone-face-a-la-crise-geopolitique-et-linflati",
-      "summary": "Dans un contexte marqué les tensions internationales, l’inflation et la hausse des coûts de transport, les Français prévoient de moins voyager cet été et de réduire leurs dépenses, selon une étude Ifop pour l’Alliance France Tourisme."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/27/linfo-du-jour-27-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/27/linfo-du-jour-27-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Déficit public : la bonne surprise de 2025 peut-elle se reproduire en 2026 ?",
