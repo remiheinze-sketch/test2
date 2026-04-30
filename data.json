@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-04-30T08:02:58Z",
+  "updated_at": "2026-04-30T10:45:37Z",
   "articles": [
+    {
+      "title": "Appel à témoignages : vous roulez au diesel, vous vous chauffez au fioul ou au gaz, et vous ressentez l’impact de la hausse des prix de l’énergie ? Racontez-nous",
+      "url": "https://www.lemonde.fr/economie/appel-temoignages/2026/04/30/appel-a-temoignages-vous-roulez-au-diesel-vous-vous-chauffez-au-fioul-ou-au-gaz-et-vous-ressentez-l-impact-de-la-hausse-des-prix-de-l-energie-racontez-nous_6684575_3234.html",
+      "summary": "Vous subissez aujourd’hui la hausse des prix des énergies fossiles, en lien avec le conflit au Moyen-Orient, et cette situation pèse sur votre budget. Partagez votre expérience avec nous."
+    },
+    {
+      "title": "Coup de froid sur l’économie française, la croissance est en panne et l’inflation grimpe",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/30/coup-de-froid-sur-l-economie-francaise-la-croissance-fait-du-surplace-l-inflation-grimpe_6684569_3234.html",
+      "summary": "Le PIB a stagné au premier trimestre en raison d’un recul de la consommation des ménages, en baisse 0,1 %. En avril, l’inflation a atteint 2,2 % sur un an."
+    },
+    {
+      "title": "La croissance française a été nulle au premier trimestre, selon l’Insee",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/30/la-croissance-francaise-est-restee-stable-au-premier-trimestre-selon-l-insee_6684568_3234.html",
+      "summary": "Le PIB « marque le pas » après avoir augmenté de 0,2 % au quatrième trimestre 2025, selon une première estimation. En avril, l’inflation a atteint 2,2 % sur un an, une hausse qui s’explique par une forte accélération des prix de l’énergie."
+    },
     {
       "title": "« Le travail entrepreneurial » : plongée dans les cercles de dirigeants, où l’on apprend à « faire patronat »",
       "url": "https://www.lemonde.fr/emploi/article/2026/04/30/le-travail-entrepreneurial-plongee-dans-les-cercles-de-dirigeants-ou-l-on-apprend-a-faire-patronat_6684545_1698637.html",
@@ -15,6 +30,31 @@
       "title": "La productivité comme antidote au décrochage de l’Europe",
       "url": "https://www.lemonde.fr/idees/article/2026/04/29/la-productivite-comme-antidote-au-decrochage-de-l-europe_6684309_3232.html",
       "summary": "Dans son ouvrage « La Prospérité retrouvée », l’économiste Antonin Bergeaud propose une voie pour retrouver le chemin de la croissance sans sacrifier le modèle social et environnemental européen."
+    },
+    {
+      "title": "Cette fois c'est la France qui plombe l'Europe avec son 0%: la croissance de la zone euro bloquée à 0,1% au premier trimestre mais l'Espagne à 0,6% et l'Allemagne à 0,3% s'en sortent",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/cette-fois-c-est-la-france-qui-plombe-l-europe-avec-son-0-la-croissance-de-la-zone-euro-bloquee-a-0-1-au-premier-trimestre-mais-l-espagne-a-0-6-et-l-allemagne-a-0-3-s-en-sortent_AD-202604300414.html",
+      "summary": "Plombée par le conflit au Moyen-Orient et une consommation en repli, la zone euro stagne à 0,1% de croissance au premier trimestre de 2026. La France fait partie des mauvais élèves, avec une économie qui n'a pas du tout augmenté sur les trois premiers mois.<br /><br /><img src=\"https://images.bfmtv.com/I-qlkurQiUkkdGTY-1nAiamxHf4=/8x1:2040x1144/800x0/images/Banque-centrale-europeenne-BCE-Francfort-2245386.jpg\" />"
+    },
+    {
+      "title": "La croissance est meilleure qu'attendu en Allemagne à 0,3%, mais le chômage reste au plus haut depuis plus de dix ans",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/la-croissance-est-meilleure-qu-attendu-en-allemagne-a-0-3-mais-le-chomage-reste-au-plus-haut-depuis-2015_AV-202604300377.html",
+      "summary": "Entre janvier et mars, le PIB allemand a grimpé de 0,3% par rapport au dernier trimestre 2025, selon une estimation provisoire. Très attendue, la reprise économique risque toutefois d'être freinée dans les prochains mois par les conséquences de la guerre au Moyen-Orient. <br /><br /><img src=\"https://images.bfmtv.com/PA41lkMpotUw1FYchHbRWVCClEQ=/0x83:2048x1235/800x0/images/Friedrich-Merz-2189755.jpg\" />"
+    },
+    {
+      "title": "Une croissance hors-norme pour un pays riche qui pourrait atteindre 3,8%: mais comment fait Israël pour avoir une économie aussi forte (et une faible inflation) malgré la guerre?",
+      "url": "https://www.bfmtv.com/economie/international/une-croissance-hors-norme-pour-un-pays-riche-qui-pourrait-atteindre-3-8-mais-comment-fait-israel-pour-avoir-une-economie-aussi-forte-et-une-faible-inflation-malgre-la-guerre_AV-202604300363.html",
+      "summary": "La guerre au Moyen-Orient a freiné l'économie israélienne, qui reste en très grande forme. Le pays prévoit l'une des meilleurs croissances mondiales, tout en contrôlant son inflation.<br /><br /><img src=\"https://images.bfmtv.com/Vv2Aq8iCTT59o-REtzVbbuxK7ds=/0x106:2048x1258/800x0/images/OTAGE-ISRAEL-FOULE-DRAPEAUX-AMERICAIN-ET-ISRAELIEN-2153899.jpg\" />"
+    },
+    {
+      "title": "Les Experts : La FED décide de maintenir ses taux - 30/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-la-fed-decide-de-maintenir-ses-taux-30-04_VN-202604300368.html",
+      "summary": "Ce jeudi 30 avril, la décision de la FED de maintenir ses taux, l'annonce de Jerome Powell qu'il resterait gouverneur après la fin de son mandat de président, ainsi que le risque d'un choc inflationniste qui se profile dans la zone euro, ont été abordés par Christian de Boissieu, économiste et vice-président du Cercle des économistes, Laurent Vronski, directeur général d'Ervor, et Olivier Lluansi, professeur au CNAM, auteur de \"Réindustrialiser, le défi d'une génération\", dans l'émission Les Experts, présentée par Ludovic Desautez sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/cTpUpW3zTL3QPqtp9nYTf9iedHU=/0x0:1280x720/800x0/images/Les-Experts-La-FED-decide-de-maintenir-ses-taux-30-04-2278694.jpg\" />"
+    },
+    {
+      "title": "Les Experts : La FED décide de maintenir ses taux - 30/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-la-fed-decide-de-maintenir-ses-taux-30-04_EN-202604300362.html",
+      "summary": "Ce jeudi 30 avril, la décision de la FED de maintenir ses taux, l'annonce de Jerome Powell qu'il resterait gouverneur après la fin de son mandat de président, ainsi que le risque d'un choc inflationniste qui se profile dans la zone euro, ont été abordés par Christian de Boissieu, économiste et vice-président du Cercle des économistes, Laurent Vronski, directeur général d'Ervor, et Olivier Lluansi, professeur au CNAM, auteur de \"Réindustrialiser, le défi d'une génération\", dans l'émission Les Experts, présentée par Ludovic Desautez sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
     },
     {
       "title": "\"Elle pourrait être beaucoup plus forte que ça\": Michel-Édouard Leclerc juge que la croissance tricolore nulle est \"retenue\" par \"le taux d'épargne très élevé\" des Français",
@@ -32,14 +72,9 @@
       "summary": "La quatrième économie de la zone euro continue sa marche en avant, même si la Banque d'Espagne s'attend à un \"ralentissement significatif\" dans les mois à venir à cause de la guerre au Moyen-Orient. <br /><br /><img src=\"https://images.bfmtv.com/cgsBx3_2dPv84aOQC_Eex0lhdpQ=/0x108:2048x1260/800x0/images/x-2266186.jpg\" />"
     },
     {
-      "title": "L'inflation accélère encore en avril, à 2,2% sur un an (l'énergie bondit de plus de 14%)",
-      "url": "https://www.bfmtv.com/economie/economie-social/france/l-inflation-accelere-encore-en-avril-a-2-2-sur-un-an-l-energie-bondit-de-plus-de-14_AD-202604300261.html",
-      "summary": "Cette remontée de l'inflation s'explique principalement par les prix de l'énergie qui ont bondi de plus de 14% en avril. <br /><br /><img src=\"https://images.bfmtv.com/xgDGiuDUKRJYZuutnD9E47FhAXE=/0x105:2048x1257/800x0/images/inflation-2278616.jpg\" />"
-    },
-    {
-      "title": "Consommation : \"il y aura des arbitrages\"",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-consommation-il-y-aura-des-arbitrages_VN-202604300214.html",
-      "summary": "\"Sur le plan des carburants, on est en zone d'incertitude totale à partir de la fin mai. Sur cette partie là, il peut y avoir une ponction sur le budget des ménages qui va ralentir la consommation.\"<br /><br /><img src=\"https://images.bfmtv.com/BDb2KQobSbKZWbKn7wuy3fjBTMk=/0x0:1280x720/800x0/images/Consommation-il-y-aura-des-arbitrages-2278569.jpg\" />"
+      "title": "La région Bourgogne-Franche-Comté supprime 1 700 places de formation en raison de la baisse du budget alloué par l'État",
+      "url": "https://www.franceinfo.fr/economie/budget/la-region-bourgogne-franche-comte-supprime-1-700-places-de-formation-en-raison-de-la-baisse-du-budget-alloue-par-l-etat_7974002.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Un nouvel effort financier de plus de 40 millions d'euros est imposé à la collectivité en 2026. Toutefois, la région va maintenir la gratuité des transports scolaires et la tarification avantageuse de la restauration scolaire."
     },
     {
       "title": "Plus de trois mois de grève à la poudrerie Eurenco, en Dordogne, la CGT demande l'intervention de la ministre des Armées",
@@ -49,7 +84,12 @@
     {
       "title": "L'inflation en France s'élève à 2,2% sur un an en avril, poussée par la hausse rapide des prix de l'énergie",
       "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-s-eleve-a-2-2-sur-un-an-en-avril-poussee-par-la-hausse-rapide-des-prix-de-l-energie_7973981.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Elle s'établissait en mars à 1,7% sur un an. La hausse s'explique par une augmentation des prix des services, notamment des transports et de l'hébergement, et surtout par une forte hausse des prix de l'énergie (gazole, essence et combustibles liquides en particulier)."
+      "summary": "L'augmentation des prix s'établissait en mars à 1,7% sur un an. Elle s'explique par une augmentation des prix des services, notamment des transports et de l'hébergement, et surtout par une forte hausse des prix de l'énergie."
+    },
+    {
+      "title": "L’info du jour | 30 avril 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 30 avril 2026 - Matin",
@@ -100,16 +140,6 @@
       "title": "L’info du jour | 27 avril 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/04/27/linfo-du-jour-27-avril-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/27/linfo-du-jour-27-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/26/linfo-du-jour-26-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Déficit public : la bonne surprise de 2025 peut-elle se reproduire en 2026 ?",
