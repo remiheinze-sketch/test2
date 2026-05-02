@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-05-02T01:50:00Z",
+  "updated_at": "2026-05-02T04:52:02Z",
   "articles": [
-    {
-      "title": "Donald Trump annonce supprimer les droits de douane sur le whisky écossais après la visite du roi Charles III",
-      "url": "https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-supprimer-les-droits-de-douane-sur-le-whisky-ecossais-apres-la-visite-du-roi-charles-iii_6684663_3210.html",
-      "summary": "Les déclarations du président américain laissent néanmoins planer un doute. Il n’est pas clair si la levée des taxes concerne l’importation des bouteilles de whisky ou les matières premières servant à la production d’alcool dans les deux pays."
-    },
-    {
-      "title": "La BCE se dirige vers une hausse des taux d’intérêt en juin",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/30/la-banque-centrale-europeenne-se-dirige-vers-une-hausse-des-taux-d-interet-en-juin_6684656_3234.html",
-      "summary": "La BCE a maintenu son principal taux directeur jeudi, mais elle indique clairement qu’elle devra agir pour « ramener l’inflation à 2 % »."
-    },
     {
       "title": "MADE IN MONTEBOURG - Croissance française: \"On arrive dans une situation extrêmement grave, la question des salaires va être posée\", explique l'ancien ministre de l'Économie",
       "url": "https://www.bfmtv.com/economie/video-made-in-montebourg-croissance-francaise-on-arrive-dans-une-situation-extremement-grave-la-question-des-salaires-va-etre-posee-explique-l-ancien-ministre-de-l-economie_VN-202605010636.html",
@@ -100,6 +90,11 @@
       "title": "L’info du jour | 28 avril 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Il y a 250 ans, Adam Smith se méfiait déjà des capitalistes dans « La richesse des nations »",
+      "url": "https://www.alternatives-economiques.fr/il-y-a-250-ans-adam-smith-se-mefiait-deja-des-capitalistes-dans-la-rich/00118452",
+      "summary": "<p>Publié en 1776,<em> La richesse des nations </em>d’Adam Smith montre le rôle de la division du travail et de l’accumulation du capital dans l’économie moderne. Mais le philosophe en pointe aussi les conséquences sociales.</p>"
     }
   ]
 }
