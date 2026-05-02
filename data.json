@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-02T12:45:10Z",
+  "updated_at": "2026-05-02T14:04:52Z",
   "articles": [
+    {
+      "title": "Une chute de près de 15%: les exportations britanniques vers les États-Unis ont dégringolé depuis la mise en place des droits de douane de Donald Trump",
+      "url": "https://www.bfmtv.com/economie/international/une-chute-de-pres-de-15-les-exportations-britanniques-vers-les-etats-unis-ont-degringole-depuis-la-mise-en-place-des-droits-de-douane-de-donald-trump_AV-202605020233.html",
+      "summary": "Les exportations de voitures et de médicaments ne se sont pas remises de l'instauration des droits de douane américains. Le Royaume-Uni affiche désormais un déficit commercial sur les biens vis-à-vis des États-Unis. <br /><br /><img src=\"https://images.bfmtv.com/2b8w_J5NJDT4GxI9LgV5AUIrjSo=/0x111:2048x1263/800x0/images/x-2276836.jpg\" />"
+    },
     {
       "title": "Vers une perte de 15 milliards d'euros: les nouveaux droits de douane de Donald Trump sur l'automobile risquent de coûter très cher à l'Allemagne",
       "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/vers-une-perte-de-15-milliards-d-euros-les-nouveaux-droits-de-douane-de-trump-sur-l-automobile-risquent-de-couter-tres-cher-a-l-allemagne_AV-202605020163.html",
@@ -15,11 +20,6 @@
       "title": "MADE IN MONTEBOURG - Croissance française: \"On arrive dans une situation extrêmement grave, la question des salaires va être posée\", explique l'ancien ministre de l'Économie",
       "url": "https://www.bfmtv.com/economie/video-made-in-montebourg-croissance-francaise-on-arrive-dans-une-situation-extremement-grave-la-question-des-salaires-va-etre-posee-explique-l-ancien-ministre-de-l-economie_VN-202605010636.html",
       "summary": "Le Produit intérieur brut (PIB) de la France n'a pas progressé au premier trimestre (0,0% après +0,2% au 4e trimestre 2025), a annoncé jeudi l'Insee dans une première estimation, en raison d'une demande intérieure \"atone\", et d'une contribution du commerce extérieur \"fortement négative\".<br /><br /><img src=\"https://images.bfmtv.com/wiBPvwAsSBkcRVdeastZ0cCb7vE=/0x0:1280x720/800x0/images/MADE-IN-MONTEBOURG-Croissance-francaise-On-arrive-dans-une-situation-extremement-grave-la-question-des-salaires-va-etre-posee-explique-l-ancien-ministre-de-l-Economie-2279486.jpg\" />"
-    },
-    {
-      "title": "MADE IN MONTEBOURG - Taxes de 25% sur les véhicules européens: \"On arrive à un contentieux qui va s'envenimer entre les deux rives de l'Atlantique\", déclare l'ancien ministre de l'Économie",
-      "url": "https://www.bfmtv.com/economie/video-made-in-montebourg-taxes-de-25-sur-les-vehicules-europeens-on-arrive-a-un-contentieux-qui-va-s-envenimer-entre-les-deux-rives-de-l-atlantique-declare-l-ancien-ministre-de-l-economie_VN-202605010623.html",
-      "summary": "Des systèmes de défense antiaérienne sont entrés en action jeudi soir contre des petits avions et des drones dans le ciel de Téhéran, à l'heure où l'Iran continue de dénoncer le blocus américain exercé sur ses ports comme un \"prolongement des opérations militaires\".<br /><br /><img src=\"https://images.bfmtv.com/xgBIAjSirPSeRjVfFH5uu5Ht45o=/0x0:1280x720/800x0/images/MADE-IN-MONTEBOURG-Taxes-de-25-sur-les-vehicules-europeens-On-arrive-a-un-contentieux-qui-va-s-envenimer-entre-les-deux-rives-de-l-Atlantique-declare-l-ancien-ministre-de-l-Economie-2279474.jpg\" />"
     },
     {
       "title": "Croissance en panne, inflation en hausse : quelles perspectives pour l'économie française ?",
@@ -40,81 +40,6 @@
       "title": "\"Personne ne jette des plantes parce qu'il a envie de les jeter : acheter ses plantes d'occasion, un concept qui gagne en popularité",
       "url": "https://www.franceinfo.fr/economie/tendances/personne-ne-jette-des-plantes-parce-qu-il-a-envie-de-les-jeter-acheter-ses-plantes-d-occasion-un-concept-qui-gagne-en-popularite_7977134.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Après les livres, les meubles, l'électroménager ou les vêtements, le marché de la seconde main s'ouvre aux plantations. Acheter ses fleurs et ses végétaux d'occasion permet de faire des économies, tout en offrant une nouvelle vie à des plantes que l'on croyait défraîchies."
-    },
-    {
-      "title": "\"À chaque fois qu'on vient, il y a la queue\" : les automobilistes français se ruent vers l'Espagne pour faire le plein d'essence",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/a-chaque-fois-qu-on-vient-il-y-a-la-queue-les-automobilistes-francais-se-ruent-vers-l-espagne-pour-faire-le-plein-d-essence_7977083.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les prix à la pompe restent élevés en France, avec un gazole à 2,21 euros en moyenne le litre et un SP95 au-dessus des 2 euros, vendredi 1er mai. Depuis que l’Espagne a baissé les taxes sur le carburant, de plus en plus de Français traversent la frontière pour s'approvisionner."
-    },
-    {
-      "title": "L’info du jour | 2 mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/02/linfo-du-jour-2-mai-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 2 mai 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/05/02/linfo-du-jour-2-mai-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 1er mai 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/05/01/linfo-du-jour-1er-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 1er mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/01/linfo-du-jour-1er-mai-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 1er mai 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/05/01/linfo-du-jour-1er-mai-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 30 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 30 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 30 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/30/linfo-du-jour-30-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Vacances d'été : les Français privilégient l'Hexagone face à la crise géopolitique et l'inflation",
-      "url": "http://fr.euronews.com/voyages/2026/04/29/vacances-dete-les-francais-privilegient-lhexagone-face-a-la-crise-geopolitique-et-linflati",
-      "summary": "Dans un contexte marqué les tensions internationales, l’inflation et la hausse des coûts de transport, les Français prévoient de moins voyager cet été et de réduire leurs dépenses, selon une étude Ifop pour l’Alliance France Tourisme."
-    },
-    {
-      "title": "L’info du jour | 29 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/29/linfo-du-jour-29-avril-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Il y a 250 ans, Adam Smith se méfiait déjà des capitalistes dans « La richesse des nations »",
