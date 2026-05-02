@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-02T09:52:57Z",
+  "updated_at": "2026-05-02T10:41:16Z",
   "articles": [
+    {
+      "title": "Le yen était tombé à son plus bas niveau depuis 2002: le Japon a injecté 32 milliards de dollars pour soutenir sa monnaie et tenter de contenir l'inflation",
+      "url": "https://www.bfmtv.com/economie/international/le-yen-etait-tombe-a-son-plus-bas-niveau-depuis-2002-le-japon-a-injecte-32-milliards-de-dollars-pour-soutenir-sa-monnaie-et-tenter-de-contenir-l-inflation_AV-202605020204.html",
+      "summary": "Cette intervention risque de ne pas suffire à soutenir la monnaie japonaise sur le long terme, selon plusieurs analystes qui s'attendent à ce que les autorités achètent à nouveau des yens dans les prochaines semaines. <br /><br /><img src=\"https://images.bfmtv.com/2C3t--_OPYc_Z2j67IwYYTz-Y3Q=/0x106:2048x1258/800x0/images/Japon-drapeau-2124658.jpg\" />"
+    },
     {
       "title": "Vers une perte de 15 milliards d'euros: les nouveaux droits de douane de Donald Trump sur l'automobile risquent de coûter très cher à l'Allemagne",
       "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/vers-une-perte-de-15-milliards-d-euros-les-nouveaux-droits-de-douane-de-trump-sur-l-automobile-risquent-de-couter-tres-cher-a-l-allemagne_AV-202605020163.html",
@@ -22,17 +27,12 @@
       "summary": "Des systèmes de défense antiaérienne sont entrés en action jeudi soir contre des petits avions et des drones dans le ciel de Téhéran, à l'heure où l'Iran continue de dénoncer le blocus américain exercé sur ses ports comme un \"prolongement des opérations militaires\".<br /><br /><img src=\"https://images.bfmtv.com/xgBIAjSirPSeRjVfFH5uu5Ht45o=/0x0:1280x720/800x0/images/MADE-IN-MONTEBOURG-Taxes-de-25-sur-les-vehicules-europeens-On-arrive-a-un-contentieux-qui-va-s-envenimer-entre-les-deux-rives-de-l-Atlantique-declare-l-ancien-ministre-de-l-Economie-2279474.jpg\" />"
     },
     {
-      "title": "\"Tant que cela ne sera pas corrigé, ils ne pourront pas bénéficier du soutien financier européen\": Bruxelles suspend des fonds destinés à la Serbie à cause d'une \"régression dans le domaine de la justice\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/tant-que-cela-ne-sera-pas-corrige-ils-ne-pourront-pas-beneficier-du-soutien-financier-europeen-bruxelles-suspend-des-fonds-destines-a-la-serbie-a-cause-d-une-regression-dans-le-domaine-de-la-justice_AD-202605010406.html",
-      "summary": "Le pays des Balkans a reçu sa première tranche de 56,5 millions d'euros à la mi-janvier dans le cadre du plan de Croissance, sur un total de 1,58 milliard d'euros prévus pour ce pays candidat à l'UE.<br /><br /><img src=\"https://images.bfmtv.com/tPZhp6V4oXo7BnKueEuuOx_HKR0=/0x106:2048x1258/800x0/images/L-UE-suspend-des-fonds-destines-a-la-Serbie-2279338.jpg\" />"
-    },
-    {
       "title": "Croissance en panne, inflation en hausse : quelles perspectives pour l'économie française ?",
       "url": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/croissance-en-panne-inflation-en-hausse-quelles-perspectives-pour-l-economie-francaise_7947308.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Tous les samedis, deux économistes débattent des sujets qui marquent l'actualité économique et sociale."
     },
     {
-      "title": "REPORTAGE. \"Je vais trinquer à cette excellente nouvelle\" : les Écossais soulagés, après la suppression des droits de douane américains sur leur whisky",
+      "title": "Les Écossais trinquent à \"une excellente nouvelle\" après la suppression des droits de douane américains sur leur whisky",
       "url": "https://www.franceinfo.fr/monde/royaume-uni/reportage-je-vais-clairement-trinquer-a-cette-excellente-nouvelle-les-ecossais-soulages-apres-la-suppression-des-droits-de-douane-americains-sur-leur-whisky_7978460.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "À la suite du voyage aux Etats-Unis de Charles III et de la reine Camilla, le président américain a décidé de lever les taxes à l'importation sur le whisky écossais, qu'il avait lui-même instaurées."
     },
@@ -50,6 +50,11 @@
       "title": "\"À chaque fois qu'on vient, il y a la queue\" : les automobilistes français se ruent vers l'Espagne pour faire le plein d'essence",
       "url": "https://www.franceinfo.fr/economie/automobile/essence/a-chaque-fois-qu-on-vient-il-y-a-la-queue-les-automobilistes-francais-se-ruent-vers-l-espagne-pour-faire-le-plein-d-essence_7977083.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les prix à la pompe restent élevés en France, avec un gazole à 2,21 euros en moyenne le litre et un SP95 au-dessus des 2 euros, vendredi 1er mai. Depuis que l’Espagne a baissé les taxes sur le carburant, de plus en plus de Français traversent la frontière pour s'approvisionner."
+    },
+    {
+      "title": "L’info du jour | 2 mai 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/05/02/linfo-du-jour-2-mai-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 mai 2026 - Matin",
@@ -114,11 +119,6 @@
     {
       "title": "L’info du jour | 28 avril 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 avril 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/04/28/linfo-du-jour-28-avril-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 avril 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
