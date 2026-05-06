@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-06T17:21:37Z",
+  "updated_at": "2026-05-06T19:21:20Z",
   "articles": [
+    {
+      "title": "Appel à la grève unitaire à la SNCF le 10 juin : « On en est à treize cas de suicide depuis quelques mois »",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/06/appel-a-la-greve-unitaire-a-la-sncf-le-10-juin-les-federations-cheminotes-declarent-l-etat-d-urgence-face-a-la-multiplication-des-drames_6686173_3234.html",
+      "summary": "L’appel à la grève unitaire souligne que les quatre syndicats « refusent » d’accompagner les transformations en cours et demandent leur « arrêt immédiat » ainsi que la réouverture de négociations salariales pour faire face à la facture énergétique et à l’inflation."
+    },
+    {
+      "title": "Education financière : une formation sur « les bases de l’économie » généralisée en classe de 4e",
+      "url": "https://www.lemonde.fr/education/article/2026/05/06/education-financiere-une-formation-sur-les-bases-de-l-economie-generalisee-en-classe-de-4e_6686162_1473685.html",
+      "summary": "Cette formation consiste en des sessions de sensibilisation autour de la gestion d’un budget, des moyens de paiement, des mécanismes de l’économie à plusieurs échelles, dispensées par des enseignants."
+    },
+    {
+      "title": "USA : Exercice militaire XXL pour se préparer au choc Taiwan ?",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-usa-exercice-militaire-xxl-pour-se-preparer-au-choc-taiwan_VN-202605060809.html",
+      "summary": "On connaît désormais l'importance du détroit d'Ormuz sur l'économie mondiale. Un peu plus à l'est, en zone indo-pacifique, le détroit de Taïwan pourrait provoquer un choc encore plus violent. 90 % des semi-conducteurs mondiaux, indispensables pour la tech et l’IA, proviennent de ce territoire que revendique la Chine. Dans sa chronique internationale, Mathieu Jolivet revient sur l'exercice militaire XXL organisé par les États-Unis dans la région pour se prémunir d'éventuels blocages.<br /><br /><img src=\"https://images.bfmtv.com/6mOS5p6lTPDAswpB8OzGu_r3L8M=/0x0:1280x720/800x0/images/USA-Exercice-militaire-XXL-pour-se-preparer-au-choc-Taiwan-2281963.jpg\" />"
+    },
     {
       "title": "Gestion du budget, moyens de paiement, mécanismes de la finance... Les élèves de 4e suivront dès la rentrée une formation sur \"les bases de l'économie\"",
       "url": "https://www.bfmtv.com/economie/economie-social/gestion-du-budget-moyens-de-paiement-mecanismes-de-la-finance-les-eleves-de-4e-suivront-des-la-rentree-une-formation-sur-les-bases-de-l-economie_AD-202605060793.html",
@@ -10,11 +25,6 @@
       "title": "L'Europe importe 20% de son kérosène via le détroit d'Ormuz: le ministre de l'Économie assure qu'il n'y a \"aucune crainte\" de pénurie en mai et juin et \"sans doute peu\" de risque au-delà",
       "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/l-europe-importe-20-de-son-kerosene-via-le-detroit-d-ormuz-le-ministre-de-l-economie-assure-qu-il-n-y-a-aucune-crainte-de-penurie-en-mai-et-juin-et-sans-doute-peu-de-risque-au-dela_AD-202605060749.html",
       "summary": "Le ministre de l'Économie, Roland Lescure, a aussi rejeté ce mercredi l'hypothèse d'un plafonnement des prix du kérosène.<br /><br /><img src=\"https://images.bfmtv.com/EEWFGbyYB1UFFb4d0cGgQEvzaZc=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-et-des-Finances-Roland-Lescure-lors-de-la-reunion-preparatoire-a-la-saison-estivale-avec-les-acteurs-du-transport-aerien-dans-le-contexte-de-la-crise-au-Moyen-Orient-a-Paris-le-6-mai-2026-2281909.jpg\" />"
-    },
-    {
-      "title": "La Data Room : 38 = l'âge moyen des investisseurs français en ETF selon l'AMF, vs 60 ans en 2018 - 06/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-38-l-age-moyen-des-investisseurs-francais-en-etf-selon-l-amf-vs-60-ans-en-2018-06-05_VN-202605060693.html",
-      "summary": "Ce mercredi 6 mai, Nicolas Chéron, stratégiste indépendant, et Thibault Prébay, économiste indépendant, auteur, se sont penchés sur le consensus de marché sur la croissance en France en 2028 et l'âge moyen des investisseurs français en ETF selon l'AMF dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/8uvd1HlMGZ3tHZ_dUcLZMZz7DPE=/0x0:1280x720/800x0/images/La-Data-Room-38-l-age-moyen-des-investisseurs-francais-en-ETF-selon-l-AMF-vs-60-ans-en-2018-06-05-2281879.jpg\" />"
     },
     {
       "title": "Vinted, Airbnb, Leboncoin… Faut-il déclarer aux impôts les montants des biens vendus ou loués ?",
