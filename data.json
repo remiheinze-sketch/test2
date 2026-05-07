@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-07T10:59:58Z",
+  "updated_at": "2026-05-07T12:58:26Z",
   "articles": [
+    {
+      "title": "La chute du trafic dans le canal de Suez, artère essentielle du commerce maritime mondial, affecte l’économie égyptienne",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/07/la-chute-du-trafic-dans-le-canal-de-suez-artere-essentielle-du-commerce-maritime-mondial-affecte-l-economie-egyptienne_6686552_3234.html",
+      "summary": "L’attaque américano-israélienne sur l’Iran a de nouveau grevé l’activité d’une voie essentielle du trafic mondial, alors que le passage d’une mer à l’autre n’a jamais été aussi rapide."
+    },
     {
       "title": "Le gouvernement met en place 15 mesures pour améliorer l’emploi des jeunes",
       "url": "https://www.lemonde.fr/politique/article/2026/05/07/le-gouvernement-met-en-place-quinze-mesures-pour-ameliorer-l-emploi-des-jeunes_6686505_823448.html",
@@ -10,6 +15,11 @@
       "title": "Les dons aux associations en baisse depuis le début d’année",
       "url": "https://www.lemonde.fr/argent/article/2026/05/07/les-dons-aux-associations-en-baisse-depuis-le-debut-d-annee_6686501_1657007.html",
       "summary": "La fondation Apprentis d’Auteuil alerte sur un recul des donateurs. Si la tendance se confirme, elle mettrait à rude épreuve les budgets des associations, qui ont déjà pâti d’un recul des dons en 2025."
+    },
+    {
+      "title": "Voiture électrique et logement : la transition écologique devient davantage accessible aux classes moyennes",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/07/voiture-electrique-et-logement-la-transition-ecologique-devient-davantage-accessible-aux-classes-moyennes_6686489_3244.html",
+      "summary": "La hausse du prix des énergies fossiles et la diminution du prix des voitures électriques d’occasion rendent plus intéressant le passage à des solutions décarbonées dans les secteurs du logement et de la mobilité, souligne l’Institut de l’économie pour le climat dans une note publiée jeudi 7 mai."
     },
     {
       "title": "Vols annulés : le gouvernement promet d’aider les compagnies aériennes et rassure les passagers",
@@ -32,6 +42,11 @@
       "summary": "Cette formation consiste en des sessions de sensibilisation autour de la gestion d’un budget, des moyens de paiement, des mécanismes de l’économie à plusieurs échelles, dispensées par des enseignants."
     },
     {
+      "title": "\"Le premier trimestre a été douloureux, le deuxième sera pire\": le pouvoir d'achat des Français est en berne et le pays risque d'entrer en récession s'ils ne piochent pas dans leur épargne",
+      "url": "https://www.bfmtv.com/economie/economie-social/le-premier-trimestre-a-ete-douloureux-le-deuxieme-sera-pire-le-pouvoir-d-achat-des-francais-est-en-berne-et-le-pays-risque-d-entrer-en-recession-s-ils-ne-piochent-pas-dans-leur-epargne_AV-202605070505.html",
+      "summary": "Plutôt bien armée pour résister à la crise énergétique, l'économie française a pourtant stagné au premier trimestre, plombée par une consommation en berne. Cette situation préoccupante s'explique en partie par la dégradation du pouvoir d'achat des ménages ces derniers mois. Et la flambée des prix de l'énergie risque d'aggraver les choses.<br /><br /><img src=\"https://images.bfmtv.com/Dih4QtiqPmSmrIEEvH0QRBP9PrI=/0x106:2048x1258/800x0/images/inflation-1646982.jpg\" />"
+    },
+    {
       "title": "Sur un plein à 112 euros la grande distribution prend 1,50 euro: la Fédération du commerce appelle le gouvernement à regarder du côté des \"raffineurs\" et l'asticote sur les taxes",
       "url": "https://www.bfmtv.com/economie/entreprises/energie/sur-un-plein-a-112-euros-la-grande-distribution-prend-1-50-euro-la-federation-du-commerce-appelle-le-gouvernement-a-regarder-du-cote-des-raffineurs-et-l-asticote-sur-les-taxes_AD-202605070470.html",
       "summary": "En avril 2026, sur un plein de gazole de 50 litres, le consommateur a payé 112 euros sur lesquels \"la marge nette de la distribution représente environ 1,50 euro seulement\", selon la FCD, chiffres du gouvernement à l'appui.<br /><br /><img src=\"https://images.bfmtv.com/hNxQ2yhoIKxIZcSzDRf3351ZoIs=/0x105:2048x1257/800x0/images/E-Leclerc-Intermarche-et-U-l-essence-de-la-grande-distribution-est-elle-de-moins-bonne-qualite-1906553.jpg\" />"
@@ -47,24 +62,14 @@
       "summary": "Philippe Aghion, Prix Nobel d'Économie, est présent au Forum économique de Bruxelles 2026 ce jeudi 7 mai. Il s'exprime au cours d'une réunion sur \"L’économie de l’IA de l’UE dans la course mondiale\".<br /><br /><img src=\"https://images.bfmtv.com/4j4_QIDGxMiWbKJJP6oIjXrFUIY=/0x0:1280x720/800x0/images/Une-IA-plus-ethique-plus-inclusive-plus-humaine-l-espoir-du-prix-Nobel-d-economie-Philippe-Aghion-en-Europe-2282362.jpg\" />"
     },
     {
-      "title": "La hausse des taux c'est reparti? Face à la menace de l'inflation, la Banque de Norvège est la première banque centrale européenne à relever son taux directeur",
+      "title": "La hausse des taux c'est reparti? Face à la menace de l'inflation, la Banque de Norvège est la deuxième banque centrale européenne à relever son taux directeur",
       "url": "https://www.bfmtv.com/economie/international/la-hausse-des-taux-c-est-reparti-face-a-la-menace-de-l-inflation-la-banque-de-norvege-est-la-premiere-banque-centrale-europeenne-a-relever-son-taux-directeur_AD-202605070430.html",
-      "summary": "Devenant la première banque centrale en Europe à resserrer sa politique monétaire depuis le début de la guerre au Moyen-Orient, la Banque de Norvège a annoncé jeudi une hausse de 0,25 point de son taux directeur. <br /><br /><img src=\"https://images.bfmtv.com/LZ9lqes-45gCmWDLPdltCLJUNEM=/0x106:2048x1258/800x0/images/Banque-Norvege-Ida-Wolden-Bache-2282349.jpg\" />"
+      "summary": "Devenant la deuxième banque centrale en Europe à resserrer sa politique monétaire après l'Islande depuis le début de la guerre au Moyen-Orient, la Banque de Norvège a annoncé jeudi une hausse de 0,25 point de son taux directeur. <br /><br /><img src=\"https://images.bfmtv.com/LZ9lqes-45gCmWDLPdltCLJUNEM=/0x106:2048x1258/800x0/images/Banque-Norvege-Ida-Wolden-Bache-2282349.jpg\" />"
     },
     {
       "title": "Budget 2027, Sébastien Lecornu répond au Medef",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-budget-2027-sebastien-lecornu-repond-au-medef_VN-202605070448.html",
       "summary": "Ce jeudi 7 mai, le bras de fer entre le patronat et le Premier ministre, qui a répondu vertement à la demande du Medef d'instituer une règle d'or afin de limiter le déficit public et rendre plus lisible la procédure budgétaire, a été abordé par Gaël Sliman, président d'Odoxa, Pierre-Henri de Menthon, directeur de la rédaction de Challenges, et Christian Saint-Étienne, économiste et auteur de \"Trump et nous\" (ed. Odile Jacob), dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/MW8O0Xcy-5TIsXLTD5LFQGuWE-I=/0x0:1280x720/800x0/images/Budget-2027-Sebastien-Lecornu-repond-au-Medef-2282367.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Budget 2027, Sébastien Lecornu répond au Medef - 07/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-budget-2027-sebastien-lecornu-repond-au-medef-07-05_EN-202605070348.html",
-      "summary": "Ce jeudi 7 mai, le bras de fer entre le patronat et le Premier ministre, qui a répondu vertement à la demande du Medef d'instituer une règle d'or afin de limiter le déficit public et rendre plus lisible la procédure budgétaire, a été abordé par Gaël Sliman, président d'Odoxa, Pierre-Henri de Menthon, directeur de la rédaction de Challenges, et Christian Saint-Étienne, économiste et auteur de \"Trump et nous\" (ed. Odile Jacob), dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Budget 2027, Sébastien Lecornu répond au Medef - 07/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-budget-2027-sebastien-lecornu-repond-au-medef-07-05_VN-202605070357.html",
-      "summary": "Ce jeudi 7 mai, le bras de fer entre le patronat et le Premier ministre, qui a répondu vertement à la demande du Medef d'instituer une règle d'or afin de limiter le déficit public et rendre plus lisible la procédure budgétaire, a été abordé par Gaël Sliman, président d'Odoxa, Pierre-Henri de Menthon, directeur de la rédaction de Challenges, et Christian Saint-Étienne, économiste et auteur de \"Trump et nous\" (ed. Odile Jacob), dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/SNWn6EuuGI5W3GAi7W0l2flSY00=/0x0:1280x720/800x0/images/Les-Experts-Budget-2027-Sebastien-Lecornu-repond-au-Medef-07-05-2282298.jpg\" />"
     },
     {
       "title": "Vrai ou faux. Le droit français a-t-il vraiment connu une inflation de plus de 50% en 20 ans, comme l'affirme David Lisnard ?",
@@ -120,16 +125,6 @@
       "title": "L’info du jour | 4 mai 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/05/04/linfo-du-jour-4-mai-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 4 mai 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/05/04/linfo-du-jour-4-mai-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 mai 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/05/03/linfo-du-jour-3-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "La mauvaise qualité des soins à l’hôpital coûte-t-elle vraiment 22 milliards d'euros ?",
