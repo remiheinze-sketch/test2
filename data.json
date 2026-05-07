@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-05-07T05:27:38Z",
+  "updated_at": "2026-05-07T08:13:53Z",
   "articles": [
+    {
+      "title": "Le gouvernement met en place 15 mesures pour améliorer l’emploi des jeunes",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/07/le-gouvernement-met-en-place-quinze-mesures-pour-ameliorer-l-emploi-des-jeunes_6686505_823448.html",
+      "summary": "Présentée jeudi 7 mai et portée par cinq ministres, cette stratégie, baptisée « Emploi futur » ne présente aucune grande nouveauté pour lutter contre ce problème structurel de l’économie française."
+    },
     {
       "title": "Les dons aux associations en baisse depuis le début d’année",
       "url": "https://www.lemonde.fr/argent/article/2026/05/07/les-dons-aux-associations-en-baisse-depuis-le-debut-d-annee_6686501_1657007.html",
       "summary": "La fondation Apprentis d’Auteuil alerte sur un recul des donateurs. Si la tendance se confirme, elle mettrait à rude épreuve les budgets des associations, qui ont déjà pâti d’un recul des dons en 2025."
     },
     {
-      "title": "Le gouvernement français vient en soutien des compagnies aériennes fragilisées par la guerre au Moyen-Orient",
+      "title": "Vols annulés : le gouvernement promet d’aider les compagnies aériennes et rassure les passagers",
       "url": "https://www.lemonde.fr/economie/article/2026/05/07/le-gouvernement-francais-vient-en-soutien-des-compagnies-aeriennes-fragilisees-par-la-guerre-au-moyen-orient_6686443_3234.html",
-      "summary": "Les ministres des transports et de l’économie ont indiqué, mercredi, que les compagnies pourraient être éligibles à des reports de charges pour soulager des trésoreries mises à mal par la flambée des prix du carburant d’aviation. Il a aussi rassuré sur la disponibilité du kérosène d’ici à la fin de l’été."
+      "summary": "Les ministres des transports et de l’économie ont annoncé, mercredi, que les compagnies pourraient être éligibles à des reports de charges pour soulager de la hausse des prix du « jet fuel » en raison de la guerre au Moyen-Orient."
     },
     {
       "title": "Israël prêt à livrer du kérosène à l’Allemagne",
@@ -27,19 +32,24 @@
       "summary": "Cette formation consiste en des sessions de sensibilisation autour de la gestion d’un budget, des moyens de paiement, des mécanismes de l’économie à plusieurs échelles, dispensées par des enseignants."
     },
     {
-      "title": "L’Edito de Raphaël Legendre : L'écologie passe après le ticket de caisse - 07/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-l-ecologie-passe-apres-le-ticket-de-caisse-07-05_VN-202605070125.html",
-      "summary": "Ce jeudi 7 mai, la demande des Français de privilégier la croissance économique et l'emploi au détriment de l'écologie a été abordée par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/rhjH72PIyAElFYWZB6iRoU_-FNI=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-L-ecologie-passe-apres-le-ticket-de-caisse-07-05-2282115.jpg\" />"
+      "title": "Pétrole plus cher, plus d'importations depuis le Kazakhstan, moins d'Airbus exportés... Le déficit commercial de la France se creuse à 6,9 milliards d'euros en mars",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/petrole-plus-cher-plus-d-importations-depuis-le-kazakhstan-moins-d-airbus-exportes-le-deficit-commercial-de-la-france-se-creuse-a-6-9-milliards-d-euros-en-mars_AD-202605070261.html",
+      "summary": "Les importations ont atteint 59,3 milliards d'euros en mars (+1,8 milliard d'euros) tandis que les exportations ont augmenté plus modérément, à 52,5 milliards d'euros (+500 millions). <br /><br /><img src=\"https://images.bfmtv.com/fhFUT5Wy4ggmIVPHLEj2U9uESKw=/1x3:1249x705/800x0/images/-463924.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : L'écologie passe après le ticket de caisse - 07/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-l-ecologie-passe-apres-le-ticket-de-caisse-07-05_EN-202605070122.html",
-      "summary": "Ce jeudi 7 mai, la demande des Français de privilégier la croissance économique et l'emploi au détriment de l'écologie a été abordée par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
+      "title": "ÉDITO. L’écologie reléguée derrière le ticket de caisse: pour six Français sur 10 désormais, la politique doit se concentrer sur l'économie plutôt que sur l'environnement, un changement majeur",
+      "url": "https://www.bfmtv.com/economie/edito-l-ecologie-releguee-derriere-le-ticket-de-caisse-pour-six-francais-sur-10-desormais-la-politique-doit-se-concentrer-sur-l-economie-plutot-que-sur-l-environnement-un-changement-majeur_AN-202605070242.html",
+      "summary": "Avec la crise, les Français ne veulent plus entendre parler d’écologie et demandent aux politiques de se concentrer sur la croissance et l’emploi. <br /><br /><img src=\"https://images.bfmtv.com/qE0iVRY7Vht40ADpQsDek7kiel8=/0x40:768x472/800x0/images/La-fin-de-l-impression-systematique-du-ticket-de-caisse-papier-va-entrer-en-vigueur-au-1er-aout-1679466.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : L'écologie passe après le ticket de caisse - 07/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-l-ecologie-passe-apres-le-ticket-de-caisse-07-05_EN-202605070121.html",
-      "summary": "Ce jeudi 7 mai, la demande des Français de privilégier la croissance économique et l'emploi au détriment de l'écologie a été abordée par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
+      "title": "\"Le gouvernement dont j'ai la charge ne déviera pas du cap\": Sébastien Lecornu réaffirme auprès du Medef l'objectif de 3% de déficit en 2029",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-gouvernement-dont-j-ai-la-charge-ne-deviera-pas-du-cap-sebastien-lecornu-reaffirme-aupres-du-medef-l-objectif-de-3-de-deficit-en-2029_AD-202605070193.html",
+      "summary": "Dans un courrier en réponse à une interpellation de l'organisation patronale, le Premier ministre souligne néanmoins que \"le redressement de nos finances publiques appelle à des responsabilités partagées\". <br /><br /><img src=\"https://images.bfmtv.com/gyW7wLdlOSEaZhmOCmm3euxYh5c=/0x0:768x432/800x0/images/Le-premier-ministre-Sebastien-Lecornu-au-Palais-de-l-Elysee-le-28-janvier-2026-2226115.jpg\" />"
+    },
+    {
+      "title": "Vrai ou faux. Le droit français a-t-il vraiment connu une inflation de plus de 50% en 20 ans, comme l'affirme David Lisnard ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-le-droit-francais-a-t-il-vraiment-connu-une-inflation-de-plus-de-50-en-20-ans-comme-l-affirme-david-lisnard_7958558.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le maire de Cannes dénonce une explosion du droit français pour défendre son combat contre la bureaucratie. Selon les chiffres officiels, son constat est même en deçà de la réalité."
     },
     {
       "title": "L’info du jour | 7 mai 2026 - Matin",
@@ -99,11 +109,6 @@
     {
       "title": "L’info du jour | 3 mai 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/05/03/linfo-du-jour-3-mai-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 mai 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/05/03/linfo-du-jour-3-mai-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
