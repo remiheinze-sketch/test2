@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-13T17:07:33Z",
+  "updated_at": "2026-05-13T19:39:09Z",
   "articles": [
+    {
+      "title": "La hausse du smic relance la bataille des allègements de charges",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/13/la-hausse-du-smic-relance-la-bataille-des-allegements-de-charges_6688749_823448.html",
+      "summary": "Le salaire minimum va augmenter de 2,4 % en juin, a annoncé mercredi 13 mai le ministre du travail Jean-Pierre Farandou. Relever d’autant les allègements de cotisations sociales coûterait 2 milliards d’euros aux finances publiques. Bercy s’y refuse, mais le patronat s’alarme d’une hausse du coût du travail. A Matignon de trancher."
+    },
     {
       "title": "L’Inde double les taxes sur l’importation d’or pour enrayer la chute de la roupie",
       "url": "https://www.lemonde.fr/economie/article/2026/05/13/l-inde-double-les-taxes-sur-l-importation-d-or-pour-enrayer-la-chute-de-la-roupie_6688735_3234.html",
@@ -12,29 +17,9 @@
       "summary": "La montée des prix à la consommation s’explique principalement par l’augmentation du coût de l’énergie, notamment liée à la flambée du pétrole. Conséquence mécanique, le smic va être majoré de 2,4 % le 1ᵉʳ juin."
     },
     {
-      "title": "Fonction publique : les salaires repartent à la hausse mais l’inquiétude demeure",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/13/fonction-publique-les-salaires-repartent-a-la-hausse-mais-l-inquietude-demeure_6688632_823448.html",
-      "summary": "Après deux années de baisse, le salaire net moyen des agents publics était en hausse de 1,7 % en 2024. Un semblant d’embellie toujours jugé insuffisant par les syndicats qui alertent sur l’« urgence » de revaloriser les rémunération face à l’inflation persistante."
-    },
-    {
-      "title": "Le Club : \"IA : vous pourrez bientôt acheter des options boursières indexées sur la puissance de calcul de l'IA\" - 13/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-ia-vous-pourrez-bientot-acheter-des-options-boursieres-indexees-sur-la-puissance-de-calcul-de-l-ia-13-05_VN-202605130712.html",
-      "summary": "Ce mercredi 13 mai, Alain Bokobza, responsable de la stratégie d'allocation d'actifs mondiale de Société Générale CIB, et Charles Monot, advisor de Monocle Asset Management, se sont penchés sur l'inflation qui donne le ton sur les marchés, la hausse des valeurs de la tech sur les marchés boursiers, CME, un marché de contrats à terme sur l'IA, ainsi que les enjeux de la rencontre entre Donald Trump et Xi Jinping, , dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/-I2Q8q3hFYqMg8pljnuNiShoEjY=/0x0:1280x720/800x0/images/Le-Club-IA-vous-pourrez-bientot-acheter-des-options-boursieres-indexees-sur-la-puissance-de-calcul-de-l-IA-13-05-2285605.jpg\" />"
-    },
-    {
-      "title": "2026, le plus gros choc pétrolier de l'histoire",
-      "url": "https://www.bfmtv.com/economie/video-2026-le-plus-gros-choc-petrolier-de-l-histoire_VN-202605130680.html",
-      "summary": "Avec un détroit d'Ormuz bloqué depuis deux mois et demi, ce sont des millions de barils de pétrole non distribués, engendrant un choc plus important qu'en 1974. Seule différence : l'économie mondiale dépend beaucoup moins du pétrole qu'à l'époque. <br /><br /><img src=\"https://images.bfmtv.com/QmpQ6kMbf--Xw8YsatMrK_Ccbz0=/0x0:1280x720/800x0/images/2026-le-plus-gros-choc-petrolier-de-l-histoire-2285585.jpg\" />"
-    },
-    {
       "title": "La CGT appelle à \"un coup de pouce plus important\" sur le Smic",
       "url": "https://www.franceinfo.fr/economie/emploi/la-cgt-appelle-a-un-coup-de-pouce-plus-important-sur-le-smic_8001554.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le ministre du Travail, Jean-Pierre Farandou, a annoncé mercredi sur franceinfo une hausse du Smic \"autour de 2,4%\" au 1er juin. Insuffisant pour Denis Gravouil qui pointe que \"l'inflation est en train de dépasser ce chiffre\"."
-    },
-    {
-      "title": "L'inflation atteint 1% au mois d'avril, et 2,2% sur un an, portée par les prix de l'énergie, annonce l'Insee",
-      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-atteint-1-au-mois-d-avril-et-2-2-sur-un-an-annonce-l-insee_8001365.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La hausse des prix en France est principalement due à la guerre au Moyen-Orient, qui a notamment fait flamber le cours du pétrole."
     },
     {
       "title": "L’info du jour | 13 mai 2026 - Soir",
@@ -94,11 +79,6 @@
     {
       "title": "L’info du jour | 10 mai 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/05/10/linfo-du-jour-10-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 10 mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/10/linfo-du-jour-10-mai-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
