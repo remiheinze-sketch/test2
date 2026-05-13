@@ -1,25 +1,30 @@
 {
-  "updated_at": "2026-05-13T02:07:30Z",
+  "updated_at": "2026-05-13T06:16:52Z",
   "articles": [
+    {
+      "title": "Fonction publique : les salaires repartent à la hausse mais l’inquiétude demeure",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/13/fonction-publique-les-salaires-repartent-a-la-hausse-mais-l-inquietude-demeure_6688632_823448.html",
+      "summary": "Après deux années de baisse, le salaire net moyen des agents publics était en hausse de 1,7 % en 2024. Un semblant d’embellie toujours jugé insuffisant par les syndicats qui alertent sur l’« urgence » de revaloriser les rémunérations dans la fonction publique face à l’inflation persistante et, désormais, à la hausse des prix du carburant en raison de la crise au Moyen-Orient."
+    },
+    {
+      "title": "« En bord de mer, avec un club enfant inclus, on aurait eu du mal à trouver mieux » : les villages vacances associatifs, spécificité française en sursis",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/13/en-bord-de-mer-avec-un-club-enfant-inclus-on-aurait-eu-du-mal-a-trouver-mieux-les-villages-vacances-associatifs-specificite-francaise-en-sursis_6688625_3234.html",
+      "summary": "Conçus dans les années 1960 ou 1970 pour accompagner l’essor des congés payés, ces villages vacances peinent à survivre dans un univers de plus en plus concurrentiel et capitalistique. Dans un contexte d’inflation, ils séduisent une nouvelle clientèle plus aisée, attirée par les tarifs, les emplacements et les clubs enfants."
+    },
     {
       "title": "La politique erratique de Donald Trump fait bondir l’inflation aux Etats-Unis",
       "url": "https://www.lemonde.fr/economie/article/2026/05/12/la-politique-erratique-de-donald-trump-fait-bondir-l-inflation-aux-etats-unis_6688266_3234.html",
       "summary": "En avril, l’indice des prix à la consommation a augmenté de 3,8 % sur un an, aux Etats-Unis, en raison de l’envolée des prix à la pompe mais aussi de l’alimentation."
     },
     {
-      "title": "Pourquoi les dépenses d’arrêts de travail explosent",
-      "url": "https://www.lemonde.fr/emploi/article/2026/05/12/pourquoi-les-depenses-d-arrets-de-travail-explosent_6688201_1698637.html",
-      "summary": "Le manque d’investissement dans la prévention et la dégradation des conditions de travail ne doivent pas être oubliés dans les débats sur la hausse de l’absentéisme, explique notamment l’économiste Thomas Breda dans sa chronique."
+      "title": "Chômage : le gouverneur de la Banque de France reconnaît un \"ralentissement\" mais appelle à \"poursuivre les progrès sur l'emploi\"",
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage/chomage-le-gouverneur-de-la-banque-de-france-reconnait-un-ralentissement-mais-appelle-a-poursuivre-les-progres-sur-l-emploi_8001326.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Autour de 8%, ce n'est pas une nouvelle satisfaisante mais depuis 2010, l'économie française a créé près de 4 millions d'emplois net\", souligne François Villeroy de Galhau."
     },
     {
-      "title": "\"1.200 milliards de dollars sur 20 ans\": le \"Dôme d'or\", le bouclier antimissiles voulu par Trump, risque de coûter beaucoup plus cher qu'annoncé",
-      "url": "https://www.bfmtv.com/economie/entreprises/defense/1-200-milliards-de-dollars-sur-20-ans-le-dome-d-or-le-bouclier-antimissiles-voulu-par-trump-risque-de-couter-beaucoup-plus-cher-qu-annonce_AV-202605120843.html",
-      "summary": "Un rapport publié mardi par le Bureau du budget du Congrès américain estime qu'un système de défense antimissiles possédant les capacités exigées par Donald Trump coûterait sept fois plus cher que prévu. <br /><br /><img src=\"https://images.bfmtv.com/y27DfRufbYERBy0v4pfrIPCkJHw=/0x107:2048x1259/800x0/images/Golden-Dome-Trump-2216421.jpg\" />"
-    },
-    {
-      "title": "\"La résilience de l'économie française commence à être mise à l'épreuve\": la Banque de France redoute une activité ralentie au second trimestre",
-      "url": "https://www.bfmtv.com/economie/la-resilience-de-l-economie-francaise-commence-a-etre-mise-a-l-epreuve-la-banque-de-france-redoute-une-activite-ralentie-au-second-trimestre_AD-202605120835.html",
-      "summary": "La banque centrale anticipe une économie française toujours résiliente mais en net ralentissement sous l’effet de la flambée des prix de l’énergie et des tensions liées à la guerre au Moyen-Orient. <br /><br /><img src=\"https://images.bfmtv.com/3JjcAOcHMZx-n6vzK6SPFiYRNuA=/0x40:768x472/800x0/images/La-facade-de-la-Banque-de-France-le-30-juillet-2025-a-Paris-2163491.jpg\" />"
+      "title": "L’info du jour | 13 mai 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/05/13/linfo-du-jour-13-mai-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 12 mai 2026 - Soir",
@@ -80,6 +85,11 @@
       "title": "L’info du jour | 9 mai 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/05/09/linfo-du-jour-9-mai-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Sérieusement, monsieur Aghion ?",
+      "url": "https://www.alternatives-economiques.fr/serieusement-monsieur-aghion/00118513",
+      "summary": "<p>Depuis que le récipiendaire du prix de la Banque de Suède a repris en main les programmes de SES, « on fait vraiment de l’économie sérieuse au lycée », a-t-il déclaré. La rédaction d’Alternatives Economiques lui répond.</p>"
     },
     {
       "title": "La croissance démographique africaine au défi des coupes dans l’aide au développement",
