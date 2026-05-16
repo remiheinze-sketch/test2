@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T02:00:07Z",
+  "updated_at": "2026-05-16T05:29:39Z",
   "articles": [
     {
       "title": "Le coût de la dette française grimpe à son plus haut niveau depuis 2009",
@@ -10,6 +10,21 @@
       "title": "Malgré la croissance économique, un Grec sur quatre est toujours menacé de pauvreté",
       "url": "https://www.lemonde.fr/economie/article/2026/05/15/malgre-la-croissance-economique-un-grec-sur-quatre-est-toujours-menace-de-pauvrete_6689439_3234.html",
       "summary": "En dépit des bons chiffres de la croissance, du chômage en baisse et des excédents budgétaires dégagés par le pays, le pouvoir d’achat des Grecs s’érode et le nombre de personnes au seuil de la pauvreté augmente."
+    },
+    {
+      "title": "Oubliez le \"modèle suédois\" de protection: la Suède a taillé dans les dépenses sociales, baissé les impôts, privatisé des écoles et \"surclasse la France\" avec un PIB par habitant bien plus élevé (mais un peu plus d'inégalités qu'avant)",
+      "url": "https://www.bfmtv.com/economie/economie-social/oubliez-le-modele-suedois-de-protection-la-suede-a-taille-dans-les-depenses-sociales-baisse-les-impots-privatise-des-ecoles-et-surclasse-la-france-avec-un-pib-par-habitant-bien-plus-eleve-mais-un-peu-plus-d-inegalites-qu-avant_AN-202605160048.html",
+      "summary": "Le royaume scandinave a mené d'importantes réformes qui ont pronfondément transformé le \"modèle suédois\" au cours des trente dernières années. Si le pays, en libéralisant son économie et en réduisant la pression fiscale, peut se targuer du succès de ses entreprises notamment dans l'industrie et le secteur technologique, il a aussi vu les inégalités se creuser entre les plus pauvres et les plus riches. <br /><br /><img src=\"https://images.bfmtv.com/wfPkn924V09mwQFC9O8J9-3Uyvg=/0x0:1920x1080/800x0/images/Suede-2286518.jpg\" />"
+    },
+    {
+      "title": "Comment les Français s'adaptent pour faire des économies, face à la flambée des prix du carburant",
+      "url": "https://www.bfmtv.com/economie/video-comment-les-francais-s-adaptent-pour-faire-des-economies-face-a-la-flambee-des-prix-du-carburant_VN-202605160085.html",
+      "summary": "Pour ce pont de l’Ascension, sur la route des vacances, les Français ont modifié leurs habitudes. Objectif ? Réduire au maximum les coûts.<br /><br /><img src=\"https://images.bfmtv.com/wn9aFbHKKIdE3DPJMsRLFPvWWNE=/0x0:1280x720/800x0/images/Comment-les-Francais-s-adaptent-pour-faire-des-economies-face-a-la-flambee-des-prix-du-carburant-2286845.jpg\" />"
+    },
+    {
+      "title": "Flambée des prix du carburant: cette application permet de trouver la station-service la moins chère",
+      "url": "https://www.bfmtv.com/economie/video-flambee-des-prix-du-carburant-cette-application-permet-de-trouver-la-station-service-la-moins-chere_VN-202605160070.html",
+      "summary": "Choisir la station-service la moins chère peut vite tourner au casse-tête, surtout avec la flambée des prix du carburant. Pour simplifier le vide des automobilistes, Victor Airiaud a lancé une application capable de calculer la véritable économie réalisé en tenant compte du coût du détour.<br /><br /><img src=\"https://images.bfmtv.com/zy4oGa1VZ2fU5U6ZgLTb59baBU0=/0x0:1280x720/800x0/images/Flambee-des-prix-du-carburant-cette-application-permet-de-trouver-la-station-service-la-moins-chere-2286834.jpg\" />"
     },
     {
       "title": "La question de la semaine : L'économie mondiale va-t-elle rebondir ? – 15/05",
@@ -42,19 +57,14 @@
       "summary": "L'économie de la Russie enregistre son premier recul trimestriel depuis trois ans, alimentant les craintes des autorités que le pays bascule dans la récession. <br /><br /><img src=\"https://images.bfmtv.com/sfpp8GDd1Fv_DnujoPO3JLdtcFA=/0x93:2048x1245/800x0/images/Vladimir-Poutine-2278684.jpg\" />"
     },
     {
-      "title": "\"Résultats globalement positifs\": Pékin assure être d'accord avec Trump pour appliquer \"tous\" les accords commerciaux existants",
-      "url": "https://www.bfmtv.com/economie/international/resultats-globalement-positifs-pekin-assure-etre-d-accord-avec-trump-pour-appliquer-tous-les-accords-commerciaux-existants_AV-202605150672.html",
-      "summary": "Après la rencontre entre Xi Jinping et Donald Trump, le chef de la diplomatie chinoise précise que les deux pays ont convenu de \"promouvoir une croissance du commerce dans les deux sens, dans le cadre de réductions réciproques des droits de douane\". <br /><br /><img src=\"https://images.bfmtv.com/9hqAYW9rsz5Ks-nSylcMiE2Ro18=/0x106:2048x1258/800x0/images/Donald-Trump-et-Xi-Jinping-a-Pekin-le-14-mai-2026-2285832.jpg\" />"
-    },
-    {
-      "title": "Le Club : \"Tensions sur les taux, comment réagir ?\" - 15/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-tensions-sur-les-taux-comment-reagir-15-05_VN-202605150659.html",
-      "summary": "Ce vendredi 15 mai, Axel Botte, directeur de la stratégie marchés chez Ostrum AM, et Florian Roger, head of CIO office chez BNP Paribas, se sont penchés sur les taux d'intérêt qui montent sur le marché obligataire en raison de l'inquiétude constante sur l'inflation, les enjeux de la rencontre entre Donald Trump et Xi Jinping à Pékin, l'extrême volatilité du cours du pétrole, ainsi que les prises de bénéfices sur les semi-conducteurs, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/Tzlmuwt75F4AW9LU77M3gYzbSNs=/0x0:1280x720/800x0/images/Le-Club-Tensions-sur-les-taux-comment-reagir-15-05-2286669.jpg\" />"
-    },
-    {
       "title": "\"Je trouve ça un peu dommage que tout le monde n'y ait pas accès\" : les prix des locations s'envolent à Cannes durant le festival",
       "url": "https://www.franceinfo.fr/culture/cinema/festival-de-cannes/je-trouve-ca-un-peu-dommage-que-tout-le-monde-n-y-ait-pas-acces-les-prix-des-locations-s-envolent-a-cannes-durant-le-festival_8006510.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Loin des paillettes et des hôtels, les petites mains de la Quinzaine, les passionnés au petit budget, doivent trouver un lieu pour travailler et dormir. Et ceci, alors que le marché immobilier cannois connaît à chaque fois une bulle inflationniste."
+    },
+    {
+      "title": "L’info du jour | 16 mai 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/05/16/linfo-du-jour-16-mai-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 15 mai 2026 - Soir",
@@ -107,14 +117,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "Dumping fiscal contre retombées économiques : comment les territoires européens attirent les tournages de cinéma",
+      "url": "https://www.alternatives-economiques.fr/dumping-fiscal-contre-retombees-economiques-comment-les-territoires-europee/00118512",
+      "summary": "<p>Pour accueillir les productions audiovisuelles, les Etats européens et les régions multiplient les crédits d’impôts, développent leurs infrastructures et valorisent leur patrimoine. En se livrant une concurrence acharnée.</p>"
+    },
+    {
       "title": "En Espagne, l’immigration fait un bien fou à l'économie",
       "url": "https://www.alternatives-economiques.fr/en-espagne-limmigration-fait-un-bien-fou-a-leconomie/00118492",
       "summary": "<p>Le 14 avril, l’Espagne a entamé un processus exceptionnel de régularisation d’un demi-million d’étrangers sans-papiers. Cette décision, dont les motifs sont principalement économiques, est confortée par deux études récentes.</p>"
-    },
-    {
-      "title": "Sérieusement, monsieur Aghion ?",
-      "url": "https://www.alternatives-economiques.fr/serieusement-monsieur-aghion/00118513",
-      "summary": "<p>« Avant, on lisait Alternatives Economiques, maintenant on fait de l’économie sérieuse au lycée », s'est félicité le professeur au Collège de France, qui a réécrit les programmes de SES. La rédaction lui répond.</p>"
     }
   ]
 }
