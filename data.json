@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-05-17T08:57:06Z",
+  "updated_at": "2026-05-17T10:19:38Z",
   "articles": [
+    {
+      "title": "« L’économie russe est une éponge sèche : si de l’argent frais arrive, il sert à colmater les trous »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/17/l-economie-russe-est-une-eponge-seche-si-de-l-argent-frais-arrive-il-sert-a-colmater-les-trous_6690189_3232.html",
+      "summary": "Malgré la flambée du prix du pétrole, l’économie russe se contracte depuis le début de l’année 2026. Dans une tribune au « Monde », l’économiste russe Vladislav Inozemtsev estime que cela tient à d’aberrantes décisions « néosoviétiques » au Kremlin : fortes hausses d’impôts, taux d’intérêt élevés et renationalisations."
+    },
     {
       "title": "« Pour la France, le redressement des finances publiques sera bien plus difficile que lors des précédentes crises de la dette »",
       "url": "https://www.lemonde.fr/idees/article/2026/05/16/pour-la-france-le-redressement-des-finances-publiques-sera-bien-plus-difficile-que-lors-des-precedentes-crises-de-la-dette_6689896_3232.html",
       "summary": "Dans une tribune au « Monde », Laure Quennouëlle-Corre, historienne, et Benoît Chevauchez, ancien haut fonctionnaire, estiment qu’un plan de redressement sérieux est inévitable, faute de pouvoir compter sur l’inflation ou sur la croissance."
+    },
+    {
+      "title": "\"Nous sommes mis à l’épreuve par un choc exogène\": malgré la croissance à 0% et la hausse du chômage au premier trimestre, le ministre de l'Économie assure que la France \"résiste aux vents de face\"",
+      "url": "https://www.bfmtv.com/economie/nous-sommes-mis-a-l-epreuve-par-un-choc-exogene-malgre-la-croissance-a-0-et-la-hausse-du-chomage-au-premier-trimestre-le-ministre-de-l-economie-assure-que-la-france-resiste-aux-vents-de-face_AD-202605170192.html",
+      "summary": "Dans un entretien accordé à la Tribune Dimanche, Roland Lescure a déclaré refuser \"tout pessimisme exagéré\" concernant la situation économique française, affirmant toutefois qu'il n'y avait \"aucun déni\" à son sujet.<br /><br /><img src=\"https://images.bfmtv.com/3ZRqqmMawqO-1WfkT__l2ECswSs=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-le-27-mars-2026-2261008.jpg\" />"
     },
     {
       "title": "\"L'inflation a fortement diminué, la dette publique a chuté de manière spectaculaire\": quatre ans après avoir réclamé l'aide du FMI face à une grave crise économique, le Ghana annonce la \"fin définitive\" de son plan de sauvetage",
@@ -15,6 +25,11 @@
       "title": "\"Je trouve ça un peu dommage que tout le monde n'y ait pas accès\" : les prix des locations s'envolent à Cannes durant le festival",
       "url": "https://www.franceinfo.fr/culture/cinema/festival-de-cannes/je-trouve-ca-un-peu-dommage-que-tout-le-monde-n-y-ait-pas-acces-les-prix-des-locations-s-envolent-a-cannes-durant-le-festival_8006510.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Loin des paillettes et des hôtels, les petites mains de la Quinzaine, les passionnés au petit budget, doivent trouver un lieu pour travailler et dormir. Et ceci, alors que le marché immobilier cannois connaît à chaque fois une bulle inflationniste."
+    },
+    {
+      "title": "L’info du jour | 17 mai 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/05/17/linfo-du-jour-17-mai-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 17 mai 2026 - Matin",
@@ -65,11 +80,6 @@
       "title": "L’info du jour | 14 mai 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/05/14/linfo-du-jour-14-mai-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 mai 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/05/13/linfo-du-jour-13-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Dumping fiscal contre retombées économiques : comment les territoires européens attirent les tournages de cinéma",
