@@ -1,40 +1,65 @@
 {
-  "updated_at": "2026-05-18T06:44:22Z",
+  "updated_at": "2026-05-18T10:57:09Z",
   "articles": [
+    {
+      "title": "« Pour qu’une politique économique progressiste soit possible, la gauche doit déployer une véritable doctrine de production »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/18/pour-qu-une-politique-economique-progressiste-soit-possible-la-gauche-doit-deployer-une-veritable-doctrine-de-production_6690868_3232.html",
+      "summary": "Le codirecteur de l’Observatoire de l’économie de la Fondation Jean Jaurès Simon-Pierre Sengayrac explique, dans une tribune au « Monde », que le programme économique de la gauche ne peut se limiter aux questions de répartition de la richesse, mais doit s’occuper de la question de la création de richesses."
+    },
+    {
+      "title": "« La France a six mois pour ne pas rater la prochaine vague industrielle de l’IA agentique »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/18/la-france-a-six-mois-pour-ne-pas-rater-la-prochaine-vague-industrielle-de-l-ia-agentique_6690864_3232.html",
+      "summary": "Les transactions opérées en ligne par des agents IA explosent, et elles sont le plus souvent réglées en stablecoins. En maintenant une règle d’impôts inadaptée de l’avis même de la Cour des comptes, la France risque de rester à l’écart de cette révolution financière et des recettes fiscales qu’elle peut précisément générer, estiment, dans une tribune au « Monde », trois acteurs français des cryptomonnaies."
+    },
     {
       "title": "« L’économie russe est une éponge sèche : si de l’argent frais arrive, il sert à colmater les trous »",
       "url": "https://www.lemonde.fr/idees/article/2026/05/17/l-economie-russe-est-une-eponge-seche-si-de-l-argent-frais-arrive-il-sert-a-colmater-les-trous_6690189_3232.html",
       "summary": "Malgré la flambée du prix du pétrole, l’économie russe se contracte depuis le début de l’année 2026. Dans une tribune au « Monde », l’économiste russe Vladislav Inozemtsev estime que cela tient à d’aberrantes décisions « néosoviétiques » au Kremlin : fortes hausses d’impôts, taux d’intérêt élevés et renationalisations."
     },
     {
-      "title": "Urogo face aux surtaxes américaines",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-urogo-face-aux-surtaxes-americaines_VN-202605180244.html",
-      "summary": "\"Nous avons été touchés par les droits de douane et espérons un remboursement. Mais nous subissons déjà une deuxième vague. Pourtant, le marché américain est vital pour nous.\" regrette Tristan Le Lous, président d'Urgo sur le plateau de Good Morning Business au micro de Laure Closier.<br /><br /><img src=\"https://images.bfmtv.com/nWVVqBvLcYbLuuiRLRk1nh-R2fQ=/0x0:1280x720/800x0/images/Urogo-face-aux-surtaxes-americaines-2287526.jpg\" />"
+      "title": "Salaires : les entreprises sous pression",
+      "url": "https://www.bfmtv.com/economie/video-salaires-les-entreprises-sous-pression_VN-202605180458.html",
+      "summary": "Léonidas Kalogeropoulos alerte sur la situation économique. Il explique qu'avec les augmentations de salaire et les montées des prix, on alimente une spirale inflationniste.<br /><br /><img src=\"https://images.bfmtv.com/lIbvXgkn0ABDv_vmpx8IP8SMU6E=/0x0:1280x720/800x0/images/Salaires-les-entreprises-sous-pression-2287693.jpg\" />"
     },
     {
-      "title": "\"Prendre en compte l'inflation\": Marylise Léon appelle à rouvrir \"les négociations salariales\" dans les entreprises",
-      "url": "https://www.bfmtv.com/economie/video-prendre-en-compte-l-inflation-marylise-leon-appelle-a-rouvrir-les-negociations-salariales-dans-les-entreprises_VN-202605180230.html",
-      "summary": "La secrétaire générale de la CFDT Marylise Léon plaide, dans les colonnes du Parisien ce samedi, pour rouvrir les négociations salariales dans les entreprises, alors que le pouvoir d'achat des Français se détériore.<br /><br /><img src=\"https://images.bfmtv.com/IroCkpweid5mEG7Olkn9pUC3PlA=/0x0:1280x720/800x0/images/Prendre-en-compte-l-inflation-Marylise-Leon-appelle-a-rouvrir-les-negociations-salariales-dans-les-entreprises-2287514.jpg\" />"
+      "title": "L'intégrale de Tout pour investir du lundi 18 mai",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-integrale-de-tout-pour-investir-du-lundi-18-mai_EN-202605180436.html",
+      "summary": "Ce lundi 18 mai, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance chez Trade Republic, Gustav Sondén, cofondateur de Colbr, Jean-Louis Cussac, trader pour compte propre chez Perceval Finance Conseil, Vincent Aurez, président de Figen AI, Julien Nebenzahl, responsable des solutions d'épargne chez eToro, et François de Lassus, consultant chez Or en Cash, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/c8CA1F63_MIRKyZRpD3guotSYrk=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_3.jpg\" />"
     },
     {
-      "title": "\"Le multilatéralisme, c'est utile\": Roland Lescure retrouve ses homologues, lors du sommet du G7 Finances, à Paris",
-      "url": "https://www.bfmtv.com/economie/video-le-multilateralisme-c-est-utile-roland-lescure-retrouve-ses-homologues-lors-du-sommet-du-g7-finances-a-paris_VN-202605180209.html",
-      "summary": "Le ministre de l'économie, Roland Lescure, s'exprime à son arrivée pour le sommet du G7 Finances en présence de plusieurs ministres des pays du G7 réunis à Paris, ce lundi 18 mai, pour tenter de dépasser leurs divergences.<br /><br /><img src=\"https://images.bfmtv.com/CDjcp3KQ4_Xz5FrQb-4ANOw1VUU=/0x0:1280x720/800x0/images/Le-multilateralisme-c-est-utile-Roland-Lescure-retrouve-ses-homologues-lors-du-sommet-du-G7-Finances-a-Paris-2287496.jpg\" />"
+      "title": "Tout pour investir - Lundi 18 mai",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-tout-pour-investir-lundi-18-mai_VN-202605180449.html",
+      "summary": "Ce lundi 18 mai, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance chez Trade Republic, Gustav Sondén, cofondateur de Colbr, Jean-Louis Cussac, trader pour compte propre chez Perceval Finance Conseil, Vincent Aurez, président de Figen AI, Julien Nebenzahl, responsable des solutions d'épargne chez eToro, et François de Lassus, consultant chez Or en Cash, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/FkfI7m7C1L-KQm1JdvQpx7BGDkA=/0x0:1280x720/800x0/images/Tout-pour-investir-Lundi-18-mai-2287686.jpg\" />"
     },
     {
-      "title": "Venezuela : le dollar va-t-il remplacer le bolivar ?",
-      "url": "https://www.bfmtv.com/economie/video-venezuela-le-dollar-va-t-il-remplacer-le-bolivar_VN-202605180192.html",
-      "summary": "Près de 4 milliards de dollars circulent actuellement au Venezuela. La monnaie américaine est de plus en plus utilisée depuis que l'hyperinflation a frappé le pays à la fin des années 2010 et entraîné une pénurie de bolivar, sa monnaie officielle. <br /><br /><img src=\"https://images.bfmtv.com/_7w9W3IXgMiCPUFGIeFqB8jvjP8=/0x0:1280x720/800x0/images/Venezuela-le-dollar-va-t-il-remplacer-le-bolivar-2287483.jpg\" />"
+      "title": "Le déchiffrage : Les taux longs US au plus haut depuis 2007 - 18/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-dechiffrage-les-taux-longs-us-au-plus-haut-depuis-2007-18-05_VN-202605180404.html",
+      "summary": "Ce lundi 18 mai, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance chez Trade Republic, et Gustav Sondén, cofondateur de Colbr, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/sfWwZoAl1G9s2x58j6wgixa1WWg=/0x0:1280x720/800x0/images/Le-dechiffrage-Les-taux-longs-US-au-plus-haut-depuis-2007-18-05-2287655.jpg\" />"
     },
     {
-      "title": "Baisse des charges : l’exécutif sous pression",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-baisse-des-charges-l-executif-sous-pression_VN-202605180176.html",
-      "summary": "Les tractations se poursuivent sur les 6 milliards d’euros d’économies censés compenser le coût de la crise. Une nouvelle baisse des allègements de charges est à l’étude, mais le gouvernement cherche comment la faire accepter au patronat.<br /><br /><img src=\"https://images.bfmtv.com/zLqTnEqj9v9FLxIvJJGt16aA0k4=/0x0:1280x720/800x0/images/Baisse-des-charges-l-executif-sous-pression-2287470.jpg\" />"
+      "title": "Le déchiffrage : Les taux longs US au plus haut depuis 2007 - 18/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-dechiffrage-les-taux-longs-us-au-plus-haut-depuis-2007-18-05_EN-202605180401.html",
+      "summary": "Ce lundi 18 mai, Antoine Larigaudrie a reçu Matthias Baccino, conseiller senior pour la croissance chez Trade Republic, et Gustav Sondén, cofondateur de Colbr, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/c8CA1F63_MIRKyZRpD3guotSYrk=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_3.jpg\" />"
     },
     {
-      "title": "La météo a largement impacté le week-end de l'Ascension",
-      "url": "https://www.bfmtv.com/economie/consommation/video-la-meteo-a-largement-impacte-le-week-end-de-l-ascension_VN-202605180156.html",
-      "summary": "Les touristes étaient présents à l'Ascension mais ont très peu consommé. Du monde dans les hôtels et les restaurants de la côte d’Azur mais des dépenses très limitées. Et un chiffre d’affaires en berne pour les professionnels qui s’inquiètent pour les derniers week-ends prolongés du mois, mais aussi pour les vacances d’été !<br /><br /><img src=\"https://images.bfmtv.com/hDnm24h9YrTECCvUhZPn9C8wCjw=/0x0:1280x720/800x0/images/La-meteo-a-largement-impacte-le-week-end-de-l-Ascension-2287458.jpg\" />"
+      "title": "L'Indonésie a reçu 6 Rafale sur les 42 commandés en 2022: son président veut renforcer la défense du pays en misant sur l'avion de chasse français malgré l'état des finances publiques",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/l-indonesie-a-recu-6-rafale-sur-les-42-commandes-en-2022-son-president-veut-renforcer-la-defense-du-pays-en-misant-sur-l-avion-de-chasse-francais-malgre-l-etat-des-finances-publiques_AD-202605180378.html",
+      "summary": "L'armée indonésienne a récemment reçu six Rafale, quatre Falcon 8X et un Airbus A400M Atlas. <br /><br /><img src=\"https://images.bfmtv.com/AXfA-jsZTZbPgZA-st7iH42zj-c=/0x106:2048x1258/800x0/images/Prabowo-Subianto-2287623.jpg\" />"
+    },
+    {
+      "title": "\"On est à 70 000 entreprises qui ont fait faillite en un an\", analyse Stéphanie Villers, économiste et conseillère économique au cabinet PwC France",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/on-est-a-70-000-entreprises-qui-ont-fait-faillite-en-un-an-analyse-stephanie-villers-economiste-et-conseillere-economique-au-cabinet-pwc-france_8011457.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Invitée de \"La Matinale\", Stéphanie Villers, économiste et conseillère économique au cabinet PwC France, revient sur les signaux contradictoires de l’économie française, entre ralentissement de la croissance, hausse des défaillances d’entreprises et quelques facteurs de résilience face aux tensions économiques et géopolitiques."
+    },
+    {
+      "title": "Face à l'inflation, la CFDT réclame des hausses de salaires et souhaite rouvrir les négociations",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/face-a-l-inflation-la-cfdt-reclame-des-hausses-de-salaires-et-souhaite-rouvrir-les-negociations_7981793.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que l'inflation s'intensifie, la CFDT appelle les employeurs à rouvrir les négociations salariales afin d'accorder des hausses de salaires. Entre absence d'obligation légale, coût du Smic et débat sur les aides aux entreprises, le bras de fer entre syndicats, patronat et gouvernement s'annonce tendu."
+    },
+    {
+      "title": "L’info du jour | 18 mai 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/05/18/linfo-du-jour-18-mai-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 18 mai 2026 - Matin",
@@ -92,24 +117,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 14 mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/14/linfo-du-jour-14-mai-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 14 mai 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/05/14/linfo-du-jour-14-mai-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Dumping fiscal contre retombées économiques : comment les territoires européens attirent les tournages de cinéma",
       "url": "https://www.alternatives-economiques.fr/dumping-fiscal-contre-retombees-economiques-comment-les-territoires-europee/00118512",
       "summary": "<p>Pour accueillir les productions audiovisuelles, les Etats européens et les régions multiplient les crédits d’impôts, développent leurs infrastructures et valorisent leur patrimoine. En se livrant une concurrence acharnée.</p>"
-    },
-    {
-      "title": "En Espagne, l’immigration fait un bien fou à l'économie",
-      "url": "https://www.alternatives-economiques.fr/en-espagne-limmigration-fait-un-bien-fou-a-leconomie/00118492",
-      "summary": "<p>Le 14 avril, l’Espagne a entamé un processus exceptionnel de régularisation d’un demi-million d’étrangers sans-papiers. Cette décision, dont les motifs sont principalement économiques, est confortée par deux études récentes.</p>"
     }
   ]
 }
