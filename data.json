@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-23T02:43:21Z",
+  "updated_at": "2026-05-23T05:58:10Z",
   "articles": [
+    {
+      "title": "Guillaume Vallet, économiste : « Les Enhanced Games mettent en avant un certain type d’homme, dominateur, valorisé par l’idéologie MAGA »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/23/guillaume-vallet-economiste-les-enhanced-games-mettent-en-avant-un-certain-type-d-homme-dominateur-valorise-par-l-ideologie-maga_6692707_3232.html",
+      "summary": "Dans un entretien au « Monde », le professeur d’économie analyse cette compétition entre athlètes dopés prévue pour le 24 mai à Las Vegas (Etats-Unis). Défendant une logique de marché sans contrôle, ces Jeux inédits dans l’histoire du sport font entrer dans une logique d’affrontement, hors du cadre démocratique."
+    },
     {
       "title": "Droits de douane : l’Union européenne et le Mexique signent un accord commercial réduisant leurs taxes réciproques",
       "url": "https://www.lemonde.fr/economie/article/2026/05/22/droits-de-douane-l-union-europeenne-et-le-mexique-signent-un-accord-commercial-reduisant-leurs-taxes-reciproques_6692351_3234.html",
@@ -77,19 +82,19 @@
       "summary": "Face à la flambée des prix des carburants et à la guerre au Moyen-Orient, Fatih Birol, directeur de l’Agence internationale de l’énergie, alerte sur la situation. L'ancien ministre de l'Économie, Arnaud Montebourg revient sur la situation. <br /><br /><img src=\"https://images.bfmtv.com/oYv11dubsGOLCzbWogbCR21M5mo=/0x0:1280x720/800x0/images/Ce-n-est-pas-une-petite-affaire-le-monde-face-a-la-plus-grande-menace-energetique-de-l-histoire-avec-la-guerre-au-Moyen-Orient-2290803.jpg\" />"
     },
     {
-      "title": "Terres rares, fast fashion… Stéphane Séjourné veut rééquilibrer la balance commerciale entre l'UE et la Chine (le déficit atteint les 360 milliards d'euros)",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/terres-rares-fast-fashion-stephane-sejourne-veut-reequilibrer-la-balance-commerciale-entre-l-ue-et-la-chine-le-deficit-atteint-les-360-milliards-d-euros_AD-202605220809.html",
-      "summary": "L’Union européenne doit engager un \"rééquilibrage commercial\" face à la Chine pour résorber un déficit abyssal de plus de 360 milliards d'euros, a alerté le vice-président de la Commission, Stéphane Séjourné. À l'approche d'un sommet des dirigeants européens, Bruxelles martèle son souhait de réduire sa dépendance stratégique vis-à-vis de Pékin.<br /><br /><img src=\"https://images.bfmtv.com/f5xvfD3K7m6hypbA5T20YpMt4KY=/0x40:768x472/800x0/images/Le-ministre-francais-des-Affaires-etrangeres-Stephane-Sejourne-lors-d-une-visite-a-Pekin-le-1er-avril-2024-1843127.jpg\" />"
-    },
-    {
-      "title": "Les experts sans frontières – Vendredi 22 mai",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-22-mai_EN-202605220805.html",
-      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/M65hsM-k6LkGQ2eSrf8NEmo7scw=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_2.jpg\" />"
+      "title": "L'Union européenne et le Mexique signent un accord commercial réduisant leurs droits de douane réciproques",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-et-le-mexique-signent-un-accord-commercial-reduisant-leurs-droits-de-douane-reciproques_8022902.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le texte prévoit une réduction de leurs droits de douane, afin de diversifier leurs économies et de contourner le protectionnisme agressif de Donald Trump."
     },
     {
       "title": "\"Si vous voulez gagner du temps, vous perdez de l'argent\" : rencontre avec un spécialiste de la chasse aux promotions",
       "url": "https://www.franceinfo.fr/economie/si-vous-voulez-gagner-du-temps-vous-perdez-de-l-argent-rencontre-avec-un-specialiste-de-la-chasse-aux-promos-dans-les-rayons_8021213.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Combien peut-on vraiment économiser en chassant les promotions ? Avec le retour de l'inflation, de plus en plus de Français en ont fait un mode de vie : comparer les enseignes pour profiter des promos. Reportage auprès de l'un d'eux, à Toulouse (Haute-Garonne)."
+    },
+    {
+      "title": "L’info du jour | 23 mai 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/05/23/linfo-du-jour-23-mai-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 22 mai 2026 - Soir",
@@ -140,11 +145,6 @@
       "title": "L'élargissement du plaider-coupable, anatomie d’un mauvais calcul",
       "url": "https://www.alternatives-economiques.fr/lelargissement-du-plaider-coupable-anatomie-dun-mauvais-calcul/00118558",
       "summary": "<p>Le projet de loi SURE, en discussion, prévoit d’étendre le « plaider-coupable » aux crimes. Mais les travaux en économie du droit montrent que cette solution soulève des questions d’efficacité et d’équité.</p>"
-    },
-    {
-      "title": "Derrière la panique nataliste, les 6 défis d'une France qui vieillit",
-      "url": "https://www.alternatives-economiques.fr/derriere-la-panique-nataliste-les-6-defis-dune-france-qui-vieillit/00118569",
-      "summary": "<p>[Moins de bébés, est-ce si grave ? 1/3] Moins de bébés, plus de personnes âgées… l’Hexagone doit faire face à une équation démographique qui fragilise son économie. Le défi collectif est immense, mais pas insurmontable.</p>"
     }
   ]
 }
