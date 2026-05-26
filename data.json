@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-05-26T13:46:25Z",
+  "updated_at": "2026-05-26T17:19:29Z",
   "articles": [
+    {
+      "title": "Jean-Luc Tavernier, Xavier Jaravel, Natacha Valla, Xavier Ragot : le gouvernement appelle quatre économistes à la rescousse sur le budget",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/26/budget-le-gouvernement-appelle-quatre-economistes-a-la-rescousse_6693930_823448.html",
+      "summary": "Pour la première fois, un quatuor d’experts va aider Bercy à préparer le budget 2027, en proposant des scénarios de redressement des finances publiques. De quoi aplanir peut-être quelques obstacles, dans un contexte particulièrement périlleux."
+    },
     {
       "title": "Les économistes Gabriel Zucman et Emmanuel Saez, deux « Frenchies » en campagne pour taxer la fortune des milliardaires californiens",
       "url": "https://www.lemonde.fr/idees/article/2026/05/26/les-economistes-gabriel-zucman-et-emmanuel-saez-deux-frenchies-en-campagne-pour-taxer-la-fortune-des-milliardaires-californiens_6693886_3232.html",
       "summary": "Les 250 milliardaires de l’Etat américain ont amassé une fortune colossale en payant très peu d’impôts, dénoncent les deux chercheurs français dans une tribune au « New York Times », qui soutiennent la proposition d’une taxe unique de 5 % soumise à référendum le 3 novembre."
     },
     {
-      "title": "Impayés de loyer : ce que cache la hausse des chiffres",
-      "url": "https://www.lemonde.fr/argent/article/2026/05/26/impayes-de-loyer-ce-que-cache-la-hausse-des-chiffres_6693839_1657007.html",
-      "summary": "La crise énergétique, l’inflation, la perte d’un emploi ou une séparation sont les principales causes de l’augmentation des dettes locatives depuis la pandémie de Covid-19."
+      "title": "En prévision des débats sur le budget 2027, Bercy missionne 4 économistes pour analyser l'évolution du déficit public à horizon 2030 et proposer en juillet des scénarios de redressement",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/en-prevision-des-debats-sur-le-budget-2027-bercy-missionne-4-economistes-pour-analyser-l-evolution-du-deficit-public-a-horizon-2030-et-proposer-en-juillet-des-scenarios-de-redressement_AV-202605260679.html",
+      "summary": "Ces quatre experts devront rendre leurs conclusions en juillet afin d'éclairer le débat sur le budget 2027. Ils auront notamment pour mission de proposer une répartition des efforts budgétaires nécessaires entre l'État, la Sécurité sociale et les collectivités.<br /><br /><img src=\"https://images.bfmtv.com/CaFJyYwuCYd0DhcMftg97vAZVj0=/0x0:1248x702/800x0/images/Le-ministere-de-l-Economie-a-Bercy-le-5-juin-2023-1911564.jpg\" />"
     },
     {
       "title": "Le FMI appelle la France à freiner ses dépenses",
@@ -17,9 +22,9 @@
       "summary": "Le Fonds monétaire international (FMI) somme la France de réaliser davantage d'efforts pour redresser ses finances publiques. L'institution recommande des mesures sensibles allant de l'allongement de la vie active à une plus forte participation des patients aux dépenses de santé."
     },
     {
-      "title": "Ralentissement de l’activité, coûts supplémentaires... Les fortes chaleurs freinent déjà l’économie française",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/ralentissement-de-l-activite-couts-supplementaires-les-fortes-chaleurs-freinent-deja-l-economie-francaise_7998803.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La vague de chaleur qui touche la France cette semaine ne menace pas seulement la santé. Productivité en baisse, chantiers perturbés, agriculture fragilisée : les conséquences économiques s’annoncent déjà importantes."
+      "title": "L’info du jour | 26 mai 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/05/26/linfo-du-jour-26-mai-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 26 mai 2026 - Mi-journée",
@@ -67,12 +72,7 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 23 mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/23/linfo-du-jour-23-mai-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Budget européen de la recherche : la « compétitivité » à tout prix",
+      "title": "Budget européen de la recherche : la compétitivité à tout prix",
       "url": "https://www.alternatives-economiques.fr/budget-europeen-de-la-recherche-la-competitivite-a-tout-prix/00118545",
       "summary": "<p>Les prochains budgets de l’Union européenne, actuellement en négociation, prévoient des crédits en hausse pour la recherche, moyennant une soumission accrue aux impératifs de la croissance économique.</p>"
     },
