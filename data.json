@@ -1,40 +1,75 @@
 {
-  "updated_at": "2026-05-28T06:42:39Z",
+  "updated_at": "2026-05-28T10:44:00Z",
   "articles": [
+    {
+      "title": "Les dons aux associations et fondations ont progressé de 3,6 % en 2025 en France",
+      "url": "https://www.lemonde.fr/argent/article/2026/05/28/les-dons-aux-associations-et-fondations-ont-progresse-de-3-6-en-2025-en-france_6694447_1657007.html",
+      "summary": "Cette hausse des dons, dans un contexte d’inflation (+ 0,9 %), est la plus « notable depuis 2021 », remarque le syndicat France Générosités, qui alerte sur la « pression financière croissante » que subissent les associations."
+    },
+    {
+      "title": "Loi de programmation militaire : le Sénat veut augmenter de 50 milliards d’euros le budget de la défense",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/28/loi-de-programmation-militaire-le-senat-veut-augmenter-de-50-milliards-d-euros-le-budget-de-la-defense_6694436_823448.html",
+      "summary": "Devant la hausse des menaces, les sénateurs ont adopté en commission plusieurs amendements visant à porter à 450 milliards d’euros la trajectoire de la loi de programmation militaire d’ici à 2030. Et ce, alors que le Haut Conseil des finances publiques a alerté sur le fait que la France n’a pas les moyens de ses ambitions."
+    },
     {
       "title": "La soudaine poussée de l’inflation ravive les enjeux autour des augmentations de salaires",
       "url": "https://www.lemonde.fr/economie/article/2026/05/28/la-soudaine-poussee-de-l-inflation-ravive-les-enjeux-autour-des-augmentations-de-salaires_6694418_3234.html",
       "summary": "La guerre au Moyen-Orient provoque, depuis la fin février, une augmentation des prix en France. Or les négociations salariales dans les entreprises ont eu lieu avant le conflit et ne tiennent pas compte de cette hausse, d’où le risque de perte de pouvoir d’achat des salariés."
     },
     {
-      "title": "Déficit de la « Sécu » : la Cour des comptes plaide pour un retour à l’équilibre « en quatre ans »",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/27/deficit-de-la-secu-la-cour-des-comptes-plaide-pour-un-retour-a-l-equilibre-en-quatre-ans_6694183_823448.html",
-      "summary": "Dans un rapport rendu public mercredi 27 mai, l’institution de la rue Cambon à Paris pense qu’il est possible de « tendre » vers une résorption du déficit « à l’horizon de 2030 » en réalisant des efforts sur les retraites et sur l’assurance-maladie."
+      "title": "La Norvège affiche 6% de croissance et 21 milliards d'euros d'excédent commercial au premier trimestre: la guerre au Moyen-Orient dope les recettes du plus gros exportateur d'hydrocarbures d'Europe",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/la-norvege-affiche-6-de-croissance-et-21-milliards-d-euros-d-excedent-commercial-au-premier-trimestre-la-guerre-au-moyen-orient-dope-les-recettes-du-plus-gros-exportateur-d-hydrocarbures-d-europe_AD-202605280447.html",
+      "summary": "Selon l'Institut norvégien de statistique, les hydrocarbures exportés ont vu leurs prix augmenter de 23,5% au premier trimestre, les ventes de pétrole s'appréciant de 14,2% et celles de gaz naturel de 37%.<br /><br /><img src=\"https://images.bfmtv.com/nsaZCTQgNEY4GLn94USy1oHKj3o=/0x40:768x472/800x0/images/Le-champ-de-petrole-Johan-Sverdrup-en-mer-du-Nord-a-l-ouest-de-Stavanger-en-Norvege-le-7-janvier-2020-1372220.jpg\" />"
     },
     {
-      "title": "La guerre au Moyen-Orient révèle les faiblesses de l’économie indienne",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/27/la-guerre-au-moyen-orient-revele-les-faiblesses-de-l-economie-indienne_6694168_3234.html",
-      "summary": "Le pays le plus peuplé du monde, troisième importateur mondial de pétrole, souffre des retombées de l’offensive américano-israélienne en Iran, en raison notamment de sa dépendance aux importations et du développement insuffisant du secteur manufacturier."
+      "title": "\"Je me fiche des élections\", \"il faudra les pulvériser\": plus brutal que jamais, Donald Trump assure que la colère du consommateur américain ne le poussera pas à signer avec l'Iran",
+      "url": "https://www.bfmtv.com/economie/je-me-fiche-des-elections-il-faudra-les-pulveriser-plus-brutal-que-jamais-donald-trump-assure-que-la-colere-du-consommateur-americain-ne-le-poussera-pas-a-signer-avec-l-iran_AV-202605280390.html",
+      "summary": "Malgré l’explosion des prix de l’essence, le retour de l’inflation et l’effondrement de sa popularité à 36%, Donald Trump assume une ligne dure contre l’Iran, affirmant se moquer des élections et refusant toute concession susceptible d’apaiser les marchés.<br /><br /><img src=\"https://images.bfmtv.com/70azpfe4MrlZDCVYG5DLu9QzeFI=/0x0:2048x1152/800x0/images/Donald-Trump-en-conseil-des-ministres-a-la-Maison-Blanche-le-27-mai-2026-2293585.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Sécu, moins de prestations ou cotiser plus ? - 28/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-jean-marc-daniel-secu-moins-de-prestations-ou-cotiser-plus-28-05_VN-202605280154.html",
-      "summary": "Ce jeudi 28 mai, le creusement de quatre milliards d'euros du déficit de la Sécurité sociale révélé par Les Échos, l'appel de la Cour des comptes à une réforme systémique, ainsi que l'arbitrage crucial entre baisse des prestations et hausse des cotisations pour renflouer les caisses, ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/ED8WE8HmL8m8rI3PgT2HVRCKVPA=/0x0:1280x720/800x0/images/Emmanuel-Lechypre-face-a-Jean-Marc-Daniel-Secu-moins-de-prestations-ou-cotiser-plus-28-05-2293444.jpg\" />"
+      "title": "Les Experts : Peut-on redresser les finances publiques ? - 28/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-peut-on-redresser-les-finances-publiques-28-05_EN-202605280362.html",
+      "summary": "Ce jeudi 28 mai, les pistes envisageables pour assainir les finances publiques, le niveau d’emploi des seniors dans notre pays, les effets du gel des allègements de charges sur notre économie, ainsi que les conséquences de la revalorisation du Smic pour les TPE, ont notamment été abordés par Mathieu Plane, directeur adjoint du département Analyse et Prévision de l'OFCE, Valérie Plagnol, présidente du Cercle des Épargnants, et Stéphane Carcillo, responsable de la division revenu/travail de l'OCDE et professeur associé à Sciences Po, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Sécu, moins de prestations ou cotiser plus ? - 28/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-secu-moins-de-prestations-ou-cotiser-plus-28-05_EN-202605280150.html",
-      "summary": "Ce jeudi 28 mai, le creusement de quatre milliards d'euros du déficit de la Sécurité sociale révélé par Les Échos, l'appel de la Cour des comptes à une réforme systémique, ainsi que l'arbitrage crucial entre baisse des prestations et hausse des cotisations pour renflouer les caisses, ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
+      "title": "Les Experts : Peut-on redresser les finances publiques ? - 28/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-peut-on-redresser-les-finances-publiques-28-05_VN-202605280367.html",
+      "summary": "Ce jeudi 28 mai, les pistes envisageables pour assainir les finances publiques, le niveau d’emploi des seniors dans notre pays, les effets du gel des allègements de charges sur notre économie, ainsi que les conséquences de la revalorisation du Smic pour les TPE, ont notamment été abordés par Mathieu Plane, directeur adjoint du département Analyse et Prévision de l'OFCE, Valérie Plagnol, présidente du Cercle des Épargnants, et Stéphane Carcillo, responsable de la division revenu/travail de l'OCDE et professeur associé à Sciences Po, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/jhTktfTy-hbWLLasCOfogXYpR_I=/0x0:1280x720/800x0/images/Les-Experts-Peut-on-redresser-les-finances-publiques-28-05-2293617.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Sécu, moins de prestations ou cotiser plus ? - 28/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-jean-marc-daniel-secu-moins-de-prestations-ou-cotiser-plus-28-05_EN-202605280149.html",
-      "summary": "Ce jeudi 28 mai, le creusement de quatre milliards d'euros du déficit de la Sécurité sociale révélé par Les Échos, l'appel de la Cour des comptes à une réforme systémique, ainsi que l'arbitrage crucial entre baisse des prestations et hausse des cotisations pour renflouer les caisses, ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/s2WPRLzFpTNccMMWJnQAOACboBc=/0x0:14000x14000/800x0/podcast/podcasts/principale-118_2.jpg\" />"
+      "title": "\"L’État atteint à un moment donné ses limites\": le ministre des Transports allemand anticipe la fin de la réduction fiscale sur l'essence au 1er juillet mais écarte toute pénurie de carburants cet été",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/l-etat-atteint-a-un-moment-donne-ses-limites-le-ministre-des-transports-allemand-anticipe-la-fin-de-la-reduction-fiscale-sur-l-essence-au-1er-juillet-mais-ecarte-toute-penurie-de-carburants-cet-ete_AV-202605280359.html",
+      "summary": "Dans un entretien au journal Handelsblatt, Patrick Schnieder, le ministre des Transports allemand, prépare les esprits au non-renouvellement de la réduction d'une des taxes sur l'essence. Et dresse des perspectives sur l'utilisation des énergies fossiles dans le pays.<br /><br /><img src=\"https://images.bfmtv.com/D0hXUKL22pRYNtr7-KPsWwFAP9A=/0x0:2048x1152/800x0/images/Patrick-Schnieder-ministre-des-Transports-allemand-2293608.jpg\" />"
+    },
+    {
+      "title": "Il pourrait atteindre 23,2 milliards d'euros quand le gouvernement \"espérait\" 19,4 milliards: le déficit de la Sécu sera probablement plus fort que prévu en 2026",
+      "url": "https://www.bfmtv.com/economie/economie-social/il-pourrait-atteindre-23-2-milliards-d-euros-quand-le-gouvernement-esperait-19-4-milliards-le-deficit-de-la-secu-sera-probablement-plus-fort-que-prevu-en-2026_AV-202605280332.html",
+      "summary": "Dans un rapport consulté par BFM Business, la Commission des comptes de la Sécu estime le déficit des régimes de base à 23,2 milliards d'euros pour l'année 2026, alors que le gouvernement espère le ramener à 19,4 milliards.<br /><br /><img src=\"https://images.bfmtv.com/bs1TwQqhQrPBNO3a8HXHB68XJwg=/0x39:768x471/800x0/images/La-proposition-de-la-Secu-de-revaloriser-nettement-les-consultations-medicales-pour-les-praticiens-qui-voient-le-plus-de-patients-ne-passe-pas-aupres-des-medecins-liberaux-1585246.jpg\" />"
+    },
+    {
+      "title": "Banques centrales : la BCE et la FED aux prises avec le retour de l'inflation - 28/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-banques-centrales-la-bce-et-la-fed-aux-prises-avec-le-retour-de-l-inflation-28-05_VN-202605280298.html",
+      "summary": "Ce jeudi 28 mai, l'impact de la crise énergétique sur la FED et le BCE, à savoir la menace d'une éventuelle hausse des taux, a été abordé par Alexandre Baradez, chef analyste chez IG, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/o5pOARkPzDQThn8EaRrPue9Rg_k=/0x0:1280x720/800x0/images/Banques-centrales-la-BCE-et-la-FED-aux-prises-avec-le-retour-de-l-inflation-28-05-2293557.jpg\" />"
+    },
+    {
+      "title": "Banques centrales : la BCE et la FED aux prises avec le retour de l'inflation - 28/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/banques-centrales-la-bce-et-la-fed-aux-prises-avec-le-retour-de-l-inflation-28-05_EN-202605280288.html",
+      "summary": "Ce jeudi 28 mai, l'impact de la crise énergétique sur la FED et le BCE, à savoir la menace d'une éventuelle hausse des taux, a été abordé par Alexandre Baradez, chef analyste chez IG, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
+    },
+    {
+      "title": "Le déficit de la Sécurité sociale va se creuser plus que prévu en 2026, selon un rapport officiel",
+      "url": "https://www.franceinfo.fr/economie/deficit/le-deficit-de-la-securite-sociale-va-se-creuser-plus-que-prevu-en-2026-selon-un-rapport-officiel_8033402.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans son dernier rapport, la commission des comptes de la Sécurité sociale estime que le déficit pourrait atteindre 23,2 milliards d'euros, soit une dégradation de 3,8 milliards par rapport à la somme prévue dans le budget."
     },
     {
       "title": "La hausse du Smic place 70% des branches professionnelles sous le minimum légal",
       "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-hausse-du-smic-place-70-des-branches-professionnelles-sous-le-minimum-legal_8003240.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Pour suivre la hausse de l'inflation, alimentée notamment par la flambée des prix de l'énergie, le salaire minimum (Smic) augmentera de 2,4% lundi 1er juin. Une revalorisation qui risque toutefois de creuser les écarts entre les branches professionnelles, reconnaît le ministère du Travail."
+    },
+    {
+      "title": "L’info du jour | 28 mai 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/05/28/linfo-du-jour-28-mai-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 28 mai 2026 - Matin",
