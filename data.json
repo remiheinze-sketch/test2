@@ -1,30 +1,105 @@
 {
-  "updated_at": "2026-05-29T05:04:47Z",
+  "updated_at": "2026-05-29T09:34:17Z",
   "articles": [
+    {
+      "title": "La « résilience » de la croissance française semble toucher ses limites",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/29/la-resilience-de-la-croissance-francaise-semble-toucher-ses-limites_6694714_3234.html",
+      "summary": "Le produit intérieur brut du premier trimestre 2026 a été révisé en baisse, à – 0,1 %. Le gouvernement y voit de l’« attentisme » mais plusieurs facteurs suggèrent une dégradation de la conjoncture."
+    },
+    {
+      "title": "Derrière la « désindustrialisation » apparente de la France, une réalité plus complexe",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/29/derriere-la-desindustrialisation-apparente-de-la-france-une-realite-plus-complexe_6694713_4355770.html",
+      "summary": "Si la part de l’industrie dans l’économie française s’est largement contractée, les chiffres racontent une histoire plus nuancée qu’un simple « déclin industriel »."
+    },
+    {
+      "title": "Le PIB français a reculé de 0,1 % au premier trimestre, selon l’Insee, qui abaisse ainsi ses prévisions",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/29/le-pib-francais-a-recule-de-0-1-au-premier-trimestre-selon-l-insee-qui-abaisse-ainsi-ses-previsions_6694703_3234.html",
+      "summary": "L’institut de statistiques avait initialement annoncé une croissance nulle de janvier à mars. Tant la demande intérieure que le commerce extérieur ont pesé."
+    },
     {
       "title": "Les suggestions chocs de Delphine Ernotte pour France Télévisions et l’audiovisuel public",
       "url": "https://www.lemonde.fr/economie/article/2026/05/28/les-suggestions-chocs-de-delphine-ernotte-pour-france-televisions-et-l-audiovisuel-public_6694510_3234.html",
       "summary": "Alors que la ministre de la culture, Catherine Pégard, dévoilera les contrats d’objectifs et de moyens de France Télévisions et Radio France avant la fin du mois de juin, la dirigeante du groupe public lui a proposé trois scénarios d’économies possibles. Aucun ne paraît toutefois susceptible d’être adopté tel quel."
     },
     {
-      "title": "Les dons aux associations et fondations ont progressé de 3,6 % en 2025 en France",
-      "url": "https://www.lemonde.fr/argent/article/2026/05/28/les-dons-aux-associations-et-fondations-ont-progresse-de-3-6-en-2025-en-france_6694447_1657007.html",
-      "summary": "Cette hausse des dons, dans un contexte d’inflation (+ 0,9 %), est la plus « notable depuis 2021 », remarque le syndicat France Générosités, qui alerte sur la « pression financière croissante » que subissent les associations."
+      "title": "Les signaux faibles - Un super El Niño se profile pour 2026 - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-les-signaux-faibles-un-super-el-nino-se-profile-pour-2026-29-05_VN-202605290427.html",
+      "summary": "Ce vendredi 29 mai, Christopher Dembik a parlé de l'impact du climat sur l'inflation dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/QJwe4RuJmA_6nq5ZNFlVS12YRmQ=/0x0:1280x720/800x0/images/Les-signaux-faibles-Un-super-El-Nino-se-profile-pour-2026-29-05-2294345.jpg\" />"
     },
     {
-      "title": "\"Je n'achète vraiment que le nécessaire\": les Français en \"mode défensif\" depuis le début de la guerre au Moyen-Orient",
-      "url": "https://www.bfmtv.com/economie/consommation/je-n-achete-vraiment-que-le-necessaire-les-francais-en-mode-defensif-depuis-le-debut-de-la-guerre-au-moyen-orient_AD-202605290095.html",
-      "summary": "Recours aux marques de distributeurs et discounters, limitation des déplacements... A peine remis de l'hyperinflation liée au conflit en Ukraine, les Français ont réagi au \"quart de tour\" aux conséquences de la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/ee2ZY13DmN2QjHPjWrTCFc9ZdCQ=/8x2:2040x1145/800x0/images/Rayons-boissons-supermarches-2223551.jpg\" />"
+      "title": "Les signaux faibles - Un super El Niño se profile pour 2026 - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/les-signaux-faibles-un-super-el-nino-se-profile-pour-2026-29-05_EN-202605290424.html",
+      "summary": "Ce vendredi 29 mai, Christopher Dembik a parlé de l'impact du climat sur l'inflation dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
     },
     {
-      "title": "C'est l'effort à fournir pour compenser le coût de la guerre en Iran : l'Etat gèle et annule 4 milliards d'euros de crédits sur son budget (ils ne seront donc pas dépensés)",
-      "url": "https://www.bfmtv.com/economie/entreprises/c-est-l-effort-a-fournir-pour-compenser-le-cout-de-la-guerre-en-iran-l-etat-gele-et-annule-4-milliards-d-euros-de-credits-sur-son-budget-ils-ne-seront-donc-pas-depenses_AV-202605280856.html",
-      "summary": "Bercy a présenté un début de feuille de route, quant aux coupes budgétaires à faire pour répondre au coût de la guerre en Iran. <br /><br /><img src=\"https://images.bfmtv.com/0rvT2Axi5pAXxM5zmhqb55hno90=/0x0:1456x819/800x0/images/Amiel-2260616.jpg\" />"
+      "title": "La Russie n'arrive plus à suivre la cadence: elle consacre 40% de son Budget à l'armée mais ça ne suffit plus, le \"trou\" atteint 24 milliards d’euros et Moscou taille dans les dépenses sociales",
+      "url": "https://www.bfmtv.com/economie/international/la-russie-n-arrive-plus-a-suivre-la-cadence-elle-consacre-40-de-son-budget-a-l-armee-mais-ca-ne-suffit-plus-le-trou-atteint-24-milliards-d-euros-et-moscou-taille-dans-les-depenses-sociales_AV-202605290367.html",
+      "summary": "Selon un courrier révélée par le Financial Times, les dépenses militaires de la Russie vont dépasser les prévisions de 2.000 milliards de roubles cette année, creusant un déficit record sur l'année 2026. Le ministre des Finances Anton Silouanov réclame un gel massif des dépenses publiques pour maintenir à flot l'effort de guerre, qui absorbe déjà 40% du budget national.<br /><br /><img src=\"https://images.bfmtv.com/fIVLmaVcKAOkf1vYBEHJpwmDqBM=/0x106:2048x1258/800x0/images/Poutine-2241473.jpg\" />"
     },
     {
-      "title": "Guerre au Moyen-Orient: Bercy précise ses pistes d'économies budgétaires pour compenser les coûts du conflit estimés à six milliards d'euros",
-      "url": "https://www.franceinfo.fr/economie/budget/guerre-au-moyen-orient-bercy-precise-ses-pistes-d-economies-budgetaires-pour-compenser-les-couts-du-conflit-estimes-a-six-milliards-d-euros_8034542.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement prévoit notamment de geler un peu plus de trois milliards de crédits"
+      "title": "Les Experts : Vers une économie de bas salaire en France ? - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-vers-une-economie-de-bas-salaire-en-france-29-05_EN-202605290360.html",
+      "summary": "Ce vendredi 29 mai, les raisons du recul du PIB au premier trimestre ainsi que la crainte d'une nouvelle baisse des salaires en France, ont été abordés par Patrick Artus, économiste et conseiller économique de la société de gestion Ossiam, Antonin Bergeaud, Prix du meilleur jeune économiste 2025, professeur associé à HEC, et Olivier Garnier, expert associé à l'Institut Montaigne, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
+    },
+    {
+      "title": "Les Experts : Vers une économie de bas salaire en France ? - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-vers-une-economie-de-bas-salaire-en-france-29-05_VN-202605290364.html",
+      "summary": "Ce vendredi 29 mai, les raisons du recul du PIB au premier trimestre ainsi que la crainte d'une nouvelle baisse des salaires en France, ont été abordés par Patrick Artus, économiste et conseiller économique de la société de gestion Ossiam, Antonin Bergeaud, Prix du meilleur jeune économiste 2025, professeur associé à HEC, et Olivier Garnier, expert associé à l'Institut Montaigne, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/yI89VvqEiMUBEC1CFNDl8_hHJvc=/0x0:1280x720/800x0/images/Les-Experts-Vers-une-economie-de-bas-salaire-en-France-29-05-2294299.jpg\" />"
+    },
+    {
+      "title": "Le grand dilemme des marchés obligataires face à la Fed - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-grand-dilemme-des-marches-obligataires-face-a-la-fed-29-05_VN-202605290355.html",
+      "summary": "Ce vendredi 29 mai, le message envoyé par les marchés obligataires, notamment face à la politique de la Fed, ainsi que la situation de la BCE et de la Fed aux prises avec le retour de l'inflation, ont été abordés par Charudatta Shende, stratégiste obligataire chez Candriam, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/88N9hL9JkY0TUlSxlrAGZIB1cKk=/0x0:1280x720/800x0/images/Le-grand-dilemme-des-marches-obligataires-face-a-la-Fed-29-05-2294296.jpg\" />"
+    },
+    {
+      "title": "Le grand dilemme des marchés obligataires face à la Fed - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-grand-dilemme-des-marches-obligataires-face-a-la-fed-29-05_EN-202605290350.html",
+      "summary": "Ce vendredi 29 mai, le message envoyé par les marchés obligataires, notamment face à la politique de la Fed, ainsi que la situation de la BCE et de la Fed aux prises avec le retour de l'inflation, ont été abordés par Charudatta Shende, stratégiste obligataire chez Candriam, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
+    },
+    {
+      "title": "La consommation baisse, le PIB recule, l'inflation grimpe mais le gouvernement assure qu'il ne veut pas \"céder à l'alarmisme\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/la-consommation-baisse-le-pib-recule-l-inflation-grimpe-mais-le-gouvernement-assure-qu-il-ne-veut-pas-ceder-a-l-alarmisme_AD-202605290338.html",
+      "summary": "L'inflation a progressé à 2,4% sur un an en mai, mais Roland Lescure souligne qu'elle reste \"contenue, notamment par rapport à nos voisins européens\". La croissance est par ailleurs en repli au premier trimestre, à -0,1%.<br /><br /><img src=\"https://images.bfmtv.com/3ZRqqmMawqO-1WfkT__l2ECswSs=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-le-27-mars-2026-2261008.jpg\" />"
+    },
+    {
+      "title": "L'inflation accélère encore en mai, à 2,4% sur un an mais la hausse des prix dans l'alimentaire reste faible",
+      "url": "https://www.bfmtv.com/economie/l-inflation-accelere-encore-en-mai-a-2-4-sur-un-an-mais-la-hausse-des-pris-dans-l-alimentaire-reste-faible_AD-202605290309.html",
+      "summary": "L'inflation a augmenté de 2,4% sur un an, tirée par la hausse des prix de l'énergie et du gaz, selon l'Insee. Un chiffre plus haut que le mois dernier. Dans ce contexte, le gouvernement maintient sa ligne de rigueur budgétaire avec des aides ciblées limitées à 1,2 milliard d'euros.<br /><br /><img src=\"https://images.bfmtv.com/M1U_X4JtIuUVCJMuQxl0pSfuKt8=/0x105:2048x1257/800x0/images/Carburant-2281831.jpg\" />"
+    },
+    {
+      "title": "Le club de la Bourse : USA, l'inflation accélère encore en avril - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-usa-l-inflation-accelere-encore-en-avril-29-05_EN-202605290291.html",
+      "summary": "Retrouvez le club de la Bourse du vendredi 29 mai dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
+    },
+    {
+      "title": "Le club de la Bourse : USA, l'inflation accélère encore en avril - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-club-de-la-bourse-usa-l-inflation-accelere-encore-en-avril-29-05_VN-202605290294.html",
+      "summary": "Retrouvez le club de la Bourse du vendredi 29 mai dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/M9qFkybyOqLzH8By-d7UuaqHVfc=/0x0:1280x720/800x0/images/Le-club-de-la-Bourse-USA-l-inflation-accelere-encore-en-avril-29-05-2294242.jpg\" />"
+    },
+    {
+      "title": "PDR-Team intègre l'IA pour automatiser le suivi des sinistres grêle",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/hashtag-decryptage/pdr-team-integre-l-ia-pour-automatiser-le-suivi-des-sinistres-grele_AB-202605290032.html",
+      "summary": "Nathanael Alain, CEO et cofondateur de PDR-Team, spécialiste de la réparation de véhicules sinistrés par la grêle, fait face à une demande en forte croissance portée par l'intensification des épisodes climatiques extrêmes. Il détaille la stratégie d'une entreprise qui s'est imposée comme un partenaire incontournable des assureurs.<br /><br /><img src=\"https://images.bfmtv.com/DFgshr3Vz1Lohb8vE-Rmeuyf15A=/0x0:1920x1080/800x0/images/PDR-Team-2293699.jpg\" />"
+    },
+    {
+      "title": "C'est encore pire que ce qui était attendu: le PIB de la France a finalement reculé de 0,1% au 1er trimestre",
+      "url": "https://www.bfmtv.com/economie/economie-social/france/c-est-encore-pire-que-ce-qui-etait-attendu-le-pib-de-la-france-a-finalement-recule-de-0-1-au-1er-trimestre_AD-202605290278.html",
+      "summary": "Lors de sa première estimation, l'Insee avait annoncé une croissance tricolore nulle entre janvier et mars. <br /><br /><img src=\"https://images.bfmtv.com/sTmSu6cKROUcT8qUogmqT0KtrlU=/3x3:1491x840/800x0/images/-474491.jpg\" />"
+    },
+    {
+      "title": "Gestion gouvernementale de la canicule, inflation et salaires... Les informés du matin du vendredi 29 mai",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/gestion-gouvernementale-de-la-canicule-inflation-et-salaires-les-informes-du-matin-du-vendredi-29-mai_8005340.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Tous les jours, les informés débattent de l'actualité autour d'Hadrien Bect et Renaud Dély."
+    },
+    {
+      "title": "Les vagues de chaleur pourraient coûter très cher à l’économie européenne",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/les-vagues-de-chaleur-pourraient-couter-tres-cher-a-l-economie-europeenne_8005316.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La croissance économique des pays les plus exposés pourrait être amputée de 5 à 7% au total d’ici 2030"
+    },
+    {
+      "title": "L’info du jour | 29 mai 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/05/29/linfo-du-jour-29-mai-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 28 mai 2026 - Soir",
@@ -59,11 +134,6 @@
     {
       "title": "L’info du jour | 26 mai 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/05/26/linfo-du-jour-26-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 mai 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/05/26/linfo-du-jour-26-mai-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
