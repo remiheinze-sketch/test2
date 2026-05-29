@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-29T12:40:28Z",
+  "updated_at": "2026-05-29T16:35:13Z",
   "articles": [
+    {
+      "title": "Déficit de la « Sécu » : un dérapage difficile à corriger sur l’exercice en cours",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/29/deficit-de-la-secu-un-derapage-difficile-a-rectifier-sur-l-exercice-en-cours_6694763_823448.html",
+      "summary": "Selon de nouvelles prévisions, dévoilées jeudi, le solde entre les dépenses et les recettes du système de solidarité pourrait se dégrader en 2026, atteignant − 20,4 milliards d’euros, soit 1 milliard de plus que ce qui était anticipé."
+    },
     {
       "title": "La « résilience » de la croissance française semble toucher ses limites",
       "url": "https://www.lemonde.fr/economie/article/2026/05/29/la-resilience-de-la-croissance-francaise-semble-toucher-ses-limites_6694714_3234.html",
@@ -17,44 +22,24 @@
       "summary": "L’institut de statistiques avait initialement annoncé une croissance nulle de janvier à mars. Tant la demande intérieure que le commerce extérieur ont pesé."
     },
     {
-      "title": "Les suggestions chocs de Delphine Ernotte pour France Télévisions et l’audiovisuel public",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/28/les-suggestions-chocs-de-delphine-ernotte-pour-france-televisions-et-l-audiovisuel-public_6694510_3234.html",
-      "summary": "Alors que la ministre de la culture, Catherine Pégard, dévoilera les contrats d’objectifs et de moyens de France Télévisions et Radio France avant la fin du mois de juin, la dirigeante du groupe public lui a proposé trois scénarios d’économies possibles. Aucun ne paraît toutefois susceptible d’être adopté tel quel."
+      "title": "L'éco du monde : France, le risque de stagflation refait surface – 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-france-le-risque-de-stagflation-refait-surface-29-05_EN-202605290672.html",
+      "summary": "Ce vendredi 29 mai, Michel Ruimy, partner de Levy Capital Partners, a abordé l'éventualité d'un narratif de stagflation commençant doucement à s'installer dans l'économie française, l'économie européenne sous surveillance avec des signaux contrastés, ainsi que la confirmation de la détente obligataire au sein de la BCE, dans l'émission BFM Bourse présentée par Antoine Larigaudrie. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
-      "title": "L'économie française s'est contractée de 0,1% au 1er trimestre: Roland Lescure estime que la loi spéciale du début d'année est en grande partie responsable et qu'elle \"n'est pas une option\" pour 2027",
-      "url": "https://www.bfmtv.com/economie/economie-social/l-economie-francaise-s-est-contractee-de-0-1-au-1er-trimestre-roland-lescure-estime-que-la-loi-speciale-du-debut-d-annee-est-en-grande-partie-responsable-et-qu-elle-n-est-pas-une-option-pour-2027_AD-202605290496.html",
-      "summary": "Le ministre de l'Économie a jugé que la loi spéciale en l'absence de budget au début de l'année avait eu un impact \"sans doute assez\" fort sur l'activité tricolore.<br /><br /><img src=\"https://images.bfmtv.com/EEWFGbyYB1UFFb4d0cGgQEvzaZc=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-et-des-Finances-Roland-Lescure-lors-de-la-reunion-preparatoire-a-la-saison-estivale-avec-les-acteurs-du-transport-aerien-dans-le-contexte-de-la-crise-au-Moyen-Orient-a-Paris-le-6-mai-2026-2281909.jpg\" />"
+      "title": "L'éco du monde : France, le risque de stagflation refait surface - 29/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-france-le-risque-de-stagflation-refait-surface-29-05_VN-202605290671.html",
+      "summary": "Ce vendredi 29 mai, Michel Ruimy, partner de Levy Capital Partners, a abordé l'éventualité d'un narratif de stagflation commençant doucement à s'installer dans l'économie française, l'économie européenne sous surveillance avec des signaux contrastés, ainsi que la confirmation de la détente obligataire au sein de la BCE, dans l'émission BFM Bourse présentée par Antoine Larigaudrie. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/H8cOW3b0XZ59eqJTtq6Ha9Hb03o=/0x0:1280x720/800x0/images/L-eco-du-monde-France-le-risque-de-stagflation-refait-surface-29-05-2294539.jpg\" />"
     },
     {
-      "title": "Guerre au Moyen-Orient: pourquoi le conflit entre l'Iran et les États-Unis coûte cher à la France",
-      "url": "https://www.bfmtv.com/economie/video-guerre-au-moyen-orient-pourquoi-le-conflit-entre-l-iran-et-les-etats-unis-coute-cher-a-la-france_VN-202605290483.html",
-      "summary": "Le gouvernement a déjà annulé 407 millions d'euros par le gouvernement, selon le ministère du Budget.<br /><br /><img src=\"https://images.bfmtv.com/y90qoSxtHzDXoK3xJN7DaQhe_Y0=/0x0:1280x720/800x0/images/Guerre-au-Moyen-Orient-pourquoi-le-conflit-entre-l-Iran-et-les-Etats-Unis-coute-cher-a-la-France-2294387.jpg\" />"
+      "title": "Les nouvelles heures \"super creuses\" devraient permettre de réaliser de nouvelles économies d'énergie",
+      "url": "https://www.franceinfo.fr/environnement/energie/les-nouvelles-heures-super-creuses-devraient-permettre-de-realiser-de-nouvelles-economies-d-energie_8035730.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Des heures super-creuses, pour économiser encore plus sur les factures d'électricité : c'est la promesse de plusieurs fournisseurs, qui proposent de nouvelles offres avec des bonus jusqu'à -60% sur certains créneaux horaires. Comment cela fonctionne, et quelles économies à la clé ?"
     },
     {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 29 mai",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-29-mai_VN-202605290485.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/8Qo4uYcKGaNXPgvRLvQSHo_oyw0=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-29-mai-2294389.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 29 mai",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-29-mai_EN-202605290477.html",
-      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
-    },
-    {
-      "title": "Vers une économie de bas salaire en France ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-vers-une-economie-de-bas-salaire-en-france_VN-202605290466.html",
-      "summary": "Ce vendredi 29 mai, les raisons du recul du PIB au premier trimestre ainsi que la crainte d'une nouvelle baisse des salaires en France, ont été abordés par Patrick Artus, économiste et conseiller économique de la société de gestion Ossiam, Antonin Bergeaud, Prix du meilleur jeune économiste 2025, professeur associé à HEC, et Olivier Garnier, expert associé à l'Institut Montaigne, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/o5ReT3Nu-rPbMDo3zji86JOW7M8=/0x0:1280x720/800x0/images/Vers-une-economie-de-bas-salaire-en-France-2294377.jpg\" />"
-    },
-    {
-      "title": "Les signaux faibles - Un super El Niño se profile pour 2026 - 29/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-les-signaux-faibles-un-super-el-nino-se-profile-pour-2026-29-05_VN-202605290427.html",
-      "summary": "Ce vendredi 29 mai, Christopher Dembik a parlé de l'impact du climat sur l'inflation dans l'émission Tout pour investir, la masterclass, sur BFM Business. Retrouvez l'émission tous les vendredis à 11h.<br /><br /><img src=\"https://images.bfmtv.com/QJwe4RuJmA_6nq5ZNFlVS12YRmQ=/0x0:1280x720/800x0/images/Les-signaux-faibles-Un-super-El-Nino-se-profile-pour-2026-29-05-2294345.jpg\" />"
-    },
-    {
-      "title": "Gestion gouvernementale de la canicule, inflation et salaires... Les informés du matin du vendredi 29 mai",
-      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/gestion-gouvernementale-de-la-canicule-inflation-et-salaires-les-informes-du-matin-du-vendredi-29-mai_8005340.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Tous les jours, les informés débattent de l'actualité autour d'Hadrien Bect et Renaud Dély."
+      "title": "L’info du jour | 29 mai 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/05/29/linfo-du-jour-29-mai-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 29 mai 2026 - Mi-journée",
@@ -97,9 +82,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 26 mai 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/05/26/linfo-du-jour-26-mai-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 mai 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Andreas Rüdinger : « Face à l'inflation des carburants, nous sommes heureusement sortis des gels tarifaires »",
+      "url": "https://www.alternatives-economiques.fr/andreas-rudinger-face-a-linflation-des-carburants-nous-sommes-heureusem/00118656",
+      "summary": "<p>Chercheur à l’Iddri, Andreas Rüdinger salue les décisions de court terme prises par l’exécutif français face à la hausse des prix des carburants, mais s’inquiète du manque d’investissement à long terme.</p>"
     },
     {
       "title": "Fallait-il geler les exonérations de cotisations accordées aux entreprises ?",
