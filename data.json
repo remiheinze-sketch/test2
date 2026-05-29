@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-29T21:43:38Z",
+  "updated_at": "2026-05-29T23:02:56Z",
   "articles": [
+    {
+      "title": "L’agence S&P maintient la note de la dette française à A + avec perspective stable",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/30/l-agence-s-p-maintient-la-note-de-la-dette-francaise-a-a-avec-perspective-stable_6694826_3234.html",
+      "summary": "L’agence de notation américaine n’a pas publié de commentaire mais les économistes s’attendaient au maintien de cette note en raison de la prudence actuelle du gouvernement dans la gestion des finances publiques."
+    },
     {
       "title": "Déficit de la « Sécu » : un dérapage difficile à corriger sur l’exercice en cours",
       "url": "https://www.lemonde.fr/politique/article/2026/05/29/deficit-de-la-secu-un-derapage-difficile-a-rectifier-sur-l-exercice-en-cours_6694763_823448.html",
@@ -15,11 +20,6 @@
       "title": "Derrière la « désindustrialisation » apparente de la France, une réalité plus complexe",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/29/derriere-la-desindustrialisation-apparente-de-la-france-une-realite-plus-complexe_6694713_4355770.html",
       "summary": "Si la part de l’industrie dans l’économie française s’est largement contractée, les chiffres racontent une histoire plus nuancée qu’un simple « déclin industriel »."
-    },
-    {
-      "title": "Le PIB français a reculé de 0,1 % au premier trimestre, selon l’Insee, qui abaisse ainsi ses prévisions",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/29/le-pib-francais-a-recule-de-0-1-au-premier-trimestre-selon-l-insee-qui-abaisse-ainsi-ses-previsions_6694703_3234.html",
-      "summary": "L’institut de statistiques avait initialement annoncé une croissance nulle de janvier à mars. Tant la demande intérieure que le commerce extérieur ont pesé."
     },
     {
       "title": "La semaine de l'économie - 29/05",
