@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-02T14:42:14Z",
+  "updated_at": "2026-06-02T18:31:06Z",
   "articles": [
+    {
+      "title": "Revente d’électricité solaire : le médiateur de l’énergie alerte sur une « croissance régulière » des litiges",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/02/revente-d-electricite-solaire-le-mediateur-de-l-energie-alerte-sur-une-croissance-reguliere-des-litiges_6696413_3234.html",
+      "summary": "Le boom de l’autoconsommation photovoltaïque en France s’accompagne d’un sérieux revers. Dans son bilan annuel publié mardi 2 juin, l’autorité publique indépendante pointe du doigt les défaillances de fournisseurs alternatifs peu scrupuleux et les lourdeurs administratives qui privent de nombreux particuliers de la rémunération de leur surplus d’électricité verte."
+    },
     {
       "title": "En Europe, les salaires reculent de nouveau, pour la première fois depuis trois ans",
       "url": "https://www.lemonde.fr/economie/article/2026/06/02/en-europe-les-salaires-reculent-de-nouveau-pour-la-premiere-fois-depuis-trois-ans_6696384_3234.html",
@@ -12,39 +17,24 @@
       "summary": "L’institution de Francfort va probablement augmenter ses taux d’intérêt le 11 juin, alors que la croissance européenne est déjà très faible et qu’il n’y a guère de signes d’emballement de l’inflation, s’alarme Eric Albert, dans sa chronique."
     },
     {
-      "title": "USA Today : \"Alphabet défie les marchés, va lever 80 milliards de dollars en actions\", par John Plassard – 02/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-alphabet-defie-les-marches-va-lever-80-milliards-de-dollars-en-actions-par-john-plassard-02-06_EN-202606020642.html",
-      "summary": "Ce mardi 2 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la tension maximale entre Donald Trump et Benyamin Netanyahou avec la guerre au Moyen-Orient, l'annonce d'Alphabet sur une levée de 80 milliards de dollars supplémentaire en actions dans le contexte du marché actuel, les IPO géantes de la tech à Wall Street, la montée de HPE après la publication de ses résultats, McDonald's dévoilant son plan de croissance, ainsi que General Mills prévoyant de céder ses boutiques de glace Häagen-Dazs. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+      "title": "C'est validé par le Parlement: voilà ce que va changer l'accord réduisant la durée d'indemnisation du chômage en cas de rupture conventionnelle",
+      "url": "https://www.bfmtv.com/economie/emploi/ils-l-adoptent-apres-l-avoir-rejetee-en-premiere-lecture-les-deputes-approuvent-finalement-la-reduction-de-la-duree-d-indemnisation-du-chomage-en-cas-de-rupture-conventionnelle_AV-202605260813.html",
+      "summary": "Les députés de l'Assemblée nationale ont approuvé ce mardi 26 mai le projet de loi transposant l'avenant à la convention d'assurance chômage, qui réduit notamment la durée d'indemnisation après une rupture conventionnelle individuelle.<br /><br /><img src=\"https://images.bfmtv.com/TTk3eaEStxcFXLLcZKsban-210M=/0x39:768x471/800x0/images/Vue-generale-de-l-Assemblee-nationale-apres-que-les-deputes-ont-vote-lors-d-une-seance-de-debat-sur-le-projet-de-budget-2025-a-Paris-le-22-octobre-2024-1961807.jpg\" />"
     },
     {
-      "title": "USA Today : \"Alphabet défie les marchés, va lever 80 milliards de dollars en actions\", par John Plassard - 02/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-alphabet-defie-les-marches-va-lever-80-milliards-de-dollars-en-actions-par-john-plassard-02-06_VN-202606020643.html",
-      "summary": "Ce mardi 2 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la tension maximale entre Donald Trump et Benyamin Netanyahou avec la guerre au Moyen-Orient, l'annonce d'Alphabet sur une levée de 80 milliards de dollars supplémentaire en actions dans le contexte du marché actuel, les IPO géantes de la tech à Wall Street, la montée de HPE après la publication de ses résultats, McDonald's dévoilant son plan de croissance, ainsi que General Mills prévoyant de céder ses boutiques de glace Häagen-Dazs. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/egVxMVn-RMbaMwLl-5q1AfYyqeA=/0x0:1280x720/800x0/images/USA-Today-Alphabet-defie-les-marches-va-lever-80-milliards-de-dollars-en-actions-par-John-Plassard-02-06-2296525.jpg\" />"
-    },
-    {
-      "title": "Covoiturage, déplacement en baisse, marques distributeur... les Français contraints de revoir leurs habitudes face à l'inflation",
-      "url": "https://www.bfmtv.com/economie/video-covoiturage-deplacement-en-baisse-marques-distributeur-les-francais-contraints-de-revoir-leurs-habitudes-face-a-l-inflation_VN-202606020610.html",
-      "summary": "PIB en baisse au premier trimestre, alors que l'inflation repart à la hausse. Les conséquences économiques de la guerre au Moyen-Orient se font sentir. Dans ce contexte, les Français adaptent leurs habitudes et font plus d'efforts au quotidien.<br /><br /><img src=\"https://images.bfmtv.com/qDZJ638rN-3sMfqcyhD7LJaS3F4=/0x0:1280x720/800x0/images/Covoiturage-deplacement-en-baisse-marques-distributeur-les-Francais-contraints-de-revoir-leurs-habitudes-face-a-l-inflation-2296494.jpg\" />"
-    },
-    {
-      "title": "Après le recul du PIB entre janvier et mars, le patron du Medef \"craint\" désormais que l'économie française entre en récession au deuxième trimestre",
-      "url": "https://www.bfmtv.com/economie/economie-social/apres-le-recul-du-pib-entre-janvier-et-mars-le-patron-du-medef-craint-desormais-que-l-economie-francais-entre-en-recession-au-deuxieme-trimestre_AD-202606020597.html",
-      "summary": "Le produit intérieur brut (PIB) français a reculé de 0,1% au premier trimestre par rapport au dernier trimestre de 2025, avait indiqué l'Institut national de la statistique et des études économiques (Insee) fin mai, après avoir initialement annoncé une croissance nulle de janvier à mars.<br /><br /><img src=\"https://images.bfmtv.com/UMW7y9cnUUXGke4qY413UqUtH4U=/14x0:2046x1143/800x0/images/Patrick-Martin-Medef-2276810.jpg\" />"
-    },
-    {
-      "title": "INFOGRAPHIE. Elles en possèdent 36.000 tonnes (presque autant que sous Bretton Woods): l'or a dépassé les bons du Trésor américains dans les réserves des banques centrales du monde",
-      "url": "https://www.bfmtv.com/economie/infographie-elles-en-possedent-36-000-tonnes-presque-autant-que-sous-bretton-woods-l-or-a-depasse-les-bons-du-tresor-americains-dans-les-reserves-des-banques-centrales-du-monde_AV-202606020593.html",
-      "summary": "Selon une étude de la BCE, l'or, dont le cours s'est envolé l'an passé, a dépassé les bons du Trésor dans les réserves des banques centrales. Elles sont toutefois de plus en plus nombreuses a se délester d'une partie de leur stock pour soutenir leurs monnaies et leurs économies depuis le début de la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/6AZv7Qutkh3CYMXkazJS_LdaDHE=/0x255:4896x3009/800x0/images/-448888.jpg\" />"
-    },
-    {
-      "title": "\"Ce tableau est illisible pour une personne aveugle\": le collectif Handicap Visuel attaque en justice la Direction des Finances publiques pour les \"dysfonctionnements\" de son site de déclaration de revenus",
-      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/ce-tableau-est-illisible-pour-une-personne-aveugle-le-collectif-handicap-visuel-attaque-en-justice-la-direction-des-finances-publiques-pour-les-dysfonctionnements-de-son-site-de-declaration-de-revenus_AV-202606020512.html",
-      "summary": "La loi impose à l’État de rendre ses services en ligne accessibles depuis 2005. Mais seule la moitié le sont, dénonce ce collectif.<br /><br /><img src=\"https://images.bfmtv.com/wOuTOYjzLi-Vko1msQZhb7XJqD4=/0x1:1488x838/800x0/images/Double-authentification-impots-gouv-2102395.jpg\" />"
+      "title": "Le Club : \"Anthropic, Space X : le tsunami d'IPO va-t-il renforcer encore les marchés ?\" - 02/06",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-anthropic-space-x-le-tsunami-d-ipo-va-t-il-renforcer-encore-les-marches-02-06_VN-202606020731.html",
+      "summary": "Ce mardi 2 juin, Ronan Blanc, gérant analyste crédit chez Montpensier Arbevel, et Stéphane Déo, senior portfolio manager chez Eleva Capital, se sont penchés sur l'inflation dans la zone euro qui accélère en mai (3,2 %), le tsunami d'IPO qui est susceptible de renforcer encore les marchés (Anthropic, Space X), STMicro qui double ses objectifs en matière de Data center, Marvell qui grimpe après les propos de Jensen Huang, et la BCE qui pourrait augmenter ses taux en juin, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/-9ZBph4QUAP9RKfdeqMep53Zloo=/0x0:1280x720/800x0/images/Le-Club-Anthropic-Space-X-le-tsunami-d-IPO-va-t-il-renforcer-encore-les-marches-02-06-2296606.jpg\" />"
     },
     {
       "title": "Dons aux associations : les Français plus généreux malgré l’inflation",
       "url": "https://www.franceinfo.fr/economie/dons-aux-associations-les-francais-plus-genereux-malgre-l-inflation_8041322.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Malgré l’inflation, les dons aux associations ont progressé en 2025. Et la générosité change de forme : les petits dons reculent, tandis que les dons en ligne prennent de plus en plus de place, selon France Générosités."
+    },
+    {
+      "title": "L’info du jour | 2 juin 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/06/02/linfo-du-jour-2-juin-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 juin 2026 - Mi-journée",
