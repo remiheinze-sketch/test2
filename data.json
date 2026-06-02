@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-02T18:31:06Z",
+  "updated_at": "2026-06-02T21:40:52Z",
   "articles": [
+    {
+      "title": "Crise énergétique : l’Italie obtient un aménagement minimal du pacte de stabilité et de croissance",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/02/crise-energetique-l-italie-obtient-un-amenagement-minimal-du-pacte-de-stabilite-et-de-croissance_6696444_3234.html",
+      "summary": "Les Etats membres pourront, sous certaines conditions, utiliser jusqu’à 0,3 % de leur produit intérieur brut par an pour aider les entreprises et les ménages à faire face à la flambée des prix de l’énergie."
+    },
     {
       "title": "Revente d’électricité solaire : le médiateur de l’énergie alerte sur une « croissance régulière » des litiges",
       "url": "https://www.lemonde.fr/economie/article/2026/06/02/revente-d-electricite-solaire-le-mediateur-de-l-energie-alerte-sur-une-croissance-reguliere-des-litiges_6696413_3234.html",
@@ -17,14 +22,9 @@
       "summary": "L’institution de Francfort va probablement augmenter ses taux d’intérêt le 11 juin, alors que la croissance européenne est déjà très faible et qu’il n’y a guère de signes d’emballement de l’inflation, s’alarme Eric Albert, dans sa chronique."
     },
     {
-      "title": "C'est validé par le Parlement: voilà ce que va changer l'accord réduisant la durée d'indemnisation du chômage en cas de rupture conventionnelle",
-      "url": "https://www.bfmtv.com/economie/emploi/ils-l-adoptent-apres-l-avoir-rejetee-en-premiere-lecture-les-deputes-approuvent-finalement-la-reduction-de-la-duree-d-indemnisation-du-chomage-en-cas-de-rupture-conventionnelle_AV-202605260813.html",
-      "summary": "Les députés de l'Assemblée nationale ont approuvé ce mardi 26 mai le projet de loi transposant l'avenant à la convention d'assurance chômage, qui réduit notamment la durée d'indemnisation après une rupture conventionnelle individuelle.<br /><br /><img src=\"https://images.bfmtv.com/TTk3eaEStxcFXLLcZKsban-210M=/0x39:768x471/800x0/images/Vue-generale-de-l-Assemblee-nationale-apres-que-les-deputes-ont-vote-lors-d-une-seance-de-debat-sur-le-projet-de-budget-2025-a-Paris-le-22-octobre-2024-1961807.jpg\" />"
-    },
-    {
-      "title": "Le Club : \"Anthropic, Space X : le tsunami d'IPO va-t-il renforcer encore les marchés ?\" - 02/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-anthropic-space-x-le-tsunami-d-ipo-va-t-il-renforcer-encore-les-marches-02-06_VN-202606020731.html",
-      "summary": "Ce mardi 2 juin, Ronan Blanc, gérant analyste crédit chez Montpensier Arbevel, et Stéphane Déo, senior portfolio manager chez Eleva Capital, se sont penchés sur l'inflation dans la zone euro qui accélère en mai (3,2 %), le tsunami d'IPO qui est susceptible de renforcer encore les marchés (Anthropic, Space X), STMicro qui double ses objectifs en matière de Data center, Marvell qui grimpe après les propos de Jensen Huang, et la BCE qui pourrait augmenter ses taux en juin, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/-9ZBph4QUAP9RKfdeqMep53Zloo=/0x0:1280x720/800x0/images/Le-Club-Anthropic-Space-X-le-tsunami-d-IPO-va-t-il-renforcer-encore-les-marches-02-06-2296606.jpg\" />"
+      "title": "Bercy veut réaliser 4 milliards d'économies : qui seront les ministères les plus touchés ?",
+      "url": "https://www.franceinfo.fr/economie/bercy-veut-realiser-4-milliards-d-economies-qui-seront-les-ministeres-les-plus-touches_8041886.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Où trouver l'argent pour boucler le budget 2026 et combler le coût de la guerre au Moyen-Orient ? Le Premier Ministre, Sébastien Lecornu, a déjà prévenu qu'il y aurait des coupes : quelles sont-elles ? Elements de réponse."
     },
     {
       "title": "Dons aux associations : les Français plus généreux malgré l’inflation",
