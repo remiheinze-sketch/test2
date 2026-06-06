@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-06T02:57:21Z",
+  "updated_at": "2026-06-06T06:25:55Z",
   "articles": [
+    {
+      "title": "Jean Pisani-Ferry : « Pour la France, la priorité sera de reprendre le contrôle des finances publiques et sociales »",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/06/jean-pisani-ferry-pour-la-france-la-priorite-sera-de-reprendre-le-controle-des-finances-publiques-et-sociales_6698087_3232.html",
+      "summary": "Avant de tirer sa révérence, le gouverneur de la Banque de France a, dans une lettre au président de la République, dressé la liste de nos insuffisances. Une démarche que salue l’économiste dans sa chronique, estimant qu’elle invite à « sortir de la dictature de l’urgence »."
+    },
     {
       "title": "Les agents des finances publiques ont le moral en berne, malgré quelques signes d’amélioration",
       "url": "https://www.lemonde.fr/politique/article/2026/06/05/les-agents-des-finances-publiques-ont-le-moral-en-berne-malgre-quelques-signes-d-amelioration_6698007_823448.html",
@@ -15,16 +20,6 @@
       "title": "Aux Etats-Unis, des créations d’emplois portées par le secteur de la santé",
       "url": "https://www.lemonde.fr/economie/article/2026/06/05/aux-etats-unis-des-creations-d-emplois-portees-par-le-secteur-de-la-sante_6697989_3234.html",
       "summary": "Les bons chiffres du marché du travail en mai permettent au chômage de se stabiliser à 4,3 %. En revanche, depuis le début du conflit en Iran, les Américains perdent du pouvoir d’achat, les salaires progressant moins vite que l’inflation."
-    },
-    {
-      "title": "Les Chinois rechignent à consommer, un problème pour l’économie mondiale",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/05/les-chinois-rechignent-a-consommer-un-probleme-pour-l-economie-mondiale_6697918_3234.html",
-      "summary": "La crise du secteur immobilier des années 2020, qui a englouti une bonne part de leurs économies, la surproduction industrielle qui freine les salaires et le faible niveau de couverture sociale se traduisent par une plus grande prudence dans les dépenses."
-    },
-    {
-      "title": "Pour l’IA, des dépenses historiques et des conséquences économiques encore incertaines",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/05/pour-l-ia-des-depenses-historiques-et-des-consequences-economiques-encore-incertaines_6697910_3234.html",
-      "summary": "Les investissements dans l’intelligence artificielle devraient atteindre 750 milliards de dollars cette année. Mais les répercussions en matière de productivité sont encore mal mesurées."
     },
     {
       "title": "La semaine de l'économie - 05/06",
@@ -57,11 +52,6 @@
       "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/M65hsM-k6LkGQ2eSrf8NEmo7scw=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_2.jpg\" />"
     },
     {
-      "title": "Les experts sans frontières - Vendredi 5 juin",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-5-juin_VN-202606050820.html",
-      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/Qs-mu_CyptKwv25q8IZzGHneaSw=/0x0:1280x720/800x0/images/Les-experts-sans-frontieres-Vendredi-5-juin-2298733.jpg\" />"
-    },
-    {
       "title": "\"C’est la plus grande crise énergétique de l’histoire\", déclare Fatih Birol, directeur exécutif de l’Agence internationale de l’énergie.",
       "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/c-est-la-plus-grande-crise-energetique-de-l-histoire-declare-fatih-birol-directeur-executif-de-l-agence-internationale-de-l-energie_8047232.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Plus grande crise énergétique de l’histoire, tensions géopolitiques, déséquilibres mondiaux sur le pétrole et le gaz… L’économie mondiale traverse une zone de fortes turbulences. C’est en tout cas le constat dressé par Fatih Birol, directeur exécutif de l’Agence internationale de l’énergie. Il est l’invité de Myriam Encaoua pour “Tout est politique” ce vendredi 5 juin."
@@ -70,6 +60,11 @@
       "title": "\"Nous serions censés laisser 3m50 de vide à côté de nous\" : à Genève, les manifestants contre le G7 d'Évian confrontés à des normes sécuritaires contraignantes",
       "url": "https://www.franceinfo.fr/monde/sommet-du-g7/nous-serions-censes-laisser-3m50-de-vide-a-cote-de-nous-a-geneve-les-manifestants-contre-le-g7-d-evian-confrontes-a-des-normes-securitaires-contraignantes_8046092.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le dernier G7 d'Emmanuel Macron va s'ouvrir dans quelques jours à Évian-les-Bains (Haute-Savoie), le 15 juin prochain. La ville se prépare à accueillir le sommet des chefs d'État des sept principales économies du monde. Alors que plus de 6 000 gendarmes seront déployés pour l'occasion, Genève (Suisse) se barricade."
+    },
+    {
+      "title": "L’info du jour | 6 juin 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/06/06/linfo-du-jour-6-juin-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 5 juin 2026 - Soir",
