@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-06-09T10:27:03Z",
+  "updated_at": "2026-06-09T13:36:22Z",
   "articles": [
+    {
+      "title": "La marque de vêtements Mango veut ouvrir 45 nouveaux magasins en France d’ici à 2028, avec près de 700 emplois à la clé",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/09/la-marque-de-vetements-mango-veut-ouvrir-45-nouveaux-magasins-en-france-d-ici-a-2028-avec-pres-de-700-emplois-a-la-cle_6700155_3234.html",
+      "summary": "L’entreprise, qui se targuait l’an dernier d’une croissance française de plus de 20 % ces cinq dernières années, a annoncé, à l’occasion du sommet Choose France, qu’elle investirait 66 millions d’euros dans l’Hexagone."
+    },
+    {
+      "title": "Comme l'avait annoncé son prédécesseur François Villeroy de Galhau, Emmanuel Moulin confirme que la Banque de France abaissera ses prévisions de croissance 2026",
+      "url": "https://www.bfmtv.com/economie/economie-social/comme-l-avait-annonce-son-predecesseur-francois-villeroy-de-galhau-emmanuel-moulin-confirme-que-la-banque-de-france-abaissera-ses-previsions-de-croissance-2026_AD-202606090578.html",
+      "summary": "Son prédécesseur François Villeroy de Galhau avait annoncé le 1er juin dernier que l'institution abaisserait mi-juin ses prévisions de croissance pour l'année en cours.<br /><br /><img src=\"https://images.bfmtv.com/5tUgiKasWnpWTIfVqHHbQQfqTow=/0x106:2048x1258/800x0/images/Emmanuel-Moulin-2289030.jpg\" />"
+    },
     {
       "title": "Les Experts : Finances publiques, un effort de 113 milliards d'euros - 09/06",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-finances-publiques-un-effort-de-113-milliards-d-euros-09-06_VN-202606090383.html",
       "summary": "Ce mardi 9 juin, le rôle du PIB dans la croissance des recettes d'un pays, et l'impossible entente européenne concernant l'Industrie, ont été abordés par Anaïs Voy-Gillis, chercheuse associée au CEREGE de l'IAE de Poitiers, Ronan Le Moal, fondateur d'Épopée Gestion, fonds d'investissements régional, et Olivier Babeau, président de l'Institut Sapien, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/_BWLjjeU2TV4lpSuMooIVkX0GcU=/0x0:1280x720/800x0/images/Les-Experts-Finances-publiques-un-effort-de-113-milliards-d-euros-09-06-2300351.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Finances publiques, un effort de 113 milliards d'euros - 09/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-finances-publiques-un-effort-de-113-milliards-d-euros-09-06_EN-202606090374.html",
-      "summary": "Ce mardi 9 juin, le rôle du PIB dans la croissance des recettes d'un pays, et l'impossible entente européenne concernant l'Industrie, ont été abordés par Anaïs Voy-Gillis, chercheuse associée au CEREGE de l'IAE de Poitiers, Ronan Le Moal, fondateur d'Épopée Gestion, fonds d'investissements régional, et Olivier Babeau, président de l'Institut Sapien, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
     },
     {
       "title": "Les Français vont se serrer la ceinture pour les vacances d’été",
@@ -25,11 +30,6 @@
       "title": "Le Conseil d'orientation des retraites va revoir à la hausse sa prévision de déficit du système à long terme",
       "url": "https://www.franceinfo.fr/economie/retraite/le-conseil-d-orientation-des-retraites-cor-va-revoir-a-la-hausse-sa-prevision-de-deficit-du-systeme-a-long-terme_8050964.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Afin de limiter la dégradation des comptes, l'instance propose de repousser progressivement l'âge légal de départ à la retraite, jusqu'à 67,6 ans en 2070."
-    },
-    {
-      "title": "Déficit de la Sécurité sociale : bientôt des SMS pour sensibiliser sur le coût des soins ? Les Français divisés",
-      "url": "https://www.franceinfo.fr/economie/deficit-de-la-securite-sociale-bientot-des-sms-pour-sensibiliser-sur-le-cout-des-soins-les-francais-divises_8050466.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Savez-vous combien coûtent réellement vos frais médicaux à la Sécurité sociale ? Consultations, médicaments, hospitalisation… Les dépenses de santé coûtent plus de 300 milliards d'euros chaque année. Alors, pour sensibiliser chacun à la réalité des chiffres, le gouvernement veut instaurer l'envoi d'un SMS après chaque dépense médicale. Explications."
     },
     {
       "title": "L’info du jour | 9 juin 2026 - Mi-journée",
