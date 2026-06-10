@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-10T06:58:05Z",
+  "updated_at": "2026-06-10T10:54:01Z",
   "articles": [
+    {
+      "title": "Grève à la SNCF : le trafic régional fortement perturbé et un TGV sur trois annulé",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/10/greve-a-la-sncf-le-trafic-regional-est-fortement-perturbe-et-un-tgv-sur-trois-est-annule_6700426_3234.html",
+      "summary": "Les cheminots font grève, mercredi, et demandent un moratoire sur l’ouverture à la concurrence ainsi que des hausses de salaire pour faire face à l’inflation."
+    },
     {
       "title": "« Si les gouvernements peuvent fabriquer la pauvreté, ils peuvent aussi l’éradiquer » : près de 400 personnalités internationales proposent une feuille de route concrète",
       "url": "https://www.lemonde.fr/idees/article/2026/06/10/si-les-gouvernements-peuvent-fabriquer-la-pauvrete-ils-peuvent-aussi-l-eradiquer-pres-de-400-personnalites-internationales-proposent-une-feuille-de-route-concrete_6700388_3232.html",
@@ -12,19 +17,14 @@
       "summary": "L’entreprise, qui se targuait l’an dernier d’une croissance française de plus de 20 % ces cinq dernières années, a annoncé, à l’occasion du sommet Choose France, qu’elle investirait 66 millions d’euros dans l’Hexagone."
     },
     {
-      "title": "Le Grand entretien : Budget 2027, vers un nouveau coup de force ? - 10/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-le-grand-entretien-budget-2027-vers-un-nouveau-coup-de-force-10-06_VN-202606100221.html",
-      "summary": "Jean-François Husson, rapporteur général de la commission des finances et sénateur (LR), était l'invité de Laure Closier dans Good Morning Business, ce mercredi 10 juin. Ils sont revenus sur la demande de réouverture du débat budgétaire afin d’adopter une loi de finances rectificative visant à ajuster le budget aux évolutions du cadre macroéconomique, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/exkLH7UkVo6Oy_X0_s6Y54OcTwQ=/0x0:1280x720/800x0/images/Le-Grand-entretien-Budget-2027-vers-un-nouveau-coup-de-force-10-06-2300929.jpg\" />"
+      "title": "Elles ne croulent par vraiment sous les commandes: les budgets de la défense explosent et pourtant les petites entreprises ne voient pas venir grande chose, pourquoi ça bloque?",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/elles-ne-croulent-par-vraiment-sous-les-commandes-les-budgets-de-la-defense-explosent-et-pourtant-les-petites-entreprises-ne-voient-pas-venir-grande-chose-pourquoi-ca-bloque_AN-202606100368.html",
+      "summary": "Parmi les près de 300 entreprises interrogées dans le cadre d'une enquête sur l'écosystème de la défense française, plus de la moitié ne constatent pas une hausse de leur activité.<br /><br /><img src=\"https://images.bfmtv.com/8BK7CVrZBf9bf-qNrqHfaD3rOLc=/0x210:2048x1362/800x0/images/Stephane-Bonillo-directeur-des-Forges-de-Tarbes-se-tient-au-milieu-d-une-palette-de-douilles-produites-dans-l-atelier-des-Forges-de-Tarbes-a-Tarbes-en-France-le-14-janvier-2026-2301044.jpg\" />"
     },
     {
-      "title": "Jean-François Husson, rapporteur général de la commission des finances et sénateur (LR) - 10/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/jean-francois-husson-rapporteur-general-de-la-commission-des-finances-et-senateur-lr-10-06_EN-202606100210.html",
-      "summary": "Jean-François Husson, rapporteur général de la commission des finances et sénateur (LR), était l'invité de Laure Closier dans Good Morning Business, ce mercredi 10 juin. Ils sont revenus sur la demande de réouverture du débat budgétaire afin d’adopter une loi de finances rectificative visant à ajuster le budget aux évolutions du cadre macroéconomique, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
-    },
-    {
-      "title": "Jean-François Husson, rapporteur général de la commission des finances et sénateur (LR) - 10/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/jean-francois-husson-rapporteur-general-de-la-commission-des-finances-et-senateur-lr-10-06_EN-202606100211.html",
-      "summary": "Jean-François Husson, rapporteur général de la commission des finances et sénateur (LR), était l'invité de Laure Closier dans Good Morning Business, ce mercredi 10 juin. Ils sont revenus sur la demande de réouverture du débat budgétaire afin d’adopter une loi de finances rectificative visant à ajuster le budget aux évolutions du cadre macroéconomique, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/20cmcxWsBNy3vwAQ2hwX25Sjg7s=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_5.jpg\" />"
+      "title": "Les Experts : Budget 2027, où trouver les économies ? - 10/06",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-budget-2027-ou-trouver-les-economies-10-06_EN-202606100341.html",
+      "summary": "Ce mercredi 10 juin, le projet du gouvernement visant à identifier des pistes d'économies possibles au sein des ministères pour le budget, ainsi que la situation de la dette française, ont été abordés par Louis-Samuel Pilcer, haut-fonctionnaire et enseignant à Sciences Po et à Polytechnique, Guillaume Dard, président de Montpensier Arbevel, et Sylvie Casenave-Péré, présidente du groupe Posson Packaging, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/Uwz-_GfOg_GMjik0RtShxYnANWE=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_3.jpg\" />"
     },
     {
       "title": "Le Conseil d’orientation des retraites envisage un départ à plus de 67 ans pour sauver le système",
@@ -47,9 +47,9 @@
       "summary": "Le \"13 Heures\" se penche ce mardi sur l'inquiétante hausse des dépassements d'honoraires des médecins. Vous l'avez sans doute remarqué, les consultations et les examens coûtent de plus en plus cher. Le Haut conseil pour l'avenir de l'assurance maladie parle d'une situation préoccupante. Que se cache-t-il derrière une telle inflation ? Comment certains médecins en abusent-ils ?"
     },
     {
-      "title": "Les Français vont se serrer la ceinture pour les vacances d’été",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/les-francais-vont-se-serrer-la-ceinture-pour-les-vacances-d-ete_8051717.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Quel budget sera consacré aux vacances d'été par les Français ? Avec l'inflation des carburants et la baisse du pouvoir d'achat, ce budget est au plus bas depuis 2022. Malgré tout, deux tiers des Français affirment vouloir partir cet été."
+      "title": "L’info du jour | 10 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/10/linfo-du-jour-10-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 10 juin 2026 - Matin",
@@ -95,16 +95,6 @@
       "title": "L’info du jour | 7 juin 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/06/07/linfo-du-jour-7-juin-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 7 juin 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/06/07/linfo-du-jour-7-juin-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 6 juin 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/06/06/linfo-du-jour-6-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Accès au marché contre joint-venture : la solution européenne face à la Chine ?",
