@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-06-12T02:34:06Z",
+  "updated_at": "2026-06-12T07:12:23Z",
   "articles": [
     {
-      "title": "Malgré la croissance qui ralentit, la Banque centrale européenne augmente ses taux d’intérêt",
+      "title": "En Turquie, comment le régime d’Erdogan a bâti un capitalisme de connivence",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/12/en-turquie-comment-le-regime-d-erdogan-a-bati-un-capitalisme-de-connivence_6701047_3234.html",
+      "summary": "En moins d’un quart de siècle, la formation islamo-conservatrice du président turc, Recep Tayyip Erdogan, a donné les clés de l’économie du pays à un cercle restreint issu d’une classe d’affaires loyale et de relations clientélistes."
+    },
+    {
+      "title": "La BCE augmente ses taux d’intérêt malgré le ralentissement de la croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/06/11/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
-      "summary": "Le taux directeur passe de 2 % à 2,25 %, la BCE s’inquiétant d’une inflation qui restera forte jusqu’au deuxième semestre 2027"
+      "summary": "Le taux directeur passe de 2 % à 2,25 %, la Banque centrale européenne s’inquiétant d’une inflation qui restera forte jusqu’au deuxième semestre 2027."
     },
     {
       "title": "Coupe du monde de football 2026 : 9 milliards de dollars de retombée attendus",
@@ -17,9 +22,24 @@
       "summary": "En raison de l’inflation qui repart à la hausse, le pouvoir d’achat des salariés s’érode et un profond sentiment de déclassement social perce chez nombre d’entre eux, constate dans sa chronique la journaliste au « Monde » Aline Leclerc."
     },
     {
-      "title": "L'alliance des pays exportateurs de pétrole, l'Opep, révise à la baisse la croissance de la consommation pétrolière en 2026",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/l-alliance-des-pays-exportateurs-de-petrole-l-opep-revise-a-la-baisse-la-croissance-de-la-consommation-petroliere-en-2026_AD-202606110827.html",
-      "summary": "L'Opep, l'alliance de pays exportateurs de pétrole, a de nouveau abaissé ses prévisions de croissance de la demande mondiale de pétrole pour 2026, sur fond d'incertitudes liées à la guerre au Moyen-Orient, qui bouscule l'approvisionnement en or noir.<br /><br /><img src=\"https://images.bfmtv.com/CXLEOsOFQKBEqY3aLmRTKBJqmBE=/0x118:2048x1270/800x0/images/Irak-petrole-2286921.jpg\" />"
+      "title": "Carmine Capital : « Les PME et ETI européennes doivent cesser de se cantonner à leurs frontières et aller chercher la croissance là où elle existe »",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/grand-angle-paroles-d-entreprises/carmine-capital-les-pme-et-eti-europeennes-doivent-cesser-de-se-cantonner-a-leurs-frontieres-et-aller-chercher-la-croissance-la-ou-elle-existe_AB-202606120029.html",
+      "summary": "Anne-Laure Saint-Marc Girardin a fondé et préside Carmine Capital, société de conseil en fusions-acquisitions reconnue pour sa vision entrepreneuriale du métier. Dans un contexte économique mondial marqué par l'instabilité et une croissance européenne durablement faible, elle défend une conviction forte : PME et ETI n'ont plus le luxe d'attendre pour s'internationaliser.<br /><br /><img src=\"https://images.bfmtv.com/ZqjAS-pIP2Q7ZV8z99fxxd9ffpM=/0x0:1920x1080/800x0/images/Carmine-Capital-2301829.jpg\" />"
+    },
+    {
+      "title": "L'inflation en hausse à 2,4% sur un an en mai, toujours portée par les prix de l'énergie, annonce l'Insee",
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-hausse-a-2-4-sur-un-an-en-mai-toujours-portee-par-les-prix-de-l-energie-annonce-l-insee_8057078.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les prix à la consommation avaient déjà augmenté de 2,2% en avril, sur fond de guerre au Moyen-Orient entre les Etats-Unis et Israël."
+    },
+    {
+      "title": "Pour quelles raisons la BCE relève-t-elle ses taux malgré les risques pour l'économie ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/pour-quelles-raisons-la-bce-releve-t-elle-ses-taux-malgre-les-risques-pour-l-economie_8034767.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Face au retour de l'inflation, alimenté par les tensions géopolitiques et la hausse des prix de l'énergie, la Banque centrale européenne a relevé ses taux d'intérêt de 0,25 point. Une décision destinée à protéger le pouvoir d'achat, mais qui pourrait aussi fragiliser davantage l'économie européenne."
+    },
+    {
+      "title": "Coupe du monde 2026 : pour quelles raisons ce Mondial bat déjà tous les records économiques ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/coupe-du-monde-2026-pour-quelles-raisons-ce-mondial-bat-deja-tous-les-records-economiques_8034773.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Avec davantage d’équipes, plus de matchs et des prix en forte hausse, la Coupe du monde 2026 promet des retombées économiques records. Un jackpot pour la FIFA et les pays organisateurs, même si les bénéfices pour l’économie française resteront limités."
     },
     {
       "title": "Guerre au Moyen-Orient : ce que la hausse des taux d'intérêt de la Banque centrale européenne va changer pour les Français",
@@ -32,9 +52,9 @@
       "summary": "Comment faire des économies en faisant ses courses ? Après plusieurs années de recul, le vrac retrouve des couleurs dans les rayons. Pour mieux convaincre, les enseignes redoublent d'imagination."
     },
     {
-      "title": "\"Cela revient à resserrer la vis\" : pourquoi la BCE a décidé de relever ses taux pour la première fois en trois ans",
-      "url": "https://www.franceinfo.fr/economie/cela-revient-a-resserrer-la-vis-pourquoi-la-bce-a-decide-de-relever-ses-taux-pour-la-premiere-fois-en-trois-ans_8055332.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La Banque centrale européenne a annoncé jeudi qu'elle relève ses taux de 0,25 point dans l'espoir de ralentir la demande dans la zone euro. L'objectif affiché est de contenir l'inflation provoquée par le choc de la guerre au Moyen-Orient."
+      "title": "L’info du jour | 12 juin 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/06/12/linfo-du-jour-12-juin-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 11 juin 2026 - Soir",
