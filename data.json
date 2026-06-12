@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-12T07:12:23Z",
+  "updated_at": "2026-06-12T11:34:34Z",
   "articles": [
+    {
+      "title": "Les banques rationnent l’usage de l’IA, terrifiées par les coûts qu’elle engendre",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/12/les-banques-rationnent-l-usage-de-l-ia-terrifiees-par-les-couts-qu-elle-engendre_6701070_3234.html",
+      "summary": "La multiplication des agents d’intelligence artificielle bouleverse le modèle économique du secteur. Le Crédit agricole crée une entreprise chargée de lui fournir des outils d’IA, afin de s’assurer que leurs coûts n’excèdent pas les économies générées."
+    },
+    {
+      "title": "L’inflation en France en hausse, à 2,4 % sur un an en mai, selon l’Insee",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/12/l-inflation-en-france-en-hausse-a-2-4-sur-un-an-en-mai-selon-l-insee_6701065_3234.html",
+      "summary": "La hausse des prix à la consommation s’explique surtout par une accélération de celle des prix de l’énergie, portée en mai par un rebond des tarifs du gaz à plus de 11,3 % sur un an, après une baisse de 3,1 % sur un an en avril."
+    },
     {
       "title": "En Turquie, comment le régime d’Erdogan a bâti un capitalisme de connivence",
       "url": "https://www.lemonde.fr/economie/article/2026/06/12/en-turquie-comment-le-regime-d-erdogan-a-bati-un-capitalisme-de-connivence_6701047_3234.html",
@@ -17,17 +27,17 @@
       "summary": "L’impact, somme toute limité au vu de la taille des économies, reste concentré sur quelques secteurs."
     },
     {
-      "title": "« Pour maintenir le pouvoir d’achat, rien n’est plus efficace qu’une bonne vieille augmentation de salaire »",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/11/pour-maintenir-le-pouvoir-d-achat-rien-n-est-plus-efficace-qu-une-bonne-vieille-augmentation-de-salaire_6700722_3232.html",
-      "summary": "En raison de l’inflation qui repart à la hausse, le pouvoir d’achat des salariés s’érode et un profond sentiment de déclassement social perce chez nombre d’entre eux, constate dans sa chronique la journaliste au « Monde » Aline Leclerc."
+      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 12 juin",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-12-juin_EN-202606120462.html",
+      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/oU22lt2KczwYoNMZE6HUDeRnHOk=/0x0:14000x14000/800x0/podcast/podcasts/principale-577_1.jpg\" />"
     },
     {
-      "title": "Carmine Capital : « Les PME et ETI européennes doivent cesser de se cantonner à leurs frontières et aller chercher la croissance là où elle existe »",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/grand-angle-paroles-d-entreprises/carmine-capital-les-pme-et-eti-europeennes-doivent-cesser-de-se-cantonner-a-leurs-frontieres-et-aller-chercher-la-croissance-la-ou-elle-existe_AB-202606120029.html",
-      "summary": "Anne-Laure Saint-Marc Girardin a fondé et préside Carmine Capital, société de conseil en fusions-acquisitions reconnue pour sa vision entrepreneuriale du métier. Dans un contexte économique mondial marqué par l'instabilité et une croissance européenne durablement faible, elle défend une conviction forte : PME et ETI n'ont plus le luxe d'attendre pour s'internationaliser.<br /><br /><img src=\"https://images.bfmtv.com/ZqjAS-pIP2Q7ZV8z99fxxd9ffpM=/0x0:1920x1080/800x0/images/Carmine-Capital-2301829.jpg\" />"
+      "title": "L'intégrale de Tout pour investir, la masterclass du vendredi 12 juin",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tout-pour-investir-la-masterclass/video-l-integrale-de-tout-pour-investir-la-masterclass-du-vendredi-12-juin_VN-202606120467.html",
+      "summary": "Tout pour Investir, la masterclass. Entretien exclusif, signaux faibles sur les marchés, décryptage géopolitique et toutes vos questions. Une émission qui démystifie l’économie. Un regard expert avec Christopher Dembik.<br /><br /><img src=\"https://images.bfmtv.com/bNFxGWCuYHaSdA7Xzy-UhSMIcqs=/0x0:1280x720/800x0/images/L-integrale-de-Tout-pour-investir-la-masterclass-du-vendredi-12-juin-2302552.jpg\" />"
     },
     {
-      "title": "L'inflation en hausse à 2,4% sur un an en mai, toujours portée par les prix de l'énergie, annonce l'Insee",
+      "title": "L'inflation en hausse à 2,4% sur un an en mai, toujours portée par les prix de l'énergie",
       "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-hausse-a-2-4-sur-un-an-en-mai-toujours-portee-par-les-prix-de-l-energie-annonce-l-insee_8057078.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les prix à la consommation avaient déjà augmenté de 2,2% en avril, sur fond de guerre au Moyen-Orient entre les Etats-Unis et Israël."
     },
@@ -47,9 +57,9 @@
       "summary": "La Banque centrale européenne a relevé ses taux directeurs d’un quart de point, jeudi 11 juin. Objectif ? Freiner l’inflation... Mais pour les ménages, cela risque de rendre les crédits plus chers..."
     },
     {
-      "title": "\"Couper des arbres pour faire des sacs en papier dont on va se servir une seule fois, c'est absurde\" : le retour en force du vrac dans les supermarchés ?",
-      "url": "https://www.franceinfo.fr/couper-des-arbres-pour-faire-des-sacs-en-papier-dont-on-va-se-servir-une-seule-fois-c-est-absurde-le-retour-en-force-du-vrac-dans-les-supermarches_8055878.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comment faire des économies en faisant ses courses ? Après plusieurs années de recul, le vrac retrouve des couleurs dans les rayons. Pour mieux convaincre, les enseignes redoublent d'imagination."
+      "title": "L’info du jour | 12 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/12/linfo-du-jour-12-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 12 juin 2026 - Matin",
@@ -95,16 +105,6 @@
       "title": "L’info du jour | 9 juin 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/06/09/linfo-du-jour-9-juin-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 9 juin 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/06/09/linfo-du-jour-9-juin-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Accès au marché contre joint-venture : la solution européenne face à la Chine ?",
-      "url": "https://www.alternatives-economiques.fr/vincent-vicard/acces-au-marche-contre-joint-venture-la-solution-europeenne-face-a-la-chin/00118661",
-      "summary": "<p>Comment gérer la relation commerciale avec la Chine ? C’est la question fondamentale à laquelle sont confrontés les dirigeants européens avec la hausse rapide du déficit commercial entre les deux puissances économiques.</p>"
     }
   ]
 }
