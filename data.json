@@ -1,45 +1,60 @@
 {
-  "updated_at": "2026-06-16T06:23:31Z",
+  "updated_at": "2026-06-16T12:02:42Z",
   "articles": [
+    {
+      "title": "SpaceX rachète Cursor, éditeur de logiciel de code assisté par IA valorisé à 60 milliards de dollars",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/16/spacex-rachete-cursor-editeur-de-logiciel-de-code-assiste-par-ia-valorise-a-60-milliards-de-dollars_6703540_3234.html",
+      "summary": "Le rachat annoncé de la société survient alors qu’une course est engagée dans la Silicon Valley pour capter les développeurs professionnels, devenus le principal moteur de croissance de l’industrie de l’IA."
+    },
+    {
+      "title": "« Avec l’IA, l’économie américaine fait émerger des géants à tour de bras »",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/16/avec-l-ia-l-economie-americaine-fait-emerger-des-geants-a-tour-de-bras_6703502_3232.html",
+      "summary": "L’essor de l’intelligence artificielle fait monter les cours de Bourse et modifie les indices, qui intègrent les nouvelles valeurs technologiques au détriment de la « vieille » économie, mais prennent le risque de ne plus dépendre que d’un seul secteur, observe Nicolas Chapuis, correspondant du « Monde » à New York, dans sa chronique."
+    },
     {
       "title": "A la Fed, premier dilemme pour Kevin Warsh : baisser les taux pour contenter Donald Trump, ou les relever pour tenter de contenir l’inflation",
       "url": "https://www.lemonde.fr/economie/article/2026/06/16/a-la-fed-premier-dilemme-pour-kevin-warsh-baisser-les-taux-pour-contenter-donald-trump-ou-les-relever-pour-tenter-de-contenir-l-inflation_6703477_3234.html",
       "summary": "Le nouveau président de la banque centrale américaine est confronté à l’accélération de la hausse des prix liée au conflit au Moyen-Orient, alors que le président l’a choisi en espérant qu’il baisserait les taux d’intérêt."
     },
     {
-      "title": "Pourquoi l’inflation mettra du temps à refluer malgré une réouverture, même rapide, du détroit d’Ormuz",
+      "title": "Pourquoi l’inflation mettra du temps à refluer, malgré une réouverture, même rapide, du détroit d’Ormuz",
       "url": "https://www.lemonde.fr/economie/article/2026/06/16/pourquoi-l-inflation-mettra-du-temps-a-refluer-malgre-une-reouverture-meme-rapide-du-detroit-d-ormuz_6703466_3234.html",
-      "summary": "Le retour à la normale sera nécessairement lent et les perturbations sur les chaînes d’approvisionnement vont continuer à peser sur l’économie mondiale. En Europe, la croissance devrait diminuer de 0,4 point en 2026, à 0,8 %."
+      "summary": "Le retour à la normale sera nécessairement lent et les perturbations sur les chaînes d’approvisionnement vont continuer à peser sur l’économie mondiale. En Europe, la croissance devrait diminuer de 0,4 point, en 2026, à 0,8 %."
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Fini le Brexit, le RN veut les clés de l'Europe - 16/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-fini-le-brexit-le-rn-veut-les-cles-de-l-europe-16-06_EN-202606160177.html",
-      "summary": "Ce mardi 16 juin, les propos de Jordan Bardella, qui souhaite réduire de moitié la contribution nette de la France au budget de l'Union européenne, laissant ainsi entendre qu'au lieu de tourner le dos à l'Europe, il veut la changer de l'intérieur, ont été abordés par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6OIWL7pQQH29AikaQS36_RKLlOU=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_3.jpg\" />"
+      "title": "La Silver Économie et le défi du vieillissement (avec Wei Yao, Responsable de la Recherche pour l'Asie-Pacifique chez Société Générale)",
+      "url": "https://www.bfmtv.com/economie/podcasts/2050-investors/la-silver-economie-et-le-defi-du-vieillissement-avec-wei-yao-responsable-de-la-recherche-pour-l-asie-pacifique-chez-societe-generale_EN-202606160571.html",
+      "summary": "Le vieillissement de la population devient un enjeu majeur, marqué par « l’avalanche argentée » déjà visible en Europe et en progression en Asie. Avec une espérance de vie en hausse et des familles plus petites, de nombreux pays font face à des défis économiques et sociaux croissants. Dans cet épisode de 2050 Investors, Kokou explore l’impact de cette transition démographique sur les sociétés et les économies. Avec Wei Yao, Cheffe Économiste Asie-Pacifique chez Société Générale, ils analysent notamment les implications pour la Chine, confrontée à un vieillissement rapide après des décennies de forte croissance.<br /><br /><img src=\"https://images.bfmtv.com/TkQJAkD1IkvwO67BHibujKiKs-c=/0x0:14000x14000/800x0/podcast/podcasts/principale-659_2.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Fini le Brexit, le RN veut les clés de l'Europe - 16/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-fini-le-brexit-le-rn-veut-les-cles-de-l-europe-16-06_EN-202606160176.html",
-      "summary": "Ce mardi 16 juin, les propos de Jordan Bardella, qui souhaite réduire de moitié la contribution nette de la France au budget de l'Union européenne, laissant ainsi entendre qu'au lieu de tourner le dos à l'Europe, il veut la changer de l'intérieur, ont été abordés par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/xIqVPiux34cQLgxPF7EqLFQRKso=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_1.jpg\" />"
+      "title": "Sébastien Lecornu met en garde les parlementaires: s'il n'y a pas de budget \"avant février\" 2027, le déficit public risque de déraper jusqu'à 7%",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/sebastien-lecornu-met-en-garde-les-parlementaires-s-il-n-y-a-pas-de-budget-avant-fevrier-2027-le-deficit-public-risque-de-deraper-jusqu-a-7_AD-202606160564.html",
+      "summary": "Le chef du gouvernement, toujours privé de majorité à l'Assemblée nationale, entend préparer le budget \"le plus en amont possible\" et semble écarter la possibilté de le faire passer par une loi spéciale. <br /><br /><img src=\"https://images.bfmtv.com/Y3Enjz_3Q7Sd_xFcvPYkS2Lvkac=/0x0:2048x1152/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-lors-d-une-conference-de-presse-a-Matignon-le-21-mai-2026-2289956.jpg\" />"
     },
     {
-      "title": "L’Edito de Raphaël Legendre : Fini le Brexit, le RN veut les clés de l'Europe - 16/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-fini-le-brexit-le-rn-veut-les-cles-de-l-europe-16-06_VN-202606160174.html",
-      "summary": "Ce mardi 16 juin, dans son édito, Raphaël Legendre est revenu sur les propos de Jordan Bardella qui souhaite réduire de moitié la contribution nette de la France au budget de l'Union européenne, laissant ainsi entendre qu'au lieu de tourner le dos à l'Europe, il veut la changer de l'intérieur. Cette chronique est à voir ou écouter du lundi au vendredi dans Good Morning Business, présentée par Sandra Gandoin sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/WCK4-tqGjW2zvsuI-cN5itwNtjA=/0x0:1280x720/800x0/images/L-Edito-de-Raphael-Legendre-Fini-le-Brexit-le-RN-veut-les-cles-de-l-Europe-16-06-2304285.jpg\" />"
+      "title": "Bernard Arnault + les 2 fondateurs de Google + Jeff Bezos + Mark Zuckerberg = Elon Musk: la fortune du patron de SpaceX atteint le montant astronomique de 1.270 milliards de dollars",
+      "url": "https://www.bfmtv.com/economie/international/bernard-arnault-les-2-fondateurs-de-google-jeff-bezos-mark-zuckerberg-elon-musk-la-fortune-du-patron-de-space-x-grimpe-au-montant-astronomique-de-1-270-milliards-de-dollars_AV-202606160543.html",
+      "summary": "Porté par l'envolée spectaculaire de SpaceX, Elon Musk a vu sa fortune bondir de 570 milliards de dollars depuis son introduction en Bourse pour atteindre 1.270 milliards, soit davantage que la richesse cumulée de plusieurs des plus grands milliardaires du monde et un niveau comparable au PIB des plus grandes économies de la planète.<br /><br /><img src=\"https://images.bfmtv.com/wKgZ82YO_pXpdbhn26uzDAjAlQY=/0x107:2048x1259/800x0/images/Musk-2302712.jpg\" />"
     },
     {
-      "title": "Poules pondeuses : des animaux de compagnies qui permettent de faire des économies",
-      "url": "https://www.franceinfo.fr/economie/poules-pondeuses-des-animaux-de-compagnies-qui-permettent-de-faire-des-economies_8062406.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Pourquoi acheter des œufs au supermarché quand on peut s'offrir une poule ? De plus en plus de Français adoptent des poules pondeuses. Elles permettent de faire des économies tout en se révélant être des animaux de compagnie forts sympathiques."
+      "title": "\"Il faudrait que ça baisse autant que ça a augmenté, aussi vite\" : les automobilistes guettent la baisse des prix à la pompe",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/il-faudrait-que-ca-baisse-autant-que-ca-a-augmente-aussi-vite-les-automobilistes-guettent-la-baisse-des-prix-a-la-pompe_8063078.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'accord entre l'Iran et les États-Unis donne des espoirs en France quant aux prix des carburants. La semaine dernière, déjà, le gazole est passé sous la barre symbolique des deux euros. Le gouvernement souhaite accélérer la baisse des prix à la pompe : les distributeurs ont rendez-vous ce mardi 16 juin à Bercy, notamment autour du ministre de l'Économie et des Finances, Roland Lescure."
     },
     {
-      "title": "Renault dévoile un véhicule militaire capable de piloter un drone en autonomie",
-      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/renault-devoile-un-vehicule-militaire-capable-de-piloter-un-drone-en-autonomie_8062379.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Inspiré des besoins observés sur le front ukrainien, le \"4 Troop\", développé par Renault et Thales, combine intelligence artificielle, drone embarqué et capacités de commandement mobile. Une illustration de la montée en puissance de l'industrie de défense française dans un contexte d'économie de guerre."
+      "title": "Les prix des carburants doivent \"baisser dans les mêmes délais que lorsqu'ils sont montés\", estime le ministre des Comptes publics",
+      "url": "https://www.franceinfo.fr/politique/les-prix-des-carburants-doivent-baisser-dans-les-memes-delais-que-lorsqu-ils-sont-montes-estime-le-ministre-des-comptes-publics_8062928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Invité des \"4 Vérités\" mardi 16 juin, le ministre David Amiel juge \"inacceptable\" que la baisse des prix des carburants \"dure des semaines et des semaines\", après l'accord de paix annoncé par Donald Trump. Mais il appelle également à \"rester lucide sur la situation économique\" et précise qu'il \"faudra des mesures d'économie supplémentaires\" pour pallier les suites de la crise."
     },
     {
-      "title": "Sébastien Lecornu durcit le ton face aux demandes des ministères pour le budget 2027",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/sebastien-lecornu-durcit-le-ton-face-aux-demandes-des-ministeres-pour-le-budget-2027_8062310.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement prépare le budget 2027 sous haute tension. Les ministères réclament 30 milliards d’euros supplémentaires, tandis que Matignon exige des économies strictes. Dans une lettre ferme, le Premier ministre recadre ses équipes et appelle à la responsabilité face à des finances publiques jugées dégradées."
+      "title": "Défaillances d'entreprises : \"On bat des records\", assure le président du Medef",
+      "url": "https://www.franceinfo.fr/economie/entreprises/defaillances-d-entreprises-on-bat-des-records-assure-le-president-du-medef_8062961.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Selon Patrick Martin, la tendance annuelle est de \"plus de 70 000 entreprises\" qui mettent la clé sous la porte. Il prédit que la guerre au Moyen-Orient aura un \"effet dans la durée\" sur l'inflation."
+    },
+    {
+      "title": "L’info du jour | 16 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/16/linfo-du-jour-16-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 16 juin 2026 - Matin",
@@ -94,16 +109,6 @@
     {
       "title": "L’info du jour | 12 juin 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/06/12/linfo-du-jour-12-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 12 juin 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/06/12/linfo-du-jour-12-juin-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 12 juin 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/06/12/linfo-du-jour-12-juin-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
