@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-06-17T17:44:10Z",
+  "updated_at": "2026-06-17T19:58:32Z",
   "articles": [
     {
-      "title": "Union européenne : les discussions sur le budget s’annoncent plus difficiles que jamais",
+      "title": "Unédic : syndicats et patronat exhortent le gouvernement à cesser de ponctionner les caisses de l’assurance-chômage",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/17/unedic-syndicats-et-patronat-exhortent-le-gouvernement-a-cesser-de-ponctionner-les-caisses-de-l-assurance-chomage_6704294_823448.html",
+      "summary": "Face à un déficit du régime gérant le système d’indemnisation des demandeurs d’emploi qui pourrait atteindre 2,3 milliards d’euros en 2026, les représentants des travailleurs et des chefs d’entreprise ont réclamé un « abandon » de tout nouveau prélèvement de l’Etat qui empêche son désendettement et menace son modèle."
+    },
+    {
+      "title": "Les discussions sur le budget de l’UE s’annoncent plus difficiles que jamais",
       "url": "https://www.lemonde.fr/economie/article/2026/06/17/union-europeenne-les-discussions-sur-le-budget-s-annoncent-plus-difficiles-que-jamais_6704271_3234.html",
-      "summary": "Les Vingt-Sept n’ont pas encore trouvé la martingale pour financer de nouvelles priorités du budget 2028-2034, comme la défense, sans sacrifier les politiques traditionnelles de l’Union comme la politique agricole commune ou la cohésion."
+      "summary": "Les Vingt-Sept n’ont pas encore trouvé la martingale pour financer de nouvelles priorités du budget 2028-2034, comme la défense, sans sacrifier les politiques traditionnelles de l’Union, comme la politique agricole commune ou la cohésion."
     },
     {
       "title": "L’Insee abaisse ses prévisions de croissance, les ménages français frappés de plein fouet par la crise au Moyen-Orient",
@@ -22,16 +27,6 @@
       "summary": "En janvier, l'ancien ministre de l'Economie Eric Lombard avait assuré que des milliers de Français très aisés ne payaient pas l'impôt sur le revenu. <br /><br /><img src=\"https://images.bfmtv.com/J4cK040oznyuAVsjQtHoT0rjSUA=/0x40:768x472/800x0/images/Les-Francais-ne-paieront-pas-davantage-d-impot-sur-le-revenu-au-1er-janvier-2025-malgre-l-absence-d-indexation-sur-l-inflation-du-bareme-2005392.jpg\" />"
     },
     {
-      "title": "\"Un grand jour pour la France\": l'UE signe avec Paris un accord de prêt pour la défense de 15,1 milliards d'euros",
-      "url": "https://www.bfmtv.com/economie/video-un-grand-jour-pour-la-france-l-ue-signe-avec-paris-un-accord-de-pret-pour-la-defense-de-15-1-milliards-d-euros_VN-202606170796.html",
-      "summary": "Les ministres français de l'Économie et des Armées, Roland Lescure et Catherine Vautrin, et les commissaires européens au Budget et à la Défense, Piotr Serafin et Andrius Kubiliu signent l'accord de prêt de 15,1 milliards d'euros lors d'une cérémonie en marge du salon Eurosatory, à Villepinte mercredi 17 juin.<br /><br /><img src=\"https://images.bfmtv.com/HU0c9To5FuQHH4VYlhS59Umz28o=/0x0:1280x720/800x0/images/Un-grand-jour-pour-la-France-l-UE-signe-avec-Paris-un-accord-de-pret-pour-la-defense-de-15-1-milliards-d-euros-2305519.jpg\" />"
-    },
-    {
-      "title": "Ça peut surprendre mais selon l'Insee, l'industrie \"entretient la flamme de la croissance française\" (l'institut s'attend à 0,7% cette année)",
-      "url": "https://www.bfmtv.com/economie/economie-social/ca-peut-surprendre-mais-selon-l-insee-l-industrie-entretient-la-flamme-de-la-croissance-francaise-l-institut-s-attend-a-0-7-cette-annee_AN-202606170722.html",
-      "summary": "Après une contraction surprise de l'activité au premier trimestre, l'institut de la statistique table sur une embellie printanière portée par l'industrie. Affectée par le retour de l'inflation en lien avec le conflit au Moyen-Orient, la consommation des ménages reste particulièrement morose. <br /><br /><img src=\"https://images.bfmtv.com/9hXq4rIvu1Ph_MfUqbZbSFipXRs=/0x42:2048x1194/800x0/images/Usine-France-2295631.jpg\" />"
-    },
-    {
       "title": "Croissance de 0,7%, pouvoir d'achat en baisse, chômage en hausse… Ce que prévoit l'Insee pour la fin de l'année 2026",
       "url": "https://www.franceinfo.fr/economie/croissance-de-0-7-pouvoir-d-achat-en-baisse-chomage-en-hausse-ce-que-prevoit-l-insee-pour-la-fin-de-l-annee-2026_8066453.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'Insee a présenté mercredi des perspectives de croissance en France pour le trimestre en cours et pour l'année, tout en notant que les ménages apparaissent comme les principales victimes de la conjoncture actuelle."
@@ -45,16 +40,6 @@
       "title": "Combien la guerre en Iran va-t-elle coûter à la croissance mondiale et à la France ?",
       "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/combien-la-guerre-en-iran-va-t-elle-couter-a-la-croissance-mondiale-et-a-la-france_8042096.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Alors que les États-Unis et l'Iran sont sur le point de signer un accord de paix, se pose la question du coût mondial de la guerre déclenchée par les Américains et Israël."
-    },
-    {
-      "title": "Budget 2027 : le RN censurera \"très probablement\" en cas de 49.3, annonce le député Laurent Jacobelli",
-      "url": "https://www.franceinfo.fr/politique/budget-2027-le-rn-censurera-tres-probablement-en-cas-de-49-3-annonce-le-depute-laurent-jacobelli_8065451.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Sur le plateau des \"4 Vérités\" mercredi 17 juin, Laurent Jacobelli dit ne rien attendre en matière budgétaire d'un \"gouvernement en fin de vie\", qui selon lui évitera tout débat."
-    },
-    {
-      "title": "La canicule peut-elle devenir un nouvel indicateur de croissance ?",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-canicule-peut-elle-devenir-un-nouvel-indicateur-de-croissance_8042072.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les fortes chaleurs n'ont pas seulement des conséquences sur la santé. Selon plusieurs études, les écarts de température influencent aussi la productivité, la consommation et l'activité de nombreuses entreprises. Au point que de nombreux secteurs intègrent la météo dans leurs stratégies économiques."
     },
     {
       "title": "L’info du jour | 17 juin 2026 - Soir",
