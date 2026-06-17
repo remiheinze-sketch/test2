@@ -1,40 +1,45 @@
 {
-  "updated_at": "2026-06-17T14:26:01Z",
+  "updated_at": "2026-06-17T17:44:10Z",
   "articles": [
+    {
+      "title": "Union européenne : les discussions sur le budget s’annoncent plus difficiles que jamais",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/17/union-europeenne-les-discussions-sur-le-budget-s-annoncent-plus-difficiles-que-jamais_6704271_3234.html",
+      "summary": "Les Vingt-Sept n’ont pas encore trouvé la martingale pour financer de nouvelles priorités du budget 2028-2034, comme la défense, sans sacrifier les politiques traditionnelles de l’Union comme la politique agricole commune ou la cohésion."
+    },
+    {
+      "title": "L’Insee abaisse ses prévisions de croissance, les ménages français frappés de plein fouet par la crise au Moyen-Orient",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/17/inflation-hausse-du-chomage-et-baisse-du-pouvoir-d-achat-les-menages-francais-frappes-de-plein-fouet-par-la-crise-au-moyen-orient_6704255_3234.html",
+      "summary": "L’économie française devrait traverser l’année 2026 à petite vitesse, la croissance atteignant 0,7 % en fin d’année au lieu de 0,9 % attendu."
+    },
     {
       "title": "« Le miracle économique espagnol ne manque pas de fragilités »",
       "url": "https://www.lemonde.fr/idees/article/2026/06/17/le-miracle-economique-espagnol-ne-manque-pas-de-fragilites_6704216_3232.html",
       "summary": "Pointée comme l’un des « PIGS » pendant la crise de la zone euro, l’Espagne a renoué avec une croissance dynamique grâce au tourisme et à l’immigration, observe, dans sa chronique au « Monde », Marie Charrel. Mais le pays souffre d’une crise du logement et d’investissements insuffisants dans la recherche."
     },
     {
-      "title": "« Au Japon, le gouvernement nationaliste espère stimuler la croissance par les dépenses. Un loyer de l’argent plus coûteux vient contrarier ses plans »",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/17/au-japon-le-gouvernement-nationaliste-espere-stimuler-la-croissance-par-les-depenses-un-loyer-de-l-argent-plus-couteux-vient-contrarier-ses-plans_6704193_3234.html",
-      "summary": "Dernière banque centrale à pratiquer des taux très bas, la Banque du Japon a augmenté d’un quart de point ses taux directeurs, mardi, pour les porter à 1 %, un niveau pas atteint depuis 1995. Ce qui risque de refroidir les agents économiques et, surtout, va augmenter la charge de la dette publique, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      "title": "\"Le constat est préoccupant\": un rapport du Sénat appelle à ouvrir \"la boîte noire\" des hauts patrimoines",
+      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/le-constat-est-preoccupant-un-rapport-du-senat-appelle-a-ouvrir-la-boite-noire-des-hauts-patrimoines_AD-202606170838.html",
+      "summary": "En janvier, l'ancien ministre de l'Economie Eric Lombard avait assuré que des milliers de Français très aisés ne payaient pas l'impôt sur le revenu. <br /><br /><img src=\"https://images.bfmtv.com/J4cK040oznyuAVsjQtHoT0rjSUA=/0x40:768x472/800x0/images/Les-Francais-ne-paieront-pas-davantage-d-impot-sur-le-revenu-au-1er-janvier-2025-malgre-l-absence-d-indexation-sur-l-inflation-du-bareme-2005392.jpg\" />"
     },
     {
-      "title": "Droits de douane : un an après l’accord de Turnberry entre l’UE et les Etats-Unis, les Européens donnent leur feu vert",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/16/commerce-un-an-apres-l-accord-de-turnberry-les-europeens-donnent-leur-feu-vert_6703894_3234.html",
-      "summary": "Le Parlement européen a voté, mardi 16 juin, pour la suppression des taxes douanières sur la plupart des importations américaines. Il a obtenu quelques garde-fous, au cas où Washington ne respecterait pas ses engagements."
+      "title": "\"Un grand jour pour la France\": l'UE signe avec Paris un accord de prêt pour la défense de 15,1 milliards d'euros",
+      "url": "https://www.bfmtv.com/economie/video-un-grand-jour-pour-la-france-l-ue-signe-avec-paris-un-accord-de-pret-pour-la-defense-de-15-1-milliards-d-euros_VN-202606170796.html",
+      "summary": "Les ministres français de l'Économie et des Armées, Roland Lescure et Catherine Vautrin, et les commissaires européens au Budget et à la Défense, Piotr Serafin et Andrius Kubiliu signent l'accord de prêt de 15,1 milliards d'euros lors d'une cérémonie en marge du salon Eurosatory, à Villepinte mercredi 17 juin.<br /><br /><img src=\"https://images.bfmtv.com/HU0c9To5FuQHH4VYlhS59Umz28o=/0x0:1280x720/800x0/images/Un-grand-jour-pour-la-France-l-UE-signe-avec-Paris-un-accord-de-pret-pour-la-defense-de-15-1-milliards-d-euros-2305519.jpg\" />"
     },
     {
-      "title": "USA Today : \"SpaceX, même les Chinois en achètent !\", par John Plassard – 17/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-space-x-meme-les-chinois-en-achetent-par-john-plassard-17-01_EN-202606170693.html",
-      "summary": "Ce mercredi 17 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la progression plus que prévue des ventes au détail américains en mai, la première réunion à la Fed pour Kevin Warsh, le flou persistant autour de l'accord de paix entre l'Iran et les États-Unis, les dépenses massives de 3,7 milliards de dollars au T1 2026 d'OpenAI, la question sur SpaceX en tant que pari du siècle ou folie boursière, ainsi que les investisseurs chinois achetant des actions SpaceX via les cryptos malgré les restrictions de capitaux de Pékin. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
+      "title": "Ça peut surprendre mais selon l'Insee, l'industrie \"entretient la flamme de la croissance française\" (l'institut s'attend à 0,7% cette année)",
+      "url": "https://www.bfmtv.com/economie/economie-social/ca-peut-surprendre-mais-selon-l-insee-l-industrie-entretient-la-flamme-de-la-croissance-francaise-l-institut-s-attend-a-0-7-cette-annee_AN-202606170722.html",
+      "summary": "Après une contraction surprise de l'activité au premier trimestre, l'institut de la statistique table sur une embellie printanière portée par l'industrie. Affectée par le retour de l'inflation en lien avec le conflit au Moyen-Orient, la consommation des ménages reste particulièrement morose. <br /><br /><img src=\"https://images.bfmtv.com/9hXq4rIvu1Ph_MfUqbZbSFipXRs=/0x42:2048x1194/800x0/images/Usine-France-2295631.jpg\" />"
     },
     {
-      "title": "USA Today : \"SpaceX, même les Chinois en achètent !\", par John Plassard - 17/01",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-space-x-meme-les-chinois-en-achetent-par-john-plassard-17-01_VN-202606170695.html",
-      "summary": "Ce mercredi 17 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la progression plus que prévue des ventes au détail américains en mai, la première réunion à la Fed pour Kevin Warsh, le flou persistant autour de l'accord de paix entre l'Iran et les États-Unis, les dépenses massives de 3,7 milliards de dollars au T1 2026 d'OpenAI, la question sur SpaceX en tant que pari du siècle ou folie boursière, ainsi que les investisseurs chinois achetant des actions SpaceX via les cryptos malgré les restrictions de capitaux de Pékin. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/ne4HbpcAx9BCXrZdIh6u3KSLiD4=/0x0:1280x720/800x0/images/USA-Today-SpaceX-meme-les-Chinois-en-achetent-par-John-Plassard-17-01-2305434.jpg\" />"
+      "title": "Croissance de 0,7%, pouvoir d'achat en baisse, chômage en hausse… Ce que prévoit l'Insee pour la fin de l'année 2026",
+      "url": "https://www.franceinfo.fr/economie/croissance-de-0-7-pouvoir-d-achat-en-baisse-chomage-en-hausse-ce-que-prevoit-l-insee-pour-la-fin-de-l-annee-2026_8066453.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'Insee a présenté mercredi des perspectives de croissance en France pour le trimestre en cours et pour l'année, tout en notant que les ménages apparaissent comme les principales victimes de la conjoncture actuelle."
     },
     {
-      "title": "Des exportations chinoises qui explosent pendant que les États-Unis affichent des déficits chroniques et que l’Europe manque d’investissements: pourquoi le G7 s'inquiète des déséquilibres économiques mondiaux",
-      "url": "https://www.bfmtv.com/economie/international/des-exportations-chinoises-qui-explosent-pendant-que-les-etats-unis-affichent-des-deficits-chroniques-et-que-l-europe-manque-d-investissements-pourquoi-le-g7-s-inquiete-des-desequilibres-economiques-mondiaux_AV-202606170638.html",
-      "summary": "Ces déséquilibres ont atteint ce que le président Emmanuel Macron a qualifié de niveaux insoutenables, ce qui l’a incité à inscrire cette question au programme du sommet des dirigeants du G7. <br /><br /><img src=\"https://images.bfmtv.com/THDzl8KlW6qiwuqGb06FCJtwTYs=/0x58:1200x733/800x0/images/G7-2304336.jpg\" />"
-    },
-    {
-      "title": "Le déficit de l'assurance chômage devrait atteindre 2,3 milliards d'euros en 2026 (mais ses comptes auraient été dans le vert sans les prélèvements de l'État qui agacent l'Unédic)",
-      "url": "https://www.bfmtv.com/economie/emploi/le-deficit-de-l-assurance-chomage-devrait-atteindre-2-3-milliards-d-euros-en-2026-mais-ses-comptes-auraient-ete-dans-le-vert-sans-les-prelevements-de-l-etat-qui-agacent-l-unedic_AN-202606170604.html",
-      "summary": "Le bureau de l'Unédic, chargée de la gestion de l'assurance chômage en France, appelle, ce mercredi 17 juin, les pouvoirs publics à stopper les prélèvements étatiques qui ont, semble-t-il, sensiblement alourdi sa dette.<br /><br /><img src=\"https://images.bfmtv.com/o3Z4NKFsKjIX4hKSn2JCpnyi_rM=/0x212:2048x1364/800x0/images/Unedic-2245472.jpg\" />"
+      "title": "L'Insee prévoit une croissance de 0,7% pour 2026, avec un regain au deuxième trimestre",
+      "url": "https://www.franceinfo.fr/economie/croissance/l-insee-prevoit-une-croissance-de-0-7-pour-2026-avec-un-regain-au-deuxieme-trimestre_8066324.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "En parallèle, l'institut de statistiques économiques estime que l'inflation atteindra 2,7% sur un an en décembre, avec des ménages qui \"paient l'essentiel de la facture pétrolière et accusent le coup\"."
     },
     {
       "title": "Combien la guerre en Iran va-t-elle coûter à la croissance mondiale et à la France ?",
@@ -50,6 +55,11 @@
       "title": "La canicule peut-elle devenir un nouvel indicateur de croissance ?",
       "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-canicule-peut-elle-devenir-un-nouvel-indicateur-de-croissance_8042072.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les fortes chaleurs n'ont pas seulement des conséquences sur la santé. Selon plusieurs études, les écarts de température influencent aussi la productivité, la consommation et l'activité de nombreuses entreprises. Au point que de nombreux secteurs intègrent la météo dans leurs stratégies économiques."
+    },
+    {
+      "title": "L’info du jour | 17 juin 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/06/17/linfo-du-jour-17-juin-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 17 juin 2026 - Mi-journée",
@@ -94,11 +104,6 @@
     {
       "title": "L’info du jour | 14 juin 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/06/14/linfo-du-jour-14-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 14 juin 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/06/14/linfo-du-jour-14-juin-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
