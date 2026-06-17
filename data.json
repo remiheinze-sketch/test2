@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-17T10:59:37Z",
+  "updated_at": "2026-06-17T14:26:01Z",
   "articles": [
+    {
+      "title": "« Le miracle économique espagnol ne manque pas de fragilités »",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/17/le-miracle-economique-espagnol-ne-manque-pas-de-fragilites_6704216_3232.html",
+      "summary": "Pointée comme l’un des « PIGS » pendant la crise de la zone euro, l’Espagne a renoué avec une croissance dynamique grâce au tourisme et à l’immigration, observe, dans sa chronique au « Monde », Marie Charrel. Mais le pays souffre d’une crise du logement et d’investissements insuffisants dans la recherche."
+    },
     {
       "title": "« Au Japon, le gouvernement nationaliste espère stimuler la croissance par les dépenses. Un loyer de l’argent plus coûteux vient contrarier ses plans »",
       "url": "https://www.lemonde.fr/economie/article/2026/06/17/au-japon-le-gouvernement-nationaliste-espere-stimuler-la-croissance-par-les-depenses-un-loyer-de-l-argent-plus-couteux-vient-contrarier-ses-plans_6704193_3234.html",
@@ -12,14 +17,24 @@
       "summary": "Le Parlement européen a voté, mardi 16 juin, pour la suppression des taxes douanières sur la plupart des importations américaines. Il a obtenu quelques garde-fous, au cas où Washington ne respecterait pas ses engagements."
     },
     {
-      "title": "Le préfet des Bouches-du-Rhône impose à la Métropole Aix-Marseille-Provence de couper 53 millions d’euros dans les aides aux communes",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/16/le-prefet-des-bouches-du-rhone-impose-a-la-metropole-aix-marseille-provence-de-couper-53-millions-d-euros-dans-ses-aides-aux-communes_6703891_823448.html",
-      "summary": "Chargé de boucler le budget 2026 de l’établissement public, Jacques Witkowski choisit d’amputer les attributions de compensation. Des financements considérés comme « indus », mais qu’une partie des maires jugent intouchables."
+      "title": "USA Today : \"SpaceX, même les Chinois en achètent !\", par John Plassard – 17/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-space-x-meme-les-chinois-en-achetent-par-john-plassard-17-01_EN-202606170693.html",
+      "summary": "Ce mercredi 17 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la progression plus que prévue des ventes au détail américains en mai, la première réunion à la Fed pour Kevin Warsh, le flou persistant autour de l'accord de paix entre l'Iran et les États-Unis, les dépenses massives de 3,7 milliards de dollars au T1 2026 d'OpenAI, la question sur SpaceX en tant que pari du siècle ou folie boursière, ainsi que les investisseurs chinois achetant des actions SpaceX via les cryptos malgré les restrictions de capitaux de Pékin. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/tZtNDSWlpMyCitJpcXnimEJjnio=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_1.jpg\" />"
     },
     {
-      "title": "TotalEnergies \"contribue aux finances publiques françaises pour à peu près 2 milliards d'euros\", déclare Patrick Pouyanné",
-      "url": "https://www.bfmtv.com/economie/video-total-energies-contribue-aux-finances-publiques-francaises-pour-a-peu-pres-2-milliards-d-euros-declare-patrick-pouyanne_VN-202606170463.html",
-      "summary": "Le PDG de TotalEnergies Patrick Pouyanné est auditionné par la commission des finances de l'Assemblée nationale, mercredi 17 juin.<br /><br /><img src=\"https://images.bfmtv.com/8YZsSweKnH2HbJPGlydm0MbUUZw=/0x0:1280x720/800x0/images/TotalEnergies-contribue-aux-finances-publiques-francaises-pour-a-peu-pres-2-milliards-d-euros-declare-Patrick-Pouyanne-2305282.jpg\" />"
+      "title": "USA Today : \"SpaceX, même les Chinois en achètent !\", par John Plassard - 17/01",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-space-x-meme-les-chinois-en-achetent-par-john-plassard-17-01_VN-202606170695.html",
+      "summary": "Ce mercredi 17 juin, dans sa chronique USA Today, John Plassard, associé et responsable de la stratégie d’investissement de Cité Gestion, s'est penché sur la progression plus que prévue des ventes au détail américains en mai, la première réunion à la Fed pour Kevin Warsh, le flou persistant autour de l'accord de paix entre l'Iran et les États-Unis, les dépenses massives de 3,7 milliards de dollars au T1 2026 d'OpenAI, la question sur SpaceX en tant que pari du siècle ou folie boursière, ainsi que les investisseurs chinois achetant des actions SpaceX via les cryptos malgré les restrictions de capitaux de Pékin. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/ne4HbpcAx9BCXrZdIh6u3KSLiD4=/0x0:1280x720/800x0/images/USA-Today-SpaceX-meme-les-Chinois-en-achetent-par-John-Plassard-17-01-2305434.jpg\" />"
+    },
+    {
+      "title": "Des exportations chinoises qui explosent pendant que les États-Unis affichent des déficits chroniques et que l’Europe manque d’investissements: pourquoi le G7 s'inquiète des déséquilibres économiques mondiaux",
+      "url": "https://www.bfmtv.com/economie/international/des-exportations-chinoises-qui-explosent-pendant-que-les-etats-unis-affichent-des-deficits-chroniques-et-que-l-europe-manque-d-investissements-pourquoi-le-g7-s-inquiete-des-desequilibres-economiques-mondiaux_AV-202606170638.html",
+      "summary": "Ces déséquilibres ont atteint ce que le président Emmanuel Macron a qualifié de niveaux insoutenables, ce qui l’a incité à inscrire cette question au programme du sommet des dirigeants du G7. <br /><br /><img src=\"https://images.bfmtv.com/THDzl8KlW6qiwuqGb06FCJtwTYs=/0x58:1200x733/800x0/images/G7-2304336.jpg\" />"
+    },
+    {
+      "title": "Le déficit de l'assurance chômage devrait atteindre 2,3 milliards d'euros en 2026 (mais ses comptes auraient été dans le vert sans les prélèvements de l'État qui agacent l'Unédic)",
+      "url": "https://www.bfmtv.com/economie/emploi/le-deficit-de-l-assurance-chomage-devrait-atteindre-2-3-milliards-d-euros-en-2026-mais-ses-comptes-auraient-ete-dans-le-vert-sans-les-prelevements-de-l-etat-qui-agacent-l-unedic_AN-202606170604.html",
+      "summary": "Le bureau de l'Unédic, chargée de la gestion de l'assurance chômage en France, appelle, ce mercredi 17 juin, les pouvoirs publics à stopper les prélèvements étatiques qui ont, semble-t-il, sensiblement alourdi sa dette.<br /><br /><img src=\"https://images.bfmtv.com/o3Z4NKFsKjIX4hKSn2JCpnyi_rM=/0x212:2048x1364/800x0/images/Unedic-2245472.jpg\" />"
     },
     {
       "title": "Combien la guerre en Iran va-t-elle coûter à la croissance mondiale et à la France ?",
@@ -35,11 +50,6 @@
       "title": "La canicule peut-elle devenir un nouvel indicateur de croissance ?",
       "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-canicule-peut-elle-devenir-un-nouvel-indicateur-de-croissance_8042072.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les fortes chaleurs n'ont pas seulement des conséquences sur la santé. Selon plusieurs études, les écarts de température influencent aussi la productivité, la consommation et l'activité de nombreuses entreprises. Au point que de nombreux secteurs intègrent la météo dans leurs stratégies économiques."
-    },
-    {
-      "title": "La Banque de France prévoit une croissance nulle au deuxième trimestre et de 0,5% sur l'ensemble de l'année 2026",
-      "url": "https://www.franceinfo.fr/economie/croissance/la-banque-de-france-prevoit-une-croissance-nulle-au-deuxieme-trimestre-et-de-0-5-en-2026_8064497.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans de nouvelles prévisions communiquées mardi, l'institution évoque aussi un rebond de la croissance à 0,9% en 2027, et à 1,2% en 2028."
     },
     {
       "title": "L’info du jour | 17 juin 2026 - Mi-journée",
@@ -90,16 +100,6 @@
       "title": "L’info du jour | 14 juin 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/06/14/linfo-du-jour-14-juin-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 14 juin 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/06/14/linfo-du-jour-14-juin-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 juin 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/06/13/linfo-du-jour-13-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
