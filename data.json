@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-17T05:59:46Z",
+  "updated_at": "2026-06-17T10:59:37Z",
   "articles": [
+    {
+      "title": "« Au Japon, le gouvernement nationaliste espère stimuler la croissance par les dépenses. Un loyer de l’argent plus coûteux vient contrarier ses plans »",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/17/au-japon-le-gouvernement-nationaliste-espere-stimuler-la-croissance-par-les-depenses-un-loyer-de-l-argent-plus-couteux-vient-contrarier-ses-plans_6704193_3234.html",
+      "summary": "Dernière banque centrale à pratiquer des taux très bas, la Banque du Japon a augmenté d’un quart de point ses taux directeurs, mardi, pour les porter à 1 %, un niveau pas atteint depuis 1995. Ce qui risque de refroidir les agents économiques et, surtout, va augmenter la charge de la dette publique, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
     {
       "title": "Droits de douane : un an après l’accord de Turnberry entre l’UE et les Etats-Unis, les Européens donnent leur feu vert",
       "url": "https://www.lemonde.fr/economie/article/2026/06/16/commerce-un-an-apres-l-accord-de-turnberry-les-europeens-donnent-leur-feu-vert_6703894_3234.html",
@@ -12,24 +17,34 @@
       "summary": "Chargé de boucler le budget 2026 de l’établissement public, Jacques Witkowski choisit d’amputer les attributions de compensation. Des financements considérés comme « indus », mais qu’une partie des maires jugent intouchables."
     },
     {
-      "title": "SpaceX rachète Cursor, éditeur de logiciel de code assisté par IA valorisé à 60 milliards de dollars",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/16/spacex-rachete-cursor-editeur-de-logiciel-de-code-assiste-par-ia-valorise-a-60-milliards-de-dollars_6703540_3234.html",
-      "summary": "Le rachat annoncé de la société survient alors qu’une course est engagée dans la Silicon Valley pour capter les développeurs professionnels, devenus le principal moteur de croissance de l’industrie de l’IA."
+      "title": "TotalEnergies \"contribue aux finances publiques françaises pour à peu près 2 milliards d'euros\", déclare Patrick Pouyanné",
+      "url": "https://www.bfmtv.com/economie/video-total-energies-contribue-aux-finances-publiques-francaises-pour-a-peu-pres-2-milliards-d-euros-declare-patrick-pouyanne_VN-202606170463.html",
+      "summary": "Le PDG de TotalEnergies Patrick Pouyanné est auditionné par la commission des finances de l'Assemblée nationale, mercredi 17 juin.<br /><br /><img src=\"https://images.bfmtv.com/8YZsSweKnH2HbJPGlydm0MbUUZw=/0x0:1280x720/800x0/images/TotalEnergies-contribue-aux-finances-publiques-francaises-pour-a-peu-pres-2-milliards-d-euros-declare-Patrick-Pouyanne-2305282.jpg\" />"
     },
     {
-      "title": "\"Taxer mieux mais pas taxer plus\": le ministre de l'Économie Roland Lescure veut lutter contre la \"sur-optimisation fiscale des plus fortunés\" par la coopération internationale",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/taxer-mieux-mais-pas-taxer-plus-le-ministre-de-l-economie-roland-lescure-veut-lutter-contre-la-sur-optimisation-fiscale-des-plus-fortunes-par-la-cooperation-internationale_AD-202606170177.html",
-      "summary": "Devant une commission de l'Assemblée nationale, Roland Lescure a défendu l’idée de mieux cibler la fiscalité des plus hauts patrimoines sans l’alourdir, en privilégiant la lutte contre l’optimisation et la fraude. <br /><br /><img src=\"https://images.bfmtv.com/EEWFGbyYB1UFFb4d0cGgQEvzaZc=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-et-des-Finances-Roland-Lescure-lors-de-la-reunion-preparatoire-a-la-saison-estivale-avec-les-acteurs-du-transport-aerien-dans-le-contexte-de-la-crise-au-Moyen-Orient-a-Paris-le-6-mai-2026-2281909.jpg\" />"
+      "title": "Combien la guerre en Iran va-t-elle coûter à la croissance mondiale et à la France ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/combien-la-guerre-en-iran-va-t-elle-couter-a-la-croissance-mondiale-et-a-la-france_8042096.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que les États-Unis et l'Iran sont sur le point de signer un accord de paix, se pose la question du coût mondial de la guerre déclenchée par les Américains et Israël."
     },
     {
-      "title": "Il est mis sous pression par Donald Trump: pour sa première à la Fed, Kevin Warsh ne va sans doute pas annoncer une hausse des taux, même si l'inflation grimpe aux États-Unis",
-      "url": "https://www.bfmtv.com/economie/international/il-est-mis-sous-pression-par-donald-trump-pour-sa-premiere-a-la-fed-kevin-warsh-ne-va-sans-doute-pas-annoncer-une-hausse-des-taux-meme-si-l-inflation-grimpe-aux-etats-unis_AV-202606170156.html",
-      "summary": "Les analystes s'attendent à ce que le nouveau président de la banque centrale américaine annonce un statu quo ce mercredi. Ils scruteront de près sa première prise de parole, alors que Donald Trump réclame depuis des mois un assouplissement de la politique monétaire. <br /><br /><img src=\"https://images.bfmtv.com/C6aJfhflBI6NXBHes9mXpJTAh_0=/0x0:2048x1152/800x0/images/Kevin-Warsh-et-Donald-Trump-2305029.jpg\" />"
+      "title": "Budget 2027 : le RN censurera \"très probablement\" en cas de 49.3, annonce le député Laurent Jacobelli",
+      "url": "https://www.franceinfo.fr/politique/budget-2027-le-rn-censurera-tres-probablement-en-cas-de-49-3-annonce-le-depute-laurent-jacobelli_8065451.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Sur le plateau des \"4 Vérités\" mercredi 17 juin, Laurent Jacobelli dit ne rien attendre en matière budgétaire d'un \"gouvernement en fin de vie\", qui selon lui évitera tout débat."
     },
     {
-      "title": "La Banque de France prévoit une croissance nulle au deuxième trimestre et de 0,5% en 2026",
+      "title": "La canicule peut-elle devenir un nouvel indicateur de croissance ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-canicule-peut-elle-devenir-un-nouvel-indicateur-de-croissance_8042072.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les fortes chaleurs n'ont pas seulement des conséquences sur la santé. Selon plusieurs études, les écarts de température influencent aussi la productivité, la consommation et l'activité de nombreuses entreprises. Au point que de nombreux secteurs intègrent la météo dans leurs stratégies économiques."
+    },
+    {
+      "title": "La Banque de France prévoit une croissance nulle au deuxième trimestre et de 0,5% sur l'ensemble de l'année 2026",
       "url": "https://www.franceinfo.fr/economie/croissance/la-banque-de-france-prevoit-une-croissance-nulle-au-deuxieme-trimestre-et-de-0-5-en-2026_8064497.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans de nouvelles prévisions, mardi, l'institution s'attend à un rebond de la croissance à 0,9% en 2027, et à 1,2% en 2028."
+      "summary": "Dans de nouvelles prévisions communiquées mardi, l'institution évoque aussi un rebond de la croissance à 0,9% en 2027, et à 1,2% en 2028."
+    },
+    {
+      "title": "L’info du jour | 17 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/17/linfo-du-jour-17-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 17 juin 2026 - Matin",
@@ -84,11 +99,6 @@
     {
       "title": "L’info du jour | 13 juin 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/06/13/linfo-du-jour-13-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 juin 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/06/13/linfo-du-jour-13-juin-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
