@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-06-24T18:26:42Z",
+  "updated_at": "2026-06-24T20:26:57Z",
   "articles": [
     {
       "title": "Canicule : « L’alternance d’événements climatiques extrêmes fragilise l’agriculture au moment où elle a besoin de se transformer »",
       "url": "https://www.lemonde.fr/economie/article/2026/06/24/canicule-l-alternance-d-evenements-climatiques-extremes-fragilise-l-agriculture-au-moment-ou-elle-a-besoin-de-se-transformer_6712067_3234.html",
       "summary": "L’intensification des phénomènes climatiques perturbe l’économie des exploitations agricoles, qui font face à l’urgence de s’adapter à cette nouvelle donne, constatent, dans un entretien au « Monde », David Renaudeau et Inaki Garcia de Cortazar-Atauri, chercheurs à l’Inrae."
-    },
-    {
-      "title": "Livret A : en attendant une hypothétique hausse de sa rémunération, ce placement a enregistré plus de 5 milliards d’euros de retraits depuis janvier",
-      "url": "https://www.lemonde.fr/argent/article/2026/06/24/livret-a-en-attendant-une-hypothetique-hausse-de-sa-remuneration-ce-placement-a-enregistre-plus-de-5-milliards-d-euros-de-retraits-depuis-janvier_6710199_1657007.html",
-      "summary": "La Banque postale, BPCE et Société générale ont subi les plus fortes décollectes, au profit de l’assurance-vie, mais le niveau d’inflation et la remontée des taux d’intérêt directeurs pourraient entraîner une hausse de sa rémunération au 1ᵉʳ août, et ralentir ce mouvement."
     },
     {
       "title": "Dans un contexte publicitaire défavorable, la branche média du groupe CMA CGM met en vente les neuf chaînes BFM locales",
@@ -22,14 +17,59 @@
       "summary": "La maison française de thé Dammann Frères est en pleine croissance. Le groupe a depuis quelques mois son nouveau siège et son site de production à Dreux, en Eure-et-Loir. Un lieu de 26.000 m2, plus adapté à ses besoins, qui répond à son objectif de croissance, sans renoncer à son savoir-faire artisanal.<br /><br /><img src=\"https://images.bfmtv.com/e7yjCFgehpAkzFANcqtoJuqM9tA=/0x0:1280x720/800x0/images/Dammann-Freres-le-the-francais-qui-ne-manque-pas-d-ambition-2309580.jpg\" />"
     },
     {
-      "title": "Alphabet va rejoindre le Dow Jones",
-      "url": "https://www.bfmtv.com/economie/video-alphabet-va-rejoindre-le-dow-jones_VN-202606240755.html",
-      "summary": "John Plassard explique pourquoi Alphabet rejoins le célèbre indice boursier américain : Au même titre que l'industrie, les secteurs technologiques sont le moteur de la croissance américaine. Cela modernise cet indice parfois délaissé. <br /><br /><img src=\"https://images.bfmtv.com/cteVs2nvAAo1l82jadb_YKhzxiI=/0x0:1280x720/800x0/images/Alphabet-va-rejoindre-le-Dow-Jones-2309575.jpg\" />"
-    },
-    {
       "title": "Le business de la fraîcheur : qui sont ceux à qui profite la canicule ?",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-business-de-la-fraicheur-qui-sont-ceux-a-qui-profite-la-canicule_8077646.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La canicule pénalise toute l'économie française avec des entreprises au ralenti, à l'exception des professionnels du froid. Les fabricants de glaçons notamment ou de fontaines d'eau croulent sous les demandes."
+    },
+    {
+      "title": "Le FMI surveille de près la croissance chinoise sur fond de tensions commerciales",
+      "url": "http://fr.euronews.com/2026/06/24/le-fmi-surveille-de-pres-la-croissance-chinoise-sur-fond-de-tensions-commerciales",
+      "summary": "La mesure précise de l’économie numérique chinoise est une priorité pour les autres puissances en concurrence avec Pékin dans les technologies de pointe."
+    },
+    {
+      "title": "L’info du jour | 24 juin 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/06/24/linfo-du-jour-24-juin-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 24 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/24/linfo-du-jour-24-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 24 juin 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/06/24/linfo-du-jour-24-juin-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 23 juin 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/06/23/linfo-du-jour-23-juin-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 23 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/23/linfo-du-jour-23-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 23 juin 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/06/23/linfo-du-jour-23-juin-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 22 juin 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/06/22/linfo-du-jour-22-juin-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 22 juin 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/06/22/linfo-du-jour-22-juin-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 22 juin 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/06/22/linfo-du-jour-22-juin-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
 }
