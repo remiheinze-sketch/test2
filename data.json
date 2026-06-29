@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-28T23:59:33Z",
+  "updated_at": "2026-06-29T04:06:27Z",
   "articles": [
+    {
+      "title": "Pouvoir d’achat en baisse : quels effets sur les vacances ?",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/06/29/pouvoir-d-achat-en-baisse-quels-effets-sur-les-vacances_6716696_5463015.html",
+      "summary": "Alors que les prix liés au tourisme grimpent et que le pouvoir d’achat s’effrite, les Français ont dû repenser leurs vacances en optant pour des solutions moins coûteuses. Dans ce podcast, Béatrice Madeline et Jessica Gourdon, journalistes au « Monde » chargées de l’économie et du tourisme, analysent les mécanismes de ces arbitrages contraints."
+    },
     {
       "title": "Comment l’IA et le boom des data centers profitent à des industriels français de l’économie traditionnelle",
       "url": "https://www.lemonde.fr/economie/article/2026/06/28/comment-l-ia-et-le-boom-des-data-centers-profitent-a-des-industriels-francais-de-l-economie-traditionnelle_6716573_3234.html",
@@ -10,11 +15,6 @@
       "title": "L’offensive inattendue à 700 millions de dollars de CMA CGM à Mombasa, grand port d’Afrique de l’Est",
       "url": "https://www.lemonde.fr/economie/article/2026/06/27/l-offensive-inattendue-a-700-millions-de-dollars-de-cma-cgm-a-mombasa-grand-port-d-afrique-de-l-est_6716334_3234.html",
       "summary": "Le géant français du transport maritime propose de construire un nouveau terminal et des installations logistiques sur le hub portuaire kényan, saturé mais qui constitue un accès convoité vers une région enclavée en forte croissance. Un reflet de ses ambitions sur le continent."
-    },
-    {
-      "title": "Donald Trump menace de droits de douane de 100 % les pays qui mettraient en place une taxation des services numériques",
-      "url": "https://www.lemonde.fr/international/article/2026/06/26/donald-trump-menace-de-droits-de-douane-de-100-les-pays-qui-mettraient-en-place-une-taxation-des-services-numeriques_6715908_3210.html",
-      "summary": "Ce coup de pression arrive au lendemain de l’accord formel donné par les pays de l’Union européenne à un accord commercial négocié en 2025 avec les Etats-Unis, qui prévoit un plafonnement à 15 % des taxes prélevées sur les importations européennes."
     },
     {
       "title": "Optimisez vos budgets avec cette offre sur ce casque Bluetooth Logitech idéale pour équiper vos salariés",
