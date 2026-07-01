@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-01T03:32:32Z",
+  "updated_at": "2026-07-01T08:01:41Z",
   "articles": [
+    {
+      "title": "Pourquoi la facture de l’entretien des infrastructures gazières va augmenter pour les consommateurs",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/01/pourquoi-la-facture-de-l-entretien-des-infrastructures-gazieres-va-augmenter-pour-les-consommateurs_6717472_3234.html",
+      "summary": "Dans un rapport sur l’avenir des infrastructures gazières à l’horizon 2050, la Commission de régulation de l’énergie (CRE) indique que les coûts d’entretien pourraient augmenter entre 0,2 % et 3,5 % par an (hors inflation) d’ici à 2050. En cause : la baisse de la consommation de gaz, qui provoquera une répartition des coûts sur un nombre plus faible de clients."
+    },
+    {
+      "title": "Ce qui change à partir du 1ᵉʳ juillet : congé supplémentaire de naissance, taxe sur les petits colis, prix du gaz, allocations chômage, location de véhicules électriques, réglementation des cryptoactifs…",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/01/ce-qui-change-a-partir-1er-juillet-conge-supplementaire-de-naissance-taxe-sur-les-petits-colis-prix-du-gaz-allocations-chomage-location-de-vehicules-electriques-reglementation-des-cryptoactifs_6717458_1657007.html",
+      "summary": "Plusieurs changements s’opèrent, qui vont avoir des conséquences sur le budget et la vie de certains ménages."
+    },
     {
       "title": "Livret A : à quelle hausse du taux à partir du 1ᵉʳ août faut-il s’attendre ?",
       "url": "https://www.lemonde.fr/argent/article/2026/06/30/livret-a-a-quelle-hausse-du-taux-a-partir-du-1-aout-faut-il-s-attendre_6717299_1657007.html",
@@ -12,24 +22,39 @@
       "summary": "Sans action résolue, la dette publique risque de s’envoler à 127 % du PIB en 2030, s’alarme l’organisation internationale. Elle propose un cocktail associant hausses d’impôts, notamment sur le gazole, et mesures d’économie."
     },
     {
-      "title": "Les allocations chômage ne seront pas revalorisées en juillet, une première en dix ans",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/30/pas-de-revalorisation-des-allocations-chomage-au-1er-juillet-2026-annonce-l-unedic_6717264_823448.html",
-      "summary": "les syndicats demandaient une revalorisation à hauteur de l’inflation, mais les organisations patronales ont estimé que l’état des finances publiques ne permettait pas cette revalorisation. La dernière revalorisation des allocations chômage remontait au 1ᵉʳ juillet 2025, de 0,5 %."
+      "title": "36 milliards d'euros supplémentaires pour les armées d'ici 2030: l'Assemblée doit définitivement valider le projet de loi faisant grimper le budget militaire à 2,5% du PIB",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/36-milliards-d-euros-supplementaires-pour-les-armees-d-ici-2030-l-assemblee-doit-definitivement-valider-le-projet-de-loi-faisant-grimper-le-budget-militaire-a-2-5-du-pib_AD-202607010426.html",
+      "summary": "Après le feu vert du Sénat, c'est au tour de l'Assemblée nationale d'approuver définitivement le projet de loi actualisant la dernière loi de programmation militaire. <br /><br /><img src=\"https://images.bfmtv.com/yLPqMrzIYeeuzVk47_ieEBYEu7g=/0x106:2048x1258/800x0/images/Marine-francaise-militaires-soldats-marins-armee-2313101.jpg\" />"
     },
     {
-      "title": "Cyber : l’âge d’or des startups, un défi de croissance - 30/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_VN-202606300962.html",
-      "summary": "Ce mardi 30 juin, Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone s'est penché sur le Radar des startups cybersécurité françaises 2026, dans l'émission Tech&amp;Co Business présentée par Frédéric Simottel. Tech&amp;Co Business est à voir ou écouter le mardi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/e6idx9MfiAFap6ZXLqCSUqP3J6s=/0x0:1280x720/800x0/images/Cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06-2312838.jpg\" />"
+      "title": "Le club de la Bourse : L'inflation ralentit, bonne nouvelle pour le budget - 01/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-l-inflation-ralentit-bonne-nouvelle-pour-le-budget-01-07_EN-202607010371.html",
+      "summary": "Retrouvez le club de la Bourse du mercredi 1er juillet dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/WQ8QyiUX0mkK_Q7prrKbOXTBCNQ=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_2.jpg\" />"
     },
     {
-      "title": "Cyber : l’âge d’or des startups, un défi de croissance – 30/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_EN-202606300960.html",
-      "summary": "Ce mardi 30 juin, Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone s'est penché sur le Radar des startups cybersécurité françaises 2026, dans l'émission Tech&amp;Co Business présentée par Frédéric Simottel. Tech&amp;Co Business est à voir ou écouter le mardi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/HpaQYosH_RrWn5sl8iiYt2ysf6M=/0x0:14000x14000/800x0/podcast/podcasts/principale-122_3.jpg\" />"
+      "title": "Le club de la Bourse : L'inflation ralentit, bonne nouvelle pour le budget - 01/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-club-de-la-bourse-l-inflation-ralentit-bonne-nouvelle-pour-le-budget-01-07_VN-202607010376.html",
+      "summary": "Retrouvez le club de la Bourse du mercredi 1er juillet dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/8_r5ijJuONiQfChDKOmoQUVJ5Vo=/0x0:1280x720/800x0/images/Le-club-de-la-Bourse-L-inflation-ralentit-bonne-nouvelle-pour-le-budget-01-07-2313080.jpg\" />"
     },
     {
-      "title": "L'OCDE appelle à un redressement \"important et durable\" des finances publiques de la France",
-      "url": "https://www.franceinfo.fr/economie/l-ocde-appelle-a-un-redressement-important-et-durable-des-finances-publiques-de-la-france_8086619.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Deuxième économie de la zone euro derrière l'Allemagne, la France en est l'un des cancres budgétaires."
+      "title": "Le Livret A va rapporter un peu plus à partir du 1ᵉʳ août",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/le-livret-a-va-rapporter-un-peu-plus-a-partir-du-1-aout_8061680.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le taux du Livret A va remonter dans un mois, sous l'effet du retour de l'inflation. Mais derrière cette hausse se cache un débat bien plus large sur l'utilisation des 6 500 milliards d'euros d'épargne des Français."
+    },
+    {
+      "title": "Évènements climatiques extrêmes : pour 8 communes sur 10, les dépenses d'assurance multirisques ont augmenté entre 2020 et 2024",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/evenements-climatiques-extremes-pour-8-communes-sur-10-les-depenses-d-assurance-multirisques-ont-augmente-entre-2020-et-2024_8087414.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Selon l'étude de l'ONG Reclaim Finance, un quart des communes françaises se retrouvent fragilisées par la flambée des tarifs d’assurance et la fréquence des dommages climatiques."
+    },
+    {
+      "title": "Santé, économie, agriculture, forêts… Les effets délétères de la canicule continuent de se faire sentir malgré la baisse des températures",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sante-economie-agriculture-forets-les-effets-deleteres-de-la-canicule-continuent-de-se-faire-sentir-malgre-la-baisse-des-temperatures_8085197.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "A l'heure où les autorités dressent le bilan de la vague de chaleur sans précédent qui a frappé l'Hexagone, ses conséquences continuent d'affecter parfois durablement le quotidien des Français."
+    },
+    {
+      "title": "L’info du jour | 1er juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/01/linfo-du-jour-1er-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 30 juin 2026 - Soir",
@@ -72,29 +97,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 28 juin 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/06/28/linfo-du-jour-28-juin-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 juin 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/06/27/linfo-du-jour-27-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Pourquoi la croissance française a été meilleure qu&#039;on ne le pensait",
       "url": "https://www.alternatives-economiques.fr/pourquoi-la-croissance-francaise-a-ete-meilleure-qu-on-ne-le-pensait",
       "summary": "L'Institut national de la statistique et des études économiques (Insee) a corrigé ses estimations de croissance post-Covid. Si l'activité passée a été meilleure qu'escomptée, les perspectives, en revanche, restent moroses."
-    },
-    {
-      "title": "Trois leçons de l&#039;étranger pour réduire le déficit budgétaire",
-      "url": "https://www.alternatives-economiques.fr/trois-lecons-de-l-etranger-pour-reduire-le-deficit-budgetaire",
-      "summary": "La Cour des comptes a remis la semaine dernière son toujours très attendu rapport sur la situation des comptes publics français. Sans surprise, la situation n’est pas bonne&amp;nbsp;! La Cour s’inquiète du niveau de la dette publique au seul motif qu’elle monte et que nous sommes le troisième pays le plus&amp;#8230;"
-    },
-    {
-      "title": "Fabien Roussel : « Il faut relancer l&#039;économie par les salaires »",
-      "url": "https://www.alternatives-economiques.fr/fabien-roussel-il-faut-relancer-l-economie-par-les-salaires",
-      "summary": "Il ne l’a pas encore annoncée, mais la candidature du secrétaire national du PCF est soutenue largement par les militants communistes. Fabien Roussel nous indique quelles grandes orientations son programme donnerait à la France."
     }
   ]
 }
