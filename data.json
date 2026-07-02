@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-02T15:04:35Z",
+  "updated_at": "2026-07-02T17:25:53Z",
   "articles": [
+    {
+      "title": "Aux Etats-Unis, l’emploi ralentit et la hausse des salaires reste inférieure à l’inflation",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/02/aux-etats-unis-l-emploi-ralentit-et-la-hausse-des-salaires-reste-inferieure-a-l-inflation_6718208_3234.html",
+      "summary": "L’économie américaine a créé deux fois moins d’emplois qu’attendu en juin selon les dernières statistiques officielles. Même si le taux de chômage reste stable, cette dégradation ternit le bilan économique de Donald Trump à la veille de la commémoration des 250 ans de l’indépendance des Etats-Unis."
+    },
     {
       "title": "Un meilleur partage de la valeur est une nécessité pour relancer la croissance",
       "url": "https://www.lemonde.fr/idees/article/2026/07/02/un-meilleur-partage-de-la-valeur-est-une-necessite-pour-relancer-la-croissance_6717853_3232.html",
@@ -17,19 +22,9 @@
       "summary": "Professeure d’économie à l’université américaine Harvard, Gita Gopinath, passée par le Fonds monétaire international, juge préoccupant le niveau de la dette fédérale américaine."
     },
     {
-      "title": "« Lesbiennes au travail : sortir de l’invisibilité » : une enquête pour mieux saisir le vécu des femmes homosexuelles au sein des entreprises",
-      "url": "https://www.lemonde.fr/emploi/article/2026/07/02/lesbiennes-au-travail-sortir-de-l-invisibilite-une-enquete-pour-mieux-saisir-le-vecu-des-femmes-homosexuelles-au-sein-des-entreprises_6717791_1698637.html",
-      "summary": "Palliant un déficit de recherche sur le sujet, l’universitaire Clotilde Coron propose dans son dernier ouvrage une étude rigoureuse du quotidien des salariées lesbiennes, explorant leur « stratégie de dévoilement », les risques de discrimination auxquels elles sont exposées, mais aussi leurs carrières et rémunérations."
-    },
-    {
-      "title": "La Banque centrale européenne rétropédale et laisse entendre qu’une hausse des taux d’intérêt en juillet est désormais improbable",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/02/la-banque-centrale-europeenne-retropedale-et-laisse-entendre-qu-une-hausse-des-taux-d-interet-en-juillet-est-desormais-improbable_6717748_3234.html",
-      "summary": "Réunis à Sintra, au Portugal, les grands banquiers centraux ont constaté que l’inflation en zone euro avait reculé plus rapidement que prévu, dans la foulée de l’accord entre l’Iran et les Etats-Unis. La hausse des prix s’est élevée à 2,8 % en juin, alors qu’elle était de 3,2 % en mai."
-    },
-    {
-      "title": "Malgré la Coupe du monde, le marché de l'emploi cale: l'économie américaine n'a créé que 57.000 jobs en juin alors que les analystes en attendaient 110.000",
-      "url": "https://www.bfmtv.com/economie/international/c-est-moitie-moins-que-prevu-l-economie-americaine-n-a-cree-que-57-000-emplois-en-juin-alors-que-les-analystes-en-attendaient-110-000_AD-202607020654.html",
-      "summary": "Le chômage a légèrement baissé aux États-Unis, passant de 4,3% à 4,2% en juin. Malgré tout, les chiffres des créations d'emplois sont décevants par rapport aux prévisions des analystes et par rapport aux mois précédents.<br /><br /><img src=\"https://images.bfmtv.com/ccuLYVVWZENWUciR6gunFc_Mlyk=/0x106:2048x1258/800x0/images/Le-drapeau-des-Etats-Unis-illustration-1775004.jpg\" />"
+      "title": "La politique s'invite aux rencontres économiques d'Aix en Provence",
+      "url": "https://www.bfmtv.com/economie/video-la-politique-s-invite-aux-rencontres-economiques-d-aix-en-provence_VN-202607020805.html",
+      "summary": "Jean-Hervé Lorenzi pense qu'il faut remettre au centre la jeunesse. Il considère comme une erreur la diminution du budget sur l'apprentissage.<br /><br /><img src=\"https://images.bfmtv.com/BD6W-0HwxBKHlmrPmjVNzYIpegI=/0x0:1280x720/800x0/images/La-politique-s-invite-aux-rencontres-economiques-d-Aix-en-Provence-2314127.jpg\" />"
     },
     {
       "title": "En Espagne, le choix de la régulation massive profite à l'économie du pays",
@@ -40,6 +35,11 @@
       "title": "Les canicules, le nouveau défi des assurances ?",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-canicules-le-nouveau-defi-des-assurances_8089043.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Sommes-nous couverts contre le risque de canicule? Les assurances prennent-elles en charge l'impact des très fortes chaleurs sur l'économie ? De nouveaux contrats sont à l'étude. Explications"
+    },
+    {
+      "title": "L’info du jour | 2 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/02/linfo-du-jour-2-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 juillet 2026 - Mi-journée",
@@ -85,11 +85,6 @@
       "title": "L’info du jour | 30 juin 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/06/30/linfo-du-jour-30-juin-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 juin 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/06/29/linfo-du-jour-29-juin-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 juin 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Pourquoi la croissance française a été meilleure qu&#039;on ne le pensait",
