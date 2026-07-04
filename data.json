@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-04T13:01:09Z",
+  "updated_at": "2026-07-04T14:36:19Z",
   "articles": [
+    {
+      "title": "« La rigueur budgétaire ne réduit pas durablement le taux d’endettement public »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/04/la-rigueur-budgetaire-ne-reduit-pas-durablement-le-taux-d-endettement-public_6720669_3232.html",
+      "summary": "Seule une inflation élevée non compensée par les taux d’intérêt permettrait de réduire la dette, mais au prix d’un coût politique important pour les épargnants, observe l’économiste Patrick Artus, dans sa chronique au « Monde »."
+    },
     {
       "title": "Non-revalorisation de l’assurance-chômage : pour le patronat, « le responsable, c’est le gouvernement »",
       "url": "https://www.lemonde.fr/politique/article/2026/07/04/non-revalorisation-de-l-assurance-chomage-pour-le-patronat-le-responsable-c-est-le-gouvernement_6720634_823448.html",
@@ -35,21 +40,6 @@
       "title": "L'intégrale des Experts du samedi 4 juillet",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-samedi-4-juillet_VN-202607040210.html",
       "summary": "Ce samedi 4 juillet, Raphaël Legendre a reçu Alexandra Roulet, économiste et enseignante à l'INSEAD, Xavier Jaravel, président délégué du Conseil d'Analyse Economique, Éric Lombard, ancien ministre de l'Économie, et Ludovic Desautez, directeur délégué de la rédaction de La Tribune, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/PoOwaEpQgrngdTPcd671SWiS7bI=/0x0:1280x720/800x0/images/L-integrale-des-Experts-du-samedi-4-juillet-2315053.jpg\" />"
-    },
-    {
-      "title": "Les États-Unis entre puissance et fragilité",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-etats-unis-entre-puissance-et-fragilite_VN-202607040195.html",
-      "summary": "C'est le 4 juillet, les États-Unis célèbrent les 250 ans de leur indépendance. En 20 ans, leur économie s’est réinventée autour de la tech, de l’énergie, mais aussi de la dette. Alors, sont-ils aujourd'hui tout-puissants ? On en débat depuis les Rencontres économiques d'Aix-en-Provence sur le plateau des Experts.<br /><br /><img src=\"https://images.bfmtv.com/cxfcqoNn_xr8-2uA7v7eFhEBgGc=/0x0:1280x720/800x0/images/Les-Etats-Unis-entre-puissance-et-fragilite-2315046.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Grandes fortunes, taxer ou mobiliser ? - 04/07",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-grandes-fortunes-taxer-ou-mobiliser-04-07_VN-202607040197.html",
-      "summary": "Ce samedi 4 juillet, l'ambiance aux Rencontres Économiques d'Aix-en-Provence, la décision politique de cibler les grandes fortunes pour en affecter une partie à des fonds d'intérêt public, ainsi que le rôle du patrimoine dans la construction de l'avenir, ont été abordés par Alexandra Roulet, économiste et enseignante à l'INSEAD, Xavier Jaravel, président délégué du Conseil d'Analyse Économique, Éric Lombard, ancien ministre de l'Économie, et Ludovic Desautez, directeur délégué de la rédaction de La Tribune, dans l'émission Les Experts depuis Les Rencontres Économiques d'Aix-en-Provence, présentée par Raphaël Legendre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/-6wrcE55CUmL3P-56yZQKV1o-2A=/0x0:1280x720/800x0/images/Les-Experts-Grandes-fortunes-taxer-ou-mobiliser-04-07-2315047.jpg\" />"
-    },
-    {
-      "title": "\"Zéro déficit en 2037\" : Gabriel Attal dévoile une série de mesures pour rétablir les finances publiques en vue de la présidentielle",
-      "url": "https://www.franceinfo.fr/politique/gabriel-attal/zero-deficit-en-2037-gabriel-attal-devoile-une-serie-de-mesures-pour-retablir-les-finances-publiques-en-vue-de-la-presidentielle_8091860.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans les colonnes du \"Parisien\", l'ancien Premier ministre a dévoilé un plan sous le signe de la \"rigueur\", afin de ramener les finances publiques à l'équilibre en dix ans."
     },
     {
       "title": "L’info du jour | 4 juillet 2026 - Mi-journée",
@@ -105,6 +95,11 @@
       "title": "L’info du jour | 1er juillet 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/07/01/linfo-du-jour-1er-juillet-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Il y a 250 ans, les Etats-Unis proclamaient leur indépendance",
+      "url": "https://www.alternatives-economiques.fr/il-y-a-250-ans-les-etats-unis-proclamaient-leur-independance",
+      "summary": "Le 4 juillet 1776, treize colonies de la côte atlantique déclarent leur indépendance, au terme de plus de dix ans de révoltes contre des taxes commerciales imposées par la Couronne britannique."
     }
   ]
 }
