@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-06T14:57:35Z",
+  "updated_at": "2026-07-06T17:39:37Z",
   "articles": [
+    {
+      "title": "Microsoft annonce la suppression de 4 800 postes, en partie liée à la restructuration de sa filiale de jeux vidéo Xbox",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/06/microsoft-annonce-la-suppression-de-4-800-postes-en-partie-liee-a-la-restructuration-de-sa-filiale-de-jeux-video-xbox_6721213_3234.html",
+      "summary": "Le premier éditeur mondial de logiciels investit des sommes considérables dans les centres de données destinés à l’intelligence artificielle, ce qui entraîne des mesures d’économie dans d’autres activités."
+    },
     {
       "title": "Carburants : les recettes fiscales liées à leur consommation ont baissé sur les six premiers mois de l’année, selon le gouvernement",
       "url": "https://www.lemonde.fr/economie/article/2026/07/06/carburants-les-recettes-fiscales-liees-a-leur-consommation-ont-baisse-de-80-millions-d-euros-de-janvier-a-juin-2026-selon-le-gouvernement_6721159_3234.html",
@@ -12,34 +17,29 @@
       "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an."
     },
     {
-      "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
-      "summary": "L’heure étant aux économies dans les chaînes de télévision, privées comme publiques, les carnets de commandes des sociétés de production tardent à se remplir. Le secteur redoute un automne de casse sociale."
+      "title": "Pour réduire un déficit, le gouvernement veut 800 millions d'euros d'économies sur l'indemnisation des accidents de travail",
+      "url": "https://www.bfmtv.com/economie/economie-social/social/pour-reduire-un-deficit-le-gouvernement-veut-800-millions-d-euros-d-economies-sur-l-indemnisation-des-accidents-de-travail_AD-202607060723.html",
+      "summary": "Les syndicats et le patronat vont être sollicités pour définir les mesures d'économies alors que le gouvernement commence à plancher sur le prochain budget. <br /><br /><img src=\"https://images.bfmtv.com/_OeDNl9jsGgAm1EAPr5a1NUdNhM=/0x0:768x432/800x0/images/Le-ministre-du-Travail-Jean-Pierre-Farandou-a-Paris-le-29-octobre-2025-2166310.jpg\" />"
     },
     {
-      "title": "L'éco du monde : Indicateur du jour, l'indice ISM des services aux USA – 06/07",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-indicateur-du-jour-l-indice-ism-des-services-aux-usa-06-07_EN-202607060619.html",
-      "summary": "Ce lundi 6 juillet, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé le recul de l'indice ISM des services en juin aux États-Unis, Kevin Warsh souhaitant montrer son indépendance au sein de la Fed, ainsi que les éventuelles potentielles de croissance pour l'Europe au deuxième semestre avec la stabilité actuelle des prix du pétrole, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+      "title": "Etats-Unis : les ISM des services en recul en juin",
+      "url": "https://www.bfmtv.com/economie/video-etats-unis-les-ism-des-services-en-recul-en-juin_VN-202607060712.html",
+      "summary": "Florian Ielpo revient sur les performances de l'indice ISM. Les niveaux de l'indice montrent que l'économie américaine est en expansion et non en stagflation.<br /><br /><img src=\"https://images.bfmtv.com/Xx0D0u0FkahAUx1ovF3xEpE6UiY=/0x0:1280x720/800x0/images/Etats-Unis-les-ISM-des-services-en-recul-en-juin-2316023.jpg\" />"
     },
     {
-      "title": "L'éco du monde : Indicateur du jour, l'indice ISM des services aux USA - 06/07",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-indicateur-du-jour-l-indice-ism-des-services-aux-usa-06-07_VN-202607060617.html",
-      "summary": "Ce lundi 6 juillet, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé le recul de l'indice ISM des services en juin aux États-Unis, Kevin Warsh souhaitant montrer son indépendance au sein de la Fed, ainsi que les éventuelles potentielles de croissance pour l'Europe au deuxième semestre avec la stabilité actuelle des prix du pétrole, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/HXw1cWTM0UgiSlvWR2K5T0lDmu8=/0x0:1280x720/800x0/images/L-eco-du-monde-Indicateur-du-jour-l-indice-ISM-des-services-aux-USA-06-07-2315953.jpg\" />"
+      "title": "L'intégrale de BFM Bourse du lundi 6 juillet",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-lundi-6-juillet_EN-202607060687.html",
+      "summary": "Ce lundi 6 juillet, Antoine Larigaudrie, journaliste BFM Business, Éric Lafrenière, gérant du fonds Sunny North America chez Sunny AM, Olivier de Royère, gérant actions chez Montpensier Arbevel, Julie Cohen-Heurton, journaliste BFM Business, Bertrand Lamielle, directeur général de Portzamparc Gestion, Jean-Benoit Gambet, co-fondateur de Moonshot Patrimoine, Mathias Pecqueur, gérant small caps France et président de Maitice Gestion, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Stanislas de Bailliencourt, gérant chez Sycomore AM, Julien Marion, journaliste BFM Business, Romain Daubry, consultant pour Bourse Direct, Valentine Ainouz, responsable de la stratégie taux chez Amundi Institute, Xavier Chapon, directeur de la Gestion Cotée et de la Dette Privée chez Arkéa Asset Management, et Eric Lewin, stratégiste actions chez Bourse Direct, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
-      "title": "Olivier de Royère : \"Le rebond de la santé est parti pour durer\"",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/olivier-de-royere-le-rebond-de-la-sante-est-parti-pour-durer_EN-202607060589.html",
-      "summary": "Ce lundi 6 juillet, Olivier de Royère, gérant actions chez Montpensier Arbevel, s'est penché sur le potentiel de croissance durable du secteur de la santé en Bourse, l'acquisition d'Exail par Thales pour 3,9 milliards d'euros, et l'introduction de SpaceX dans le Nasdaq-100, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+      "title": "BFM Bourse - Lundi 6 juillet",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-lundi-6-juillet_VN-202607060714.html",
+      "summary": "Ce lundi 6 juillet, Antoine Larigaudrie, journaliste BFM Business, Éric Lafrenière, gérant du fonds Sunny North America chez Sunny AM, Olivier de Royère, gérant actions chez Montpensier Arbevel, Julie Cohen-Heurton, journaliste BFM Business, Bertrand Lamielle, directeur général de Portzamparc Gestion, Jean-Benoit Gambet, co-fondateur de Moonshot Patrimoine, Mathias Pecqueur, gérant small caps France et président de Maitice Gestion, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Stanislas de Bailliencourt, gérant chez Sycomore AM, Julien Marion, journaliste BFM Business, Romain Daubry, consultant pour Bourse Direct, Valentine Ainouz, responsable de la stratégie taux chez Amundi Institute, Xavier Chapon, directeur de la Gestion Cotée et de la Dette Privée chez Arkéa Asset Management, et Eric Lewin, stratégiste actions chez Bourse Direct, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/NmXDbp7BcRMRTWZgpqO8fzn1WnM=/0x0:1280x720/800x0/images/BFM-Bourse-Lundi-6-juillet-2316026.jpg\" />"
     },
     {
-      "title": "La bourse cash : \"Le rebond de la santé est parti pour durer\" - 06/07",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-bourse-cash-le-rebond-de-la-sante-est-parti-pour-durer-06-07_VN-202607060588.html",
-      "summary": "Ce lundi 6 juillet, Olivier de Royère, gérant actions chez Montpensier Arbevel, s'est penché sur le potentiel de croissance durable du secteur de la santé en Bourse, l'acquisition d'Exail par Thales pour 3,9 milliards d'euros, et l'introduction de SpaceX dans le Nasdaq-100, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/dsh-Cv5PH-zPxQod4BfnY77cilI=/0x0:1280x720/800x0/images/La-bourse-cash-Le-rebond-de-la-sante-est-parti-pour-durer-06-07-2315934.jpg\" />"
-    },
-    {
-      "title": "Le fisc est rappelé à l'ordre: l'Arcom appelle à corriger le site des impôts parce qu'il n'est pas adapté aux personnes en situation de handicap",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-fisc-est-rappele-a-l-ordre-l-arcom-appelle-a-corriger-le-site-des-impots-parce-qu-il-n-est-pas-adapte-aux-personnes-en-situation-de-handicap_AD-202607060487.html",
-      "summary": "Le régulateur de l'audiovisuel et du numérique a mis en demeure le ministère de rendre le site impots.gouv.fr plus accessible aux personnes handicapées, après avoir constaté plusieurs manquements sur des services essentiels comme la déclaration en ligne, la messagerie et la consultation de l’avis d’imposition. <br /><br /><img src=\"https://images.bfmtv.com/J4cK040oznyuAVsjQtHoT0rjSUA=/0x40:768x472/800x0/images/Les-Francais-ne-paieront-pas-davantage-d-impot-sur-le-revenu-au-1er-janvier-2025-malgre-l-absence-d-indexation-sur-l-inflation-du-bareme-2005392.jpg\" />"
+      "title": "BFM Bourse : 16h/17h – 06/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-16h-17h-06-07_EN-202607060642.html",
+      "summary": "Ce lundi 6 juillet, Antoine Larigaudrie, journaliste BFM Business, Bertrand Lamielle, directeur général de Portzamparc Gestion, Mathias Pecqueur, gérant small caps France et président de Maitice Gestion, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Stanislas de Bailliencourt, gérant chez Sycomore AM, Julien Marion, journaliste BFM Business, Romain Daubry, consultant pour Bourse Direct, et Valentine Ainouz, responsable de la stratégie taux chez Amundi Institute, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
       "title": "L’info du jour | 6 juillet 2026 - Matin",
