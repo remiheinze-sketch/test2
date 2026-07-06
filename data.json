@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-06T02:27:38Z",
+  "updated_at": "2026-07-06T07:01:07Z",
   "articles": [
+    {
+      "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
+      "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an."
+    },
     {
       "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
       "url": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
@@ -12,24 +17,34 @@
       "summary": "Seule une inflation élevée non compensée par les taux d’intérêt permettrait de réduire la dette, mais au prix d’un coût politique important pour les épargnants, observe l’économiste Patrick Artus, dans sa chronique au « Monde »."
     },
     {
-      "title": "Non-revalorisation de l’assurance-chômage : pour le patronat, « le responsable, c’est le gouvernement »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/04/non-revalorisation-de-l-assurance-chomage-pour-le-patronat-le-responsable-c-est-le-gouvernement_6720634_823448.html",
-      "summary": "Le conseil d’administration de l’Unédic n’est pas parvenu à dégager une majorité, mardi 30 juin, pour revaloriser les allocations chômage malgré un contexte inflationniste."
+      "title": "TVA : les montgolfières dans le viseur",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-tva-les-montgolfieres-dans-le-viseur_VN-202607060202.html",
+      "summary": "Bercy cherche des économies partout, y compris du côté des montgolfières, dont les exploitants pourraient perdre leur TVA réduite.<br /><br /><img src=\"https://images.bfmtv.com/ZqR_YqNI4LliClHGP1Z1avJG_jA=/0x0:1280x720/800x0/images/TVA-les-montgolfieres-dans-le-viseur-2315660.jpg\" />"
     },
     {
-      "title": "\"Je ne taxerai pas davantage les entreprises qui payent déjà trop d'impôts\": Édouard Philippe tend la main au patronat et met les retraités à contribution",
-      "url": "https://www.bfmtv.com/economie/economie-social/je-ne-taxerai-pas-davantage-les-entreprises-qui-payent-deja-trop-d-impots-edouard-philippe-tend-la-main-au-patronat-et-met-les-retraites-a-contribution_AV-202607050317.html",
-      "summary": "Le maire du Havre et candidat à l'élection présidentielle de 2027 Édouard Philippe a donné le ton de son programme pour décrocher les clés de l'Élysée, lors de son premier meeting de campagne organisé ce dimanche 5 juillet.<br /><br /><img src=\"https://images.bfmtv.com/M6DehHGzO4p7It8TcFoIZL6CcdM=/0x106:2048x1258/800x0/images/Edouard-Philippe-en-meeting-a-Paris-le-5-juillet-2027-2315421.jpg\" />"
+      "title": "Budget : les économies s’annoncent plus dures",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-budget-les-economies-s-annoncent-plus-dures_VN-202607060193.html",
+      "summary": "Le verdict est imminent sur les nouvelles économies à trouver dans le budget. Bercy prévient déjà : l’effort devra être plus important que prévu.<br /><br /><img src=\"https://images.bfmtv.com/lvPv4HwvRLiTgdvf6e9vE7z3PiE=/0x0:1280x720/800x0/images/Budget-les-economies-s-annoncent-plus-dures-2315654.jpg\" />"
     },
     {
-      "title": "\"La Chine ne souhaite pas en arriver là, mais elle n'en a pas peur non plus\": Bruxelles et Pékin se donnent trois mois pour éviter une guerre commerciale",
-      "url": "https://www.bfmtv.com/economie/international/la-chine-ne-souhaite-pas-en-arriver-la-mais-elle-n-en-a-pas-peur-non-plus-bruxelles-et-pekin-se-donnent-trois-mois-pour-eviter-une-guerre-commerciale_AV-202607050246.html",
-      "summary": "L’Union européenne et la Chine ont convenu de négocier jusqu'au mois d'octobre pour tenter de désarmorcer de profondes tensions, tournant notamment autour du colossal déficit commercial enregistré par les Vingt-Sept.<br /><br /><img src=\"https://images.bfmtv.com/6CM58UXYRb0itf4xTFuhNLflwlw=/0x0:2048x1152/800x0/images/Cyberattaques-contre-l-UE-et-ses-Etats-membres-l-Europe-passe-a-l-offensive-contre-la-Chine-et-ses-entreprises-illustration-2256304.jpg\" />"
+      "title": "Emmanuel Lechypre face à Raphaël Legendre : Les fonctionnaires au régime sec ? - 06/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-raphael-legendre-les-fonctionnaires-au-regime-sec-06-07_EN-202607060166.html",
+      "summary": "Ce lundi 6 juillet, la proposition du Medef de cibler les fonctionnaires pour faire des économies a été abordée par Raphaël Legendre et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/e-Vq9WWdNfLFbrhuW4KWmRlomCE=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_4.jpg\" />"
     },
     {
-      "title": "Les prix des concombres ont bondi de 60%, celui des tomates de 30%: la Bulgarie vient d'adopter l'euro et ses prix flambent (mais la monnaie unique n'est pas la principale coupable)",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/les-prix-des-concombres-a-bondi-de-60-celui-des-tomates-de-30-la-bulgarie-vient-d-adopter-l-euro-et-ses-prix-flambent-mais-la-monnaie-unique-n-est-pas-la-principale-coupable_AV-202607050184.html",
-      "summary": "La Bulgarie enregistre l'un des taux d'inflation les plus élevé de l'Union européenne. Mais, contrairement à ce que craignaient de nombreuses personnes, le récent passage à l'euro n'y a que modestement contribué. <br /><br /><img src=\"https://images.bfmtv.com/xmy9wjTFG8JQKZA2KifHDt2sfg8=/0x0:1920x1080/800x0/images/Drapeau-Bulgarie-1736040.jpg\" />"
+      "title": "Emmanuel Lechypre face à Raphaël Legendre : Les fonctionnaires au régime sec ? - 06/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-raphael-legendre-les-fonctionnaires-au-regime-sec-06-07_EN-202607060163.html",
+      "summary": "Ce lundi 6 juillet, la proposition du Medef de cibler les fonctionnaires pour faire des économies a été abordée par Raphaël Legendre et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/qpG8h-Ow6AXg-X7xtKtpZd_0xmM=/0x0:14000x14000/800x0/podcast/podcasts/principale-118_3.jpg\" />"
+    },
+    {
+      "title": "Emmanuel Lechypre face à Raphaël Legendre : Les fonctionnaires au régime sec ? - 06/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-raphael-legendre-les-fonctionnaires-au-regime-sec-06-07_VN-202607060165.html",
+      "summary": "Ce lundi 6 juillet, la proposition du Medef de cibler les fonctionnaires pour faire des économies a été abordée par Raphaël Legendre et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Laure Closier, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/FZSIXUEMC4g8VxYZOSPhmBC7yCw=/0x0:1280x720/800x0/images/Emmanuel-Lechypre-face-a-Raphael-Legendre-Les-fonctionnaires-au-regime-sec-06-07-2315636.jpg\" />"
+    },
+    {
+      "title": "L’info du jour | 6 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/06/linfo-du-jour-6-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 5 juillet 2026 - Soir",
@@ -85,16 +100,6 @@
       "title": "L’info du jour | 2 juillet 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/07/02/linfo-du-jour-2-juillet-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 2 juillet 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/07/02/linfo-du-jour-2-juillet-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 1er juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/01/linfo-du-jour-1er-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Il y a 250 ans, les Etats-Unis proclamaient leur indépendance",
