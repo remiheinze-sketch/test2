@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-07T11:36:56Z",
+  "updated_at": "2026-07-07T14:05:44Z",
   "articles": [
+    {
+      "title": "« La chute de la gauche en Colombie marque la fin du laboratoire de “l’économie de la vie” »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/07/la-chute-de-la-gauche-en-colombie-marque-la-fin-du-laboratoire-de-l-economie-de-la-vie_6721486_3232.html",
+      "summary": "La Colombie illustre un dilemme central des pays du Sud : devoir s’affranchir des énergies fossiles tout en en tirant l’essentiel de ses ressources publiques, expliquent les juristes Matthias Petel et Juan Camilo Rivera-Rugeles dans une tribune au « Monde »."
+    },
+    {
+      "title": "Le gouvernement annonce 3 milliards d’euros d’économies supplémentaires pour l’Etat et la Sécurité sociale",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/07/le-gouvernement-annonce-trois-milliards-d-euros-d-economies-supplementaires-pour-l-etat-et-la-securite-sociale_6721483_823448.html",
+      "summary": "L’objectif de 5 % de déficit public en 2026 que s’est fixé le gouvernement est « difficile à atteindre », mais tout sera fait pour « s’en rapprocher au maximum », a déclaré mardi le ministre de l’économie, Roland Lescure, à l’issue d’un comité d’alerte des finances publiques à Bercy."
+    },
+    {
+      "title": "Logements étudiants : l’association Que choisir ensemble alerte sur le non-respect du plafonnement des loyers",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/07/logements-etudiants-l-association-que-choisir-ensemble-alerte-sur-le-non-respect-du-plafonnement-des-loyers_6721480_3224.html",
+      "summary": "Selon l’association de défense des consommateurs, faute d’une place dans les résidences universitaires du Crous, neuf étudiants sur dix se tournent vers un logement privé, et doivent souvent payer des loyers « incompatibles avec leur budget »."
+    },
     {
       "title": "Croissance : en France, le gouvernement abaisse sa prévision à 0,7 % pour 2026",
       "url": "https://www.lemonde.fr/economie/article/2026/07/07/croissance-en-france-le-gouvernement-abaisse-sa-prevision-a-0-7-pour-2026_6721463_3234.html",
@@ -12,9 +27,24 @@
       "summary": "Le déficit commercial de la France s’est dégradé de 1,5 milliard d’euros en mai en raison d’une baisse des exportations, qui étaient au contraire en hausse en avril."
     },
     {
-      "title": "Budget 2027 : Sébastien Lecornu exclut le recours à la loi spéciale",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/06/budget-2027-sebastien-lecornu-exclut-le-recours-a-la-loi-speciale_6721250_823448.html",
-      "summary": "Le premier ministre veut doter la France d’une loi de finances pour 2027, en usant soit de l’article 49.3 de la Constitution, soit des ordonnances. Quitte à être renversé."
+      "title": "USA Today : SpaceX intègre le Nasdaq 100 aujourd'hui, par Thierry Guille – 07/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-space-x-integre-le-nasdaq-100-aujourd-hui-par-thierry-guille-07-07_EN-202607070616.html",
+      "summary": "Ce mardi 7 juillet, dans sa chronique USA Today, Thierry Guille, président de Raymond James France, s'est penché sur la dégradation du déficit commercial aux États-Unis, la perte de valorisation de Samsung malgré ses bons résultats, les nouveaux records sur le Dow Jones et le Russell 2000, les publications à suivre la semaine prochaine, ainsi que l'intégration de SpaceX dans le Nasdaq-100. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+    },
+    {
+      "title": "USA Today : SpaceX intègre le Nasdaq 100 aujourd'hui, par Thierry Guille - 07/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-space-x-integre-le-nasdaq-100-aujourd-hui-par-thierry-guille-07-07_VN-202607070615.html",
+      "summary": "Ce mardi 7 juillet, dans sa chronique USA Today, Thierry Guille, président de Raymond James France, s'est penché sur la dégradation du déficit commercial aux États-Unis, la perte de valorisation de Samsung malgré ses bons résultats, les nouveaux records sur le Dow Jones et le Russell 2000, les publications à suivre la semaine prochaine, ainsi que l'intégration de SpaceX dans le Nasdaq-100. Cette chronique est à voir ou écouter du lundi au vendredi dans l'émission BFM Bourse présentée par Guillaume Sommerer sur BFM Business. <br /><br /><img src=\"https://images.bfmtv.com/qgkGcvoO9eqMdzVfXjGK2q5Mtvs=/0x0:1280x720/800x0/images/USA-Today-SpaceX-integre-le-Nasdaq-100-aujourd-hui-par-Thierry-Guille-07-07-2316557.jpg\" />"
+    },
+    {
+      "title": "\"Tout faire pour s'approcher au maximum de 5% de déficit\": le gouvernement annonce 3 milliards d'euros supplémentaires de gel de crédits (après les 6 milliards d'avril)",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/tout-faire-pour-s-approcher-au-maximum-de-5-de-deficit-le-gouvernement-annonce-3-milliards-d-euros-supplementaires-de-gel-de-credit-apres-les-6-milliards-d-avril_AD-202607070535.html",
+      "summary": "À l'issue du comité d'alerte sur les finances publiques ce mardi, le gouvernement a annoncé 2 milliards d'euros d'économies supplémentaires sur la sphère de l'État et 1 milliard sur la Sécurité sociale. L'exécutif reconnaît malgré tout que respecter l'objectif de déficit à 5% du PIB en fin d'année sera \"difficile\". <br /><br /><img src=\"https://images.bfmtv.com/bWnJEa89JoQJ5FyWyjHTLpX_zjc=/0x192:2048x1344/800x0/images/David-Amiel-ministre-de-l-Action-et-des-Comptes-publics-dans-la-cour-du-palais-de-l-Elysee-a-Paris-le-3-juin-2026-2298433.jpg\" />"
+    },
+    {
+      "title": "40 milliards pour la lutte contre les drones, création d'une flotte stratégique d'Airbus A400M... L'Otan annonce une rafale de contrats lors de son sommet d'Ankara",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/40-milliards-pour-la-lutte-contre-les-drones-creation-d-une-flotte-strategique-d-aaibus-a400m-l-otan-annonce-une-rafale-de-contrats-lors-de-son-sommet-d-ankara_AD-202607070532.html",
+      "summary": "Mis sous pression par Donald Trump, les membres de l'Alliance atlantique ont considérablement augmenté leurs dépenses militaires. Ils ont notamment convenu d'acheter des drones MQ-4C Triton du groupe américain Northrop Grumman et veulent muscler leurs moyens de défense. <br /><br /><img src=\"https://images.bfmtv.com/S8yhxxXjPfyZABgVkA1GrxTVcj0=/0x63:2048x1215/800x0/images/Mark-Rutte-2316477.jpg\" />"
     },
     {
       "title": "Déficit à 5%, une trajectoire encore tenable ?",
@@ -22,14 +52,9 @@
       "summary": "Ce mardi 7 juillet, l'alerte sur les finances publiques et l'avenir politique de Marine Le Pen ont été abordés par Agnès Verdier-Molinié, directrice de la fondation IFRAP, Olivier Provost, directeur et associé de Rumeur Publique, et Thomas Grjebine, économiste à Sciences Po, dans l'émission Les Experts, présentée par Raphaël Legendre sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/Jp2uXJ0JQNQARzkiX-x7SnYyYQI=/0x0:1280x720/800x0/images/Deficit-a-5-une-trajectoire-encore-tenable-2316408.jpg\" />"
     },
     {
-      "title": "\"Le reflux de l'inflation ne devrait pas suffire à atteindre 0,9%\": le gouvernement abaisse sa prévision de croissance à 0,7% pour 2026",
-      "url": "https://www.bfmtv.com/economie/economie-social/france/le-reflux-de-l-inflation-ne-devrait-pas-suffire-a-atteindre-0-9-le-gouvernement-abaisse-sa-prevision-de-croissance-a-0-7-pour-2026_AD-202607070428.html",
-      "summary": "Le gouvernement table désormais sur une croissance de 0,7% en 2026, contre 0,9% jusqu'à présent. De nouvelles coupes budgétaires doivent être annoncées dans la journée. <br /><br /><img src=\"https://images.bfmtv.com/nGrpuJ-u0PCltvQXUf0Yzq1YQe8=/0x106:2048x1258/800x0/images/David-Amiel-et-Roland-Lescure-le-21-avril-2026-2273613.jpg\" />"
-    },
-    {
-      "title": "Déjà un avalanche de contrats au sommet de l'Otan dont un pour Airbus: avec l'A330 MRTT et l'A400, l'organisation assure qu'elle disposera de \"deux flottes multinationales hautement performantes\"",
-      "url": "https://www.bfmtv.com/economie/entreprises/defense/deja-un-avalanche-de-contrats-au-sommet-de-l-otan-dont-un-pour-airbus-avec-l-a330-mrtt-et-l-a440-l-organisation-assure-qu-elle-disposera-de-deux-flottes-multinationales-hautement-performantes_AD-202607070396.html",
-      "summary": "Les dirigeants des pays membres de l'Otan se réunissent à Ankara, en Turquie, alors que Donald Trump presse les Européens à investir davantage dans leur sécurité en augmentant leur budget dédié à la défense.<br /><br /><img src=\"https://images.bfmtv.com/0GNfoQplzFSe4nQh0NPefYjOutU=/0x106:2048x1258/800x0/images/Le-secretaire-general-de-l-OTAN-Mark-Rutte-assiste-a-l-ouverture-du-Forum-de-l-industrie-de-la-defense-organise-dans-le-cadre-du-sommet-annuel-de-l-OTAN-a-Ankara-Turquie-le-7-juillet-2026-2316393.jpg\" />"
+      "title": "Le gouvernement annonce qu'il compte faire 3 milliards d'euros d'économies supplémentaires sur le budget de l'Etat et de la Sécurité sociale",
+      "url": "https://www.franceinfo.fr/economie/budget/le-gouvernement-annonce-3-milliards-d-euros-d-economies-supplementaires_8097836.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le ministre des Comptes publics, David Amiel a précisé que ce besoin de coupes budgétaires est \"en grande partie lié aux mesures d'aide qui se sont déployées depuis avril dernier\"."
     },
     {
       "title": "Le gouvernement prépare un nouveau tour de vis pour redresser les comptes publics",
