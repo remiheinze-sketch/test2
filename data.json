@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-11T14:17:53Z",
+  "updated_at": "2026-07-11T15:43:47Z",
   "articles": [
+    {
+      "title": "Eric Lombard, ancien ministre de l’économie : « Le déficit nuit gravement à la jeunesse. Nous versons plus d’argent en intérêts à nos créanciers que pour former nos enfants »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/11/eric-lombard-ancien-ministre-de-l-economie-le-deficit-nuit-gravement-a-la-jeunesse-nous-versons-plus-d-argent-en-interets-a-nos-creanciers-que-pour-former-nos-enfants_6722721_3232.html",
+      "summary": "L’ancien locataire de Bercy propose, dans une tribune au « Monde », quelques règles qui permettraient de retrouver la maîtrise de nos comptes publics en cinq ans. La campagne présidentielle est, selon lui, le bon moment pour orchestrer le retour à un rapport dette-PIB stable."
+    },
     {
       "title": "L’édition de livres de photo, une économie de bouts de ficelle qui s’apparente parfois à du troc",
       "url": "https://www.lemonde.fr/economie/article/2026/07/11/l-edition-de-livres-de-photo-une-economie-de-bouts-de-ficelle-qui-s-apparente-parfois-a-du-troc_6722709_3234.html",
@@ -15,11 +20,6 @@
       "title": "Canicule : colère et inquiétude après l’annulation de festivals de musique",
       "url": "https://www.lemonde.fr/culture/article/2026/07/11/canicule-colere-et-inquietude-apres-l-annulation-de-festivals-de-musique_6722677_3246.html",
       "summary": "Après la déprogrammation de nombreux événements en plein air pour des raisons climatiques, les organisateurs doivent faire face à d’importants déficits et redoutent une hausse des assurances."
-    },
-    {
-      "title": "Réseau local du fisc : nouvelle réorganisation en vue, des fermetures de services prévues",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/10/reseau-local-du-fisc-nouvelle-reorganisation-en-vue-des-fermetures-de-services-prevues_6722469_823448.html",
-      "summary": "Après une vaste refonte de son maillage local, la direction générale des finances publiques (DGFiP) prépare une nouvelle « adaptation » de son réseau territorial. Plus de 300 services devraient fermer d’ici 2030. La réorganisation est vivement critiquée par les représentants du personnel."
     },
     {
       "title": "Elle vient d'ouvrir une usine flambant neuve à Dreux et \"peut encore accueillir 6 à 8 lignes de production supplémentaires\": en pleine croissance, la marque française de thé Dammann Frères se voit \"grandir jusqu'à horizon 2050 sans problème\"",
@@ -45,16 +45,6 @@
       "title": "Émission du 10 juillet 2026",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-emission-du-10-juillet-2026_VN-202607100905.html",
       "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/J2_ec2b2M0nrwS3_1-MsoyM49Po=/0x0:1280x720/800x0/images/Emission-du-10-juillet-2026-2318671.jpg\" />"
-    },
-    {
-      "title": "Les experts sans frontières – Vendredi 10 juillet",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-10-juillet_EN-202607100762.html",
-      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/bMTkWTK7D_kX0oivctqwbKmpaKk=/0x0:14000x14000/800x0/podcast/podcasts/principale-496_3.jpg\" />"
-    },
-    {
-      "title": "Les experts sans frontières - Vendredi 10 juillet",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-10-juillet_VN-202607100780.html",
-      "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf, détaché des prismes franco-français. Finances publiques, réformes, réarmement de l’Europe, choix politiques, international… Leur regard extérieur éclaire, questionne et parfois secoue. Un décryptage sans frontières pour mieux comprendre les grands enjeux du moment.<br /><br /><img src=\"https://images.bfmtv.com/-S61HisO99_D73OzFix4sRTt2FQ=/0x0:1280x720/800x0/images/Les-experts-sans-frontieres-Vendredi-10-juillet-2318597.jpg\" />"
     },
     {
       "title": "Aires d'autoroute, carburant, péage... Comment réduire la facture sur l'autoroute ?",
