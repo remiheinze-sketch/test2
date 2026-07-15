@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-15T20:01:39Z",
+  "updated_at": "2026-07-15T21:47:04Z",
   "articles": [
+    {
+      "title": "Dominique de Villepin dit que les candidats qui promettent de ne pas augmenter les impôts sont des « menteurs »",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/15/dominique-de-villepin-dit-que-les-candidats-qui-promettent-de-ne-pas-augmenter-les-impots-sont-des-menteurs_6723620_823448.html",
+      "summary": "Le probable candidat à la présidentielle s’exprimait au siège parisien de son jeune parti, La France humaniste, devant une poignée de journalistes ainsi qu’une dizaine d’influenceurs et de représentants des nouveaux médias."
+    },
     {
       "title": "A politique inchangée, un déficit à la dérive : les prévisions pessimistes des économistes missionnés par Bercy",
       "url": "https://www.lemonde.fr/politique/article/2026/07/15/a-politique-inchangee-un-deficit-a-la-derive-les-previsions-pessimistes-des-economistes-missionnes-par-bercy_6723598_823448.html",
@@ -10,11 +15,6 @@
       "title": "Le taux du Livret A relevé à 1,7 %, celui du LEP maintenu à 2,5 %, annonce Roland Lescure",
       "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-taux-du-livret-a-releve-a-1-7-celui-du-lep-maintenu-a-2-5-annonce-roland-lescure_6723528_3235.html",
       "summary": "Cette décision du ministre de l’économie, conforme à la préconisation faite plus tôt mercredi par la Banque de France, entrera en vigueur le 1ᵉʳ août."
-    },
-    {
-      "title": "Aux Etats-Unis, l’inflation s’assagit en juin, un répit bienvenu pour Donald Trump",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/14/aux-etats-unis-l-inflation-s-assagit-en-juin-un-repit-bienvenu-pour-donald-trump_6723320_3234.html",
-      "summary": "La hausse des prix a ralenti en juin, dans le sillage de la baisse des cours du pétrole. A 3,5 %, elle reste cependant très élevée et les nouvelles tensions autour du détroit d’Ormuz ont provoqué un rebond des prix du brut."
     },
     {
       "title": "\"Les dépenses ont augmenté mais se concentrent dans l'énergie\": la flambée du prix des carburants pèse sur le pouvoir d'achat des Américains",
