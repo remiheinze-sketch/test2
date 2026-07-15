@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-15T15:17:27Z",
+  "updated_at": "2026-07-15T17:04:21Z",
   "articles": [
+    {
+      "title": "A politique inchangée, un déficit à la dérive : les prévisions pessimistes des économistes missionnés par Bercy",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/15/a-politique-inchangee-un-deficit-a-la-derive-les-previsions-pessimistes-des-economistes-missionnes-par-bercy_6723598_823448.html",
+      "summary": "Sans mesure de redressement, le déficit public « se dégraderait fortement » pour atteindre près de 7 % du PIB en 2030, alerte un quatuor d’économistes, dans un rapport remis au gouvernement, mercredi 15 juillet, censé servir de « base objective » aux débats budgétaires de l’automne."
+    },
     {
       "title": "Le taux du Livret A relevé à 1,7 %, celui du LEP maintenu à 2,5 %, annonce Roland Lescure",
       "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-taux-du-livret-a-releve-a-1-7-celui-du-lep-maintenu-a-2-5-annonce-roland-lescure_6723528_3235.html",
@@ -10,6 +15,16 @@
       "title": "Aux Etats-Unis, l’inflation s’assagit en juin, un répit bienvenu pour Donald Trump",
       "url": "https://www.lemonde.fr/economie/article/2026/07/14/aux-etats-unis-l-inflation-s-assagit-en-juin-un-repit-bienvenu-pour-donald-trump_6723320_3234.html",
       "summary": "La hausse des prix a ralenti en juin, dans le sillage de la baisse des cours du pétrole. A 3,5 %, elle reste cependant très élevée et les nouvelles tensions autour du détroit d’Ormuz ont provoqué un rebond des prix du brut."
+    },
+    {
+      "title": "\"À politique inchangée, le déficit public atteindrait 6,8% du PIB en 2030\": un groupe d'économistes missionnés par le gouvernement évalue à 125 milliards d'euros l'effort à réaliser d'ici 2032",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/a-politique-inchangee-le-deficit-public-atteindrait-6-8-du-pib-en-2030-un-groupe-d-economistes-missionnes-par-le-gouvernement-evalue-a-125-milliards-d-euros-l-effort-a-realiser-d-ici-2032_AV-202607150651.html",
+      "summary": "Sollicités par le gouvernement à l'approche des nouveaux débats budgétaires, quatre économistes ont réalisé une évaluation de la trajectoire des dépenses et des recettes publiques si aucun changement n'était mené. Ils estiment également l'ajustement à réaliser d'ici la fin du prochain quinquennat. <br /><br /><img src=\"https://images.bfmtv.com/jfVmbIH5cL96GbOAm4dpl0qTRM8=/0x106:2048x1258/800x0/images/Bercy-2320661.jpg\" />"
+    },
+    {
+      "title": "Richemont défie Chine : la croissance ralentit au 2éme trimestre",
+      "url": "https://www.bfmtv.com/economie/video-richemont-defie-chine-la-croissance-ralentit-au-2eme-trimestre_VN-202607150604.html",
+      "summary": "\"Une situation trimestrielle qui est plus compliquée sur la partie chinoise\" explique Thibault François, co-fondateur et président de Fastea Capital. <br /><br /><img src=\"https://images.bfmtv.com/IzS3B5_fs22MOxbYXANbADitcl8=/0x0:1280x720/800x0/images/Richemont-defie-Chine-la-croissance-ralentit-au-2eme-trimestre-2320635.jpg\" />"
     },
     {
       "title": "115 milliards d'euros de marchandises concernées: Bruxelles demande à Washington de lever ses taxes sur les vins, les fromages ou encore les spiritueux européens",
@@ -45,6 +60,11 @@
       "title": "Le taux du Livret A sera relevé à 1,7% au 1er août, annonce le ministre de l'Economie",
       "url": "https://www.franceinfo.fr/economie/le-taux-du-livret-a-sera-releve-a-1-7-au-1er-aout-annonce-le-ministre-de-l-economie_8108777.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Roland Lescure explique avoir pris cette décision \"face à l'inflation contenue mais réelle, et aux incertitudes liées à la crise au Moyen-Orient\"."
+    },
+    {
+      "title": "L’info du jour | 15 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/15/linfo-du-jour-15-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 15 juillet 2026 - Mi-journée",
@@ -104,11 +124,6 @@
     {
       "title": "L’info du jour | 11 juillet 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/07/11/linfo-du-jour-11-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 11 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/11/linfo-du-jour-11-juillet-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
