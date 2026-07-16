@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-16T11:26:30Z",
+  "updated_at": "2026-07-16T13:19:09Z",
   "articles": [
+    {
+      "title": "« La présidentielle de 2027 ne pourra pas ignorer la déplaisante arithmétique budgétaire »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/16/la-presidentielle-de-2027-ne-pourra-pas-ignorer-la-deplaisante-arithmetique-budgetaire_6723796_3232.html",
+      "summary": "Stabiliser durablement la dette suppose un ajustement de 125 milliards d’euros avant la fin du prochain quinquennat, constatent, dans une tribune au « Monde », quatre économistes de renom, qui ont rendu au gouvernement leur rapport sur l’état des finances publiques, mercredi."
+    },
     {
       "title": "Olivier Blanchard, économiste : « Le processus budgétaire français est défaillant, et il accroît le risque d’une crise de la dette »",
       "url": "https://www.lemonde.fr/idees/article/2026/07/16/olivier-blanchard-economiste-le-processus-budgetaire-francais-est-defaillant-et-il-accroit-le-risque-d-une-crise-de-la-dette_6723731_3232.html",
@@ -22,9 +27,14 @@
       "summary": "Sans mesure de redressement, le déficit public « se dégraderait fortement » pour atteindre près de 7 % du PIB en 2030, alerte un quatuor d’économistes, dans un rapport remis au gouvernement, mercredi 15 juillet, censé servir de « base objective » aux débats budgétaires de l’automne."
     },
     {
-      "title": "Le taux du Livret A relevé à 1,7 %, celui du LEP maintenu à 2,5 %, annonce Roland Lescure",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-taux-du-livret-a-releve-a-1-7-celui-du-lep-maintenu-a-2-5-annonce-roland-lescure_6723528_3235.html",
-      "summary": "Cette décision du ministre de l’économie, conforme à la préconisation faite plus tôt mercredi par la Banque de France, entrera en vigueur le 1ᵉʳ août."
+      "title": "Yacht de Zuckerberg menacé d'explosion, engin incendiaire sur la maison d'Altman, enfants de salariés d'Anthropic ciblés... Patrons et salariés de l'IA ont peur pour leur vie dans la Silicon Valley",
+      "url": "https://www.bfmtv.com/economie/yacht-de-zuckerberg-menace-d-explosion-engin-incendiaire-sur-la-maison-d-altman-enfants-de-salaries-d-anthropic-cibles-patrons-et-salaries-de-l-ia-ont-peur-pour-leur-vie-dans-la-silicon-valley_AN-202607160469.html",
+      "summary": "Une enquête du Wall Street Journal décrit une forme de radicalisation contre l'IA aux États-Unis avec une multiplication d'actions violentes visant des sièges d'entreprises et leurs dirigeants. Au point que les géants de la tech consacrent désormais des budgets spécifiques à la protection de leurs cadres et de leurs installations. En toile de fond, un populisme anti-IA émerge aux États-Unis.<br /><br /><img src=\"https://images.bfmtv.com/HzA7nq67eDv65YytdceKBqo-0FM=/0x84:2032x1227/800x0/images/Sam-Altman-et-Donald-Trump-2310487.jpg\" />"
+    },
+    {
+      "title": "Face à la dette, le Haut-commissariat au plan préconise un effort budgétaire de 140 milliards d'euros d'ici 2031 (des économistes n'excluent pas l'hypothèse d'une \"année blanche\")",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/face-a-la-dette-le-haut-commissariat-au-plan-preconise-un-effort-budgetaire-de-140-milliards-d-euros-d-ici-2031-des-economistes-n-excluent-pas-l-hypothese-d-une-annee-blanche_AD-202607160454.html",
+      "summary": "Les discussions sur le budget de 2027 vont s'intensifier dans les prochaines semaines, mais le gouvernement a déjà fait part de sa volonté de limiter à 0,4% la hausse des dépenses des ministères en 2027.<br /><br /><img src=\"https://images.bfmtv.com/n0lIqQGrN7YvQU7xVsc2xGogS4I=/0x40:768x472/800x0/images/L-ex-ministre-francais-Clement-Beaune-a-Paris-le-14-fevrier-2024-2044489.jpg\" />"
     },
     {
       "title": "À l'Allemagne l'économie, à la France le militaire? C'est terminé: Berlin va dépenser plus du double de Paris pour son armée, \"le décrochage est désormais possible\"",
