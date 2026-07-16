@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T09:55:50Z",
+  "updated_at": "2026-07-16T11:26:30Z",
   "articles": [
     {
       "title": "Olivier Blanchard, économiste : « Le processus budgétaire français est défaillant, et il accroît le risque d’une crise de la dette »",
@@ -25,6 +25,11 @@
       "title": "Le taux du Livret A relevé à 1,7 %, celui du LEP maintenu à 2,5 %, annonce Roland Lescure",
       "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-taux-du-livret-a-releve-a-1-7-celui-du-lep-maintenu-a-2-5-annonce-roland-lescure_6723528_3235.html",
       "summary": "Cette décision du ministre de l’économie, conforme à la préconisation faite plus tôt mercredi par la Banque de France, entrera en vigueur le 1ᵉʳ août."
+    },
+    {
+      "title": "À l'Allemagne l'économie, à la France le militaire? C'est terminé: Berlin va dépenser plus du double de Paris pour son armée, \"le décrochage est désormais possible\"",
+      "url": "https://www.bfmtv.com/economie/international/a-l-allemagne-l-economie-a-la-france-le-militaire-c-est-termine-berlin-va-depenser-plus-du-double-de-paris-pour-son-armee-le-decrochage-est-desormais-possible_AD-202607160419.html",
+      "summary": "Le réarmement massif de l'Allemagne, salué face à la menace russe, nourrit néanmoins en France la crainte d'un décrochage militaire et industriel, ainsi que d'une Europe dominée par Berlin au détriment de l'autonomie stratégique et de la coopération franco-allemande. <br /><br /><img src=\"https://images.bfmtv.com/JYykcAsXiqXRVbfYgFOWwoB6JW0=/7x77:2039x1220/800x0/images/Armee-Allemagne-France-2321079.jpg\" />"
     },
     {
       "title": "C'est la transition écologique qui augmente le plus, hors défense et dette: le gouvernement serre la vis et limite à 0,4% les dépenses des ministères en 2027",
@@ -57,11 +62,6 @@
       "summary": "Retrouvez le club de la Bourse du jeudi 16 juillet dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/KnLy0OpaJUx-yfK-gMCsRj6lrjA=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_3.jpg\" />"
     },
     {
-      "title": "La sécheresse nuit à l'économie",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-secheresse-nuit-a-l-economie_VN-202607160226.html",
-      "summary": "\"La filière du blé par exemple pourrait perdre jusqu'à 30% de production cette année. Pour les fruits rouges, la chute atteint déjà 50 à 100% dans certaines régions selon la Ministre de l'Agriculture.\"<br /><br /><img src=\"https://images.bfmtv.com/gRsPo3ntt8AjC8cFa-4_TSGh5Hs=/0x0:1280x720/800x0/images/La-secheresse-nuit-a-l-economie-2320902.jpg\" />"
-    },
-    {
       "title": "\"J'ai hâte que le débat revienne\" : avec sa taxe sur les grandes fortunes, Gabriel Zucman veut continuer à agiter le débat public",
       "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/j-ai-hate-que-le-debat-revienne-avec-sa-taxe-sur-les-grandes-fortunes-gabriel-zucman-veut-continuer-a-agiter-le-debat-public_8063828.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'économiste, au cœur des débats lors du dernier budget, estime que la taxation des plus riches est une nécessité."
@@ -75,6 +75,11 @@
       "title": "Le livret A va remonter à 1,7% : quels avantages pour votre épargne ?",
       "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/le-livret-a-va-remonter-a-1-7-quels-avantages-pour-votre-epargne_8108951.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "C'est le produit d’épargne le plus populaire du pays : le livret A. Devenu beaucoup moins intéressant à cause d’un faible taux descendu à 1,5%, il s'apprête à remonter le 1er août à 1,7%, comme l'a annoncé ce mercredi 15 juillet le ministre de l'Économie. Explications."
+    },
+    {
+      "title": "L’info du jour | 16 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 16 juillet 2026 - Matin",
@@ -125,11 +130,6 @@
       "title": "L’info du jour | 13 juillet 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/07/13/linfo-du-jour-13-juillet-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 12 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/12/linfo-du-jour-12-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "ESS : une stratégie sans moyens",
