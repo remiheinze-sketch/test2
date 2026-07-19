@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-19T07:57:42Z",
+  "updated_at": "2026-07-19T09:48:37Z",
   "articles": [
+    {
+      "title": "Au Festival d’Avignon, les programmateurs confrontés aux restrictions budgétaires : « Notre difficulté n’est pas de trouver des spectacles de qualité, mais de survivre »",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/19/au-festival-d-avignon-les-programmateurs-confrontes-aux-restrictions-budgetaires-notre-difficulte-n-est-pas-de-trouver-des-spectacles-de-qualite-mais-de-survivre_6725650_3234.html",
+      "summary": "Quelque 1 150 potentiels acheteurs de spectacles étaient accrédités au Festival et davantage dans le « off ». S’ils trouvent leur bonheur, Français comme internationaux doivent faire face à des budgets en baisse."
+    },
     {
       "title": "Impôts sur les grandes fortunes : le débat est relancé à l’Assemblée nationale",
       "url": "https://www.lemonde.fr/politique/article/2026/07/17/a-l-assemblee-nationale-le-debat-sur-la-fiscalite-des-grandes-fortunes-est-relance_6724194_823448.html",
       "summary": "Pilotée par Jean-Paul Mattei et Charles de Courson, la commission d’enquête sur « l’imposition des hauts patrimoines et des revenus les plus élevés » écarte l’idée d’un « big bang fiscal » et privilégie plutôt des « ajustements ciblés ». Des recommandations jugées insuffisantes, notamment à gauche."
+    },
+    {
+      "title": "Budget 2027: pour le ministre des Comptes publics David Amiel, \"l’effort de consolidation des finances publiques concerne tout le monde\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-2027-pour-le-ministre-des-comptes-publics-david-amiel-l-effort-de-consolidation-des-finances-publiques-concerne-tout-le-monde_AN-202607190160.html",
+      "summary": "Le gouvernement a annoncé cette semaine qu'il souhaite limiter à 0,4% la hausse des dépenses ministérielles (hors Armées et Transition écologique) en 2027, notamment pour faire face à \"la marée montante de la dette\".<br /><br /><img src=\"https://images.bfmtv.com/bWnJEa89JoQJ5FyWyjHTLpX_zjc=/0x192:2048x1344/800x0/images/David-Amiel-ministre-de-l-Action-et-des-Comptes-publics-dans-la-cour-du-palais-de-l-Elysee-a-Paris-le-3-juin-2026-2298433.jpg\" />"
     },
     {
       "title": "Avec 70 euros par habitant, la France est l'un des pays d'Europe qui finance le moins le rail (à des années-lumière des 209 euros britanniques ou 222 euros allemands)",
@@ -17,6 +27,21 @@
       "summary": "Le travailliste Andy Burnham va succéder ce lundi à Keir Starmer à la tête du gouvernement britannique et devenir le septième Premier ministre en dix ans.<br /><br /><img src=\"https://images.bfmtv.com/K-SAOsET5rc3c6RjQeIIYar1Xno=/0x107:2048x1259/800x0/images/Andy-Burnham-salue-la-foule-en-quittant-la-conference-speciale-du-Parti-travailliste-ou-il-a-ete-confirme-comme-nouveau-chef-du-parti-et-prochain-Premier-ministre-du-pays-le-17-juillet-2026-2322000.jpg\" />"
     },
     {
+      "title": "\"L'écologie sera le budget le plus renforcé après celui des Armées\" se réjouit la ministre de la Transition écologique avant le vote du projet de loi d'urgence agricole",
+      "url": "https://www.franceinfo.fr/politique/l-ecologie-sera-le-budget-le-plus-renforce-apres-celui-des-armees-se-rejouit-la-ministre-de-la-transition-ecologique-avant-le-vote-du-projet-de-loi-d-urgence-agricole_8113763.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Monique Barbut a par ailleurs affirmé son opposition à la réintroduction de l'acétamipride en France également prévue dans le texte et réaffirmé ses réserves quant à l'évolution du texte depuis les ajouts du Sénat, dont l'objectif initial était de \"répondre à une situation d'urgence pour nos agriculteurs\"."
+    },
+    {
+      "title": "Le ministère des Armées recrute aussi des personnels civils : 3 500 postes sont à pourvoir cette année",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/le-ministere-des-armees-recrute-aussi-des-personnels-civils-3-500-postes-sont-a-pourvoir-cette-annee_8064203.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Pour recruter des militaires, le ministère des Armées ne lésine jamais sur les grandes campagnes de communication nationale. Une fois n'est pas coutume, il vient d'en lancer une sur les métiers civils du ministère. Ces personnels souffrent d'un déficit de notoriété et sont concurrencés par le secteur privé."
+    },
+    {
+      "title": "\"La culture n'est pas la variable d'ajustement\", s'indigne Florence Portelli, vice-présidente du parti Les Républicains face aux coupes budgétaires",
+      "url": "https://www.franceinfo.fr/culture/la-culture-n-est-pas-la-variable-d-ajustement-s-indigne-florence-portelli-vice-presidente-du-parti-les-republicains-face-aux-coupes-budgetaires_8113781.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La culture, \"c'est aussi de l'emploi et de l'économie\", défend Florence Portelli. Elle qualifie la baisse de \"13%\" des subventions allouées par l’État à 28 institutions culturelles majeures d'\"entreprise de démolition\"."
+    },
+    {
       "title": "La valeur des diplômes s'est-elle dégradée en 20 ans ?",
       "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/la-valeur-des-diplomes-s-est-elle-degradee-en-20-ans_8064209.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le diplôme vaut-il encore quelque chose ? Cette question revient régulièrement dans le débat, surtout quand l'économie va mal et que les jeunes ont plus de mal à trouver un emploi. Mais qu'en est-il vraiment ? Le Centre d'études et de recherches sur les qualifications (Céreq) a analysé des données sur une période de 20 ans."
@@ -25,6 +50,61 @@
       "title": "Comment réduire la facture des fournitures scolaires en plein été ?",
       "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/comment-reduire-la-facture-des-fournitures-scolaires-en-plein-ete_8064206.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Alors que le prix des fournitures scolaires a progressé de 2% en un an, quelques réflexes permettent de limiter les dépenses : réutilisation, seconde main, achats groupés ou comparaison des prix."
+    },
+    {
+      "title": "L’info du jour | 19 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/19/linfo-du-jour-19-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 17 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 17 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 17 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 16 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 16 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 16 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 15 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/15/linfo-du-jour-15-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Les mots croisés d&#039;Alter Eco : « Pas libérées des livrets »",
