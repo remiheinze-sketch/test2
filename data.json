@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-07-19T01:42:57Z",
+  "updated_at": "2026-07-19T05:11:19Z",
   "articles": [
     {
       "title": "Impôts sur les grandes fortunes : le débat est relancé à l’Assemblée nationale",
       "url": "https://www.lemonde.fr/politique/article/2026/07/17/a-l-assemblee-nationale-le-debat-sur-la-fiscalite-des-grandes-fortunes-est-relance_6724194_823448.html",
       "summary": "Pilotée par Jean-Paul Mattei et Charles de Courson, la commission d’enquête sur « l’imposition des hauts patrimoines et des revenus les plus élevés » écarte l’idée d’un « big bang fiscal » et privilégie plutôt des « ajustements ciblés ». Des recommandations jugées insuffisantes, notamment à gauche."
+    },
+    {
+      "title": "Avec 70 euros par habitant, la France est l'un des pays d'Europe qui finance le moins le rail (à des années-lumière des 209 euros britanniques ou 222 euros allemands)",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/avec-70-euros-par-habitant-la-france-est-l-un-des-pays-d-europe-qui-finance-le-moins-le-rail-a-des-annees-lumiere-des-209-euros-britanniques-ou-222-euros-allemands_AV-202607190038.html",
+      "summary": "Selon l'association allemande \"Alliance pour le rail\", les investissements publics français sont très loin des dépenses de nos voisins même si la France se distingue par un mode de financement particulier qui s'appuie sur les bénéfices de la SNCF.<br /><br /><img src=\"https://images.bfmtv.com/vWYoLkfHGAVm6J3OYjme27QycA4=/0x100:1920x1180/800x0/images/Rails-1220746.jpg\" />"
     },
     {
       "title": "Relance de la croissance, financement de la défense, \"gérer Donald Trump\": les défis qui attendent Andy Burnham, le futur Premier ministre britannique",
@@ -20,61 +25,6 @@
       "title": "Comment réduire la facture des fournitures scolaires en plein été ?",
       "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/comment-reduire-la-facture-des-fournitures-scolaires-en-plein-ete_8064206.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Alors que le prix des fournitures scolaires a progressé de 2% en un an, quelques réflexes permettent de limiter les dépenses : réutilisation, seconde main, achats groupés ou comparaison des prix."
-    },
-    {
-      "title": "L’info du jour | 18 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 juillet 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 juillet 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/07/17/linfo-du-jour-17-juillet-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 juillet 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/07/16/linfo-du-jour-16-juillet-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/15/linfo-du-jour-15-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/15/linfo-du-jour-15-juillet-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Les mots croisés d&#039;Alter Eco : « Pas libérées des livrets »",
