@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-22T04:57:54Z",
+  "updated_at": "2026-07-22T07:31:52Z",
   "articles": [
+    {
+      "title": "« Après avoir encouragé un fort endettement public, la Banque centrale européenne étrangle aujourd’hui des finances publiques déjà dégradées »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/22/apres-avoir-encourage-un-fort-endettement-public-la-banque-centrale-europeenne-etrangle-aujourd-hui-des-finances-publiques-deja-degradees_6729998_3232.html",
+      "summary": "L’économiste Nicolas Dufrêne constate, dans une tribune au « Monde », que le coût pour l’Etat français du resserrement de la politique monétaire mené entre juillet 2022 et juin 2026 aura été de près de 90 milliards d’euros. Il plaide pour une démocratisation des choix de la BCE."
+    },
     {
       "title": "Le grand chambardement des fréquences de Radio France suscite craintes et critiques",
       "url": "https://www.lemonde.fr/economie/article/2026/07/21/le-grand-chambardement-des-frequences-de-radio-france-suscite-craintes-et-critiques_6729075_3234.html",
@@ -12,24 +17,89 @@
       "summary": "Dans un rapport présenté en commission des finances mardi, la députée Mathilde Feld (LFI) juge « urgent » de « redonner » des moyens à la direction générale des finances publiques et pointe un « décrochage massif » du contrôle fiscal, qu’elle attribue notamment aux « coupes massives » dans les effectifs du fisc."
     },
     {
-      "title": "Le Livret A enregistre son pire semestre depuis 2008: à cause de la baisse de son rendement, les retraits des Français ont dépassé les versements de près de 6 milliards d'euros",
-      "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-livret-a-enregistre-son-pire-semestre-depuis-2008-face-a-la-baisse-de-son-rendement-les-retraits-des-francais-ont-depasse-leurs-versements-de-pres-de-6-milliards-d-euros_AV-202607220065.html",
-      "summary": "La Caisse des dépôts n'avait pas enregistré une telle sortie nette depuis près de vingt ans, alors que la rémunération du placement préféré des Français a plongé à cause du regain d'inflation. La situation pourrait s'améliorer avec le relèvement du taux du Livret A, à 1,7% au 1er août, et le ralentissement de la hausse des prix. <br /><br /><img src=\"https://images.bfmtv.com/uhh88fBKOWKn86f0hwa2nB48S6o=/0x97:2048x1249/800x0/images/La-Caisse-des-depots-et-consignations-2323493.jpg\" />"
+      "title": "Au Royaume-Uni, l'inflation ralentit en juin à 2,6%, c'est plus qu'attendu grâce à la baisse des carburants",
+      "url": "https://www.bfmtv.com/economie/consommation/au-royaume-uni-l-inflation-ralentit-en-juin-a-2-6-c-est-plus-qu-attendu-grace-a-la-baisse-des-carburants_AD-202607220188.html",
+      "summary": "C'est une bonne nouvelle pour le nouveau Premier ministre travailliste Andy Burnham, pour qui le pouvoir d'achat des Britanniques est une priorité.<br /><br /><img src=\"https://images.bfmtv.com/tFdSP8Bwj6wnlbVkN34MNo9M-6Y=/0x226:2048x1378/800x0/images/Le-palais-de-Westminster-a-Londres-2303921.jpg\" />"
     },
     {
-      "title": "Marie Marec (Le Biz'h) : Le Biz'h, réseau d'affaires dans le Finistère - 21/07",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/objectif-croissance/video-marie-marec-le-biz-h-le-biz-h-reseau-d-affaires-dans-le-finistere-21-07_VN-202607210599.html",
-      "summary": "BFM BUSINESS PARTENAIRE - Ce mardi 21 juillet, Marie Marec, fondatrice de Le Biz'h, s’est penchée sur l'association ou club d'entrepreneur breton Le Biz'h, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/ZUkL5_SYrq6kpWxw7YUnx_Y5sRc=/0x0:1280x720/800x0/images/Marie-Marec-Le-Biz-h-Le-Biz-h-reseau-d-affaires-dans-le-Finistere-21-07-2323430.jpg\" />"
+      "title": "Droits de douane imminents pour 60 économies, dont l'UE",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-droits-de-douane-imminents-pour-60-economies-dont-l-ue_VN-202607220183.html",
+      "summary": "\"Donald Trump accuse l'UE de ne pas lutter efficacement contre le travail forcé et menace d'instaurer une surtaxe de 10% sur tous les produits européens qui bénéficient selon lui du travail forcé.\"<br /><br /><img src=\"https://images.bfmtv.com/JoMDSONMO0uUAHCmR93oqTVAu6E=/0x0:1280x720/800x0/images/Droits-de-douane-imminents-pour-60-economies-dont-l-UE-2323576.jpg\" />"
     },
     {
-      "title": "Impôts : des millions de Français remboursés à partir du 24 juillet",
-      "url": "https://www.franceinfo.fr/economie/impots/impots-des-millions-de-francais-rembourses-a-partir-du-24-juillet_8116445.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "À partir du 24 juillet, des millions de contribuables recevront un remboursement du fisc après la régularisation de leur impôt sur le revenu. Les montants seront versés automatiquement. D'autres, en revanche, devront s'acquitter d'un complément à partir de septembre."
+      "title": "ÉDITO. Moins rembourser les médicaments, mieux contrôler ceux qui achètent 50 boîtes ou vont 25 fois chez le médecin, mais rien sur les retraites... Sébastien Lecornu, monument d’hypocrisie budgétaire",
+      "url": "https://www.bfmtv.com/economie/edito-moins-rembourser-les-medicaments-mieux-controler-ceux-qui-achetent-50-boites-ou-vont-25-fois-chez-le-medecin-mais-rien-sur-les-retraites-sebastien-lecornu-monument-d-hypocrisie-budgetaire_AN-202607220158.html",
+      "summary": "Le Premier ministre accorde ce mercredi matin une longue interview à Paris Match, où il parle notamment du prochain budget.<br /><br /><img src=\"https://images.bfmtv.com/WcQ2yFwpH2e3FcUCSuyD95LbD68=/0x52:2048x1204/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-a-l-hotel-des-Invalides-le-11-juin-2026-2321272.jpg\" />"
     },
     {
-      "title": "Voitures : toujours plus grandes",
-      "url": "https://www.franceinfo.fr/economie/automobile/voitures-toujours-plus-grandes_8116439.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le carburant pèse sur le budget, et se garer est de plus en plus compliqué. En 25 ans, les voitures ont grandi de près de 30 centimètres."
+      "title": "L’Edito de Raphaël Legendre : Sébastien Lecornu, monument d'hypocrisie budgétaire - 22/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-sebastien-lecornu-monument-d-hypocrisie-budgetaire-22-07_EN-202607220126.html",
+      "summary": "Ce mercredi 22 juillet, l'interview accordée par le Premier ministre Sébastien Lecornu à Paris Match, dans laquelle il évoque le prochain budget, a été abordée par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/6Lp652pz-LwZiZ2HfsRPZAc6Yb4=/0x0:14000x14000/800x0/podcast/podcasts/principale-424_2.jpg\" />"
+    },
+    {
+      "title": "L’Edito de Raphaël Legendre : Sébastien Lecornu, monument d'hypocrisie budgétaire - 22/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-sebastien-lecornu-monument-d-hypocrisie-budgetaire-22-07_EN-202607220127.html",
+      "summary": "Ce mercredi 22 juillet, l'interview accordée par le Premier ministre Sébastien Lecornu à Paris Match, dans laquelle il évoque le prochain budget, a été abordée par Raphaël Legendre dans son édito, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/e-Vq9WWdNfLFbrhuW4KWmRlomCE=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_4.jpg\" />"
+    },
+    {
+      "title": "L’info du jour | 22 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/22/linfo-du-jour-22-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 21 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/21/linfo-du-jour-21-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 21 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/21/linfo-du-jour-21-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 21 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/21/linfo-du-jour-21-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 20 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/20/linfo-du-jour-20-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 20 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/20/linfo-du-jour-20-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 19 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/19/linfo-du-jour-19-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 19 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/19/linfo-du-jour-19-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 19 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/19/linfo-du-jour-19-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 18 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/18/linfo-du-jour-18-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "John Maynard Keynes, un économiste mondain et iconoclaste",
