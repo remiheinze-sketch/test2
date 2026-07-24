@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T12:11:53Z",
+  "updated_at": "2026-07-24T14:43:52Z",
   "articles": [
     {
       "title": "Droits de douane : Donald Trump poursuit sa guerre commerciale par tous les moyens",
@@ -15,6 +15,11 @@
       "title": "La crise au Moyen-Orient se propage à l’économie, les taux d’intérêt de la France dépassent 4 % pour la première fois depuis 2008",
       "url": "https://www.lemonde.fr/economie/article/2026/07/23/la-crise-au-moyen-orient-se-propage-a-l-economie-les-taux-d-interet-de-la-france-depassent-4-pour-la-premiere-fois-depuis-2008_6731063_3234.html",
       "summary": "Le regain de tension sur les marchés du pétrole et du gaz augmente l’inflation et pousse la Banque centrale européenne à durcir sa politique monétaire."
+    },
+    {
+      "title": "Ashley McDonnell (Ireland Fashion Week & VYKO) : Ireland Fashion Week, la mode en Irlande - 24/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/objectif-croissance/video-ashley-mc-donnell-ireland-fashion-week-vyko-ireland-fashion-week-la-mode-en-irlande-24-07_VN-202607240413.html",
+      "summary": "BFM BUSINESS PARTENAIRE - Ce vendredi 24 juillet, Ashley McDonnell, fondatrice d'Ireland Fashion Week & VYKO, a abordé les détails de ce nouveau rendez-vous de la mode en Europe, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter le samedi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/wxHwIu4ZItZesljyEDsv5YitzbE=/0x0:1280x720/800x0/images/Ashley-McDonnell-Ireland-Fashion-Week-and-VYKO-Ireland-Fashion-Week-la-mode-en-Irlande-24-07-2324900.jpg\" />"
     },
     {
       "title": "Yannick Audineau (Parc départemental d'Olhain) : Parc départemental d'Olhain, base de loisirs nature - 24/07",
@@ -37,16 +42,6 @@
       "summary": "BFM BUSINESS PARTENAIRE - Ce vendredi 24 juillet, Alexandre Pochon, cofondateur de Faktus, a présenté la solution proposée par sa start-up dédiée au monde du bâtiment et des travaux publics, qui accompagne financièrement les PME du secteur dans l'exécution de leurs chantiers, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter le samedi sur BFM Business.<br /><br /><img src=\"https://images.bfmtv.com/ZJCKZb_b3NbsAUbSlHkZgZSKnLA=/0x0:1280x720/800x0/images/Alexandre-Pochon-Faktus-Faktus-le-partenaire-financier-des-PME-du-BTP-24-07-2324731.jpg\" />"
     },
     {
-      "title": "Un \"ouf\" de soulagement: les Européens rassurés par les nouveaux droits de douane américains (ils craignaient que Trump se venge après la méga-amende infligée à Google)",
-      "url": "https://www.bfmtv.com/economie/entreprises/un-ouf-de-soulagement-les-europeens-rassures-par-les-nouveaux-droits-de-douane-americains-ils-craignaient-que-trump-se-venge-apres-la-mega-amende-infligee-a-google_AD-202607240188.html",
-      "summary": "Le nouveau régime de taxes douanières annoncé par le gouvernement américain touchant une soixantaine d'économies respecte en effet, en ce qui concerne l'UE, le plafond de 15% qui figurait dans cet accord signé il y un an presque jour pour jour à Turnberry, en Ecosse. <br /><br /><img src=\"https://images.bfmtv.com/06R56gERsD-5JJ05gkv5JAMr7zs=/0x143:2048x1295/800x0/images/Drapeau-Union-europeenne-2185567.jpg\" />"
-    },
-    {
-      "title": "Le taux d'emprunt de la France à 10 ans au plus haut depuis 2009: \"pas une ligne rouge\" pour le gouverneur de la Banque de France, mais cela \"réduit la marge de manoeuvre budgétaire\"",
-      "url": "https://www.bfmtv.com/economie/le-taux-d-emprunt-de-la-france-a-10-ans-au-plus-haut-depuis-2009-pas-une-ligne-rouge-pour-le-gouverneur-de-la-banque-de-france-mais-cela-reduit-la-marge-de-manoeuvre-budgetaire_AV-202607240179.html",
-      "summary": "Invité sur le plateau de BFM Business, Emmanuel Moulin a estimé que la hausse des obligations souveraines rendait la réduction du déficit public \"absolument nécessaire\". Sans donner d'indication sur la prochaine décision de la BCE, il a précisé que ses membres seraient très attentifs à l'évolution de la situation au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/rws0ikIuqNatRofOGEM2E-29nsM=/2x0:1282x720/800x0/images/Emmanuel-Moulin-2324663.jpg\" />"
-    },
-    {
       "title": "Doublement des franchises médicales et hausse du ticket modérateur : les économies sont estimées entre un et deux milliards d'euros",
       "url": "https://www.franceinfo.fr/sante/doublement-des-franchises-medicales-et-hausse-du-ticket-moderateur-les-economies-esperees-sont-de-pres-de-3-milliards-d-euros_8120318.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le doublement annoncé du plafond annuel des franchises médicales devrait ainsi permettre d'économiser 750 millions d'euros, selon nos informations."
@@ -55,11 +50,6 @@
       "title": "Médicaments : le gouvernement veut relever le plafond des franchises médicales",
       "url": "https://www.franceinfo.fr/sante/medicaments-le-gouvernement-veut-relever-le-plafond-des-franchises-medicales_8119322.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le gouvernement envisage de doubler le plafond annuel des franchises médicales, qui passerait de 100 à 200 euros. Une mesure destinée à réduire le déficit de la Sécurité sociale, mais qui suscite des inquiétudes chez certains patients et professionnels de santé."
-    },
-    {
-      "title": "\"On ne peut pas faire de la politique sur le dos des salariés\" de Fibre Excellence, tacle le ministre de l'Économie",
-      "url": "https://www.franceinfo.fr/economie/on-ne-peut-pas-faire-de-la-politique-sur-le-dos-des-salaries-de-fibre-excellence-tacle-le-ministre-de-l-economie_8118950.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "\"Je ne souhaite pas que les repreneurs s'investissent dans une entreprise avec l'argent des autres\", déclare Roland Lescure qui reproche à Matthieu Pigasse d'être trop gourmand quant à l'argent de l'État. L'homme d'affaires à gauche a déposé une offre de reprise pour le groupe papetier, en redressement judiciaire."
     },
     {
       "title": "L’info du jour | 24 juillet 2026 - Mi-journée",
