@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-30T15:01:24Z",
+  "updated_at": "2026-07-30T17:14:03Z",
   "articles": [
+    {
+      "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
+      "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations."
+    },
+    {
+      "title": "Qu’est-ce qu’un livre ? Le ministère de l’économie consulte les Français pour ajuster la TVA",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/30/qu-est-ce-qu-un-livre-le-ministere-de-l-economie-consulte-les-francais-pour-ajuster-la-tva_6737040_823448.html",
+      "summary": "Les livres bénéficient d’une TVA réduite à 5,5 % en France. Encore faut-il savoir précisément ce qu’est un livre. Une décision du Conseil d’Etat et une consultation lancée par le ministère de l’économie relancent le débat."
+    },
     {
       "title": "Les associations engagées dans une course aux financements et aux économies pour pallier la baisse des aides publiques",
       "url": "https://www.lemonde.fr/societe/article/2026/07/30/les-associations-engagees-dans-une-course-aux-financements-et-aux-economies-pour-pallier-la-baisse-des-aides-publiques_6737015_3224.html",
@@ -15,11 +25,6 @@
       "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
       "url": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
       "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation."
-    },
-    {
-      "title": "Cuba ouvre de nombreux secteurs de son économie aux acteurs privés",
-      "url": "https://www.lemonde.fr/international/article/2026/07/29/cuba-ouvre-de-nombreux-secteurs-de-son-economie-aux-acteurs-prives_6736381_3210.html",
-      "summary": "Le 18 juin, le Parlement avait approuvé une longue liste de 176 mesures prévoyant d’ouvrir quasiment tous les secteurs d’activité aux acteurs privés, notamment l’agriculture et les banques."
     },
     {
       "title": "Prime Énergie Industrie : financer la décarbonation de vos sites grâce aux CEE",
@@ -52,16 +57,6 @@
       "summary": "Le Produit intérieur brut (PIB) des 21 pays de la zone euro a progressé de 0,4% au deuxième trimestre de 2026, alors que les analystes misaient sur une hausse de 0,2%.<br /><br /><img src=\"https://images.bfmtv.com/AhfC317BPzQ7NZM2L1OKaoa1Acc=/0x17:800x467/800x0/images/1239334.jpg\" />"
     },
     {
-      "title": "\"C'est presque trop beau pour être vrai\": en croissance de 0,2%, l'économie allemande a été plus résiliente que prévu au deuxième trimestre malgré la guerre au Moyen-Orient",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/c-est-presque-trop-beau-pour-etre-vrai-en-croissance-de-0-2-l-economie-allemande-a-ete-plus-resiliente-que-prevu-au-deuxieme-trimestre-malgre-la-guerre-au-moyen-orient_AD-202607300274.html",
-      "summary": "Au deuxième trimestre de l'année, le produit intérieur brut allemand a progressé de 0,2%, un chiffre légèrement plus important que les prévisions.<br /><br /><img src=\"https://images.bfmtv.com/J9Qg9f58wJ5hvRwLOQt8-P60p_0=/0x150:1600x1050/800x0/images/Drapeau-Allemagne-1403222.jpg\" />"
-    },
-    {
-      "title": "La transition vers la voiture électrique a boosté la croissance au deuxième trimestre: Roland Lescure annonce déjà près de 20.000 commandes pour la troisième vague du leasing social",
-      "url": "https://www.bfmtv.com/economie/economie-social/la-transition-vers-la-voiture-electrique-a-booste-la-croissance-au-deuxieme-trimestre-roland-lescure-annonce-deja-pres-de-20-000-commandes-pour-la-trosieme-vague-du-leasing-social_AV-202607300241.html",
-      "summary": "Invité de France Inter ce jeudi 30 juillet, le ministre de l'Économie et des Finances Roland Lescure s'est réjoui du rebond de la croissance au second trimestre 2026, à +0,2%, portée non seulement par les exportations mais aussi par la consommation des ménages... En particulier l'achat de véhicules électriques.<br /><br /><img src=\"https://images.bfmtv.com/3ZRqqmMawqO-1WfkT__l2ECswSs=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-le-27-mars-2026-2261008.jpg\" />"
-    },
-    {
       "title": "VIDEO. \"Je suis indépendant, je n'ai pas assez de fonds pour m'assurer\" : l'amer constat des dégâts pour une cinquantaine d'entreprises de Biscarrosse atteintes par l'incendie des Landes",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-suis-independant-je-n-ai-pas-assez-de-fonds-pour-m-assurer-l-amer-constat-des-degats-pour-une-cinquantaine-d-entreprises-de-biscarrosse-atteintes-par-le-feu_8128610.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Dans les Landes, à Biscarrosse, c'est toute une partie de l’économie locale qui a été balayée par les incendies. Une cinquantaine d'entreprises ont été touchées dans la zone artisanale, détruite par les flammes. Une aide d'urgence a été annoncée pour les travailleurs indépendants directement touchés, elle pourra atteindre les 8 000 euros."
@@ -69,12 +64,17 @@
     {
       "title": "L'économie française a rebondi au deuxième trimestre, avec une croissance de 0,2%",
       "url": "https://www.franceinfo.fr/economie/l-economie-francaise-a-rebondi-au-deuxieme-trimestre-avec-une-croissance-de-0-2_8128592.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette première estimation de la croissance est inférieure aux prévisions de l'Insee, qui anticipait une croissance de 0,3% au deuxième trimestre."
+      "summary": "Cette première estimation est inférieure aux prévisions de l'Insee, qui anticipait une croissance de 0,3% au deuxième trimestre."
     },
     {
       "title": "Environ \"19 500 véhicules électriques commandés en deux semaines de leasing social\" au mois de juillet, annonce le ministre de l'Économie",
       "url": "https://www.franceinfo.fr/economie/automobile/environ-19-500-vehicules-electriques-commandes-en-deux-semaines-de-leasing-social-au-mois-de-juillet-annonce-le-ministre-de-l-economie_8128202.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"Aujourd'hui, il y a 100 000 personnes en France qui conduisent des véhicules électriques pour moins de 100 euros par mois\", rappelle Roland Lescure, jeudi sur France Inter."
+    },
+    {
+      "title": "L’info du jour | 30 juillet 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/07/30/linfo-du-jour-30-juillet-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 30 juillet 2026 - Mi-journée",
@@ -115,11 +115,6 @@
       "title": "L’info du jour | 28 juillet 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/07/28/linfo-du-jour-28-juillet-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/27/linfo-du-jour-27-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "En Allemagne, la coalition gouvernementale tente de sauver la croissance au détriment des travailleurs",
