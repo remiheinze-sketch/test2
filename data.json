@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-30T04:47:11Z",
+  "updated_at": "2026-07-30T07:26:40Z",
   "articles": [
+    {
+      "title": "En France, le rebond en trompe-l’œil de l’économie au deuxième trimestre",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html",
+      "summary": "Après un recul de 0,1 % du produit intérieur brut au cours des trois premiers mois de l’année 2026, le léger rebond au deuxième trimestre (+ 0,2 %) est largement dû aux exportations, notamment dans l’aéronautique. L’industrie tient, tandis que les ménages demeurent prudents."
+    },
     {
       "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
       "url": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
@@ -27,29 +32,34 @@
       "summary": "Une vague sans précédent de brevets de médicaments va expirer ces prochaines années. Une aubaine pour les laboratoires spécialisés dans les génériques et les biosimilaires. Et une occasion d’économies pour les systèmes de santé."
     },
     {
-      "title": "Quelle a été la croissance de la France au 2e trimestre? Après un recul en début d'année, l'Insee dévoile ses chiffres ce jeudi et mise sur un \"regain temporaire\"",
-      "url": "https://www.bfmtv.com/economie/quelle-a-ete-la-croissance-de-la-france-au-2e-trimestre-apres-un-recul-en-debut-d-annee-l-insee-devoile-ses-chiffres-ce-jeudi-et-mise-sur-un-regain-temporaire_AD-202607300051.html",
-      "summary": "L'Institut national de la statistique et des études économiques (INSEE) doit dévoiler ce jeudi les chiffres de la croissance française au deuxième trimestre, alors que la Banque de France, elle, table sur une croissance de 0,2%.<br /><br /><img src=\"https://images.bfmtv.com/O3m9b_UOsSIuM7r9VAMEhYA608s=/0x270:2048x1422/800x0/images/Drapeau-francais-2243410.jpg\" />"
+      "title": "\"On commence à retrouver des gens qui retournent au travail\": le ministre de l'Économie indique que le nombre d'entreprises fermées à cause des incendies est passé sous les 20.000",
+      "url": "https://www.bfmtv.com/economie/economie-social/on-commence-a-retrouver-des-gens-qui-retournent-au-travail-le-ministre-de-l-economie-indique-que-le-nombre-d-entreprises-fermees-a-cause-des-incendies-est-passe-sous-les-20-000_AV-202607300170.html",
+      "summary": "Le ministre de l'Économie et des Finances, Roland Lescure, se félicite que le feu dans le sud-ouest \"commence à être maîtrisé\", raison pour laquelle il observe une baisse du nombre d'\"établissements fermés\".<br /><br /><img src=\"https://images.bfmtv.com/EEWFGbyYB1UFFb4d0cGgQEvzaZc=/0x106:2048x1258/800x0/images/Le-ministre-de-l-Economie-et-des-Finances-Roland-Lescure-lors-de-la-reunion-preparatoire-a-la-saison-estivale-avec-les-acteurs-du-transport-aerien-dans-le-contexte-de-la-crise-au-Moyen-Orient-a-Paris-le-6-mai-2026-2281909.jpg\" />"
     },
     {
-      "title": "Les indemnités journalières pour accident du travail et maladie professionnelle risquent d'être fiscalisées à 100%: les mesures choc du gouvernement pour économiser 800 millions d'euros",
-      "url": "https://www.bfmtv.com/economie/emploi/les-indemnites-journalieres-pour-accident-du-travail-et-maladie-professionnelle-risquent-d-etre-fiscalisees-a-100-les-mesures-choc-du-gouvernement-pour-economiser-800-millions-d-euros_AV-202607300040.html",
-      "summary": "Le gouvernement a missionné les partenaires sociaux composant la commission accident du travail et maladie professionnelle (AT-MP) d'étudier des pistes de réforme pour générer 800 millions d'euros d'économies. L'une d'entre elles consiste à imposer en totalité les indemnités journalières, jusqu'ici exonérées de moitié.<br /><br /><img src=\"https://images.bfmtv.com/2zSNCr98eXHy_XAUzGtNPDANPYQ=/0x0:2048x1152/800x0/images/Accident-du-travail-2326730.jpg\" />"
+      "title": "La consommation des ménages augmente encore en juin, portée par l'énergie lors des pics de chaleur",
+      "url": "https://www.bfmtv.com/economie/la-consommation-des-menages-augmente-encore-en-juin-en-raison-d-une-consommation-accrue-d-electricite-lors-des-pics-de-chaleur_AD-202607300116.html",
+      "summary": "Selon l'Insee, les vagues de chaleur du mois de juin en France ont entraîné \"une consommation accrue d'électricité pour faire face aux pics de chaleur\", une des raisons de cette hausse des dépenses de consommation des ménages le mois dernier.<br /><br /><img src=\"https://images.bfmtv.com/kT3EogUC-bRYM3LBdmgjkMycOvg=/4x3:1252x705/800x0/images/-456873.jpg\" />"
     },
     {
-      "title": "L'île communiste de Cuba bascule vers l'économie de marché: pharmacies, stations-service, gestion des déchets, ou encore exploitation de pétrole sont désormais ouvertes à la concurrence",
-      "url": "https://www.bfmtv.com/economie/international/l-ile-communiste-de-cuba-bascule-vers-l-economie-de-marche-pharmacies-stations-service-gestion-des-dechets-ou-encore-exploitation-de-petrole-sont-desormais-ouvertes-a-la-concurrence_AD-202607290360.html",
-      "summary": "Cuba, qui a autorisé les entreprises en 2021, fait un nouveau pas de géant vers l'économie de marché, en libéralisant des secteurs jusqu'à présent interdits aux sociétés privées. Asphyxiée par le blocus américain sur le pétrole, l'île est confrontée à de graves difficultés.<br /><br /><img src=\"https://images.bfmtv.com/lgYt6rCUHP1t_eP-sBFQqRkOrBM=/0x102:2048x1254/800x0/images/Cuba-2306460.jpg\" />"
+      "title": "Le Brésil s'impose comme l'un des plus grands marché de Tiktok",
+      "url": "https://www.bfmtv.com/economie/video-le-bresil-s-impose-comme-l-un-des-plus-grands-marche-de-tiktok_VN-202607300112.html",
+      "summary": "Le géant chinois a trouvé en Amérique latine un terrain de croissance parfait : entre 105 et 134 millions d’utilisateurs, une population très jeune, avec 44% de moins de 30 ans. Le Brésil est le nouvel eldorado du réseau social (et de la Chine).<br /><br /><img src=\"https://images.bfmtv.com/4_rMEFlLVLvOclOO7cR9HsKGav0=/0x0:1280x720/800x0/images/Le-Bresil-s-impose-comme-l-un-des-plus-grands-marche-de-Tiktok-2326875.jpg\" />"
     },
     {
-      "title": "L'Allemagne dépense 15 à 17 milliards d'euros par an pour les soutenir: Berlin coupe dans les subventions aux énergies renouvelables afin de les \"responsabiliser davantage\"",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/l-allemagne-depense-15-a-17-milliards-d-euros-par-an-pour-les-soutenir-berlin-coupe-dans-les-subventions-aux-energies-renouvelables-afin-de-les-responsabiliser-davantage_AD-202607290335.html",
-      "summary": "Lors d'une conférence de presse, la ministre de l'Économie Katherina Reiche a déclaré vouloir \"responsabiliser davantage les énergies renouvelables\", qui, à l'aide de subventions publiques, ont connu une expansion qu'elle juge incontrôlée ces dernières années.<br /><br /><img src=\"https://images.bfmtv.com/FL1gvtpnrQj6vYAuDzlEU5eU9FM=/0x236:2048x1388/800x0/images/Berlin-coupe-dans-les-subventions-aux-energies-renouvelables-2326659.jpg\" />"
+      "title": "Grâce aux exportations et à la consommation des ménages, la France renoue avec la croissance: le PIB tricolore progresse de 0,2% au deuxième trimestre",
+      "url": "https://www.bfmtv.com/economie/portee-par-les-exportations-la-croissance-de-la-france-atteint-0-2-au-deuxieme-trimestre_AD-202607300089.html",
+      "summary": "Début juillet, la Banque de France avait relevé à 0,2% sa prévision de croissance pour la France au deuxième trimestre, grâce à un rebond de l'activité industrielle et des services marchands.<br /><br /><img src=\"https://images.bfmtv.com/sTmSu6cKROUcT8qUogmqT0KtrlU=/3x3:1491x840/800x0/images/-474491.jpg\" />"
     },
     {
       "title": "Incendies : \"Il faut que nous puissions examiner un projet de loi de Finances rectificatif pour enfin mettre les moyens sur la table\", estime le député LFI Aurélien Le Coq",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-29-juillet-2026_8100266.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Invité politique d'Alexandre Peyrout sur franceinfo ce mercredi 29 juillet, Aurélien Le Coq dénonce les \"mensonges\" et le \"cynisme\" du gouvernement au sujet de la lutte contre les brasiers en France. \"Des ministres nous ont expliqué que les A400M n'étaient pas prêts, que ça allait prendre du temps. C'est un mensonge. 'Le Canard enchaîné' explique ce matin qu'ils auraient pu les mettre en opération bien avant\", avance l'élu insoumis, emboîtant le pas à ses collègues en demandant \"une session extraordinaire à l'Assemblée nationale\" pour rectifier le budget."
+    },
+    {
+      "title": "L’info du jour | 30 juillet 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/07/30/linfo-du-jour-30-juillet-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 29 juillet 2026 - Soir",
@@ -95,21 +105,6 @@
       "title": "L’info du jour | 27 juillet 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/07/27/linfo-du-jour-27-juillet-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 juillet 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/07/26/linfo-du-jour-26-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/26/linfo-du-jour-26-juillet-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 juillet 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/07/26/linfo-du-jour-26-juillet-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "En Allemagne, la coalition gouvernementale tente de sauver la croissance au détriment des travailleurs",
