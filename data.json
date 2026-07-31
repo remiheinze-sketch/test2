@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-31T08:32:48Z",
+  "updated_at": "2026-07-31T11:19:17Z",
   "articles": [
     {
       "title": "Les régions vent debout contre les coupes budgétaires dans l’apprentissage et la formation",
       "url": "https://www.lemonde.fr/politique/article/2026/07/31/les-regions-vent-debout-contre-les-coupes-budgetaires-dans-l-apprentissage-et-la-formation_6737113_823448.html",
-      "summary": "Dans le cadre de la préparation du budget 2027, le gouvernement entend supprimer les financements accordés aux centres de formation des apprentis (CFA) et mettre un terme aux pactes d’investissement de compétence destinés à former des demandeurs d’emploi et des personnes peu qualifiées."
+      "summary": "Dans le cadre de la préparation du budget 2027, le gouvernement entend supprimer les financements accordés aux centres de formation des apprentis (CFA) et mettre un terme aux pactes d’investissement de compétences destinés à former des demandeurs d’emploi et des personnes peu qualifiées."
     },
     {
       "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
@@ -27,6 +27,16 @@
       "summary": "Après un recul de 0,1 % du PIB au cours des trois premiers mois de l’année, le léger rebond au deuxième trimestre (+ 0,2 %) est largement dû aux exportations, en partie dans l’aéronautique. L’industrie tient, tandis que les ménages demeurent prudents."
     },
     {
+      "title": "INFOGRAPHIE. La France a toujours l'un des taux les plus faibles avec Malte et l'Estonie: tirée par les prix de l'énergie, l'inflation remonte à 2,9% en juillet dans la zone euro",
+      "url": "https://www.bfmtv.com/economie/international/infographie-la-france-a-toujours-l-un-des-taux-les-plus-faibles-avec-malte-et-l-estonie-tiree-par-les-prix-de-l-energie-l-inflation-remonte-a-2-9-en-juillet-dans-la-zone-euro_AD-202607310290.html",
+      "summary": "La hausse de 2,9% de l'inflation dans la zone euro sur un an en juillet est conforme aux prévisions des économiques et s'explique notamment par les prix de l'énergie, particulièrement volatiles avec la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/9iYc7e7Kl8IU7FG_VCGOKWmn854=/0x7:640x367/800x0/images/-461165.jpg\" />"
+    },
+    {
+      "title": "\"Les activités non-essentielles de l'État seront paralysées\": Javier Milei veut s’inspirer des États-Unis en décrétant un \"shutdown\" si le Parlement argentin n’arrive pas à voter un budget à l’équilibre \"en quelques semaines\"",
+      "url": "https://www.bfmtv.com/economie/international/les-activites-non-essentielles-de-l-etat-seront-paralysees-javier-milei-veut-s-inspirer-des-etats-unis-en-decretant-un-shutdown-si-le-parlement-argentin-n-arrive-pas-a-voter-un-budget-a-l-equilibre-en-quelques-semaines_AD-202607310265.html",
+      "summary": "Le président argentin Javier Milei a partagé son souhait que \"le Parlement dispose de quelques semaines pour ramener les comptes à l'équilibre\" en cas de déficit, et qu'un \"shutdown entre automatiquement en vigueur\" si cela est impossible.<br /><br /><img src=\"https://images.bfmtv.com/0pKDnK493XhnxRwB4pTQYV_UxbQ=/0x212:2048x1364/800x0/images/Javier-Milei-le-president-de-l-Argentine-le-17-juillet-2026-2321616.jpg\" />"
+    },
+    {
       "title": "L'inflation accélère à nouveau à 2,1% sur un an en juillet, tirée par les prix des services et de l'énergie",
       "url": "https://www.bfmtv.com/economie/l-inflation-accelere-a-nouveau-a-2-1-sur-un-an-en-juillet-tiree-par-les-prix-des-services-et-de-l-energie_AD-202607310180.html",
       "summary": "L'indice des prix à la consommation a progressé de 2,1% sur un an en juillet, après 1,8% en juin. Il est tiré par la hausse des prix des services et ceux de l'énergie, notamment le gaz et le pétrole, alors que le conflit au Moyen-Orient a repris.<br /><br /><img src=\"https://images.bfmtv.com/OQu3riwrsYP9epqUpIWXnTSjlII=/0x106:2048x1258/800x0/images/Un-homme-en-train-de-mettre-de-l-essence-dans-une-station-service-de-Meyzieu-pres-de-Lyon-le-11-mars-2026-2266816.jpg\" />"
@@ -42,14 +52,14 @@
       "summary": "Nouvel exemple de l'inflation des dépenses militaires dans le monde. Le Premier ministre britannique a annoncé hier un investissement massif de 10 milliards d'euros dans la flotte de sous-marins nucléaires. <br /><br /><img src=\"https://images.bfmtv.com/7BN-P6gqv3AhIa17Yy5hc76Hrfw=/0x0:1280x720/800x0/images/Londres-s-offre-4-sous-marins-nucleaires-2327327.jpg\" />"
     },
     {
-      "title": "Cuba : du communisme à l'économie de marché",
-      "url": "https://www.bfmtv.com/economie/video-cuba-du-communisme-a-l-economie-de-marche_VN-202607310129.html",
-      "summary": "Alors que l'île de Cuba est sous pression de Washington depuis des mois, le gouvernement vient d'annoncer ouvrir son économie socialiste centralisée aux entreprises privées de divers secteurs.<br /><br /><img src=\"https://images.bfmtv.com/bEdCn1Mk1dTDYxrXoLAwmOu4QUI=/0x0:1280x720/800x0/images/Cuba-du-communisme-a-l-economie-de-marche-2327323.jpg\" />"
+      "title": "L'inflation en France dépasse les 2% sur un an en juillet, selon l'Insee",
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-depasse-les-2-sur-un-an-en-juillet-selon-l-insee_8129645.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Sur un an, les prix sont tirés à la hausse par ceux de l'énergie, dans un contexte de guerre au Moyen-Orient, ainsi que par ceux des services d'hébergement et de communication."
     },
     {
-      "title": "\"Prévenir des atteintes à la sécurité\": déjà visée par une mesure d'expulsion, la chroniqueuse pro-russe Xenia Fedorova voit ses fonds gelés en France pour six mois",
-      "url": "https://www.bfmtv.com/economie/prevenir-des-atteintes-a-la-securite-deja-visee-par-une-mesure-d-expulsion-la-chroniqueuse-pro-russe-xenia-fedorova-voit-ses-fonds-geles-en-france-pour-six-mois_AV-202607310096.html",
-      "summary": "Le ministère de l'Économie justifie cette mesure par \"la prévention des atteintes à la sécurité et l'ordre public liées aux ingérences\", deux jours après la remise, à la chroniqueuse pro-russe, d'une mesure d'expulsion.<br /><br /><img src=\"https://images.bfmtv.com/kF57sf3hhjyJZKvf_H-9Jc1k_yY=/0x0:2048x1152/800x0/images/Xenia-Fedorova-a-Paris-le-12-avril-2025-2327010.jpg\" />"
+      "title": "Le ministre des PME, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat, \"satisfait de l'inflation contenue\"",
+      "url": "https://www.franceinfo.fr/economie/inflation/le-ministre-des-pme-du-commerce-de-l-artisanat-du-tourisme-et-du-pouvoir-d-achat-satisfait-de-l-inflation-contenue_8129732.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'économie française \"tient bon, elle résiste\", se félicite Serge Papin sur franceinfo, après le rebond inattendu de la croissance au second trimestre."
     },
     {
       "title": "\"Économiquement, c'est un désastre\" : le tourisme menacé par les incendies dans les Landes",
@@ -62,9 +72,9 @@
       "summary": "Le président de l’U2P demande au ministre du Tourisme d'engager une opération de communication pour inciter les Français à venir soutenir l'économie locale en Gironde en août, dès \"que les feux seront contenus\"."
     },
     {
-      "title": "VIDEO. \"Je suis indépendant, je n'ai pas assez de fonds pour m'assurer\" : l'amer constat des dégâts pour une cinquantaine d'entreprises de Biscarrosse atteintes par l'incendie des Landes",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-suis-independant-je-n-ai-pas-assez-de-fonds-pour-m-assurer-l-amer-constat-des-degats-pour-une-cinquantaine-d-entreprises-de-biscarrosse-atteintes-par-le-feu_8128610.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans les Landes, à Biscarrosse, c'est toute une partie de l’économie locale qui a été balayée par les incendies. Une cinquantaine d'entreprises ont été touchées dans la zone artisanale, détruite par les flammes. Une aide d'urgence a été annoncée pour les travailleurs indépendants directement touchés, elle pourra atteindre les 8 000 euros."
+      "title": "L’info du jour | 31 juillet 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/07/31/linfo-du-jour-31-juillet-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 31 juillet 2026 - Matin",
@@ -104,11 +114,6 @@
     {
       "title": "L’info du jour | 28 juillet 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/07/28/linfo-du-jour-28-juillet-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 28 juillet 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/07/28/linfo-du-jour-28-juillet-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
