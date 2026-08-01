@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-01T01:51:04Z",
+  "updated_at": "2026-08-01T05:17:42Z",
   "articles": [
+    {
+      "title": "Ce qui change le 1ᵉʳ août pour votre budget : Livret A, tarifs d’électricité, allocation de rentrée scolaire, aide carburant",
+      "url": "https://www.lemonde.fr/argent/article/2026/08/01/ce-qui-change-le-1-aout-pour-votre-budget-livret-a-tarifs-d-electricite-allocation-de-rentree-scolaire-aide-carburant_6737189_1657007.html",
+      "summary": "Plusieurs hausses seront effectives dès samedi, alors que l’allocation de rentrée scolaire ne sera versée que plus tard dans le mois."
+    },
     {
       "title": "Les régions vent debout contre les coupes budgétaires dans l’apprentissage et la formation",
       "url": "https://www.lemonde.fr/politique/article/2026/07/31/les-regions-vent-debout-contre-les-coupes-budgetaires-dans-l-apprentissage-et-la-formation_6737113_823448.html",
@@ -20,6 +25,11 @@
       "title": "Les associations engagées dans une course aux financements et aux économies pour pallier la baisse des aides publiques",
       "url": "https://www.lemonde.fr/societe/article/2026/07/30/les-associations-engagees-dans-une-course-aux-financements-et-aux-economies-pour-pallier-la-baisse-des-aides-publiques_6737015_3224.html",
       "summary": "Quelque 1,5 million d’organisations non lucratives et leurs soutiens se démènent, tout en appelant à cesser les coupes budgétaires."
+    },
+    {
+      "title": "Comment des centaines de PME évitent la paperasse financière en 2026 avec cet outil ?",
+      "url": "https://www.bfmtv.com/economie/professionnels/comment-des-centaines-de-pme-evitent-la-paperasse-financiere-en-2026-avec-cet-outil_AB-202608010034.html",
+      "summary": "L’été est l’occasion parfaite pour poser de bonnes bases pour la rentrée, s’équiper des bons outils et n’avoir qu’un simple objectif : développer sa structure plutôt que de passer du temps sur la partie administrative avec la facturation électronique, la gestion des dépenses, etc. <br /><br /><img src=\"https://images.bfmtv.com/ORmUHs8P1EU6kLq7OIrSbLEVgjg=/0x106:2048x1258/800x0/images/Comptabilite-entreprise-voici-les-meilleurs-logiciels-comptables-si-vous-etes-entrepreneur-ou-independant-2322749.jpg\" />"
     },
     {
       "title": "Les réservations ont chuté de 70% par rapport à l'été dernier: les frappes de drones ukrainiens privent l'économie de la Crimée de courant, de carburant et de touristes",
@@ -50,6 +60,11 @@
       "title": "Le ministre des PME, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat, \"satisfait de l'inflation contenue\"",
       "url": "https://www.franceinfo.fr/economie/inflation/le-ministre-des-pme-du-commerce-de-l-artisanat-du-tourisme-et-du-pouvoir-d-achat-satisfait-de-l-inflation-contenue_8129732.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'économie française \"tient bon, elle résiste\", se félicite Serge Papin sur franceinfo, après le rebond inattendu de la croissance au second trimestre."
+    },
+    {
+      "title": "L’info du jour | 1er août 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/08/01/linfo-du-jour-1er-aout-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 31 juillet 2026 - Soir",
@@ -97,14 +112,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 juillet 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "Les mots croisés d&#039;Alter Eco : « Il faut en voir pour croire au ruissellement ! »",
+      "url": "https://www.alternatives-economiques.fr/les-mots-croises-d-alter-eco-il-faut-en-voir-pour-croire-au-ruissellement_01-08-2026",
+      "summary": "Capitalisme, feuille de paie, dialogue social… Les mots de l'économie se déclinent aussi en cases blanches et noires. Croisez le fer avec Alter Eco ! Et envoyez-nous vos grilles."
+    },
+    {
       "title": "Avec l&#039;arrivée en France des « aperçus IA », Google fait trembler l’économie du Web",
       "url": "https://www.alternatives-economiques.fr/avec-l-arrivee-en-france-des-apercus-ia-google-fait-trembler-l-economie-du-web_31-07-2026",
       "summary": "L'apparition en France des « aperçus IA » sur Google, le 22 juillet dernier, devrait fragiliser encore plus les éditeurs de sites web, dont la presse. Un épisode supplémentaire de la grande transformation de l'économie d'Internet."
-    },
-    {
-      "title": "En Allemagne, la coalition gouvernementale tente de sauver la croissance au détriment des travailleurs",
-      "url": "https://www.alternatives-economiques.fr/en-allemagne-la-coalition-gouvernementale-tente-de-sauver-la-croissance-au-detriment-des_28-07-2026",
-      "summary": "En Allemagne, la CDU (droite) et le SPD (social-démocrate) se sont mis d’accord sur des réformes qui rappellent celles des années 2000. Mais elles ont peu de chances de se traduire par le même succès économique."
     }
   ]
 }
