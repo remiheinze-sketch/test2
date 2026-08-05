@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-05T01:39:38Z",
+  "updated_at": "2026-08-05T04:54:44Z",
   "articles": [
+    {
+      "title": "Crise de Ceuta : « Le Maroc n’a pas besoin d’un nouveau plan de développement, mais d’un nouveau contrat social »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/05/crise-de-ceuta-le-maroc-n-a-pas-besoin-d-un-nouveau-plan-de-developpement-mais-d-un-nouveau-contrat-social_6739350_3232.html",
+      "summary": "Fin juillet, près de 50 000 migrants venus du Maroc sont entrés dans l’enclave espagnole. Plutôt qu’une crise migratoire, il faut y voir l’échec du pacte de croissance mis en place par les élites marocaines, analyse l’économiste Jamal Bouoiyour dans une tribune au « Monde »."
+    },
     {
       "title": "Le Rhin à sec met l’économie allemande sous pression et menace de peser sur le PIB",
       "url": "https://www.lemonde.fr/economie/article/2026/08/04/le-rhin-a-sec-met-l-economie-allemande-sous-pression-et-menace-de-peser-sur-le-pib_6738284_3234.html",
@@ -10,11 +15,6 @@
       "title": "Droits de douane de Donald Trump : 25 Etats américains démocrates saisissent la justice",
       "url": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
       "summary": "Ces nouvelles surtaxes, de 10 % ou de 12,5 % selon les pays, sont entrées en vigueur le 24 juillet."
-    },
-    {
-      "title": "Les équipementiers Valeo et Forvia confirment l’inflexion du secteur automobile vers la défense",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/03/les-equipementiers-valeo-et-forvia-confirment-l-inflexion-du-secteur-automobile-vers-la-defense_6737330_3234.html",
-      "summary": "En pleine crise de leur secteur, les deux groupes français cherchent à diversifier leurs activités et à profiter de la hausse des budgets militaires en participant à la production de drones."
     },
     {
       "title": "Les exportations de services ont nettement augmenté grâce à la Coupe du monde: le déficit commercial américain s'est réduit de plus de 4 milliards de dollars en juin (mais c'est moins qu'anticipé)",
@@ -115,11 +115,6 @@
       "title": "Les mots croisés d&#039;Alter Eco : « Il faut en voir pour croire au ruissellement ! »",
       "url": "https://www.alternatives-economiques.fr/les-mots-croises-d-alter-eco-il-faut-en-voir-pour-croire-au-ruissellement_01-08-2026",
       "summary": "Capitalisme, feuille de paie, dialogue social… Les mots de l'économie se déclinent aussi en cases blanches et noires. Croisez le fer avec Alter Eco ! Et envoyez-nous vos grilles."
-    },
-    {
-      "title": "Avec l&#039;arrivée en France des « aperçus IA », Google fait trembler l’économie du Web",
-      "url": "https://www.alternatives-economiques.fr/avec-l-arrivee-en-france-des-apercus-ia-google-fait-trembler-l-economie-du-web_31-07-2026",
-      "summary": "L'apparition en France des « aperçus IA » sur Google, le 22 juillet dernier, devrait fragiliser encore plus les éditeurs de sites web, dont la presse. Un épisode supplémentaire de la grande transformation de l'économie d'Internet."
     }
   ]
 }
