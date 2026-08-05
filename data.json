@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-05T15:06:43Z",
+  "updated_at": "2026-08-05T17:18:41Z",
   "articles": [
+    {
+      "title": "Les investissements record de la tech américaine ne font plus rêver les marchés",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/05/les-investissements-record-de-la-tech-americaine-ne-font-plus-rever-les-marches_6739441_3234.html",
+      "summary": "La capacité des géants américains de convertir ces dépenses en profits n’est pas acquise. Le coût de la dette et le prix des puces mémoires, qui a sextuplé en 2025, rendent l’équation d’autant plus complexe."
+    },
     {
       "title": "Les incertitudes politiques et géopolitiques croissantes pèsent sur l’économie européenne",
       "url": "https://www.lemonde.fr/economie/article/2026/08/05/les-incertitudes-politiques-et-geopolitiques-croissantes-pesent-sur-l-economie-europeenne_6739431_3234.html",
@@ -32,11 +37,6 @@
       "summary": "Retrouvez le club de la Bourse du mercredi 5 août dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/3FRFMPgR1bNuAOhYecs07vIE4o0=/0x0:1280x720/800x0/images/Le-club-de-la-Bourse-Croissance-la-zone-euro-resiliente-au-T2-05-08-2329016.jpg\" />"
     },
     {
-      "title": "Canicule : comment se porte le marché des récoltes ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-canicule-comment-se-porte-le-marche-des-recoltes_VN-202608050172.html",
-      "summary": "\"On a une baisse de la production de blé tendre en France estimée à -8% en raison du déficit hydrique marqué et des fortes températures que nous avons eu sur mai et juin.\"<br /><br /><img src=\"https://images.bfmtv.com/_4zP-cp79uLpqbd49znYO70qCbM=/0x0:1280x720/800x0/images/Canicule-comment-se-porte-le-marche-des-recoltes-2329001.jpg\" />"
-    },
-    {
       "title": "Incendies, canicules, sécheresse… Pourquoi il est difficile de chiffrer l'impact des événements climatiques",
       "url": "https://www.franceinfo.fr/economie/incendies-canicules-secheresse-pourquoi-il-est-difficile-de-chiffrer-l-impact-des-evenements-climatiques_8135747.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les autorités, les assurances et les économistes peinent à évaluer précisément le coût des différents phénomènes qu'a connus la France en cette saison estivale. Les finances publiques seront, elles, clairement affectées."
@@ -45,6 +45,11 @@
       "title": "Cartes postales, bracelets, magnets… Allez-vous ramener des souvenirs de vos vacances ?",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/cartes-postales-bracelets-magnets-allez-vous-ramener-des-souvenirs-de-vos-vacances_8135570.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Ce sont des incontournables de la saison estivale : les souvenirs de vacances. Mais cet été, les touristes sont plus regardants sur leurs dépenses."
+    },
+    {
+      "title": "L’info du jour | 5 août 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/08/05/linfo-du-jour-5-aout-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Corée du Nord : Kim Yo Jong accuse le Japon de se transformer en \"État belliqueux\"",
