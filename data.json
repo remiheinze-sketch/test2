@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-06T15:06:39Z",
+  "updated_at": "2026-08-06T23:48:52Z",
   "articles": [
+    {
+      "title": "La dette française sous la menace d’un effet boule de neige",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/06/dette-la-france-sous-la-menace-d-un-effet-boule-de-neige_6739976_823448.html",
+      "summary": "Au premier semestre, les intérêts payés par l’Etat à ses créanciers ont bondi de 19 %, à 34,5 milliards d’euros. La France semble entrée dans un cycle long combinant faible croissance et dette de plus en plus coûteuse. Avec un risque d’emballement."
+    },
     {
       "title": "Les investissements record de la tech américaine ne font plus rêver les marchés",
       "url": "https://www.lemonde.fr/economie/article/2026/08/05/les-investissements-record-de-la-tech-americaine-ne-font-plus-rever-les-marches_6739441_3234.html",
@@ -25,6 +30,11 @@
       "title": "Elle crée un \"état d'alerte de sécurité nationale\": le Conseil constitutionnel valide la nouvelle loi de programmation militaire sans en censurer aucune mesure ni émettre aucune réserve",
       "url": "https://www.bfmtv.com/economie/entreprises/defense/elle-cree-un-nouvel-etat-d-alerte-de-securite-nationale-le-conseil-constitutionnel-valide-la-nouvelle-loi-de-programmation-militaire-sans-en-censurer-aucune-mesure-ni-emettre-aucune-reserve_AD-202608060228.html",
       "summary": "Le texte gouvernemental actualise la dernière loi de programmation militaire, avec une nouvelle trajectoire de 436 milliards d'euros pour le budget des Armées d'ici 2030.<br /><br /><img src=\"https://images.bfmtv.com/644Al8zg7UFDmXg4jL-ND-I03vs=/0x53:1024x629/800x0/images/Catherine-Vautrin-Senat-2293070.jpg\" />"
+    },
+    {
+      "title": "L’info du jour | 6 août 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/08/06/linfo-du-jour-6-aout-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 6 août 2026 - Mi-journée",
@@ -79,11 +89,6 @@
     {
       "title": "L’info du jour | 3 août 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/08/03/linfo-du-jour-3-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/03/linfo-du-jour-3-aout-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
