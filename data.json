@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-10T10:57:04Z",
+  "updated_at": "2026-08-10T11:42:33Z",
   "articles": [
+    {
+      "title": "Camille Dormoy, sociologue : « L’économie circulaire demande de reprendre le temps qu’on nous a appris à ne plus perdre »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/10/camille-dormoy-sociologue-l-economie-circulaire-demande-de-reprendre-le-temps-qu-on-nous-a-appris-a-ne-plus-perdre_6743267_3232.html",
+      "summary": "Dans une société fondée sur la vitesse, l’injonction à trier, réparer et valoriser les objets se heurte au manque de temps. Un angle mort des politiques publiques centrées sur les comportements, estime la chercheuse dans une tribune au « Monde »."
+    },
     {
       "title": "Revolut annonce l’obtention d’une licence bancaire en France",
       "url": "https://www.lemonde.fr/economie/article/2026/08/10/revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_6743157_3234.html",
@@ -120,11 +125,6 @@
       "title": "L’info du jour | 5 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/05/linfo-du-jour-5-aout-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Corée du Nord : Kim Yo Jong accuse le Japon de se transformer en \"État belliqueux\"",
-      "url": "http://fr.euronews.com/2026/08/05/coree-du-nord-kim-yo-jong-accuse-le-japon-de-se-transformer-en-etat-belliqueux",
-      "summary": "La sœur de Kim Jong Un hausse le ton à l'encontre de Tokyo. Le Japon s’éloigne progressivement de son pacifisme d’après-guerre, augmente ses dépenses militaires, renforce ses alliances et déploie des lance-missiles sur ses îles périphériques."
     },
     {
       "title": "Les mots croisés d&#039;Alter Eco : « Réalise le rêve du Medef »",
