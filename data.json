@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-11T17:47:55Z",
+  "updated_at": "2026-08-11T18:45:36Z",
   "articles": [
+    {
+      "title": "Les entreprises françaises encore peu affectées par les vagues de chaleur et les incendies",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/11/les-entreprises-francaises-encore-peu-affectees-par-les-vagues-de-chaleur-et-les-incendies_6744159_3234.html",
+      "summary": "L’activité des entreprises a un peu ralenti au mois de juillet, mais leurs dirigeants anticipent une légère amélioration en août, selon l’enquête mensuelle de la Banque de France qui suggère, à ce stade, une croissance de 0,2 % au troisième trimestre."
+    },
     {
       "title": "Budget 2027 : le gouvernement rouvre le dossier sensible du gel des pensions de retraite",
       "url": "https://www.lemonde.fr/politique/article/2026/08/11/budget-2027-le-gouvernement-rouvre-le-dossier-sensible-du-gel-des-pensions-de-retraite_6744021_823448.html",
@@ -17,9 +22,9 @@
       "summary": "Dans une « revue de dépenses » publiée fin juillet, l’inspection générale des finances et l’inspection générale de l’administration préconisent d’accentuer l’effort de rationalisation des primes. Elles étaient au nombre de 543 en 2025 pour un coût total de 19,1 milliards d’euros."
     },
     {
-      "title": "Camille Dormoy, sociologue : « L’économie circulaire demande de reprendre le temps qu’on nous a appris à ne plus perdre »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/10/camille-dormoy-sociologue-l-economie-circulaire-demande-de-reprendre-le-temps-qu-on-nous-a-appris-a-ne-plus-perdre_6743267_3232.html",
-      "summary": "Dans une société fondée sur la vitesse, l’injonction à trier, réparer et valoriser les objets se heurte au manque de temps. Un angle mort des politiques publiques centrées sur les comportements, estime la chercheuse dans une tribune au « Monde »."
+      "title": "Une croissance modeste de 0,2 % du PIB au troisième trimestre: malgré les prévisions optimistes, la Banque de France reste vigilante avec les futures vagues de chaleur qui pèsent sur l'économie",
+      "url": "https://www.bfmtv.com/economie/une-croissance-modeste-de-0-2-du-pib-au-troisieme-trimestre-malgre-les-previsions-optimistes-la-banque-de-france-reste-vigilante-avec-les-futures-vagues-de-chaleur-qui-pesent-sur-l-economie_AD-202608110484.html",
+      "summary": "La Banque de France anticipe 0,2% de croissance du produit intérieur brut (PIB) français au troisième trimestre, soutenue par un dynamisme des services marchands, mais plusieurs aléas dont de nouvelles vagues de chaleur pourraient peser sur cette prévision, selon une enquête publiée mardi.<br /><br /><img src=\"https://images.bfmtv.com/TSGTjCbLN3c0vudjr5iw-WRJ27Y=/0x37:2048x1189/800x0/images/Banque-de-France-2269464.jpg\" />"
     },
     {
       "title": "Ces compléments représentent 25% de leur salaire: un rapport préconise de faire le tri dans les 543 primes des agents publics (certaines concernent moins de 100 personnes)",
