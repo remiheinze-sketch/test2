@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-11T16:45:45Z",
+  "updated_at": "2026-08-11T17:47:55Z",
   "articles": [
+    {
+      "title": "Budget 2027 : le gouvernement rouvre le dossier sensible du gel des pensions de retraite",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/11/budget-2027-le-gouvernement-rouvre-le-dossier-sensible-du-gel-des-pensions-de-retraite_6744021_823448.html",
+      "summary": "Pour faire des économies, le gouvernement étudie la possibilité de désindexer de l’inflation les pensions de retraite les plus élevées. Rien n’est pour autant acté, assure l’exécutif, qui évoque des « hypothèses » de travail."
+    },
     {
       "title": "Au-delà des catastrophes, le changement climatique fragilise nos sociétés",
       "url": "https://www.lemonde.fr/idees/article/2026/08/11/au-dela-des-catastrophes-le-changement-climatique-fragilise-nos-societes_6743783_3232.html",
@@ -15,11 +20,6 @@
       "title": "Camille Dormoy, sociologue : « L’économie circulaire demande de reprendre le temps qu’on nous a appris à ne plus perdre »",
       "url": "https://www.lemonde.fr/idees/article/2026/08/10/camille-dormoy-sociologue-l-economie-circulaire-demande-de-reprendre-le-temps-qu-on-nous-a-appris-a-ne-plus-perdre_6743267_3232.html",
       "summary": "Dans une société fondée sur la vitesse, l’injonction à trier, réparer et valoriser les objets se heurte au manque de temps. Un angle mort des politiques publiques centrées sur les comportements, estime la chercheuse dans une tribune au « Monde »."
-    },
-    {
-      "title": "Revolut annonce l’obtention d’une licence bancaire en France",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/10/revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_6743157_3234.html",
-      "summary": "La banque en ligne britannique a connu ces dernières années une croissance fulgurante. Elle disposait déjà d’une licence en Lituanie et au Royaume-Uni."
     },
     {
       "title": "Ces compléments représentent 25% de leur salaire: un rapport préconise de faire le tri dans les 543 primes des agents publics (certaines concernent moins de 100 personnes)",
