@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-13T16:43:34Z",
+  "updated_at": "2026-08-13T17:48:55Z",
   "articles": [
+    {
+      "title": "La plateforme des impôts victime d’une cyberattaque",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
+      "summary": "Bercy confirme que le système d’information du fisc a été victime fin juin d’un « accès illégitime », permettant « la consultation et l’extraction de données concernant des particuliers et des professionnels »."
+    },
     {
       "title": "La Chine veut traquer ses ultrariches qui vivent à l’étranger, pour mieux les taxer",
       "url": "https://www.lemonde.fr/economie/article/2026/08/13/la-chine-veut-traquer-ses-ultrariches-qui-vivent-a-l-etranger-pour-mieux-les-taxer_6745542_3234.html",
@@ -10,11 +15,6 @@
       "title": "La facture des canicules risque d’être salée pour l’économie française : jusqu’à 15 milliards d’euros, selon la ministre de la transition écologique",
       "url": "https://www.lemonde.fr/economie/article/2026/08/12/la-facture-des-canicules-risque-d-etre-salee-pour-l-economie-francaise-jusqu-a-15-milliards-d-euros-selon-la-ministre-de-la-transition-ecologique_6745102_3234.html",
       "summary": "Les fortes chaleurs de l’été pourraient obérer jusqu’à un demi-point de croissance en 2026 si l’estimation dévoilée par Monique Barbut en ouverture d’une réunion de crise consacrée à la sécheresse, mercredi, se matérialisait."
-    },
-    {
-      "title": "Après l’incendie en Gironde, l’afflux massif de bois déstabilise la filière forestière des Landes de Gascogne",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/12/apres-l-incendie-en-gironde-l-afflux-massif-de-bois-destabilise-la-filiere-forestiere-des-landes-de-gascogne_6745059_3234.html",
-      "summary": "Environ 4 millions de tonnes de pins maritimes vont arriver sur le marché, soit près des deux tiers de la production annuelle du massif. De quoi bouleverser un secteur déjà touché par la faiblesse de la croissance économique et la tempête Nils."
     },
     {
       "title": "L'écologie est-elle la grande sacrifiée des deux quinquennats d'Emmanuel Macron, comme le répètent à l’envi les oppositions de gauche ?",
