@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-15T06:19:29Z",
+  "updated_at": "2026-08-15T07:20:58Z",
   "articles": [
-    {
-      "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
-      "summary": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données."
-    },
     {
       "title": "Voitures électriques: une nouvelle prime mise en place pour l’achat ou la location de véhicules d’occasion",
       "url": "https://www.bfmtv.com/economie/video-voitures-electriques-une-nouvelle-prime-mise-en-place-pour-l-achat-ou-la-location-de-vehicules-d-occasion_VN-202608150048.html",
@@ -20,6 +15,11 @@
       "title": "Cyberattaque de la plateforme des impôts: \"On fonce droit dans le mur\", déplore Centho, expert en cybersécurité",
       "url": "https://www.bfmtv.com/economie/video-cyberattaque-de-la-plateforme-des-impots-on-fonce-droit-dans-le-mur-deplore-centho-expert-en-cybersecurite_VN-202608140195.html",
       "summary": "Moins de 24 heures après la revendication d'une cyberattaque sur la plateforme des impôts sur des forums spécialisés, le ministère de l'Économie prend la parole et officialise la fuite de données très sensibles.<br /><br /><img src=\"https://images.bfmtv.com/8v05Aa-OMiwDxl-EnSpX0KAMN0k=/0x0:1280x720/800x0/images/Cyberattaque-de-la-plateforme-des-impots-On-fonce-droit-dans-le-mur-deplore-Centho-expert-en-cybersecurite-2332229.jpg\" />"
+    },
+    {
+      "title": "Le site des impôts victime d'une cyberattaque, les données de 678 000 personnes piratées",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-site-des-impots-victime-d-une-cyberattaque-les-donnees-de-678-000-personnes-piratees_8148470.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Fin juin, le site des impôts a été victime d’une cyberattaque permettant à un pirate d’accéder aux données de 678 000 usagers. Alors que d’autres attaques pourraient avoir porté le nombre de contribuables concernés à deux millions, les syndicats alertent sur les failles de sécurité de l’institution."
     },
     {
       "title": "Mode opératoire des pirates, risques d'usurpation d'identité... Les questions qui se posent après la cyberattaque contre le fisc",
@@ -40,11 +40,6 @@
       "title": "La question d'un gel partiel des retraites \"mérite d'être posée\" en vue du budget 2027, défend le ministre de l'Economie",
       "url": "https://www.franceinfo.fr/economie/budget/la-question-d-un-gel-partiel-des-retraites-merite-d-etre-posee-en-vue-du-budget-2027-defend-le-ministre-de-l-economie_8146724.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "En quête d'économies pour le prochain exercice budgétaire, Roland Lescure a plaidé, jeudi, pour une revalorisation des retraites moindre que l'inflation, à condition de \"préserver les retraités les plus modestes\"."
-    },
-    {
-      "title": "Le système d'information des impôts victime d'un piratage informatique, les données de contribuables exposées",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-impots-victimes-d-un-piratage-informatique-les-donnees-de-contribuables-exposees_8146649.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette confirmation du piratage par Bercy, près de deux mois après les faits, intervient au lendemain de la revendication par \"un acteur malveillant\" de cette intrusion dans le système informatique de la Direction générale des finances publiques."
     },
     {
       "title": "L’info du jour | 15 août 2026 - Matin",
