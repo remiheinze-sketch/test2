@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-15T04:19:32Z",
+  "updated_at": "2026-08-15T05:15:39Z",
   "articles": [
     {
       "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
       "summary": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données."
+    },
+    {
+      "title": "Voitures électriques: une nouvelle prime mise en place pour l’achat ou la location de véhicules d’occasion",
+      "url": "https://www.bfmtv.com/economie/video-voitures-electriques-une-nouvelle-prime-mise-en-place-pour-l-achat-ou-la-location-de-vehicules-d-occasion_VN-202608150048.html",
+      "summary": "Le gouvernement a acté la mise en place d’une nouvelle prime pour l’achat ou la location de véhicules électriques d’occasion, à compter du 1er septembre. Une aide de plus, donc une ligne en plus sur le budget de l’État ? <br /><br /><img src=\"https://images.bfmtv.com/byCzYbNAoB79gQAuxseq7ghwcIE=/0x0:1280x720/800x0/images/Voitures-electriques-une-nouvelle-prime-mise-en-place-pour-l-achat-ou-la-location-de-vehicules-d-occasion-2332539.jpg\" />"
     },
     {
       "title": "Un rapport propose de supprimer les APL pour les jeunes dont les parents ont les moyens: des organisations étudiantes redoutent une grave perte d'autonomie, surtout en cas de rupture familiale",
@@ -15,11 +20,6 @@
       "title": "Cyberattaque de la plateforme des impôts: \"On fonce droit dans le mur\", déplore Centho, expert en cybersécurité",
       "url": "https://www.bfmtv.com/economie/video-cyberattaque-de-la-plateforme-des-impots-on-fonce-droit-dans-le-mur-deplore-centho-expert-en-cybersecurite_VN-202608140195.html",
       "summary": "Moins de 24 heures après la revendication d'une cyberattaque sur la plateforme des impôts sur des forums spécialisés, le ministère de l'Économie prend la parole et officialise la fuite de données très sensibles.<br /><br /><img src=\"https://images.bfmtv.com/8v05Aa-OMiwDxl-EnSpX0KAMN0k=/0x0:1280x720/800x0/images/Cyberattaque-de-la-plateforme-des-impots-On-fonce-droit-dans-le-mur-deplore-Centho-expert-en-cybersecurite-2332229.jpg\" />"
-    },
-    {
-      "title": "Les prix du gaz et des produits pétroliers ont fortement augmenté: l'Insee confirme que l'inflation a accéléré à 2,1% sur un an en juillet",
-      "url": "https://www.bfmtv.com/economie/les-prix-du-gaz-et-des-produits-petroliers-ont-fortement-augmente-l-insee-confirme-que-l-inflation-a-accelere-a-2-1-sur-un-an-en-juillet_AD-202608140185.html",
-      "summary": "Tirés par des hausses de l'énergie et des services, les prix à la consommation ont augmenté de 2,1% sur un an en juillet, après 1,8% en juin, a confirmé l'Insee.<br /><br /><img src=\"https://images.bfmtv.com/PVXgXBOu2pbJmQ80FxF20PHABkM=/0x34:768x466/800x0/images/Bercy-a-dit-vendredi-anticiper-une-hausse-des-factures-de-gaz-de-certains-consommateurs-francais-ceux-qui-n-ont-pas-de-contrat-en-offre-a-prix-fixe-a-partir-du-1er-mai-en-raison-du-mode-d-indexation-de-leurs-contrats-2247990.jpg\" />"
     },
     {
       "title": "Mode opératoire des pirates, risques d'usurpation d'identité... Les questions qui se posent après la cyberattaque contre le fisc",
