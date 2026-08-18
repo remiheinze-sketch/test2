@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T04:24:41Z",
+  "updated_at": "2026-08-18T05:19:19Z",
   "articles": [
+    {
+      "title": "Septembre, un mois redouté pour le budget des familles",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/18/septembre-un-mois-redoute-pour-le-budget-des-familles_6748730_3234.html",
+      "summary": "La période est, pour la majorité des parents, perçue comme propice aux augmentations de dépenses. Pour nombre de ménages, le versement de l’allocation de rentrée scolaire est une aide indispensable."
+    },
     {
       "title": "Rentrée scolaire : pourquoi les prix des fournitures sont en baisse, mais devraient augmenter après septembre",
       "url": "https://www.lemonde.fr/economie/article/2026/08/18/rentree-scolaire-pourquoi-les-prix-des-fournitures-sont-en-baisse-mais-devraient-augmenter-apres-septembre_6748682_3234.html",
@@ -32,11 +37,6 @@
       "summary": "Jamie Dimon, le patron de la banque américaine JP Morgan, a prévenu le ministre des Finances britannique qu'une hausse des impôts sur les bénéfices des banques, très élevés cette année, pourrait provoquer des délocalisations d'emplois.<br /><br /><img src=\"https://images.bfmtv.com/jvKhyiqBVnlt82QAim6JAyEd1eg=/7x0:1239x693/800x0/images/-467529.jpg\" />"
     },
     {
-      "title": "LES ÉCLAIREURS - Ce que l'on sait du piratage du site des impôts",
-      "url": "https://www.bfmtv.com/economie/video-les-eclaireurs-ce-que-l-on-sait-du-piratage-du-site-des-impots_VN-202608170241.html",
-      "summary": "Dès ce lundi, la Direction générale des Finances publiques commencera à prévenir les Français concernés par la cyberattaque contre le site des impôts, qui a touché 678.000 personnes. <br /><br /><img src=\"https://images.bfmtv.com/4rZCc8EbTUnj6q6H6diKYRaxhcM=/0x0:1280x720/800x0/images/LES-ECLAIREURS-Ce-que-l-on-sait-du-piratage-du-site-des-impots-2333120.jpg\" />"
-    },
-    {
       "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
       "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-quels-sont-les-risques-pour-les-contribuables-concernes_8150696.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Ce lundi 17 août, nombre contribuables vont enfin savoir si leurs données d'impôts ont été piratées. Les autorités doivent contacter individuellement chaque victime : au total, 678 000 particuliers et professionnels sont concernés. Le Premier ministre présidera dans l'après-midi une cellule interministérielle de crise. La section cyber du parquet de Paris a ouvert une enquête."
@@ -45,6 +45,11 @@
       "title": "À la recherche d'économies, le gouvernement réfléchit à mettre à contribution les retraités les plus aisés",
       "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/a-la-recherche-d-economies-le-gouvernement-reflechit-a-mettre-a-contribution-les-retraites-les-plus-aises_8123756.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le ministre de l'Économie Roland Lescure a rouvert jeudi dernier l'hypothèse d'un gel partiel des pensions de retraite pour générer des économies dans le budget 2027. À huit mois de la présidentielle, dans la classe politique, tous bords confondus, la défense des retraités s’organise."
+    },
+    {
+      "title": "Zambie : Hakainde Hichilema est réélu avec 60 % des voix, selon les autorités",
+      "url": "http://fr.euronews.com/2026/08/18/zambie-hakainde-hichilema-est-reelu-avec-60-des-voix-selon-les-autorites",
+      "summary": "Élections en Zambie : un référendum sur le premier mandat de Hichilema et le retour de la croissance"
     },
     {
       "title": "L’info du jour | 17 août 2026 - Soir",
@@ -94,11 +99,6 @@
     {
       "title": "L’info du jour | 14 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/14/linfo-du-jour-14-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 14 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/14/linfo-du-jour-14-aout-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
