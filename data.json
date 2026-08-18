@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-18T11:15:14Z",
+  "updated_at": "2026-08-18T12:22:37Z",
   "articles": [
+    {
+      "title": "EN DIRECT, piratage du site des impôts : quels risques ? Quelles responsabilités ? Qui est concerné ? Posez vos questions",
+      "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
+      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Des pirates informatiques ayant revendiqué le vol de données affirment les avoir revendues. Nos journalistes répondent à vos questions à partir de 14 h 30."
+    },
     {
       "title": "Piratage du site des impôts : la direction générale des finances publiques a informé les contribuables concernés",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
-      "summary": "Le courriel envoyé aux personnes concernées précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration."
+      "summary": "Le courriel envoyé par la direction générale des finances publiques précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration."
     },
     {
       "title": "Septembre, un mois redouté pour le budget des familles",
@@ -15,6 +20,11 @@
       "title": "Rentrée scolaire : pourquoi les prix des fournitures sont en baisse, mais devraient augmenter après septembre",
       "url": "https://www.lemonde.fr/economie/article/2026/08/18/rentree-scolaire-pourquoi-les-prix-des-fournitures-sont-en-baisse-mais-devraient-augmenter-apres-septembre_6748682_3234.html",
       "summary": "Le versement de l’allocation de rentrée scolaire aux familles éligibles, mardi 18 août, lance la saison des achats de trousses, cahiers, classeurs et stylos. Les ventes sont pourtant en recul malgré des offres intéressantes, alors que les tensions au Moyen-Orient devraient relancer l’inflation sur ces produits à la fin de l’année."
+    },
+    {
+      "title": "Le taux d'intérêt de la dette française continue de grimper au-dessus des 4%: le rendement des obligations à dix ans a atteint son plus haut niveau depuis novembre 2008",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-taux-d-interet-de-la-dette-francaise-continue-de-grimper-au-dessus-des-4-le-rendement-des-obligations-a-dix-ans-a-atteint-son-plus-haut-niveau-depuis-novembre-2008_AD-202608180319.html",
+      "summary": "Les taux d'intérêt sont revus à la hausse dans la plupart des grandes économies mondiales, notamment en raison du prix élevé du pétrole, une conséquence de la guerre au Moyen-Orient.<br /><br /><img src=\"https://images.bfmtv.com/X0K7LhBuEu36gRgqBK0s2gP_L2U=/0x40:768x472/800x0/images/La-commission-des-comptes-de-la-Securite-sociale-se-reunit-a-Bercy-pour-reflechir-aux-leviers-d-un-retour-a-l-equilibre-financier-2091379.jpg\" />"
     },
     {
       "title": "\"Si on a un seuil de pension bas, cela toucherait des retraités pas si aisés que cela\": la piste inflammable du gel partiel des retraites revient dans le débat budgétaire pour économiser plusieurs milliards d'euros",
@@ -32,9 +42,9 @@
       "summary": "Ce mardi 18 août, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Mabrouk Chetouane, responsable de la stratégie globale de marché chez Natixis Investment Manager, et François Dossou, directeur de la gestion actions chez Sienna IM, étaient les invités dans l'émission Good Morning Market, présentée par Étienne Bracq, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/79ObExyY_Fs9IpKGud4FjK6liIo=/0x0:1280x720/800x0/images/L-integrale-de-Good-Morning-Market-du-mardi-18-aout-2333526.jpg\" />"
     },
     {
-      "title": "Après 2,8% en juin, elle passe à 3% en juillet: l'inflation poursuit sa hausse au Canada, sous l'effet de la remontée des prix des carburants et de la Coupe du Monde",
-      "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-      "summary": "L'inflation a accéléré à 3% sur un an en juillet au Canada, selon des données officielles publiées lundi 17 août. De nouveaux droits de douane punitifs américains sur plusieurs produits canadiens doivent également entrer en vigueur ce 19 août, ce qui introduit un nouveau degré d'incertitude. <br /><br /><img src=\"https://images.bfmtv.com/2PKy7zHA7Xr_faaABTpBZcY-Djw=/0x106:2048x1258/800x0/images/Le-Premier-ministre-du-Canada-Mark-Carney-s-exprime-lors-d-une-declaration-a-la-presse-en-marge-du-sommet-annuel-de-l-OTAN-au-complexe-presidentiel-d-Ankara-en-Turquie-le-8-juillet-2026-2326831.jpg\" />"
+      "title": "Le taux d'intérêt de la dette française au plus haut niveau depuis 2008",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/le-taux-d-interet-de-la-dette-francaise-au-plus-haut-niveau-depuis-2008_8152160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La dette publique fait les frais de la hausse généralisée des taux d'intérêt dans les grandes économies mondiales, sur fond de prix du pétrole durablement élevés du fait de la guerre au Moyen-Orient."
     },
     {
       "title": "Agriculture, incendies, budget... Le \"8h30 franceinfo\" d'Annie Genevard",
