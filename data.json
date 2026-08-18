@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-18T12:22:37Z",
+  "updated_at": "2026-08-18T13:34:31Z",
   "articles": [
     {
-      "title": "EN DIRECT, piratage du site des impôts : quels risques ? Quelles responsabilités ? Qui est concerné ? Posez vos questions",
+      "title": "EN DIRECT, piratage du site des impôts : « La vague récente de vols de données est spectaculaire, mais l’Etat n’est pas inactif : les auteurs de ces piratages finissent en général par être interpellés »",
       "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
-      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Des pirates informatiques ayant revendiqué le vol de données affirment les avoir revendues. Nos journalistes répondent à vos questions à partir de 14 h 30."
+      "summary": "L’administration fiscale s’est fait voler des données liées aux impôts de centaines de milliers de Français. Les mêmes pirates informatiques ont revendiqué, lundi, le piratage d’informations personnelles de millions d’élèves. Nos journalistes répondent à vos questions."
     },
     {
       "title": "Piratage du site des impôts : la direction générale des finances publiques a informé les contribuables concernés",
@@ -20,6 +20,11 @@
       "title": "Rentrée scolaire : pourquoi les prix des fournitures sont en baisse, mais devraient augmenter après septembre",
       "url": "https://www.lemonde.fr/economie/article/2026/08/18/rentree-scolaire-pourquoi-les-prix-des-fournitures-sont-en-baisse-mais-devraient-augmenter-apres-septembre_6748682_3234.html",
       "summary": "Le versement de l’allocation de rentrée scolaire aux familles éligibles, mardi 18 août, lance la saison des achats de trousses, cahiers, classeurs et stylos. Les ventes sont pourtant en recul malgré des offres intéressantes, alors que les tensions au Moyen-Orient devraient relancer l’inflation sur ces produits à la fin de l’année."
+    },
+    {
+      "title": "Les États-Unis n'avaient plus emprunté aussi cher depuis juin 2007: les taux à long terme s'envolent et les marchés s'inquiètent",
+      "url": "https://www.bfmtv.com/economie/international/les-etats-unis-n-avaient-plus-emprunte-aussi-cher-depuis-juin-2007-les-taux-a-long-terme-s-envolent-et-les-marches-s-inquietent_AV-202608180340.html",
+      "summary": "Les taux des obligations souveraines à 30 ans flambent partout dans le monde, sous la pression de l’inflation, des tensions géopolitiques et de déficits publics persistants. Ce retournement de tendance pourrait s'avérer durable.<br /><br /><img src=\"https://images.bfmtv.com/UnWnU1cXDIMSXXBwNviLNyAPJs8=/4x33:596x366/800x0/images/Wall-Street-chute-2062009.jpg\" />"
     },
     {
       "title": "Le taux d'intérêt de la dette française continue de grimper au-dessus des 4%: le rendement des obligations à dix ans a atteint son plus haut niveau depuis novembre 2008",
@@ -42,6 +47,11 @@
       "summary": "Ce mardi 18 août, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Mabrouk Chetouane, responsable de la stratégie globale de marché chez Natixis Investment Manager, et François Dossou, directeur de la gestion actions chez Sienna IM, étaient les invités dans l'émission Good Morning Market, présentée par Étienne Bracq, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/79ObExyY_Fs9IpKGud4FjK6liIo=/0x0:1280x720/800x0/images/L-integrale-de-Good-Morning-Market-du-mardi-18-aout-2333526.jpg\" />"
     },
     {
+      "title": "Piratage du fisc : comment repérer et éviter facilement les arnaques si vos données ont été dérobées",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-comment-reperer-et-eviter-facilement-les-arnaques-si-vos-donnees-ont-ete-derobees_8152238.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Comment améliorer la sécurité informatique des plateformes de service public ? Le gouvernement lance un audit après le piratage du site des impôts. Bercy a pour l'heure contacté la moitié des 700 000 contribuables touchés par ce vol de données. Et si vous êtes approchés par des malfaiteurs, il existe des astuces pour déjouer les arnaques."
+    },
+    {
       "title": "Le taux d'intérêt de la dette française au plus haut niveau depuis 2008",
       "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/le-taux-d-interet-de-la-dette-francaise-au-plus-haut-niveau-depuis-2008_8152160.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La dette publique fait les frais de la hausse généralisée des taux d'intérêt dans les grandes économies mondiales, sur fond de prix du pétrole durablement élevés du fait de la guerre au Moyen-Orient."
@@ -55,71 +65,6 @@
       "title": "\"Les retraites représentant un quart de la totalité des dépenses publiques, il est difficile de ne pas y toucher\", estime l'économiste Bertrand Martinot",
       "url": "https://www.franceinfo.fr/economie/retraite/les-retraites-representant-un-quart-de-la-totalite-des-depenses-publiques-il-est-difficile-de-ne-pas-y-toucher-estime-l-economiste-bertrand-martinot_8151854.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Expert associé à l'Institut Montaigne et auteur de \"'J'ai cotisé, j'y ai droit !' : Mensonges et vérités sur les retraites\" (éditions Hermann), Bertrand Martinot revient dans \"La Matinale\" du 18 août sur l'épineuse question de la désindexation des retraites pour les plus aisés, qui pourrait bien occuper une place centrale dans le prochain budget."
-    },
-    {
-      "title": "L’info du jour | 18 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/18/linfo-du-jour-18-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Zambie : Hakainde Hichilema est réélu avec 60 % des voix, selon les autorités",
-      "url": "http://fr.euronews.com/2026/08/18/zambie-hakainde-hichilema-est-reelu-avec-60-des-voix-selon-les-autorites",
-      "summary": "Élections en Zambie : un référendum sur le premier mandat de Hichilema et le retour de la croissance"
-    },
-    {
-      "title": "L’info du jour | 18 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/18/linfo-du-jour-18-aout-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/17/linfo-du-jour-17-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/17/linfo-du-jour-17-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 17 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/17/linfo-du-jour-17-aout-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/16/linfo-du-jour-16-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/16/linfo-du-jour-16-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 16 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/16/linfo-du-jour-16-aout-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/15/linfo-du-jour-15-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/15/linfo-du-jour-15-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 15 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/15/linfo-du-jour-15-aout-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 14 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/14/linfo-du-jour-14-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Les mots croisés d&#039;Alter Eco : « Qualité de chef permettant de cheffer »",
