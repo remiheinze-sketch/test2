@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-19T03:37:12Z",
+  "updated_at": "2026-08-19T04:26:01Z",
   "articles": [
+    {
+      "title": "La crise au Moyen-Orient renforce l’ambition de Turkish Airlines de devenir l’une des premières compagnies mondiales",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/19/la-crise-au-moyen-orient-renforce-l-ambition-de-turkish-airlines-de-devenir-l-une-des-premieres-compagnies-mondiales_6749464_3234.html",
+      "summary": "Profitant des difficultés de ses concurrents du golfe Arabo-Persique, fragilisés par le conflit en Iran, le transporteur turc poursuit sa forte croissance, qui s’appuie sur de nombreuses livraisons d’avions à venir et l’efficacité de l’aéroport d’Istanbul."
+    },
+    {
+      "title": "Les Etats-Unis suspendent les surtaxes douanières de 50 % envers le Canada après la conclusion d’un accord",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-suspendent-les-surtaxes-douanieres-de-50-envers-le-canada-apres-la-conclusion-d-un-accord_6749460_3210.html",
+      "summary": "Ces nouveaux droits de douane, qui devaient entrer en vigueur mercredi matin, sont suspendus pour trois jours. Ils portaient sur l’équivalent de 20 milliards de dollars d’importations canadiennes et concernaient des produits aussi variés que le ciment, les crosses de hockey sur glace ou la bière."
+    },
     {
       "title": "Piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
       "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
@@ -50,6 +60,11 @@
       "title": "L'intégrale de Good Morning Market du mardi 18 août",
       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-integrale-de-good-morning-market-du-mardi-18-aout_VN-202608180188.html",
       "summary": "Ce mardi 18 août, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Mabrouk Chetouane, responsable de la stratégie globale de marché chez Natixis Investment Manager, et François Dossou, directeur de la gestion actions chez Sienna IM, étaient les invités dans l'émission Good Morning Market, présentée par Étienne Bracq, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://images.bfmtv.com/79ObExyY_Fs9IpKGud4FjK6liIo=/0x0:1280x720/800x0/images/L-integrale-de-Good-Morning-Market-du-mardi-18-aout-2333526.jpg\" />"
+    },
+    {
+      "title": "\"C'est le chantier de fond de la rentrée\" : comment Sébastien Lecornu prépare le budget 2027, le dernier avant l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Avant la présentation du projet de loi de finances le 30 septembre, le Premier ministre doit trouver la formule magique pour trouver des économies sans risquer d'être renversé."
     },
     {
       "title": "Allocation de rentrée scolaire : les clichés ont la peau dure",
