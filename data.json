@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-20T02:10:27Z",
+  "updated_at": "2026-08-20T03:37:16Z",
   "articles": [
+    {
+      "title": "Aux Etats-Unis, la demande de capitaux pour l’IA et la défense provoque un début de crise de la dette",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/20/aux-etats-unis-la-demande-de-capitaux-pour-l-ia-et-la-defense-provoque-un-debut-de-crise-de-la-dette_6750441_3234.html",
+      "summary": "Le déficit budgétaire américain, qui continue de se creuser, et les investissements colossaux dans l’intelligence artificielle alimentent une hausse des taux d’intérêt sur le marché de la dette. Le Trésor s’efforce d’apaiser les craintes des investisseurs."
+    },
     {
       "title": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars",
       "url": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
@@ -15,21 +20,6 @@
       "title": "Les Etats-Unis suspendent les surtaxes douanières de 50 % vis-à-vis du Canada après la conclusion d’un accord",
       "url": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-suspendent-les-surtaxes-douanieres-de-50-envers-le-canada-apres-la-conclusion-d-un-accord_6749460_3210.html",
       "summary": "Ces nouveaux droits de douane, qui devaient entrer en vigueur mercredi matin, sont suspendus pour trois jours. Ils portaient sur l’équivalent de 20 milliards de dollars d’importations canadiennes et concernaient des produits aussi variés que le ciment, les crosses de hockey sur glace ou la bière."
-    },
-    {
-      "title": "Piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
-      "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
-      "summary": "David Amiel, ministre de l’action et des comptes publics, a présenté des « excuses » pour le piratage d’ampleur de la Direction générale des finances publiques (DGFiP) qui a abouti au vol des données personnelles de quelque 700 000 particuliers et entreprises."
-    },
-    {
-      "title": "Piratage du site des impôts : la DGFiP va informer les contribuables concernés",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/piratage-du-site-des-impots-la-direction-generale-des-finances-publiques-a-informe-les-contribuables-concernes_6749005_4408996.html",
-      "summary": "Le courriel envoyé par la direction générale des finances publiques précise que l’attaque a reposé sur l’utilisation d’identifiants usurpés : ceux d’un agent de la DGFiP ont été combinés à ceux d’un tiers habilité par l’administration."
-    },
-    {
-      "title": "Septembre, un mois redouté pour le budget d’une grande partie des familles",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/18/septembre-un-mois-redoute-pour-le-budget-des-familles_6748730_3234.html",
-      "summary": "La période est, pour la majorité des parents, perçue comme propice aux augmentations de dépenses. Pour nombre de ménages, le versement de l’allocation de rentrée scolaire est une aide indispensable."
     },
     {
       "title": "La France n'a pas fini d'être perçue \"comme le point de fragilité de la zone euro en termes d'endettement\": pourquoi la flambée du coût de la dette française va encore plus compliquer le budget 2027",
