@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T12:24:34Z",
+  "updated_at": "2026-08-21T13:36:48Z",
   "articles": [
+    {
+      "title": "Droits de douane : Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
+      "summary": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours."
+    },
     {
       "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
       "url": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
@@ -15,11 +20,6 @@
       "title": "Aux Etats-Unis, la demande de capitaux pour l’IA et la défense provoque un début de crise de la dette",
       "url": "https://www.lemonde.fr/economie/article/2026/08/20/aux-etats-unis-la-demande-de-capitaux-pour-l-ia-et-la-defense-provoque-un-debut-de-crise-de-la-dette_6750441_3234.html",
       "summary": "Le déficit budgétaire américain, qui continue de se creuser, et les investissements colossaux dans l’intelligence artificielle alimentent une hausse des taux d’intérêt sur le marché de la dette. Le Trésor s’efforce d’apaiser les craintes des investisseurs."
-    },
-    {
-      "title": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
-      "summary": "La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt."
     },
     {
       "title": "Il veut faire baisser les prix avant les élections de mi-mandat: Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf",
@@ -42,9 +42,9 @@
       "summary": "\"Sous loi spéciale, l'État peut toujours percevoir les impôts, emprunter et financer les dépenses indispensables. Mais impossible de voter de nouvelles mesures fiscales ou de freiner certaines dépenses.\"<br /><br /><img src=\"https://images.bfmtv.com/dmNwdBNLXrucbJMjQihUfy-zRW8=/0x0:1280x720/800x0/images/Budget-2027-le-scenario-noir-de-la-loi-speciale-2334754.jpg\" />"
     },
     {
-      "title": "L'avertissement de la direction générale des finances publiques : le non-vote d'un budget aura de lourdes conséquences pour la France",
+      "title": "Le non-vote d'un budget aura de lourdes conséquences pour la France, avertit un rapport",
       "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-avertissement-de-la-direction-generale-des-finances-publiques-le-non-vote-d-un-budget-aura-de-lourdes-consequences-pour-la-france_8129801.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Une prolongation de la loi spéciale pourrait aggraver le déficit et fortement limiter la marge de manœuvre du prochain gouvernement, explique la DGFiP dans un rapport à l'adresse de la classe politique."
+      "summary": "Une prolongation de la loi spéciale pourrait aggraver le déficit et fortement limiter la marge de manœuvre du prochain gouvernement, explique l'Inspection générale des finances dans un rapport à l'adresse de la classe politique."
     },
     {
       "title": "À Cuba, ils font les poubelles pour \"survivre\"",
@@ -55,11 +55,6 @@
       "title": "Crise du Covid, baisses d'impôts, gestion des droits de douane, guerre en Iran... Comment la dette américaine a atteint la somme faramineuse de 40 000 milliards de dollars",
       "url": "https://www.franceinfo.fr/monde/usa/crise-du-covid-baisses-d-impots-gestion-des-droits-de-douane-guerre-en-iran-comment-la-dette-americaine-a-atteint-la-somme-faramineuse-de-40-000-milliards-de-dollars_8155067.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La dette grossit de l'autre côté de l'Atlantique depuis 20 ans, sans pour autant inquiéter ni ses dirigeants ni ses créanciers en raison des différentes solutions à disposition du pays."
-    },
-    {
-      "title": "Retour de vacances : rouler coûte-t-il plus cher en électrique ou en thermique ?",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/retour-de-vacances-rouler-coute-t-il-plus-cher-en-thermique-qu-en-electrique_8155007.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les routes seront chargées ce week-end pour le retour des vacances. Avec la hausse des prix de l'essence, faut-il passer à l'électrique pour faire des économies ? France Télévisions a comparé les deux options sur un même trajet entre le Var et la Normandie."
     },
     {
       "title": "L’info du jour | 21 août 2026 - Mi-journée",
@@ -109,11 +104,6 @@
     {
       "title": "L’info du jour | 18 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/18/linfo-du-jour-18-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/18/linfo-du-jour-18-aout-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
