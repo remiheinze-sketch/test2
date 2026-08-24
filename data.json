@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T02:15:51Z",
+  "updated_at": "2026-08-24T03:43:49Z",
   "articles": [
+    {
+      "title": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
+      "summary": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial."
+    },
     {
       "title": "Mark Carney dénonce la « guerre » commerciale lancée par Donald Trump contre le Canada et s’inquiète de « menaces contre la langue française »",
       "url": "https://www.lemonde.fr/international/article/2026/08/23/mark-carneye-denonce-la-guerre-commerciale-lancee-par-donald-trump-contre-le-canada-et-s-inquiete-de-menaces-contre-la-langue-francaise_6753507_3211.html",
@@ -15,11 +20,6 @@
       "title": "Droits de douane : pas d’accord de dernière minute entre le Canada et les Etats-Unis ; Ottawa imposera des surtaxes d’un même montant, « au dollar près », affirme Mark Carney",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/apres-l-echec-des-negociations-de-la-derniere-chance-les-nouveaux-droits-de-douane-americains-entrent-en-vigueur-contre-le-canada_6752728_3210.html",
       "summary": "Faute d’entente entre les deux pays, les nouveaux droits de douane de 50 % voulus par Donald Trump contre un certain nombre de produits canadiens sont entrés en vigueur samedi."
-    },
-    {
-      "title": "Droits de douane : Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf",
-      "url": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
-      "summary": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours."
     },
     {
       "title": "Budget 2027: \"Je ne crois pas un instant, qu'à quelques mois de la présidentielle, on ne vote pas un budget\", assure Jean-Hervé Lorenzi, fondateur du Cercle des économistes",
