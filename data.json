@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-26T12:28:36Z",
+  "updated_at": "2026-08-26T13:44:25Z",
   "articles": [
     {
-      "title": "Budget 2027 : Bruno Le Maire se dit favorable à une taxation des « plus grosses fortunes »",
+      "title": "Alexis Spire, sociologue : « Lorsqu’il délègue au privé, l’Etat évalue les économies, mais rarement les risques de fraude »",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/26/alexis-spire-sociologue-lorsqu-il-delegue-au-prive-l-etat-evalue-les-economies-mais-rarement-les-risques-de-fraude_6757376_3224.html",
+      "summary": "Dans un entretien au « Monde », le directeur de recherche au CNRS, spécialiste des transformations de l’Etat et auteur de recherches sur les fraudes, alerte sur les effets pervers de la délégation de plus en plus importante au privé des tâches non régaliennes."
+    },
+    {
+      "title": "Budget 2027 : Bruno Le Maire, ex-ministre de l’économie, se dit favorable à une taxation des « plus grosses fortunes »",
       "url": "https://www.lemonde.fr/politique/article/2026/08/26/budget-2027-bruno-lemaire-se-dit-favorable-a-une-taxation-des-plus-grosses-fortunes_6757357_823448.html",
       "summary": "Interrogé sur BFM-TV à propos de la situation économique du pays, l’ancien ministre de l’économie d’Emmanuel Macron a réclamé « de l’efficacité pour lutter contre la dérive des comptes ». Il a aussi estimé nécessaire de désindexer de l’inflation les pensions de retraite, le barème de l’impôt sur le revenu et les minima sociaux."
     },
@@ -22,9 +27,19 @@
       "summary": "Le ministère des finances pourrait profiter du budget 2027 pour suspendre l’éligibilité de certains ETF, des fonds indiciels cotés, au plan d’épargne en actions. Des fonds auxquels on reproche de contourner les règles du dispositif."
     },
     {
-      "title": "DIRECT. REF 2026: à huit mois de l'élection présidentielle, le Medef ouvre sa Rencontre des Entrepreneurs de France sous le thème du \"courage\"",
+      "title": "DIRECT. REF 2026: Retraite à 60 ans, 35 heures, politique du logement… Patrick Martin dresse la \"longue liste des erreurs\" de l’État au cours des dernières années",
       "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-a-huit-mois-de-l-election-presidentielle-le-medef-ouvre-sa-rencontre-des-entrepreneurs-de-france-sous-le-theme-du-courage_LN-202608260331.html",
-      "summary": "La Rencontre des Entrepreneurs de France (REF) s'ouvre mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WdQclg1FotjcMSauU4BLV63WxZA=/0x39:768x471/800x0/images/Le-president-du-Medef-Patrick-Martin-lors-de-l-evenement-annuel-de-l-organisation-patronale-la-REF-le-28-aout-2025-a-Paris-2215315.jpg\" />"
+      "summary": "La Rencontre des Entrepreneurs de France (REF) s'ouvre mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1SFP1W81Wie13AV8ZPlSth4yWPQ=/0x0:2048x1152/800x0/images/Patrick-Martin-REF-2026-2337307.jpg\" />"
+    },
+    {
+      "title": "Présidentielle : les patrons attendent du concret",
+      "url": "https://www.bfmtv.com/economie/video-presidentielle-les-patrons-attendent-du-concret_VN-202608260472.html",
+      "summary": "Patrick Martin s'exprime sur les résultats d'enquêtes du Medef auprès des entrepreneurs. Il déclare que bon nombre d'entre eux sont inquiets face à la politique économique de la France et à sa crise politique. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IeammJjvjJm2WCPQ063jXZ23pKo=/0x0:1280x720/800x0/images/Presidentielle-les-patrons-attendent-du-concret-2337290.jpg\" />"
+    },
+    {
+      "title": "À l’approche du budget 2027, les chefs d’entreprise redoutent de nouvelles hausses d’impôts",
+      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/video-a-l-approche-du-budget-2027-les-chefs-d-entreprise-redoutent-de-nouvelles-hausses-d-impots_VN-202608260462.html",
+      "summary": "Alors que les débats budgétaires s'annoncent à l'horizon, le patronat appelle à ne pas encore alourdir la charge sur les \"entreprises les plus taxées au monde\". \"Depuis la dissolution [de l'Assemblée nationale], on a des politiques publiques, et en particulier économiques, fiscales et sociales, qui sont très dissuasives pour les entreprises\", a déploré ce mercredi matin le président du Medef, Patrick Martin, sur France Inter.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iKcgj8uVupLSMCm5CyWLE6NRsbA=/0x0:1280x720/800x0/images/A-l-approche-du-budget-2027-les-chefs-d-entreprise-redoutent-de-nouvelles-hausses-d-impots-2337277.jpg\" />"
     },
     {
       "title": "INFOGRAPHIES. 4,14% en France, 3,21% en Allemagne et même 4,56% aux États-Unis… Pourquoi les taux d’emprunt des États s’envolent au plus haut depuis la crise de 2008",
@@ -45,46 +60,6 @@
       "title": "Ouverture de la REF dans un climat de défiance",
       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-ouverture-de-la-ref-dans-un-climat-de-defiance_VN-202608260364.html",
       "summary": "Ce mercredi 26 août, l'ouverture de la REF où l'on débat de politique, le pessimisme des chefs d'entreprise concernant le budget 2027, l'avancement de la réindustrialisation, et le déficit public allemand qui franchit le seuil des 3%, ont été abordés par Olivier Lluansi, professeur au Cnam et auteur de \"Réindustrialiser, le défi d'une génération\", Markus Kerber, avocat et professeur de finances publiques à Berlin, et Jean-François Robin, directeur de recherche de Natixis CIB, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/G1NGBzNVDhenfrpgQCB6Nmh9dcs=/0x0:1280x720/800x0/images/Ouverture-de-la-REF-dans-un-climat-de-defiance-2337204.jpg\" />"
-    },
-    {
-      "title": "La boîte à outils : Elie Attia - Bien placer son argent face à l'inflation - 26/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-boite-a-outils-elie-attia-bien-placer-son-argent-face-a-l-inflation-26-08_EN-202608260342.html",
-      "summary": "Ce mercredi 26 août, Antoine Larigaudrie vous présente la boîte à outils dans son émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f4SAC4PXeawQbzN8vbhCcYo4DVs=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_4.jpg\" />"
-    },
-    {
-      "title": "La boîte à outils : Elie Attia - Bien placer son argent face à l'inflation - 26/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-la-boite-a-outils-elie-attia-bien-placer-son-argent-face-a-l-inflation-26-08_VN-202608260345.html",
-      "summary": "Ce mercredi 26 août, Antoine Larigaudrie vous présente la boîte à outils dans son émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LwBxzkjJ3guPtPpymyZbz7bAW6Y=/0x0:1280x720/800x0/images/La-boite-a-outils-Elie-Attia-Bien-placer-son-argent-face-a-l-inflation-26-08-2337188.jpg\" />"
-    },
-    {
-      "title": "Inquiétude des chefs d'entreprise: \"Une partie de la classe politique crée un climat délétère d'angoisse\", juge Stéphane Manigold, restaurateur",
-      "url": "https://www.bfmtv.com/economie/entreprises/video-inquietude-des-chefs-d-entreprise-une-partie-de-la-classe-politique-cree-un-climat-deletere-d-angoisse-juge-stephane-manigold-restaurateur_VN-202608260327.html",
-      "summary": "Dans une étude OpinionWay pour le Medef, qui fait sa rentrée ce mercredi, 82% des plus de 65.000 dirigeants d'entreprises interrogés se déclarent pessimistes sur \"les effets de la politique économique du prochain président de la République\" sur leur entreprise.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uMrP4-lJ5zuIInge5R8pgdCRoI4=/0x0:1280x720/800x0/images/Inquietude-des-chefs-d-entreprise-Une-partie-de-la-classe-politique-cree-un-climat-deletere-d-angoisse-juge-Stephane-Manigold-restaurateur-2337174.jpg\" />"
-    },
-    {
-      "title": "L'intégrale des Experts du mercredi 26 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-mercredi-26-aout_EN-202608260310.html",
-      "summary": "Ce mercredi 26 août, Laure Closier a reçu Olivier Lluansi, professeur au Cnam et auteur de \"Réindustrialiser, le défi d'une génération\", Markus Kerber, avocat et professeur de finances publiques à Berlin, et Jean-François Robin, directeur de recherche de Natixis CIB, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
-    },
-    {
-      "title": "L'intégrale des Experts du mercredi 26 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-mercredi-26-aout_VN-202608260325.html",
-      "summary": "Ce mercredi 26 août, Laure Closier a reçu Olivier Lluansi, professeur au Cnam et auteur de \"Réindustrialiser, le défi d'une génération\", Markus Kerber, avocat et professeur de finances publiques à Berlin, et Jean-François Robin, directeur de recherche de Natixis CIB, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5QVofXEutu4TXCpWXyLlLpZUNHo=/0x0:1280x720/800x0/images/L-integrale-des-Experts-du-mercredi-26-aout-2337170.jpg\" />"
-    },
-    {
-      "title": "\"Si vous continuez à massacrer les gens qui bossent en leur piquant autant de fric...\": Bruno Le Maire veut \"alléger massivement les charges qui pèsent sur les salaires\" pour réduire l'écart entre le brut et le net",
-      "url": "https://www.bfmtv.com/economie/economie-social/notre-modele-social-ne-sera-plus-finance-par-le-travail-bruno-le-maire-veut-alleger-massivement-les-charges-qui-pesent-sur-les-salaires-pour-reduire-l-ecart-entre-le-brut-et-le-net_AV-202608260308.html",
-      "summary": "L'ancien ministre de l'Économie pendant sept ans a publié mardi un manifeste dans lequel il soutien la désindexation des minima sociaux, des pensions de retraite et du barème de l'impôt sur le revenu, mais aussi une hausse de la fiscalité sur la consommation, les importations ou encore les Gafam.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/q7ta_MrPzpHLBrqqZSR4DwARKCE=/26x0:1914x1062/800x0/images/Bruno-Le-Maire-ancien-ministre-de-l-Economie-le-26-aout-2026-2337034.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Bruno Le Maire publie un manifeste pour \"une autre France\" - 26/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-bruno-le-maire-publie-un-manifeste-pour-une-autre-france-26-08_EN-202608260306.html",
-      "summary": "Ce mercredi 26 août 2026, les gros chantiers de réforme recommandés par Bruno Le Maire dans son manifeste intitulé \"Pour une autre France\" pour orienter le débat sur les programmes économiques à l'approche de l’élection présidentielle de 2027 ont été abordés par Olivier Lluansi, professeur au Cnam et auteur de \"Réindustrialiser, le défi d'une génération\", Markus Kerber, avocat et professeur de finances publiques à Berlin, et Jean-François Robin, directeur de recherche de Natixis CIB, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Bruno Le Maire publie un manifeste pour \"une autre France\" - 26/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-bruno-le-maire-publie-un-manifeste-pour-une-autre-france-26-08_VN-202608260312.html",
-      "summary": "Ce mercredi 26 août 2026, les gros chantiers de réforme recommandés par Bruno Le Maire dans son manifeste intitulé \"Pour une autre France\" pour orienter le débat sur les programmes économiques à l'approche de l’élection présidentielle de 2027 ont été abordés par Olivier Lluansi, professeur au Cnam et auteur de \"Réindustrialiser, le défi d'une génération\", Markus Kerber, avocat et professeur de finances publiques à Berlin, et Jean-François Robin, directeur de recherche de Natixis CIB, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3oj-ZI9NAA5RNJkrU9bFg5oMRRY=/0x0:1280x720/800x0/images/Les-Experts-Bruno-Le-Maire-publie-un-manifeste-pour-une-autre-France-26-08-2337163.jpg\" />"
     },
     {
       "title": "Budget : \"On atteint notre seuil de douleur\", estime le patron du Medef Patrick Martin, alors que le gouvernement veut reconduire la surtaxe sur les grandes entreprises",
