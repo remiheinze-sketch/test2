@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-26T16:09:00Z",
+  "updated_at": "2026-08-26T18:48:20Z",
   "articles": [
+    {
+      "title": "Budget : la gauche repart à la charge pour taxer davantage l’héritage",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/26/budget-la-gauche-repart-a-la-charge-pour-taxer-davantage-l-heritage_6757421_823448.html",
+      "summary": "De la CFDT à Raphaël Glucksmann et à Marine Tondelier, l’idée de mieux imposer les successions revient sur la table. Le RN y est résolument hostile. Sébastien Lecornu a évoqué une autre piste, un mécénat forcé lors des grandes successions."
+    },
     {
       "title": "Le groupe Sodexo annonce la suppression de 1 097 emplois en France",
       "url": "https://www.lemonde.fr/economie/article/2026/08/26/le-groupe-sodexo-annonce-la-suppression-de-1-097-emplois-en-france_6757397_3234.html",
@@ -27,29 +32,34 @@
       "summary": "Ottawa a précisé, mardi, ses mesures de représailles contre Washington, en réponse aux nouveaux droits de douane américains. Entre fermeté et nécessité de préserver son économie, le Canada défend un juste équilibre."
     },
     {
-      "title": "Droits de douane : le Canada riposte et annonce des surtaxes de 15 % à 50 % sur une série de produits américains dès le 8 septembre",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/25/droits-de-douane-le-canada-riposte-et-annonce-des-surtaxes-de-15-a-50-sur-une-serie-de-produits-americains-des-le-8-septembre_6756600_3234.html",
-      "summary": "Ottawa a détaillé, mardi, sa réponse à la guerre commerciale ouverte par Washington, mêlant nouvelles mesures douanières et soutien aux secteurs les plus exposés."
+      "title": "Le gouvernement espérait 2 à 4 milliards d'euros de recettes: l'Allemagne renonce finalement à sa taxe polémique sur le Coca Zero",
+      "url": "https://www.bfmtv.com/economie/international/le-gouvernement-esperait-2-a-4-milliards-d-euros-de-recettes-l-allemagne-renonce-finalement-a-sa-taxe-polemique-sur-le-coca-zero_AD-202608260743.html",
+      "summary": "Accusée d'avoir été imaginée pour consolider les finances publiques plus que pour des raisons de santé publique, la proposition du gouvernement allemand de taxer les boissons sans sucre a été abandonnée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0gPiGrnO2-AoglUxpoZwwibaTJE=/0x106:2048x1258/800x0/images/Coca-Cola-Zero-2337475.jpg\" />"
     },
     {
-      "title": "DIRECT. REF 2026: le patron de Dassault regrette que \"l'État impose de ne pas prendre de risques\" alors que \"toute la société doit être mobilisée dans une préparation à la guerre\"",
+      "title": "DIRECT. REF 2026: le patron de Stellantis assure ne pas envisager de fermeture d'usine en France dans les 5 ans à venir",
       "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-a-huit-mois-de-l-election-presidentielle-le-medef-ouvre-sa-rencontre-des-entrepreneurs-de-france-sous-le-theme-du-courage_LN-202608260331.html",
-      "summary": "La Rencontre des Entrepreneurs de France (REF) s'ouvre mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Df2t7Sby5cty9sIYLrwA2Lfm4k0=/0x0:2048x1152/800x0/images/Eric-Trappier-2337403.jpg\" />"
+      "summary": "La Rencontre des Entrepreneurs de France (REF) s'est ouverte mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tc1Cb4k8xcVR7C4bxyBsOXNdxtE=/0x106:2048x1258/800x0/images/Antonio-Filosa-2337466.jpg\" />"
     },
     {
-      "title": "LES ÉCLAIREURS - Gaz, fruits et légumes, carburants... Ce qui va augmenter à la rentrée",
-      "url": "https://www.bfmtv.com/economie/video-les-eclaireurs-gaz-fruits-et-legumes-carburants-ce-qui-va-augmenter-a-la-rentree_VN-202608260615.html",
-      "summary": "Selon un sondage Elabe pour BFMTV, seulement un Français sur cinq déclare ne pas se serrer la ceinture, alors que l'inflation a progressé de 2,1% sur un an en juillet, notamment portée par les prix de l'énergie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VS62izp4i7hAe-OLJhWzXBSlW5Y=/0x0:1280x720/800x0/images/LES-ECLAIREURS-Gaz-fruits-et-legumes-carburants-Ce-qui-va-augmenter-a-la-rentree-2337399.jpg\" />"
+      "title": "Un manifeste pour \"une autre France\"",
+      "url": "https://www.bfmtv.com/economie/video-un-manifeste-pour-une-autre-france_VN-202608260728.html",
+      "summary": "Bruno le maire s'est exprimé sur différentes propositions : il est favorable a ce que le ministre de l'économie ai le droit a un pouvoir de veto sur les dépenses publiques. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/t2ON1qwzCmIhbENaJ32cBE6ojUQ=/0x0:1280x720/800x0/images/Un-manifeste-pour-une-autre-France-2337467.jpg\" />"
     },
     {
-      "title": "SONDAGE BFMTV. Près de 8 Français sur 10 se \"serrent la ceinture\", le pouvoir d'achat doit être la priorité d'Emmanuel Macron pour eux",
-      "url": "https://www.bfmtv.com/economie/economie-social/sondage-bfmtv-pres-de-8-francais-sur-10-se-serrent-la-ceinture-le-pouvoir-d-achat-doit-etre-la-priorite-d-emmanuel-macron-pour-eux_AN-202608260538.html",
-      "summary": "Selon un sondage Elabe pour BFMTV, seulement un Français sur cinq déclare ne pas se serrer la ceinture, alors que l'inflation a progressé de 2,1% sur un an en juillet, notamment portée par les prix de l'énergie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MoAaBg6upkDO3rj5pRjHXG9-gqc=/0x0:1920x1080/800x0/images/De-l-argent-liquide-image-d-illustration-2289241.jpg\" />"
+      "title": "Édition Spéciale REF – Mercredi 26 août",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/edition-speciale-ref-mercredi-26-aout_EN-202608260716.html",
+      "summary": "Ce mercredi 26 août, Éric Trappier, président de l'UIMM ; Sophie Sidos-Vicat, présidente des CCEF et vice-présidente de la holding du groupe Vicat ; Bernard Spitz, président des Gracques et Bruno Le Maire, ancien ministre de l’Économie et des Finances, étaient les invités dans l'émission Édition Spéciale depuis la REF présentée par Hedwige Chevrillon sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RVBw68nc_tWvGusrZRhVwBGk4Ys=/0x0:14000x14000/800x0/podcast/podcasts/principale-77_2.jpg\" />"
     },
     {
-      "title": "En panne de croissance, le géant de la restauration Sodexo va supprimer près de 1.100 postes en France",
-      "url": "https://www.bfmtv.com/economie/en-panne-de-croissance-le-geant-de-la-restauration-sodexo-va-supprimer-pres-de-1-100-postes-en-france_AD-202608260539.html",
-      "summary": "Confronté à une concurrence accrue et à des performances jugées insuffisantes, Sodexo prévoit de supprimer 1.097 postes en France, dont 134 à son siège. Ce projet, qui représente environ 4% de ses effectifs français, s’inscrit dans son plan stratégique \"Shift and Grow 2030\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rlEFoabXRX2g6FfSAygEepxmPcE=/24x3:1176x651/800x0/images/-476728.jpg\" />"
+      "title": "Édition Spéciale REF - Mercredi 28 août",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-editions-speciales/video-edition-speciale-ref-mercredi-28-aout_VN-202608260726.html",
+      "summary": "Ce mercredi 26 août, Éric Trappier, président de l'UIMM ; Sophie Sidos-Vicat, présidente des CCEF et vice-présidente de la holding du groupe Vicat ; Bernard Spitz, président des Gracques et Bruno Le Maire, ancien ministre de l’Économie et des Finances, étaient les invités dans l'émission Édition Spéciale depuis la REF présentée par Hedwige Chevrillon sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/NBI53SmVOFUAzRrfD-BLso3G1cA=/0x0:1280x720/800x0/images/Edition-Speciale-REF-Mercredi-28-aout-2337464.jpg\" />"
+    },
+    {
+      "title": "La taxation des héritages secoue le budget",
+      "url": "https://www.bfmtv.com/economie/video-la-taxation-des-heritages-secoue-le-budget_VN-202608260707.html",
+      "summary": "Après Jean-Luc Mélenchon et Marine Tondelier, c'est au tour de la CFDT de s'attaquer aux héritages. L'organisation syndicale appelle à taxer les successions dès le premier euro. Une question à laquelle réfléchit aussi l'exécutif et qui risque d'animer les débats budgétaires. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bePz98bnV9TUCHjPYDLuRlFQt4s=/0x0:1280x720/800x0/images/La-taxation-des-heritages-secoue-le-budget-2337457.jpg\" />"
     },
     {
       "title": "Budget : \"On atteint notre seuil de douleur\", estime le patron du Medef Patrick Martin, alors que le gouvernement veut reconduire la surtaxe sur les grandes entreprises",
@@ -65,6 +75,11 @@
       "title": "VRAI OU FAUX. Budget 2027 : une nouvelle loi spéciale coûterait-elle 15 milliards d'euros supplémentaires à la France ?",
       "url": "https://www.franceinfo.fr/economie/vrai-ou-faux-budget-2027-une-nouvelle-loi-speciale-couterait-elle-15-milliards-d-euros-supplementaires-a-la-france_8159672.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Le gouvernement alerte depuis plusieurs jours sur les conséquences financières d'un blocage budgétaire prolongé l'année prochaine à cause de la présidentielle. Le montant avancé par plusieurs ministres s'appuie bien sur les projections de l'administration, mais son interprétation mérite quelques nuances."
+    },
+    {
+      "title": "L’info du jour | 26 août 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/08/26/linfo-du-jour-26-aout-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 26 août 2026 - Mi-journée",
@@ -109,11 +124,6 @@
     {
       "title": "L’info du jour | 23 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/23/linfo-du-jour-23-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 23 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/23/linfo-du-jour-23-aout-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
