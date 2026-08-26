@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-26T18:48:20Z",
+  "updated_at": "2026-08-26T21:27:15Z",
   "articles": [
+    {
+      "title": "A huit mois de la présidentielle, les patrons français inquiets du début de la campagne",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/26/a-huit-mois-de-la-presidentielle-les-patrons-francais-inquiets-par-le-debut-de-la-campagne_6757464_3234.html",
+      "summary": "Un sondage réalisé par le Medef à l’occasion de la Rencontre des entrepreneurs de France, qui se tient mercredi 26 et jeudi 27 août, montre le pessimisme des chefs d’entreprise quant à la politique économique du futur président, quel qu’il soit."
+    },
     {
       "title": "Budget : la gauche repart à la charge pour taxer davantage l’héritage",
       "url": "https://www.lemonde.fr/politique/article/2026/08/26/budget-la-gauche-repart-a-la-charge-pour-taxer-davantage-l-heritage_6757421_823448.html",
-      "summary": "De la CFDT à Raphaël Glucksmann et à Marine Tondelier, l’idée de mieux imposer les successions revient sur la table. Le RN y est résolument hostile. Sébastien Lecornu a évoqué une autre piste, un mécénat forcé lors des grandes successions."
+      "summary": "De la CFDT à Raphaël Glucksmann et à Marine Tondelier, l’idée de mieux imposer les successions revient sur la table. Le RN y est hostile. Le premier ministre, Sébastien Lecornu, a évoqué une autre piste, un mécénat forcé lors des grandes successions."
     },
     {
       "title": "Le groupe Sodexo annonce la suppression de 1 097 emplois en France",
@@ -32,14 +37,14 @@
       "summary": "Ottawa a précisé, mardi, ses mesures de représailles contre Washington, en réponse aux nouveaux droits de douane américains. Entre fermeté et nécessité de préserver son économie, le Canada défend un juste équilibre."
     },
     {
+      "title": "REF 2026: le patron de Stellantis assure ne pas envisager de fermeture d'usine en France dans les 5 ans à venir",
+      "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-a-huit-mois-de-l-election-presidentielle-le-medef-ouvre-sa-rencontre-des-entrepreneurs-de-france-sous-le-theme-du-courage_LN-202608260331.html",
+      "summary": "La Rencontre des Entrepreneurs de France (REF) s'est ouverte mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tc1Cb4k8xcVR7C4bxyBsOXNdxtE=/0x106:2048x1258/800x0/images/Antonio-Filosa-2337466.jpg\" />"
+    },
+    {
       "title": "Le gouvernement espérait 2 à 4 milliards d'euros de recettes: l'Allemagne renonce finalement à sa taxe polémique sur le Coca Zero",
       "url": "https://www.bfmtv.com/economie/international/le-gouvernement-esperait-2-a-4-milliards-d-euros-de-recettes-l-allemagne-renonce-finalement-a-sa-taxe-polemique-sur-le-coca-zero_AD-202608260743.html",
       "summary": "Accusée d'avoir été imaginée pour consolider les finances publiques plus que pour des raisons de santé publique, la proposition du gouvernement allemand de taxer les boissons sans sucre a été abandonnée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0gPiGrnO2-AoglUxpoZwwibaTJE=/0x106:2048x1258/800x0/images/Coca-Cola-Zero-2337475.jpg\" />"
-    },
-    {
-      "title": "DIRECT. REF 2026: le patron de Stellantis assure ne pas envisager de fermeture d'usine en France dans les 5 ans à venir",
-      "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-a-huit-mois-de-l-election-presidentielle-le-medef-ouvre-sa-rencontre-des-entrepreneurs-de-france-sous-le-theme-du-courage_LN-202608260331.html",
-      "summary": "La Rencontre des Entrepreneurs de France (REF) s'est ouverte mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tc1Cb4k8xcVR7C4bxyBsOXNdxtE=/0x106:2048x1258/800x0/images/Antonio-Filosa-2337466.jpg\" />"
     },
     {
       "title": "Un manifeste pour \"une autre France\"",
@@ -62,6 +67,11 @@
       "summary": "Après Jean-Luc Mélenchon et Marine Tondelier, c'est au tour de la CFDT de s'attaquer aux héritages. L'organisation syndicale appelle à taxer les successions dès le premier euro. Une question à laquelle réfléchit aussi l'exécutif et qui risque d'animer les débats budgétaires. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bePz98bnV9TUCHjPYDLuRlFQt4s=/0x0:1280x720/800x0/images/La-taxation-des-heritages-secoue-le-budget-2337457.jpg\" />"
     },
     {
+      "title": "Alimentation, fournitures scolaires… Comment expliquer certaines baisses de prix en cette rentrée ?",
+      "url": "https://www.franceinfo.fr/economie/alimentation-fournitures-scolaires-comment-expliquer-certaines-baisses-de-prix-en-cette-rentree_8164184.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Cette année, plusieurs indicateurs montrent que les fournitures scolaires coûtent légèrement moins cher et, après plusieurs années d’inflation, les prix de l’alimentation se stabilisent. Une accalmie bienvenue pour le portefeuille des Français, même si tout ne baisse pas dans les rayons."
+    },
+    {
       "title": "Budget : \"On atteint notre seuil de douleur\", estime le patron du Medef Patrick Martin, alors que le gouvernement veut reconduire la surtaxe sur les grandes entreprises",
       "url": "https://www.franceinfo.fr/economie/entreprises/budget-on-atteint-notre-seuil-de-douleur-estime-le-patron-du-medef-patrick-martin-alors-que-le-gouvernement-veut-reconduire-la-surtaxe-sur-les-grandes-entreprises_8162192.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Cette surtaxe a été mise en place en 2025 par le gouvernement, et initialement, elle ne devait rester en vigueur qu'une année."
@@ -70,11 +80,6 @@
       "title": "\"Chaque jour, le déséquilibre entre l'offre et la demande s'aggrave\" : Donald Trump mise sur l'asphyxie économique de l'Iran",
       "url": "https://www.franceinfo.fr/monde/iran/chaque-jour-le-desequilibre-entre-l-offre-et-la-demande-s-aggrave-donald-trump-mise-sur-l-asphyxie-economique-de-l-iran_8161883.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Six mois après le début de la guerre, les États-Unis veulent désormais asphyxier l'économie iranienne. Washington menace de sanctions les pays et les entreprises qui continuent de commercer avec Téhéran."
-    },
-    {
-      "title": "VRAI OU FAUX. Budget 2027 : une nouvelle loi spéciale coûterait-elle 15 milliards d'euros supplémentaires à la France ?",
-      "url": "https://www.franceinfo.fr/economie/vrai-ou-faux-budget-2027-une-nouvelle-loi-speciale-couterait-elle-15-milliards-d-euros-supplementaires-a-la-france_8159672.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement alerte depuis plusieurs jours sur les conséquences financières d'un blocage budgétaire prolongé l'année prochaine à cause de la présidentielle. Le montant avancé par plusieurs ministres s'appuie bien sur les projections de l'administration, mais son interprétation mérite quelques nuances."
     },
     {
       "title": "L’info du jour | 26 août 2026 - Soir",
@@ -120,11 +125,6 @@
       "title": "L’info du jour | 24 août 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/08/24/linfo-du-jour-24-aout-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 23 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/23/linfo-du-jour-23-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Pourquoi le tourisme en Afrique profite si peu aux Africains",
