@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-27T02:23:49Z",
+  "updated_at": "2026-08-27T13:19:05Z",
   "articles": [
     {
-      "title": "A huit mois de la présidentielle, les patrons français inquiets du début de la campagne",
+      "title": "IA : Nvidia cherche à rassurer les marchés fébriles sur la croissance de la demande",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/27/intelligence-artificielle-nvidia-cherche-a-rassurer-les-marches-febriles-sur-la-croissance-de-la-demande_6757800_3234.html",
+      "summary": "L’entreprise américaine a annoncé, mercredi, des revenus et des bénéfices en forte hausse et supérieurs aux attentes au deuxième trimestre, se montrant optimiste pour la fin de l’année et au-delà."
+    },
+    {
+      "title": "Présidentielle 2027 : un sondage du Medef révèle que les patrons français sont inquiets du début de la campagne",
       "url": "https://www.lemonde.fr/economie/article/2026/08/26/a-huit-mois-de-la-presidentielle-les-patrons-francais-inquiets-par-le-debut-de-la-campagne_6757464_3234.html",
       "summary": "Un sondage réalisé par le Medef à l’occasion de la Rencontre des entrepreneurs de France, qui se tient mercredi 26 et jeudi 27 août, montre le pessimisme des chefs d’entreprise quant à la politique économique du futur président, quel qu’il soit."
     },
@@ -27,49 +32,34 @@
       "summary": "Dans un entretien au « Monde », le directeur de recherche au CNRS, spécialiste des transformations de l’Etat et auteur de recherches sur les fraudes, alerte sur les effets pervers de la délégation de plus en plus importante au privé des tâches non régaliennes."
     },
     {
-      "title": "Budget 2027 : Bruno Le Maire, ex-ministre de l’économie, se dit favorable à une taxation des « plus grosses fortunes »",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/26/budget-2027-bruno-lemaire-se-dit-favorable-a-une-taxation-des-plus-grosses-fortunes_6757357_823448.html",
-      "summary": "Interrogé sur BFM-TV à propos de la situation économique du pays, l’ancien ministre de l’économie d’Emmanuel Macron a réclamé « de l’efficacité pour lutter contre la dérive des comptes ». Il a aussi estimé nécessaire de désindexer de l’inflation les pensions de retraite, le barème de l’impôt sur le revenu et les minima sociaux."
+      "title": "\"Nous ne sommes pas radins\": l'Allemagne, le Danemark, les Pays-Bas, l'Autriche, la Finlande et la Suède réclament des coupes de \"plusieurs centaines de milliards\" d'euros dans le budget proposé par Bruxelles",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/nous-ne-sommes-pas-radins-l-allemagne-le-danemark-les-pays-bas-l-autriche-la-finlande-et-la-suede-reclament-des-coupes-de-plusieurs-centaines-de-milliards-d-euros-dans-le-budget-propose-par-bruxelles_AD-202608270489.html",
+      "summary": "Les six pays dits \"frugaux\" de l'Union européenne ont montré ce mercredi leur désaccord quant au budget proposé par Bruxelles. Tous réclament des coupes de plusieurs centaines de milliards d'euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jbr-SSmca78k57--ImofKIljiPU=/0x116:2048x1268/800x0/images/Le-chancelier-allemand-Friedrich-Merz-lors-d-un-congres-a-Berlin-le-12-mai-2026-2286505.jpg\" />"
     },
     {
-      "title": "Droits de douane : la riposte « ciblée » et « stratégique » du Canada contre Donald Trump",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/26/droits-de-douane-le-difficile-exercice-de-la-riposte-du-canada-contre-donald-trump_6756830_3234.html",
-      "summary": "Ottawa a précisé, mardi, ses mesures de représailles contre Washington, en réponse aux nouveaux droits de douane américains. Entre fermeté et nécessité de préserver son économie, le Canada défend un juste équilibre."
+      "title": "DIRECT. REF 2026: Edouard Philippe souhaite \"rétablir l'ordre dans nos comptes en baissant nos dépenses, au premier rang desquelles les dépenses sociales\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-suivez-la-derniere-journee-de-la-rencontre-des-entrepreneurs-de-france-du-medef-avec-en-point-d-orgue-le-premier-debat-entre-7-candidats-a-l-election-presidentielle_LN-202608270136.html",
+      "summary": "La Rencontre des Entrepreneurs de France (REF) se poursuit ce jeudi au stade Roland-Garros. L’événement s’achèvera avec le premier débat entre les principaux candidats déclarés à l’élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iBETkx8fFV9yiuhEBZ6fZOvbSQ4=/0x0:1920x1080/800x0/images/Edouard-Philippe-a-la-REF-2026-2337971.jpg\" />"
     },
     {
-      "title": "Émission du 26 août 2026",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/la-france-a-tout-pour-reussir/video-emission-du-26-aout-2026_VN-202608260897.html",
-      "summary": "Chaque week-end l’économie positive, avec La France a tout pour réussir, Jérôme Tichit vous propose une sélection des réussites de l’économie française mises en avant sur BFM Business : levées de fonds, indicateurs macro-économiques, attractivité, politique RSE…<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/xdaqu0V0pafYd9FFbOdnEyM6m-c=/0x0:1280x720/800x0/images/Emission-du-26-aout-2026-2337600.jpg\" />"
+      "title": "L'industrie embauche-t-elle plus ?",
+      "url": "https://www.bfmtv.com/economie/video-l-industrie-embauche-t-elle-plus_VN-202608270389.html",
+      "summary": "Pierrick Merlet explique la bonne santé de l'emploi industriel par rapport au reste de l'économie. Il la nuance toutefois : les embauches s'effectuent surtout dans les usines existantes, le secteur souffrant d'un gel des ouvertures de sites.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HVpIM-Of0_f6YpJ9pkRY0mU9DJA=/0x0:1280x720/800x0/images/L-industrie-embauche-t-elle-plus-2337890.jpg\" />"
     },
     {
-      "title": "REF 2026: le patron de Stellantis assure ne pas envisager de fermeture d'usine en France dans les 5 ans à venir",
-      "url": "https://www.bfmtv.com/economie/economie-social/direct-ref-2026-a-huit-mois-de-l-election-presidentielle-le-medef-ouvre-sa-rencontre-des-entrepreneurs-de-france-sous-le-theme-du-courage_LN-202608260331.html",
-      "summary": "La Rencontre des Entrepreneurs de France (REF) s'est ouverte mercredi au stade Roland-Garros et est placée sous le thème du \"courage\", alors que les sept principaux candidats à la présidentielle évoqueront en clôture, jeudi, leurs idées pour l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tc1Cb4k8xcVR7C4bxyBsOXNdxtE=/0x106:2048x1258/800x0/images/Antonio-Filosa-2337466.jpg\" />"
+      "title": "\"Soutenir les fabricants capables de fournir des chaînes d'approvisionnement exemptes de technologies chinoises\": Taïwan va allouer 7,6 milliards de dollars sur six ans pour produire ses propres drones",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/soutenir-les-fabricants-capables-de-fournir-des-chaines-d-approvisionnement-exemptes-de-technologies-chinoises-taiwan-va-allouer-7-6-milliards-de-dollars-sur-six-ans-pour-produire-ses-propres-drones_AD-202608270385.html",
+      "summary": "Pour l'année 2027, le budget de la défense taïwanaise va atteindre plus de 30 milliards d'euros, soit plus de 3% du PIB de l'île menacée par la Chine qui souhaite la \"réunifier\" avec le reste de son territoire.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BI4JKvGom3hjN5CXwuCKKU4VCtE=/0x106:2048x1258/800x0/images/Le-drapeau-taiwanais-flotte-devant-la-tour-Taipei-101-a-Taipei-le-2-juillet-2025-2296395.jpg\" />"
     },
     {
-      "title": "Le gouvernement espérait 2 à 4 milliards d'euros de recettes: l'Allemagne renonce finalement à sa taxe polémique sur le Coca Zero",
-      "url": "https://www.bfmtv.com/economie/international/le-gouvernement-esperait-2-a-4-milliards-d-euros-de-recettes-l-allemagne-renonce-finalement-a-sa-taxe-polemique-sur-le-coca-zero_AD-202608260743.html",
-      "summary": "Accusée d'avoir été imaginée pour consolider les finances publiques plus que pour des raisons de santé publique, la proposition du gouvernement allemand de taxer les boissons sans sucre a été abandonnée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0gPiGrnO2-AoglUxpoZwwibaTJE=/0x106:2048x1258/800x0/images/Coca-Cola-Zero-2337475.jpg\" />"
+      "title": "Medef, l'enjeu de la capitalisation dans le privé",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-medef-l-enjeu-de-la-capitalisation-dans-le-prive_VN-202608270375.html",
+      "summary": "Ce jeudi 27 août, l'enjeu de la capitalisation dans le privé surtout dans les industries françaises, les propositions du Medef de relancer la natalité et d'instaurer une TVA sociale, et l'appel de Bill Gates à réguler l'utilisation de l'IA, ont été abordés par Sophie Sidos, présidente des Conseillers du Commerce extérieur de la France, Julien Denormandie, chief impact officer chez Sweep, et Gilbert Cette, professeur d'économie à Neoma Business School et auteur de \"Sauver la démocratie sociale\", depuis la REF, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XboF6m0GiztNCLVG7cVSgxKnEmA=/0x0:1280x720/800x0/images/Medef-l-enjeu-de-la-capitalisation-dans-le-prive-2337881.jpg\" />"
     },
     {
-      "title": "Un manifeste pour \"une autre France\"",
-      "url": "https://www.bfmtv.com/economie/video-un-manifeste-pour-une-autre-france_VN-202608260728.html",
-      "summary": "Bruno le maire s'est exprimé sur différentes propositions : il est favorable a ce que le ministre de l'économie ai le droit a un pouvoir de veto sur les dépenses publiques. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/t2ON1qwzCmIhbENaJ32cBE6ojUQ=/0x0:1280x720/800x0/images/Un-manifeste-pour-une-autre-France-2337467.jpg\" />"
-    },
-    {
-      "title": "Édition Spéciale REF – Mercredi 26 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/edition-speciale-ref-mercredi-26-aout_EN-202608260716.html",
-      "summary": "Ce mercredi 26 août, Éric Trappier, président de l'UIMM ; Sophie Sidos-Vicat, présidente des CCEF et vice-présidente de la holding du groupe Vicat ; Bernard Spitz, président des Gracques et Bruno Le Maire, ancien ministre de l’Économie et des Finances, étaient les invités dans l'émission Édition Spéciale depuis la REF présentée par Hedwige Chevrillon sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RVBw68nc_tWvGusrZRhVwBGk4Ys=/0x0:14000x14000/800x0/podcast/podcasts/principale-77_2.jpg\" />"
-    },
-    {
-      "title": "Édition Spéciale REF - Mercredi 28 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-editions-speciales/video-edition-speciale-ref-mercredi-28-aout_VN-202608260726.html",
-      "summary": "Ce mercredi 26 août, Éric Trappier, président de l'UIMM ; Sophie Sidos-Vicat, présidente des CCEF et vice-présidente de la holding du groupe Vicat ; Bernard Spitz, président des Gracques et Bruno Le Maire, ancien ministre de l’Économie et des Finances, étaient les invités dans l'émission Édition Spéciale depuis la REF présentée par Hedwige Chevrillon sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/NBI53SmVOFUAzRrfD-BLso3G1cA=/0x0:1280x720/800x0/images/Edition-Speciale-REF-Mercredi-28-aout-2337464.jpg\" />"
-    },
-    {
-      "title": "La taxation des héritages secoue le budget",
-      "url": "https://www.bfmtv.com/economie/video-la-taxation-des-heritages-secoue-le-budget_VN-202608260707.html",
-      "summary": "Après Jean-Luc Mélenchon et Marine Tondelier, c'est au tour de la CFDT de s'attaquer aux héritages. L'organisation syndicale appelle à taxer les successions dès le premier euro. Une question à laquelle réfléchit aussi l'exécutif et qui risque d'animer les débats budgétaires. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bePz98bnV9TUCHjPYDLuRlFQt4s=/0x0:1280x720/800x0/images/La-taxation-des-heritages-secoue-le-budget-2337457.jpg\" />"
+      "title": "Rencontres du Medef : l'an dernier \"au moins 25%\" des entreprises de restauration étaient déficitaires, selon l'Umih",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/rencontres-du-medef-l-an-dernier-au-moins-25-des-entreprises-de-restauration-etaient-deficitaires-selon-l-umih_8164574.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Au vu des résultats du premier semestre 2026, \"on s'attend à ce qu'il y ait une recrudescence de fermetures\", assure le Conseil national de l'ordre des experts-comptables à France Inter."
     },
     {
       "title": "Alimentation, fournitures scolaires… Comment expliquer certaines baisses de prix en cette rentrée ?",
@@ -77,14 +67,14 @@
       "summary": "Cette année, plusieurs indicateurs montrent que les fournitures scolaires coûtent légèrement moins cher et, après plusieurs années d’inflation, les prix de l’alimentation se stabilisent. Une accalmie bienvenue pour le portefeuille des Français, même si tout ne baisse pas dans les rayons."
     },
     {
-      "title": "Budget : \"On atteint notre seuil de douleur\", estime le patron du Medef Patrick Martin, alors que le gouvernement veut reconduire la surtaxe sur les grandes entreprises",
-      "url": "https://www.franceinfo.fr/economie/entreprises/budget-on-atteint-notre-seuil-de-douleur-estime-le-patron-du-medef-patrick-martin-alors-que-le-gouvernement-veut-reconduire-la-surtaxe-sur-les-grandes-entreprises_8162192.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette surtaxe a été mise en place en 2025 par le gouvernement, et initialement, elle ne devait rester en vigueur qu'une année."
+      "title": "L’info du jour | 27 août 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/08/27/linfo-du-jour-27-aout-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "\"Chaque jour, le déséquilibre entre l'offre et la demande s'aggrave\" : Donald Trump mise sur l'asphyxie économique de l'Iran",
-      "url": "https://www.franceinfo.fr/monde/iran/chaque-jour-le-desequilibre-entre-l-offre-et-la-demande-s-aggrave-donald-trump-mise-sur-l-asphyxie-economique-de-l-iran_8161883.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Six mois après le début de la guerre, les États-Unis veulent désormais asphyxier l'économie iranienne. Washington menace de sanctions les pays et les entreprises qui continuent de commercer avec Téhéran."
+      "title": "L’info du jour | 27 août 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/08/27/linfo-du-jour-27-aout-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 26 août 2026 - Soir",
@@ -119,16 +109,6 @@
     {
       "title": "L’info du jour | 24 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/24/linfo-du-jour-24-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 24 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/24/linfo-du-jour-24-aout-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 24 août 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/08/24/linfo-du-jour-24-aout-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
