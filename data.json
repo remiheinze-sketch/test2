@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-28T07:50:58Z",
+  "updated_at": "2026-08-28T19:45:53Z",
   "articles": [
     {
-      "title": "En Argentine, la rigueur monétaire au cœur de la réforme de la banque centrale approuvée par les députés",
+      "title": "Kevin Warsh renforce la crédibilité de la Fed face à Donald Trump à Jackson Hole",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-renforce-la-credibilite-de-la-fed-face-a-donald-trump-a-jackson-hole_6759135_3234.html",
+      "summary": "Lors de son discours devant les décideurs monétaires réunis dans le Wyoming, le président de la Réserve fédérale américaine (Fed) n’a pas caché que la lutte contre l’inflation était sa priorité, laissant supposer qu’une augmentation des taux se profilait."
+    },
+    {
+      "title": "Kevin Warsh, le président de la Fed, trouve « préoccupante » l’inflation aux Etats-Unis",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-le-president-de-la-fed-trouve-preoccupante-l-inflation-aux-etats-unis_6759047_3234.html",
+      "summary": "Lors de son premier discours aux rencontres annuelles de Jackson Hole, dans le Wyoming, le président de la Réserve fédérale américaine, a toutefois souligné, vendredi, la « performance générale » de l’économie du pays."
+    },
+    {
+      "title": "La croissance de la France révisée à la baisse au premier trimestre : « le premier impact concret de l’été horrible qu’on a vécu », réagit Roland Lescure",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/la-croissance-de-la-france-revisee-a-la-baisse-au-premier-trimestre-le-premier-impact-concret-de-l-ete-horrible-qu-on-a-vecu-reagit-roland-lecure_6758966_3234.html",
+      "summary": "La croissance a été nulle au deuxième trimestre et le PIB a reculé de 0,2 % sur les trois premiers mois de l’année, selon l’Insee, qui donnait jusque-là une baisse de 0,1 %."
+    },
+    {
+      "title": "En Argentine, les députés approuvent une réforme de la banque centrale souhaitée par Javier Milei",
       "url": "https://www.lemonde.fr/economie/article/2026/08/28/en-argentine-la-rigueur-monetaire-au-c-ur-de-la-reforme-de-la-banque-centrale-approuvee-par-les-deputes_6758959_3234.html",
-      "summary": "La Chambre des représentants a adopté, à une large majorité, une réforme de la Banque centrale d’Argentine voulue par le président ultralibéral Javier Milei, qui entend brider l’émission monétaire pour combattre l’inflation. La réforme doit encore être approuvée par le Sénat."
+      "summary": "Le président ultralibéral entend brider l’émission monétaire pour combattre l’inflation. Après l’adoption de la réforme, à une large majorité, par la Chambre des représentants, le texte doit encore être approuvé par le Sénat."
     },
     {
       "title": "« Sans recul de l’âge de départ en retraite et sous-indexation temporaire des pensions, la crise financière est inévitable »",
@@ -12,44 +27,39 @@
       "summary": "Le montant des économies nécessaires pour stabiliser les finances publiques oblige à réduire les dépenses liées aux retraites, explique l’économiste Bertrand Martinot, dans une tribune au « Monde »."
     },
     {
-      "title": "En portefeuille - 28/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/en-portefeuille-28-08_EN-202608280264.html",
-      "summary": "Ce vendredi 28 août, la publication des récents résultats d'ID Logistics et leur solide croissance tirée par les États-Unis ont été abordées par Éric Hémar, président, directeur général de ID Logistics, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
+      "title": "Accident du travail et maladie professionnelle: au-delà de 1,8 Smic, votre salaire ne sera plus pris en compte par la Sécu pour vous indemniser",
+      "url": "https://www.bfmtv.com/economie/economie-social/social/accident-du-travail-et-maladie-professionnelle-au-dela-de-1-8-smic-votre-salaire-ne-sera-plus-pris-en-compte-par-la-secu-pour-vous-indemniser_AD-202608280694.html",
+      "summary": "A la recherche d'économies, le gouvernement prépare un décret prévoyant d'abaisser le plafond des indemnités journalières pour accident du travail ou pour maladie professionnel. L'exécutif souhaite également fiscaliser à 100% ces indemnités, contre 50% actuellement. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/14XQTs6-MC4RfA-3UfKAqLlewvw=/84x0:1172x612/800x0/images/-464624.jpg\" />"
     },
     {
-      "title": "En portefeuille - 28/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-en-portefeuille-28-08_VN-202608280266.html",
-      "summary": "Ce vendredi 28 août, la publication des récents résultats d'ID Logistics et leur solide croissance tirée par les États-Unis ont été abordées par Éric Hémar, président, directeur général de ID Logistics, dans l'émission Good Morning Market sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gZLIrq1Sjn3pBBINAVKylyHmntg=/0x0:1280x720/800x0/images/En-portefeuille-28-08-2338422.jpg\" />"
+      "title": "Une hausse des prix \"préoccupante\" mais une économie américaine \"qui semble renforcée\": le patron de la Fed priorise la lutte contre l'inflation et risque de décevoir Trump en augmentant les taux",
+      "url": "https://www.bfmtv.com/economie/une-hausse-des-prix-preoccupante-mais-une-economie-americaine-qui-semble-renforcee-le-patron-de-la-fed-priorise-la-lutte-contre-l-inflation-et-risque-de-decevoir-trump-en-augmentant-les-taux_AD-202608280574.html",
+      "summary": "Kevin Warsh, patron de la Fed américaine, a assumé que l'inflation des États-Unis, chiffrée à 3,4% sur un an en juillet était \"préoccupante\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/C6aJfhflBI6NXBHes9mXpJTAh_0=/0x0:2048x1152/800x0/images/Kevin-Warsh-et-Donald-Trump-2305029.jpg\" />"
     },
     {
-      "title": "Morning Meeting : Nvidia prévoit une croissance des ventes de 70% en 2027 - 28/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/morning-meeting-nvidia-prevoit-une-croissance-des-ventes-de-70-en-2027-28-08_EN-202608280252.html",
-      "summary": "Retrouvez le Morning Meeting du vendredi 28 août dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
+      "title": "Faire appel à la solidarité des seniors lors du budget 2027 est une \"mesure discriminatoire\", dénonce le président de l'Union française des retraités",
+      "url": "https://www.franceinfo.fr/economie/retraite/faire-appel-a-la-solidarite-des-seniors-lors-du-budget-2027-est-une-mesure-discriminatoire-denonce-le-president-de-l-union-francaise-des-retraites_8166656.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Selon le ministre du Travail et des Solidarités Jean-Pierre Farandou, l'indexation des retraites sur l'inflation \"à 100%\" pose \"un problème économique\", à l'heure de la rigueur budgétaire et en appelle à la \"solidarité des seniors\"."
     },
     {
-      "title": "Morning Meeting : Nvidia prévoit une croissance des ventes de 70% en 2027 - 28/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-morning-meeting-nvidia-prevoit-une-croissance-des-ventes-de-70-en-2027-28-08_VN-202608280260.html",
-      "summary": "Retrouvez le Morning Meeting du vendredi 28 août dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FCMV9J7sZwf8c4OBpIB1RyuR20E=/0x0:1280x720/800x0/images/Morning-Meeting-Nvidia-prevoit-une-croissance-des-ventes-de-70-en-2027-28-08-2338416.jpg\" />"
+      "title": "La croissance en France a été nulle au deuxième trimestre, \"le premier impact de l'été horrible\", selon le gouvernement",
+      "url": "https://www.franceinfo.fr/economie/croissance/la-croissance-en-france-a-ete-nulle-au-deuxieme-trimestre-le-premier-impact-de-l-ete-horrible-selon-le-gouvernement_8166395.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La deuxième économie de la zone euro échappe donc de justesse à la récession technique, qui se caractérise par deux trimestres consécutifs de recul du PIB."
     },
     {
-      "title": "L'inflation repart à la hausse à 2,4% en août sur un an à cause d'une \"accélération\" des prix de l'énergie",
-      "url": "https://www.bfmtv.com/economie/l-inflation-repart-a-la-hausse-a-2-4-en-aout-sur-un-an-a-cause-d-une-acceleration-des-prix-de-l-energie_AD-202608280238.html",
-      "summary": "Selon une estimation provisoire de l'Insee, les prix à la consommation ont augmenté de 2,4% sur un an en août, après 2,1% en juillet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aWaA99AVX9mGSo9IXP4ITqcXbeU=/0x106:2048x1258/800x0/images/Supermarche-2274774.jpg\" />"
+      "title": "\"J'en appelle à la solidarité des séniors\" pour le budget 2027, lance Jean-Pierre Farandou, ministre du Travail et des Solidarités",
+      "url": "https://www.franceinfo.fr/economie/budget/j-en-appelle-a-la-solidarite-des-seniors-pour-le-budget-2027-lance-jean-pierre-farandou-ministre-du-travail-et-des-solidarites_8166242.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Les sujets d'équilibre des finances publiques et des comptes de la Sécurité sociale sont essentiels, on va donc demander des efforts\", explique le ministre, vendredi sur franceinfo. Le projet de loi de finances et du budget de la Sécurité sociale doit être présenté prochainement."
     },
     {
-      "title": "La France au bord de la récession en 2026: l'Insee révise à la baisse la croissance française au 2e trimestre (après un recul de 0,2% au 1er trimestre)",
-      "url": "https://www.bfmtv.com/economie/la-france-au-bord-de-la-recession-en-2026-l-insee-revise-a-la-baisse-la-croissance-francaise-au-2e-trimestre-apres-un-recul-de-0-2-au-1er-trimestre_AD-202608280229.html",
-      "summary": "La croissance française est restée nulle (+0,0%) au deuxième trimestre selon l'Insee, qui a annoncé vendredi avoir revu à la baisse sa première estimation.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/O3m9b_UOsSIuM7r9VAMEhYA608s=/0x270:2048x1422/800x0/images/Drapeau-francais-2243410.jpg\" />"
+      "title": "L’info du jour | 28 août 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/08/28/linfo-du-jour-28-aout-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Dette : la France attend fébrilement le verdict de Fitch",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-dette-la-france-attend-febrilement-le-verdict-de-fitch_VN-202608280175.html",
-      "summary": "Aujourd'hui notée A+ par l'agence Fitch, la France pourrait voir sa note dégradée vendredi soir. La faute à des finances publiques qui continuent de sombrer.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fgdWpQhKHJZ7-lXqHmlMq3liAls=/0x0:1280x720/800x0/images/Dette-la-France-attend-febrilement-le-verdict-de-Fitch-2338327.jpg\" />"
-    },
-    {
-      "title": "En pleine guerre commerciale avec les États-Unis, le Canada annonce des surtaxes sur des produits américains",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/en-pleine-guerre-commerciale-avec-les-etats-unis-le-canada-annonce-des-surtaxes-sur-des-produits-americains_8165696.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Après les nouveaux droits de douane de Donald Trump visant le Canada, Ottawa a annoncé des surtaxes sur plus de 700 produits américains."
+      "title": "L’info du jour | 28 août 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/08/28/linfo-du-jour-28-aout-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 28 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 28 août 2026 - Matin",
@@ -85,16 +95,6 @@
       "title": "L’info du jour | 26 août 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/08/26/linfo-du-jour-26-aout-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 25 août 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/08/25/linfo-du-jour-25-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 25 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Pourquoi le tourisme en Afrique profite si peu aux Africains",
-      "url": "https://www.alternatives-economiques.fr/le-tourisme-en-afrique-ne-developpe-pas-le-continent_25-08-2026",
-      "summary": "Sur 100 euros dépensés par un touriste européen au Sénégal, une large portion repart vers l ’extérieur avant d ’avoir touché l ’économie nationale, sous forme de commissions aux agences, de rapatriements de bénéfices des chaînes hôtelières et d ’importations destinées à faire fonctionner les…"
     }
   ]
 }
