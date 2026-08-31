@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-31T09:02:32Z",
+  "updated_at": "2026-08-31T17:17:43Z",
   "articles": [
     {
       "title": "Sécheresse : l’économie suisse fragilisée par le niveau historiquement bas du Rhin",
       "url": "https://www.lemonde.fr/economie/article/2026/08/31/secheresse-l-economie-suisse-fragilisee-par-le-niveau-historiquement-bas-du-rhin_6762177_3234.html",
-      "summary": "Le pays alpin réalise un dixième de ses importations par le fleuve, dont la plupart des matières premières stratégiques. Le niveau du cours d’eau pose un défi logistique à son économie."
+      "summary": "Le pays alpin réalise un dixième de ses importations par le fleuve, dont la plupart des matières premières stratégiques. Le niveau de la plus longue voie navigable d’Europe occidentale pose un défi logistique à son économie."
     },
     {
       "title": "Les factures de gaz pèsent de plus en plus lourd dans le budget des ménages",
@@ -17,7 +17,7 @@
       "summary": "L’intensité de ce phénomène climatique naturel de l’océan Pacifique, de retour en 2026, menace la production agricole mondiale et pourrait fait grimper les prix alimentaires, alerte Fabrice Gliszczynski, journaliste au service Economie, dans sa chronique."
     },
     {
-      "title": "Les nuages s’amoncellent sur l’économie française",
+      "title": "Les nuages s’amoncellent sur l’économie française menacée de récession",
       "url": "https://www.lemonde.fr/economie/article/2026/08/31/les-nuages-s-amoncellent-sur-l-economie-francaise_6761862_3234.html",
       "summary": "La présentation, vendredi, par l’Insee, de plusieurs indicateurs inquiétants confirme les difficultés de l’économie tricolore : la croissance est en panne, l’inflation progresse, le pouvoir d’achat recule, et l’emploi est déprimé."
     },
@@ -27,59 +27,14 @@
       "summary": "Alors que les réservations ont décroché au printemps à cause du conflit au Moyen-Orient, les voyages à l’étranger n’affichent qu’une baisse modérée. Contraints par les tensions géopolitiques et leur budget, les vacanciers ont toutefois privilégié les pays proches, les séjours courts et la flexibilité."
     },
     {
-      "title": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html",
-      "summary": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats."
+      "title": "Malgré la flambée du kérosène, le trafic aérien mondial a battu son record pour un mois de juillet grâce à la forte croissance des vols en Asie",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/malgre-la-flambee-du-kerosene-le-trafic-aerien-mondial-a-battu-son-record-pour-un-mois-de-juillet-grace-a-la-forte-croissance-des-vols-en-asie_AD-202608310645.html",
+      "summary": "L'augmentation du trafic a été principalement portée par la croissance des vols entre l'Asie et l'Europe et au trafic intérieur en Chine. Au contraire, les trajets transatlantiques ont diminué en juillet. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/u4J_wWNFt6DWhRrjA07UqFl4VVs=/0x36:2048x1188/800x0/images/Aeroport-de-Corfou-2335508.jpg\" />"
     },
     {
-      "title": "Kevin Warsh renforce la crédibilité de la Fed face à Donald Trump à Jackson Hole",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-renforce-la-credibilite-de-la-fed-face-a-donald-trump-a-jackson-hole_6759135_3234.html",
-      "summary": "Lors de son discours devant des décideurs monétaires réunis dans le Wyoming, le président de la Réserve fédérale américaine n’a pas caché que la lutte contre l’inflation était sa priorité, laissant supposer qu’une augmentation des taux d’intérêt se profilait."
-    },
-    {
-      "title": "\"Il s'autofinance en 5 ans\": le plan France 2030 a beau avoir coûté 54 milliards d'euros, le président délégué du Conseil d'analyse économique assure que \"l’État rentre dans ses frais\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/il-s-autofinance-en-5-ans-le-plan-france-2030-a-beau-avoir-coute-54-milliards-d-euros-le-president-delegue-du-conseil-d-analyse-economique-assure-que-l-etat-rentre-dans-ses-frais_AV-202608310346.html",
-      "summary": "L'économiste Xavier Jaravel, président délégué du Conseil d'analyse économique, appelle à multiplier les investissements à long terme dans l'économie française, tout en assainissant les comptes publics.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-8ujlWy9VY-ziQaOsq96Xx4uqes=/0x0:1920x1080/800x0/images/Xavier-Jaravel-president-delegue-du-Conseil-d-analyse-economique-2339701.jpg\" />"
-    },
-    {
-      "title": "Les Experts : TPE-PME, le casse-tête de la facturation électronique - 31/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-tpe-pme-le-casse-tete-de-la-facturation-electronique-31-08_EN-202608310322.html",
-      "summary": "Ce lundi 31 août, le casse-tête de la facturation électronique, les pistes du budget 2027, et la proposition du RN en matière de nettoyage des finances publiques, ont été abordés par Carine Rouvier, PDG d'EuropAmiante et du Domaine LEO, Anne-Sophie Alsif, cheffe économiste du cabinet d'audit BDO France et professeure à Paris 1 Panthéon-Sorbonne, et Jean-Eudes du Mesnil, fondateur de \"Du Mesnil Advisor\", dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
-    },
-    {
-      "title": "Les Experts : TPE-PME, le casse-tête de la facturation électronique - 31/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-tpe-pme-le-casse-tete-de-la-facturation-electronique-31-08_VN-202608310330.html",
-      "summary": "Ce lundi 31 août, le casse-tête de la facturation électronique, les pistes du budget 2027, et la proposition du RN en matière de nettoyage des finances publiques, ont été abordés par Carine Rouvier, PDG d'EuropAmiante et du Domaine LEO, Anne-Sophie Alsif, cheffe économiste du cabinet d'audit BDO France et professeure à Paris 1 Panthéon-Sorbonne, et Jean-Eudes du Mesnil, fondateur de \"Du Mesnil Advisor\", dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cdPVK2cLB-E-UrQb5H_oRvMRoUM=/0x0:1280x720/800x0/images/Les-Experts-TPE-PME-le-casse-tete-de-la-facturation-electronique-31-08-2339688.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Good Morning Market du lundi 31 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-integrale-de-good-morning-market-du-lundi-31-aout_EN-202608310288.html",
-      "summary": "Ce lundi 31 août, Étienne Bracq a reçu Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Alexandre Baradez, chef analyste chez IG, et Pierre Laurent, responsable de la recherche de EuroLand Corporate, dans l'émission Good Morning Market, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
-    },
-    {
-      "title": "L'intégrale de Good Morning Market du lundi 31 août",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-integrale-de-good-morning-market-du-lundi-31-aout_VN-202608310297.html",
-      "summary": "Ce lundi 31 août, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Alexandre Baradez, chef analyste chez IG, et Pierre Laurent, responsable de la recherche de EuroLand Corporate, étaient les invités dans l'émission Good Morning Market, présentée par Étienne Bracq, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9HUls_TNBLw-lW0ggvLjE4OAtkM=/0x0:1280x720/800x0/images/L-integrale-de-Good-Morning-Market-du-lundi-31-aout-2339662.jpg\" />"
-    },
-    {
-      "title": "Budget 2027 : l'équation se complique encore",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-budget-2027-l-equation-se-complique-encore_VN-202608310208.html",
-      "summary": "\"Un plan comme France 2030 s'autofinance en moins de 5 ans, ce serait bon pour le budget et pour la productivité. Ça permet à l'État de rentrer dans ses frais rapidement\" explique Xavier Jaravel, président délégué du Conseil d'Analyse Économique sur le plateau de Good Morning Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RDt-_LAW_2FVPGbmzl0anf6hnWU=/0x0:1280x720/800x0/images/Budget-2027-l-equation-se-complique-encore-2339590.jpg\" />"
-    },
-    {
-      "title": "Xavier Jaravel (Conseil d'Analyse Économique) : Budget 2027, l'équation se complique encore - 31/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/xavier-jaravel-conseil-d-analyse-economique-budget-2027-l-equation-se-complique-encore-31-08_EN-202608310174.html",
-      "summary": "Xavier Jaravel, économiste et président délégué du Conseil d'Analyse Économique, était l'invité de Brigitte Boucher dans Good Morning Business, ce lundi 31 août. Il lance l'alerte sur nos finances publiques, notamment sur la question de la dette, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
-    },
-    {
-      "title": "Xavier Jaravel (Conseil d'Analyse Économique) : Budget 2027, l'équation se complique encore - 31/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-xavier-jaravel-conseil-d-analyse-economique-budget-2027-l-equation-se-complique-encore-31-08_VN-202608310179.html",
-      "summary": "Xavier Jaravel, économiste et président délégué du Conseil d'Analyse Économique, était l'invité de Brigitte Boucher dans Good Morning Business, ce lundi 31 août. Il lance l'alerte sur nos finances publiques, notamment sur la question de la dette, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MT2yo7VwPWV1mNOKET5bNP3vk9s=/0x0:1280x720/800x0/images/Xavier-Jaravel-Conseil-d-Analyse-Economique-Budget-2027-l-equation-se-complique-encore-31-08-2339562.jpg\" />"
-    },
-    {
-      "title": "Xavier Jaravel (Conseil d'Analyse Économique) : Budget 2027, l'équation se complique encore - 31/08",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/xavier-jaravel-conseil-d-analyse-economique-budget-2027-l-equation-se-complique-encore-31-08_EN-202608310172.html",
-      "summary": "Xavier Jaravel, économiste et président délégué du Conseil d'Analyse Économique, était l'invité de Brigitte Boucher dans Good Morning Business, ce lundi 31 août. Il lance l'alerte sur nos finances publiques, notamment sur la question de la dette, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+      "title": "Un milliard de dollars en moins de 200 jours: avant sa probable entrée en Bourse, OpenAI revendique une croissance fulgurante de ses recettes publicitaires",
+      "url": "https://www.bfmtv.com/economie/entreprises/un-milliard-de-dollars-en-moins-de-200-jours-avant-sa-probable-entree-en-bourse-open-ai-revendique-une-croissance-fulgurante-de-ses-recettes-publicitaires_AV-202608310630.html",
+      "summary": "À l’approche de sa probable entrée en Bourse, OpenAI mise sur l’essor fulgurant de la publicité pour séduire les investisseurs. L'éditeur de ChatGPT reste toutefois largement déficitaire. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Aov9e5gbg8BGNLnYiiiLVNXZZCw=/0x106:2048x1258/800x0/images/Sam-Altman-alors-patron-d-OpenAI-le-17-octobre-2023-1751767.jpg\" />"
     },
     {
       "title": "Les pensions de retraite et les arrêts maladie dans le viseur des économies pour le budget 2027",
@@ -90,6 +45,21 @@
       "title": "Inflation, coût de la vie, contractuels… Pourquoi le salaire est-il devenu la préoccupation principale des professeurs ?",
       "url": "https://www.franceinfo.fr/societe/education/inflation-cout-de-la-vie-contractuels-pourquoi-le-salaire-est-il-devenu-la-preoccupation-principale-des-professeurs_8169692.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Pour la première fois la question de la rémunération passe en tête des inquiétudes des enseignants selon le baromètre annuel du syndicat SE-Unsa, devant les conditions de travail."
+    },
+    {
+      "title": "L’info du jour | 31 août 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/08/31/linfo-du-jour-31-aout-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Exclusif : le blocus naval américain paralyse le quotidien, confient des Iraniens à Euronews",
+      "url": "http://fr.euronews.com/2026/08/31/exclusif-le-blocus-naval-americain-paralyse-le-quotidien-confient-des-iraniens-a-euronews",
+      "summary": "Blocus naval américain: l'Iran asphyxié, inflation à 70 %, familles en mode survie témoignent"
+    },
+    {
+      "title": "L’info du jour | 31 août 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/08/31/linfo-du-jour-31-aout-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 31 août 2026 - Matin",
@@ -144,11 +114,6 @@
     {
       "title": "L’info du jour | 27 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/27/linfo-du-jour-27-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 27 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/27/linfo-du-jour-27-aout-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     }
   ]
