@@ -1,30 +1,50 @@
 {
-  "updated_at": "2026-09-02T14:47:50Z",
+  "updated_at": "2026-09-02T18:13:11Z",
   "articles": [
+    {
+      "title": "Uber annonce supprimer « environ 10 % » de ses effectifs",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/02/uber-annonce-supprimer-environ-10-de-ses-effectifs_6764486_3234.html",
+      "summary": "L’entreprise n’a pas partagé de chiffre sur les économies qu’il compte réaliser mais dit vouloir réorienter son capital pour « innover dans l’ensemble de [ses] activités principales et (…) bâtir l’avenir de la conduite autonome »."
+    },
+    {
+      "title": "Canicules et sécheresses coûteront 0,1 point de croissance à la France en 2026, selon Bercy",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/02/canicules-et-secheresses-couteront-0-1-point-de-croissance-a-la-france-en-2026-selon-bercy_6764470_3234.html",
+      "summary": "L’agriculture est le principal secteur affecté par les fortes chaleurs de l’été. La flambée des cours des énergies fossiles, notamment des carburants, liée au conflit au Moyen-Orient, a également pesé sur l’activité."
+    },
     {
       "title": "Régions : « Une économie robuste repose moins sur quelques usines emblématiques que sur la densité et la diversité de son tissu productif »",
       "url": "https://www.lemonde.fr/idees/article/2026/09/02/regions-une-economie-robuste-repose-moins-sur-quelques-usines-emblematiques-que-sur-la-densite-et-la-diversite-de-son-tissu-productif_6764372_3232.html",
       "summary": "L’interdépendance des régions est un atout pour renforcer la souveraineté économique de la France, expliquent, dans une tribune au « Monde », Arnaud Florentin et Elisabeth Laville, du cabinet d’études et de conseil Utopies."
     },
     {
-      "title": "En Hongrie, les PME espèrent une reprise de l’économie avec la fin de l’ère Orban : « Nous avons perdu plusieurs années à stagner »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/01/en-hongrie-les-pme-esperent-une-reprise-de-l-economie-avec-la-fin-de-l-ere-orban-nous-avons-perdu-plusieurs-annees-a-stagner_6763401_3234.html",
-      "summary": "Les entrepreneurs hongrois renouent avec la confiance avec l’installation du nouveau gouvernement de Péter Magyar. Malgré des premiers signes encourageants, les défis demeurent colossaux, y compris pour rétablir une concurrence non entravée dans ce qui constituait une économie de connivence."
+      "title": "\"Un coût très, très raisonnable\": le patron de l'ESA assure que l'Europe pourrait développer des vols spatiaux habités en augmentant son budget de seulement 10%",
+      "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/un-cout-tres-tres-raisonnable-le-patron-de-l-esa-assure-que-l-europe-pourrait-developper-des-vols-spatiaux-habites-en-augmentant-son-budget-de-seulement-10_AV-202609020711.html",
+      "summary": "En augmentant modérément son budget, l'Agence spatiale européenne pourrait assurer elle-même des vols habités et ne plus dépendre des États-Unis, estime son patron Josef Aschbacher. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KsJBXRiQszJi6gXp4tsywcC7SI0=/0x14:2048x1166/800x0/images/ESA-2341262.jpg\" />"
     },
     {
-      "title": "La production agricole française devrait chuter de 8%: Bercy estime que les canicules et la sécheresse de l'été coûteront 0,1 point de PIB en 2026",
-      "url": "https://www.bfmtv.com/economie/economie-social/la-production-agricole-francaise-devrait-baisser-de-8-bercy-estime-que-les-canicules-et-la-secheresse-de-l-ete-couteront-0-1-point-de-pib-en-2026_AD-202609020439.html",
-      "summary": "Vendredi dernier, les résultats détaillés de l'Insee ont révélé que la croissance en France avait été nulle au deuxième trimestre tandis que la première estimation d'une croissance de 0,2% entre avril et juin a été revue à la baisse.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WKyvYDaRS6t8gFUveonoeP3KTCA=/0x0:1920x1080/800x0/images/Agriculture-2321545.jpg\" />"
+      "title": "INFO BFM BUSINESS. Jusqu’à 7 milliards d’euros d’économies sur les collectivités: la ponction choc qui se prépare à Bercy sur les mairies et les régions",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/info-bfm-business-jusqu-a-7-milliards-d-euros-d-economies-sur-les-collectivites-la-ponction-choc-qui-se-prepare-a-bercy-sur-les-mairies-et-les-regions_AV-202609020710.html",
+      "summary": "En 2027, le gouvernement compte remettre à contribution les acteurs locaux. L'exécutif vise 30 milliards d'euros d'économies l'an prochain. Dont une partie à nouveau supportée par les collectivités locales. À hauteur de plusieurs milliards d'euros selon nos informations. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/g0ckBFGzO12uE35iduPeVVuvlb8=/0x0:1920x1080/800x0/images/Les-maires-en-colere-face-a-l-effort-budgetaire-demande-aux-collectivites-1978530.jpg\" />"
     },
     {
-      "title": "\"Sortir de l'euro ou quitter l'UE, c'est un poison pour l'économie allemande\": le patron de Deutsche Bank met en garde contre un \"repli nationaliste\" avant les élections en Saxe-Anhalt",
-      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/sortir-de-l-euro-ou-quitter-l-ue-c-est-un-poison-pour-l-economie-allemande-le-patron-de-deutsche-bank-met-en-garde-contre-un-repli-nationaliste-avant-les-elections-en-saxe-anhalt_AD-202609020403.html",
-      "summary": "Christian Sewing a estimé lors d'un congrès bancaire à Francfort que les partis populistes défendaient des idées \"contraires aux fondements de notre réussite : l'ouverture, la diversité, une Europe forte, des institutions fiables et la coopération internationale\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ALqEflpD7BVFQfnGgwVAY4qDt9Q=/0x114:2048x1266/800x0/images/Les-milieux-economiques-allemands-reclament-la-formation-rapide-d-un-gouvernement-2038904.jpg\" />"
+      "title": "retraites, santé, collectivités locales : les pistes d'économies du gouvernement",
+      "url": "https://www.bfmtv.com/economie/video-retraites-sante-collectivites-locales-les-pistes-d-economies-du-gouvernement_VN-202609020696.html",
+      "summary": "Pour le budget 2027, le gouvernement vise 30 milliards d'euros d'économies. Margaux Fodéré a analysé sur BFM Business les pistes envisagées, qui touchent notamment le secteur de la santé et les retraites. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bJYThh9ynI0qi6FYHn2a42CF1ks=/0x0:1280x720/800x0/images/retraites-sante-collectivites-locales-les-pistes-d-economies-du-gouvernement-2341257.jpg\" />"
     },
     {
-      "title": "Plafonnement des arrêts maladie : \"Sur des arrêts longs, très majoritairement, ce n'est pas là où il y a de l'abus\", estime un économiste de la santé",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/plafonnement-des-arrets-maladie-sur-des-arrets-longs-tres-majoritairement-ce-n-est-pas-la-ou-il-y-a-de-l-abus-estime-un-economiste-de-la-sante_8172716.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Depuis ce mardi 1er septembre, en France, un médecin peut prescrire au maximum 31 jours d’arrêt maladie d’un seul coup et 62 jours pour un renouvellement. Au-delà, il faudra le justifier. L’objectif est notamment de mieux contrôler une dépense qui ne cesse d’augmenter. Mais faudra-t-il consulter plus souvent ? Et surtout, cette mesure permettra-t-elle de faire réellement des économies ?"
+      "title": "Les livreurs de repas mieux payés depuis le 1er septembre",
+      "url": "https://www.franceinfo.fr/economie/emploi/les-livreurs-de-repas-mieux-payes-depuis-le-1er-septembre_8174006.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les livreurs de repas à vélo ou motorisés voient leur rémunération augmenter en France, depuis le mardi 1er septembre. Le taux horaire minimum négocié avec les plateformes passe de 11,75 euros brut par heure à 19 euros, après avoir chuté de 20% en moyenne ces dernières années en tenant compte de l’inflation."
+    },
+    {
+      "title": "La hausse des prix du plastique \"repart de plus belle\", alerte le premier syndicat français de la filière, après la reprise des hostilités entre les États-Unis et l'Iran",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-hausse-des-prix-du-plastique-repart-de-plus-belle-alerte-le-premier-syndicat-francais-de-la-filiere-apres-la-reprise-des-hostilites-entre-les-etats-unis-et-l-iran_8174021.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"On n'a pas trop d'espoir que ça s'arrête, on va une nouvelle fois vivre une forte inflation, alors qu'on avait eu une baisse des prix au cours de l'été\", rappelle Joseph Tayefeh, secrétaire général de Plastalliance, mercredi sur franceinfo."
+    },
+    {
+      "title": "L’info du jour | 2 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 septembre 2026 - Mi-journée",
@@ -32,8 +52,8 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 2 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-matin",
+      "title": "L’info du jour | 2 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
@@ -42,13 +62,13 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 1er septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/01/linfo-du-jour-1er-septembre-2026-soir",
+      "title": "L’info du jour | 1er septembre 2026 - Mi-journée",
+      "url": "http://fr.euronews.com/video/2026/09/01/linfo-du-jour-1er-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 1er septembre 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/09/01/linfo-du-jour-1er-septembre-2026-mi-journee",
+      "title": "L’info du jour | 1er septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/01/linfo-du-jour-1er-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
@@ -89,11 +109,6 @@
     {
       "title": "L’info du jour | 29 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/29/linfo-du-jour-29-aout-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 29 août 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/08/29/linfo-du-jour-29-aout-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
