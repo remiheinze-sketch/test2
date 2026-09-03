@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-03T02:01:17Z",
+  "updated_at": "2026-09-03T07:28:54Z",
   "articles": [
+    {
+      "title": "Eric Lombard, ex-ministre de l’économie : « Il y a un chemin pour redresser le pays »",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/03/eric-lombard-ex-ministre-de-l-economie-il-y-a-un-chemin-pour-redresser-le-pays_6764806_823448.html",
+      "summary": "Ecarté par Sébastien Lecornu, l’ancien homme fort de Bercy n’a pas renoncé à la politique. Il veut se présenter aux prochaines élections législatives en Bretagne, et juge possible d’agir efficacement même sans majorité à l’Assemblée nationale."
+    },
     {
       "title": "Uber annonce supprimer « environ 10 % » de ses effectifs",
       "url": "https://www.lemonde.fr/economie/article/2026/09/02/uber-annonce-supprimer-environ-10-de-ses-effectifs_6764486_3234.html",
@@ -12,24 +17,49 @@
       "summary": "L’agriculture est le principal secteur affecté par les fortes chaleurs de l’été. La flambée des cours des énergies fossiles, notamment des carburants, liée au conflit au Moyen-Orient, a également pesé sur l’activité."
     },
     {
-      "title": "Régions : « Une économie robuste repose moins sur quelques usines emblématiques que sur la densité et la diversité de son tissu productif »",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/02/regions-une-economie-robuste-repose-moins-sur-quelques-usines-emblematiques-que-sur-la-densite-et-la-diversite-de-son-tissu-productif_6764372_3232.html",
-      "summary": "L’interdépendance des régions est un atout pour renforcer la souveraineté économique de la France, expliquent, dans une tribune au « Monde », Arnaud Florentin et Elisabeth Laville, du cabinet d’études et de conseil Utopies."
+      "title": "La canicule va coûter 0,1 point à la croissance française cette année",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-canicule-va-couter-0-1-point-a-la-croissance-francaise-cette-annee_VN-202609030298.html",
+      "summary": "Les périodes de sécheresse ont fortement impacté la production agricole qui voit sa valeur ajoutée chuter de 8% sur un an... De quoi sans doute affecter la prévision de 0,7% de croissance du gouvernement pour 2026.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/g4eOs7NvxXPZiF4Yzb3RmtQnyMY=/0x0:1280x720/800x0/images/La-canicule-va-couter-0-1-point-a-la-croissance-francaise-cette-annee-2341617.jpg\" />"
     },
     {
-      "title": "\"Un coût très, très raisonnable\": le patron de l'ESA assure que l'Europe pourrait développer des vols spatiaux habités en augmentant son budget de seulement 10%",
-      "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/un-cout-tres-tres-raisonnable-le-patron-de-l-esa-assure-que-l-europe-pourrait-developper-des-vols-spatiaux-habites-en-augmentant-son-budget-de-seulement-10_AV-202609020711.html",
-      "summary": "En augmentant modérément son budget, l'Agence spatiale européenne pourrait assurer elle-même des vols habités et ne plus dépendre des États-Unis, estime son patron Josef Aschbacher. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KsJBXRiQszJi6gXp4tsywcC7SI0=/0x14:2048x1166/800x0/images/ESA-2341262.jpg\" />"
+      "title": "\"La vision était juste\": l'ex-ministre de l'Économie Éric Lombard admet \"ne pas avoir toujours compris les conclusions que tirait\" Emmanuel Macron et regrette le manque \"d'exécution de ses politiques\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-vision-etait-juste-l-ex-ministre-de-l-economie-eric-lombard-admet-ne-pas-avoir-toujours-compris-les-conclusions-que-tirait-emmanuel-macron-et-regrette-le-manque-d-execution-de-ses-politiques_AV-202609030292.html",
+      "summary": "L'ancien ministre de l'Économie, de l'Industrie et des Finances Éric Lombard évoque aussi \"la vision juste\" d'Emmanuel Macron qui \"a donné beaucoup de résultats positifs\" lors de son premier quinquennat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3QrceUTHw_fSRg3te5_STcQ9sWY=/0x106:2048x1258/800x0/images/Eric-Lombard-Emmanuel-Macron-2341610.jpg\" />"
     },
     {
-      "title": "INFO BFM BUSINESS. Jusqu’à 7 milliards d’euros d’économies sur les collectivités: la ponction choc qui se prépare à Bercy sur les mairies et les régions",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/info-bfm-business-jusqu-a-7-milliards-d-euros-d-economies-sur-les-collectivites-la-ponction-choc-qui-se-prepare-a-bercy-sur-les-mairies-et-les-regions_AV-202609020710.html",
-      "summary": "En 2027, le gouvernement compte remettre à contribution les acteurs locaux. L'exécutif vise 30 milliards d'euros d'économies l'an prochain. Dont une partie à nouveau supportée par les collectivités locales. À hauteur de plusieurs milliards d'euros selon nos informations. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/g0ckBFGzO12uE35iduPeVVuvlb8=/0x0:1920x1080/800x0/images/Les-maires-en-colere-face-a-l-effort-budgetaire-demande-aux-collectivites-1978530.jpg\" />"
+      "title": "Hausse des prix: “Un petit peu d’inflation alimentaire n’est pas un drame”, explique Arnaud Rousseau, président de la FNSEA",
+      "url": "https://www.bfmtv.com/economie/video-hausse-des-prix-un-petit-peu-d-inflation-alimentaire-n-est-pas-un-drame-explique-arnaud-rousseau-president-de-la-fnsea_VN-202609030246.html",
+      "summary": "Arnaud Rousseau, président de la FNSEA, était l’invité du Face-à-Face sur BFMTV et RMC ce jeudi 3 septembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/p82BGCiBiWrsIp0yvhN29qYitsc=/0x0:1280x720/800x0/images/Hausse-des-prix-Un-petit-peu-d-inflation-alimentaire-n-est-pas-un-drame-explique-Arnaud-Rousseau-president-de-la-FNSEA-2341575.jpg\" />"
     },
     {
-      "title": "retraites, santé, collectivités locales : les pistes d'économies du gouvernement",
-      "url": "https://www.bfmtv.com/economie/video-retraites-sante-collectivites-locales-les-pistes-d-economies-du-gouvernement_VN-202609020696.html",
-      "summary": "Pour le budget 2027, le gouvernement vise 30 milliards d'euros d'économies. Margaux Fodéré a analysé sur BFM Business les pistes envisagées, qui touchent notamment le secteur de la santé et les retraites. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bJYThh9ynI0qi6FYHn2a42CF1ks=/0x0:1280x720/800x0/images/retraites-sante-collectivites-locales-les-pistes-d-economies-du-gouvernement-2341257.jpg\" />"
+      "title": "L'Unédic à nouveau dans le viseur de l'État",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-l-unedic-a-nouveau-dans-le-viseur-de-l-etat_VN-202609030198.html",
+      "summary": "\"L'État a pris l'habitude néfaste de ponctionner systématiquement les recettes de l'Unédic pour réduire son propre déficit\" déplore Jean-Marc Daniel, économiste et professeur à l'ESCP Business School sur le plateau de Good Morning Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/li-to9RTiQRjb3F8qL_927H6Gk4=/0x0:1280x720/800x0/images/L-Unedic-a-nouveau-dans-le-viseur-de-l-Etat-2341531.jpg\" />"
+    },
+    {
+      "title": "Alexandre Loubet (député Rassemblement national) : RN, une rentrée sous le signe des dissensions - 03/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/alexandre-loubet-depute-rassemblement-national-rn-une-rentree-sous-le-signe-des-dissensions-03-09_EN-202609030187.html",
+      "summary": "Alexandre Loubet, député Rassemblement national de Moselle, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 3 septembre. Ils sont revenus sur son soutien pour la candidature de Marine Le Pen, sur la réforme des retraites, et sur le Budget de 2027, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+    },
+    {
+      "title": "Alexandre Loubet (député Rassemblement national) : RN, une rentrée sous le signe des dissensions - 03/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-alexandre-loubet-depute-rassemblement-national-rn-une-rentree-sous-le-signe-des-dissensions-03-09_VN-202609030196.html",
+      "summary": "Alexandre Loubet, député Rassemblement national de Moselle, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 3 septembre. Ils sont revenus sur son soutien pour la candidature de Marine Le Pen, sur la réforme des retraites, et sur le Budget de 2027, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KSESw96N_5F5tX15SdjQcN5QNYo=/0x0:1280x720/800x0/images/Alexandre-Loubet-depute-Rassemblement-national-RN-une-rentree-sous-le-signe-des-dissensions-03-09-2341529.jpg\" />"
+    },
+    {
+      "title": "Alexandre Loubet (député Rassemblement national) : RN, une rentrée sous le signe des dissensions - 03/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/alexandre-loubet-depute-rassemblement-national-rn-une-rentree-sous-le-signe-des-dissensions-03-09_EN-202609030183.html",
+      "summary": "Alexandre Loubet, député Rassemblement national de Moselle, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 3 septembre. Ils sont revenus sur son soutien pour la candidature de Marine Le Pen, sur la réforme des retraites, et sur le Budget de 2027, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+    },
+    {
+      "title": "Drones : Donald Trump impose jusqu'à 100% de taxes",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-drones-donald-trump-impose-jusqu-a-100-de-taxes_VN-202609030164.html",
+      "summary": "“La dépendance américaine aux drones et aux composants étrangers menace la sécurité nationale\", écrivait le président américain dans un texte publié en août. Une décision qui vise à sécuriser une filière devenue stratégique.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-U6z9zvqi-mIM_HqCQCAGaQJeeU=/0x0:1280x720/800x0/images/Drones-Donald-Trump-impose-jusqu-a-100-de-taxes-2341507.jpg\" />"
+    },
+    {
+      "title": "Uber taille dans ses effectifs pour réduire ses coûts",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/uber-taille-dans-ses-effectifs-pour-reduire-ses-couts_8145896.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Uber réduit ses effectifs administratifs d’environ 3 000 postes pour alléger ses structures et préserver sa rentabilité, malgré une forte croissance ces dernières années. La plateforme prévoit parallèlement d’investir 10 milliards de dollars dans les véhicules autonomes, qui pourraient à terme réduire encore ses coûts."
     },
     {
       "title": "Les livreurs de repas mieux payés depuis le 1er septembre",
@@ -42,9 +72,9 @@
       "summary": "\"On n'a pas trop d'espoir que ça s'arrête, on va une nouvelle fois vivre une forte inflation, alors qu'on avait eu une baisse des prix au cours de l'été\", rappelle Joseph Tayefeh, secrétaire général de Plastalliance, mercredi sur franceinfo."
     },
     {
-      "title": "L’info du jour | 2 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 3 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/03/linfo-du-jour-3-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 2 septembre 2026 - Mi-journée",
@@ -54,6 +84,11 @@
     {
       "title": "L’info du jour | 2 septembre 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 2 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/02/linfo-du-jour-2-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
@@ -110,6 +145,11 @@
       "title": "L’info du jour | 29 août 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/08/29/linfo-du-jour-29-aout-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Budget des universités : en route vers la hausse des droits d&#039;inscription ?",
+      "url": "https://www.alternatives-economiques.fr/budget-des-universites-en-route-vers-la-hausse-des-droits-d-inscription_03-09-2026",
+      "summary": "Face aux difficultés financières croissantes des universités, de plus en plus de voix se font entendre pour faire payer davantage les familles. Sans guère de préoccupations pour les inégalités que cela engendrerait."
     },
     {
       "title": "Les Français vont-ils trop chez le kiné ?",
