@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T15:24:36Z",
+  "updated_at": "2026-09-04T18:41:29Z",
   "articles": [
+    {
+      "title": "Les chiffres de l’emploi américain supérieurs aux prévisions ouvrent la voie à une hausse des taux",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/04/les-chiffres-de-l-emploi-americain-superieurs-aux-previsions-ouvrent-la-voie-a-une-hausse-des-taux_6765859_3234.html",
+      "summary": "L’économie des Etats-Unis a créé trois fois plus d’emplois qu’attendu en août selon les statistiques mensuelles du marché du travail et le taux de chômage est stable à 4,1 %. Ces chiffres pourraient justifier une hausse des taux d’intérêt alors que Donald Trump continue de réclamer leur baisse."
+    },
     {
       "title": "Face au coût faramineux des inondations, le Népal réclame plus de justice climatique",
       "url": "https://www.lemonde.fr/economie/article/2026/09/04/face-au-cout-faramineux-des-inondations-le-nepal-reclame-plus-de-justice-climatique_6765748_3234.html",
@@ -12,34 +17,19 @@
       "summary": "Rachat partiel d’assurance-vie, prêt personnel… plusieurs solutions peuvent permettre de débloquer de l’argent rapidement."
     },
     {
-      "title": "L’économie allemande amorce sa reprise, portée par les exportations vers l’Europe et l’IA",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html",
-      "summary": "Deux instituts de conjoncture ont nettement relevé leurs prévisions de croissance pour 2026, avec des signes de reprise bien plus favorables que prévu."
+      "title": "McKinsey est soupçonné d'avoir illégalement évité l'impôt: la justice fait saisir 65 millions d'euros dans les comptes du cabinet de conseil",
+      "url": "https://www.bfmtv.com/economie/entreprises/mc-kinsey-est-soupconne-d-avoir-illegalement-evite-l-impot-la-justice-fait-saisir-65-millions-d-euros-dans-les-comptes-du-cabinet-de-conseil_AD-202609040778.html",
+      "summary": "Le parquet national financier enquête depuis quatre ans sur le géant du conseil McKinsey pour des soupçons de blanchiment de fraude fiscale aggravée. Il vient de faire saisir par la justice belge la quasi-totalité de la somme présumée soustraite aux impôts.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OoQWqTwxqTRtXqGTIr8xX_oGGlA=/0x114:2048x1266/800x0/images/McKinsey-illustration-1672556.jpg\" />"
     },
     {
-      "title": "Le gouvernement met un milliard d'euros sur la table pour aider les agriculteurs: cet économiste plaide pour un \"impôt sècheresse\" comme en 1976 qui rapporterait deux fois plus",
-      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/le-gouvernement-met-un-milliard-d-euros-sur-la-table-pour-aider-les-agriculteurs-l-economiste-thierry-pouch-estime-qu-il-faudrait-plutot-un-plan-sur-10-ans-dote-de-dizaines-de-milliards-d-euros_AV-202609040672.html",
-      "summary": "Alors que le gouvernement vient de dévoiler un plan d’un milliard d'euros pour secourir les agriculteurs frappés par le choc climatique, l’économiste Thierry Pouch revient sur les limites de cette annonce d'urgence. Entre baisse proposée du budget européen et contrainte budgétaire nationale, il analyse comment financer une transformation agricole qui se chiffrera sur dix ans en dizaines de milliards d'euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aSlinQ5brqAHRuOSQh28St3yu64=/12x159:1772x1149/800x0/images/Thierry-Pouch-2342571.jpg\" />"
+      "title": "L'éco du monde : les États-Unis ont créé trois fois plus d’emplois que prévu",
+      "url": "https://www.bfmtv.com/economie/video-l-eco-du-monde-les-etats-unis-ont-cree-trois-fois-plus-d-emplois-que-prevu_VN-202609040717.html",
+      "summary": "L'éco du monde : les États-Unis ont créé trois fois plus d’emplois que prévu \"Ce qui compte encore plus que le rapport sur l'emploi, c'est le chiffre de l'inflation la semaine prochaine\". 💬 @fwred 🎙️ @GuillSommerer<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/plp0s8s_PtBdGRY3RTXX95eC-qM=/0x0:1280x720/800x0/images/L-eco-du-monde-les-Etats-Unis-ont-cree-trois-fois-plus-d-emplois-que-prevu-2342631.jpg\" />"
     },
     {
-      "title": "\"Baissez les taux ou j’arrête de commercer\": Donald Trump fait pression sur la Fed en menaçant ses partenaires commerciaux (qui n'y sont pour rien)",
-      "url": "https://www.bfmtv.com/economie/baissez-les-taux-ou-j-arrete-de-commercer-donald-trump-fait-pression-sur-la-fed-en-menacant-ses-partenaires-commerciaux-qui-n-y-sont-pour-rien_AV-202609040656.html",
-      "summary": "Se félicitant des bons chiffres de l'emploi américain, le président américain souhaite à nouveau que la Fed baisse ses taux sinon... il ne commercera plus avec ses partenaires commerciaux avec lesquels il est en déficit.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/xWzSn6nuofGSZQXmfpfi4tDRKeA=/4x53:1252x755/800x0/images/-174357.jpg\" />"
-    },
-    {
-      "title": "Budget 2027 : le remboursement du thermalisme menacé ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/la-france-a-tout-pour-reussir/video-budget-2027-le-remboursement-du-thermalisme-menace_VN-202609040616.html",
-      "summary": "Le remboursement du thermalisme menacé ? \"La Haute Autorité de santé évalue actuellement le service rendu par les cures thermales. Leur remboursement ne sera pas remis en cause avant les conclusions de cette évaluation, qui pourrait prendre plusieurs années\", explique Adeline Guérard, présidente de la Chaîne Thermale du Soleil. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/THimjQcD-C_LhPuv2NoEaSpS5xA=/0x0:1280x720/800x0/images/Budget-2027-le-remboursement-du-thermalisme-menace-2342536.jpg\" />"
-    },
-    {
-      "title": "La Gen Z a transformé les codes de la beauté",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/iconic-business/video-la-gen-z-a-transforme-les-codes-de-la-beaute_VN-202609040580.html",
-      "summary": "La Gen Z est aujourd’hui devenue un véritable moteur d’influence dans l’industrie de la beauté. \"Même s’ils ne représentent que 25 % de la population mondiale\" et une part moindre des dépenses, leur impact dépasse largement son poids économique, selon Chloé Arjona, directrice du pôle beauté chez NellyRocks.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/J--mVht3butomCfzeLNeQvI56mc=/0x0:1280x720/800x0/images/La-Gen-Z-a-transforme-les-codes-de-la-beaute-2342517.jpg\" />"
-    },
-    {
-      "title": "Plus d'un quart des entreprises du secteur de la restauration sont déficitaires en France",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/plus-d-un-quart-des-entreprises-du-secteur-de-la-restauration-sont-deficitaires-en-france_8147276.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La rentabilité de la restauration, qu'elle soit traditionnelle ou rapide, se dégrade. Un nouveau baromètre confirme la tendance, déjà amorcée depuis quelques années."
+      "title": "L’info du jour | 4 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/04/linfo-du-jour-4-septembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 4 septembre 2026 - Matin",
@@ -52,6 +42,11 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "L’info du jour | 3 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/03/linfo-du-jour-3-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
       "title": "L’info du jour | 3 septembre 2026 - Mi-journée",
       "url": "http://fr.euronews.com/video/2026/09/03/linfo-du-jour-3-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -59,11 +54,6 @@
     {
       "title": "L’info du jour | 3 septembre 2026 - Soir",
       "url": "http://fr.euronews.com/video/2026/09/03/linfo-du-jour-3-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 3 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/03/linfo-du-jour-3-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
