@@ -1,60 +1,35 @@
 {
-  "updated_at": "2026-09-07T13:07:29Z",
+  "updated_at": "2026-09-07T18:28:19Z",
   "articles": [
-    {
-      "title": "En Corée du Sud, l’IA s’impose au cœur des évolutions économiques et sociétales",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/07/en-coree-du-sud-l-ia-s-impose-au-c-ur-des-evolutions-economiques-et-societales_6767934_3234.html",
-      "summary": "La Corée du Sud veut se positionner comme le troisième grand acteur mondial de l’intelligence artificielle. Entre investissements massifs et réformes, l’ambition est de mettre l’IA au cœur de la croissance et du fonctionnement même de la société. Ce qui ne va pas sans résistances."
-    },
     {
       "title": "Impôt sur le revenu : l’art d’ajuster son taux de prélèvement à la source",
       "url": "https://www.lemonde.fr/argent/article/2026/09/07/impot-sur-le-revenu-l-art-d-ajuster-son-taux-de-prelevement-a-la-source_6767767_1657007.html",
       "summary": "Le contribuable peut modifier lui-même ce taux sur le site Internet des impôts, afin de l’adapter à l’évolution de ses revenus ou de sa situation personnelle."
     },
     {
-      "title": "De 7 à 13 euros le paquet en 10 ans mais moins d'argent pour l'Etat: pourquoi la hausse des taxes sur le tabac rapporte de moins en moins de recettes fiscales",
-      "url": "https://www.bfmtv.com/economie/consommation/de-7-a-13-euros-le-paquet-en-10-ans-mais-moins-d-argent-pour-l-etat-pourquoi-la-hausse-des-taxes-sur-le-tabac-rapporte-de-moins-en-moins-de-recettes-fiscales_AV-202609070471.html",
-      "summary": "Alors que les buralistes réclament un gel de la fiscalité, le prix du paquet de cigarettes a bondi de plus de 80% depuis 2017. Une politique qui contribue au recul du tabagisme, mais aussi à l'effondrement des ventes dans le réseau français. Au point que, malgré des taxes toujours plus élevées, les recettes fiscales du tabac diminuent.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RRfRfqmHRgsSGxLueBy0Ln5qfXU=/0x172:2048x1324/800x0/images/Devanture-d-un-bureau-de-tabac-2155518.jpg\" />"
+      "title": "Une loi de finances pour 6 mois, c’est possible ?",
+      "url": "https://www.bfmtv.com/economie/video-une-loi-de-finances-pour-6-mois-c-est-possible_VN-202609070717.html",
+      "summary": "Une loi de finances pour la moitié de l'année, c'est possible ? Sébastien Lecornu a annoncé que le budget 2027 pourrait ne porter que sur le premier semestre. Cette proposition, faite par le Premier ministre, permettrait de laisser des marges de manoeuvre au prochain gouvernement qui prendra les commandes du pays après l'élection présidentielle. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sTsfs50KIytP8ebFQ7X9NarFTwg=/0x0:1280x720/800x0/images/Une-loi-de-finances-pour-6-mois-c-est-possible-2343875.jpg\" />"
     },
     {
-      "title": "Les dépenses consacrées aux vaccins ont bondi de 70% en six ans mais la France n’atteint toujours pas ses objectifs de couverture",
-      "url": "https://www.bfmtv.com/economie/economie-social/les-depenses-consacrees-aux-vaccins-ont-bondi-de-70-en-six-ans-mais-la-france-n-atteint-toujours-pas-ses-objectifs-de-couverture_AV-202609070459.html",
-      "summary": "Grippe, papillomavirus, rougeole : plusieurs couvertures restent insuffisantes, alors que les dépenses consacrées aux vaccins ont bondi de près de 70% en six ans. Les politiques vaccinales menées depuis 2018 ont permis de diminuer les inégalités territoriales, mais pas les inégalités sociales.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Fdse48vtXdMGVRFsPxtPOJ-K138=/0x40:768x472/800x0/images/La-campagne-annuelle-de-vaccination-contre-la-grippe-et-le-Covid-commence-en-France-les-autorites-sanitaires-incitant-fortement-les-19-millions-de-Francais-concernes-a-se-faire-vacciner-au-meme-moment-contre-les-deux-maladies-2154689.jpg\" />"
+      "title": "INFO BFM BUSINESS. Ils veulent poser leur véto aux transferts de charges qui se multiplient: les mutuelles et assurances santé demandent au gouvernement de renforcer leur pouvoir de décision",
+      "url": "https://www.bfmtv.com/economie/economie-social/info-bfm-business-ils-veulent-poser-leur-veto-aux-transferts-de-charges-qui-se-multiplient-les-mutuelles-et-assurances-sante-demandent-au-gouvernement-de-renforcer-leur-pouvoir-de-decision_AV-202609070696.html",
+      "summary": "Dans un courrier consulté par BFM Business, l'Union nationale des organismes complémentaires de l'assurance maladie (Unocam) demande aux ministres de la Santé, Stéphanie Rist, et de l'Économie, Roland Lescure, une modification législative destinée à renforcer le pouvoir de décision des mutuelles et assurances santé face à tous transferts de la charges venant de la Sécu.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-sy_OkJJEEzt3xgjkWmrCsDHkHc=/0x106:2048x1258/800x0/images/Budget-de-la-Secu-une-surtaxation-de-la-sante-denonce-la-Mutualite-francaise-2195843.jpg\" />"
     },
     {
-      "title": "Pour \"stopper l'escalade fiscale\", Marine Le Pen veut \"geler\" les taxes sur le tabac et désindexer le prix sur l'inflation",
-      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/video-pour-stopper-l-escalade-fiscale-marine-le-pen-veut-geler-les-taxes-sur-le-tabac-et-desindexer-le-prix-sur-l-inflation_VN-202609070451.html",
-      "summary": "La candidate du Rassemblement national a envoyé dimanche 6 septembre au soir une lettre ouverte aux buralistes dans laquelle elle propose notamment de geler les taxes sur le tabac.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/03aalv0ysMNmphitT4tjcaXiuDE=/0x0:1280x720/800x0/images/Pour-stopper-l-escalade-fiscale-Marine-Le-Pen-veut-geler-les-taxes-sur-le-tabac-et-desindexer-le-prix-sur-l-inflation-2343684.jpg\" />"
+      "title": "La France peut-elle gagner de l'argent grâce à sa propre dette ?",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/la-france-peut-elle-gagner-de-l-argent-grace-a-sa-propre-dette_8181416.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La dette française atteint des niveaux records et son coût pèse de plus en plus sur les finances publiques. Mais une partie de cette dette est détenue par la Banque de France, elle-même propriété de l'État. Alors, la dette peut-elle aussi rapporter de l'argent à l'État ?"
     },
     {
-      "title": "Ils réclament le gel des taxes sur le tabac et la fin de l'indexation automatique du prix des cigarettes sur l'inflation: les buralistes se mobilisent toute la semaine contre la \"spirale fiscale\"",
-      "url": "https://www.bfmtv.com/economie/entreprises/ils-reclament-le-gel-des-taxes-sur-le-tabac-et-la-fin-de-l-indexation-automatique-du-prix-des-cigarettes-sur-l-inflation-les-buralistes-se-mobilisent-toute-la-semaine-contre-la-spirale-fiscale_AD-202609070412.html",
-      "summary": "Les buralistes vont se mobiliser cette semaine dans 6 villes pour \"dénoncer un ras-le-bol fiscal qui menace leur modèle économique\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6jIRMQ7_Hz8DslkgLpORTR6TgcA=/4x66:1252x768/800x0/images/-468196.jpg\" />"
-    },
-    {
-      "title": "Dominique Périer (ECMA et Afigec) : Jefacture.com, plateforme de facturation électronique - 05/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/objectif-croissance/video-dominique-perier-ecma-et-afigec-jefacture-com-plateforme-de-facturation-electronique-05-09_VN-202609070382.html",
-      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 5 septembre, Dominique Périer, vice-président d'ECMA et associé chez Afigec, nous présente Jefacture.com, une plateforme de facturation électronique pensée pour les experts-comptables et leurs clients, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter le samedi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0Uv6D8o6vUIUSTR7ImzpCKDjFxA=/0x0:1280x720/800x0/images/Dominique-Perier-ECMA-et-Afigec-Jefacture-com-plateforme-de-facturation-electronique-05-09-2343643.jpg\" />"
-    },
-    {
-      "title": "Le gouvernement envisage des prélèvements sur l'épargne salariale pour financer le budget 2027 de la Sécurité sociale, selon le ministre de l'Economie",
+      "title": "Budget de la Sécu 2027 : le gouvernement étudie de possibles prélèvements sur l'épargne salariale, Matignon évoque un simple \"document de travail\"",
       "url": "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "D'après le quotidien \"Les Echos\", l'exécutif étudie la possibilité de soumettre à cotisations une partie des primes d'intéressement, participation ou abondements des employeurs aux plans d'épargne."
+      "summary": "D'après le quotidien \"Les Echos\", l'exécutif envisage de soumettre à cotisations une partie des primes d'intéressement, de participation ou les abondements des employeurs aux plans d'épargne. Mais l'entourage du Premier ministre assure qu'à ce stade, rien n'est acté."
     },
     {
       "title": "La Confédération des buralistes réclame \"un blocage du prix du tabac, aussi bien pour conserver notre modèle que pour les finances publiques\"",
       "url": "https://www.franceinfo.fr/economie/la-confederation-des-buralistes-reclame-un-blocage-du-prix-du-tabac-aussi-bien-pour-conserver-notre-modele-que-pour-les-finances-publiques_8180549.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "\"C'est un produit qui demande d'être encadré. Nous ne demandons pas un privilège, nous demandons uniquement le droit d'opérer notre monopole\", affirme Xavier Dupont, trésorier général de la Confédération des buralistes."
-    },
-    {
-      "title": "Retraites : entre âge de départ, pensions et pénibilité, les Français divisés",
-      "url": "https://www.franceinfo.fr/economie/retraite/retraites-entre-age-de-depart-pensions-et-penibilite-les-francais-divises_8180117.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "À Vire, en Normandie, les retraites suscitent des avis très différents selon les générations. Alors que le gouvernement envisage de nouvelles mesures pour réduire le déficit du régime, retraités, actifs et jeunes confrontent leurs points de vue sur l'âge de départ, le niveau des pensions et la pénibilité du travail."
-    },
-    {
-      "title": "Taxer les plus riches, réduire les dépenses… Un jeu vous met aux commandes du budget de la France",
-      "url": "https://www.franceinfo.fr/economie/budget/taxer-les-plus-riches-reduire-les-depenses-un-jeu-vous-met-aux-commandes-du-budget-de-la-france_8179766.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Et si les clés de Bercy étaient entre vos mains ? Un jeu en ligne vous propose de prendre la place du ministre du Budget et de faire vos propres choix pour ramener le déficit de la France de 5,9 % à 3 % du PIB."
     },
     {
       "title": "L’info du jour | 7 septembre 2026 - Matin",
@@ -67,13 +42,13 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 6 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 7 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 6 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-soir",
+      "title": "L’info du jour | 6 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
@@ -82,13 +57,13 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 5 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/05/linfo-du-jour-5-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 6 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 5 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/05/linfo-du-jour-5-septembre-2026-matin",
+      "title": "L’info du jour | 5 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/05/linfo-du-jour-5-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
@@ -97,9 +72,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 4 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/04/linfo-du-jour-4-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 5 septembre 2026 - Matin",
+      "url": "http://fr.euronews.com/video/2026/09/05/linfo-du-jour-5-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 4 septembre 2026 - Mi-journée",
@@ -109,6 +84,11 @@
     {
       "title": "L’info du jour | 4 septembre 2026 - Matin",
       "url": "http://fr.euronews.com/video/2026/09/04/linfo-du-jour-4-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 4 septembre 2026 - Soir",
+      "url": "http://fr.euronews.com/video/2026/09/04/linfo-du-jour-4-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
