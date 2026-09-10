@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-10T07:36:26Z",
+  "updated_at": "2026-09-10T12:28:23Z",
   "articles": [
+    {
+      "title": "En Pologne, la fin du charbon redessine le cœur industriel de la Silésie",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/10/en-pologne-la-fin-du-charbon-redessine-le-c-ur-industriel-de-la-silesie_6769690_3234.html",
+      "summary": "Tandis que le charbon recule rapidement dans le mix énergétique polonais, le principal bassin minier du pays accélère sa reconversion. La fermeture des puits reste socialement sensible, mais la région, la deuxième plus riche du pays, bénéficie désormais d’une économie plus diversifiée et des fonds européens."
+    },
     {
       "title": "Pour Oxfam France, les plateformes de revente en ligne des vêtements sabordent l’effet vertueux de la seconde main pour l’environnement",
       "url": "https://www.lemonde.fr/planete/article/2026/09/10/pour-oxfam-france-les-plateformes-de-revente-en-ligne-des-vetements-sabordent-l-effet-vertueux-de-la-seconde-main-pour-l-environnement_6769295_3244.html",
-      "summary": "Dans un rapport, l’ONG spécialisée dans la lutte contre les inégalités et la pauvreté alerte sur l’impact environnemental et social de la seconde main à but lucratif. Progressant au détriment de l’économie sociale et solidaire, elle émet une empreinte carbone non négligeable."
+      "summary": "Dans un rapport publié jeudi, l’ONG spécialisée dans la lutte contre les inégalités et la pauvreté alerte sur l’impact environnemental et social de la seconde main à but lucratif. Progressant au détriment de l’économie sociale et solidaire, elle émet une empreinte carbone non négligeable."
     },
     {
       "title": "Electricité : le développement des énergies renouvelables profite aux consommateurs, assure la Commission de régulation de l’énergie",
@@ -12,24 +17,24 @@
       "summary": "L’autorité administrative indépendante a présenté mercredi un document permettant de comprendre l’économie du système électrique hexagonal."
     },
     {
-      "title": "Charles Wolf, président d’Initiative Pharma : face au « mur » du vieillissement, « il va falloir investir dans la santé »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/09/charles-wolf-president-d-initiative-pharma-face-au-mur-du-vieillissement-il-va-falloir-investir-dans-la-sante_6768927_3234.html",
-      "summary": "A l’approche de la présentation du budget de la Sécurité sociale pour 2027, le président du nouveau syndicat patronal de l’industrie pharmaceutique appelle à mieux valoriser les médicaments innovants produits ou développés en France. Il assure que ces dépenses supplémentaires bénéficieront à l’économie du pays."
+      "title": "L'inflation de la zone euro est à son plus haut niveau depuis 3 ans: comme attendu, la Banque centrale européenne relève ses taux de 0,25 point",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-nflation-de-la-zone-euro-est-a-son-plus-haut-niveau-depuis-3-ans-comme-attendu-la-banque-centrale-europeenne-releve-ses-taux-de-0-25-point_AD-202609100539.html",
+      "summary": "Sans surprise, la BCE a annoncé une augmentation de ses taux de 25 points de base ce jeudi. L'inflation en zone euro a atteint 3,3% en août, très loin de l'objectif des 2% fixé par l'institution de Francfort.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LRfQKyTHcv0G8qO44L_2UsJZ2T0=/0x0:768x432/800x0/images/La-presidente-de-la-Banque-centrale-europeenne-BCE-Christine-Lagarde-lors-d-un-discours-a-Francfort-en-Allemagne-le-5-juin-2025-2135772.jpg\" />"
     },
     {
-      "title": "Budget 2027 : Sébastien Lecornu lance une « opération déminage » auprès des chefs d’entreprise en promettant une baisse de la contribution exceptionnelle",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/09/budget-2027-sebastien-lecornu-lance-une-operation-deminage-aupres-des-chefs-d-entreprise-en-promettant-une-baisse-de-la-contribution-exceptionnelle_6768889_823448.html",
-      "summary": "A trois semaines de la présentation du projet de loi de finances 2027, le premier ministre confirme que la surtaxe « exceptionnelle » sur les grandes entreprises ne va pas disparaître. Mais elle devrait baisser, et un nouveau dispositif être créé pour favoriser la reprise d’entreprises par les salariés."
+      "title": "Midterms, Trump promet 5 000 dollars par Américain s'il gagne",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-midterms-trump-promet-5-000-dollars-par-americain-s-il-gagne_VN-202609100504.html",
+      "summary": "Ce jeudi 10 septembre, le discours de Donald Trump, dans lequel il promet une prime de 5 000 dollars à chaque Américain si son parti remporte les élections de mi-mandat, ainsi que la promesse faite par Sébastien Lecornu aux patrons de ne pas augmenter les impôts dans le projet de budget 2027, ont été abordés par Gilbert Cette, professeur d'économie à Neoma Business School, Philippe Trainar, professeur honoraire au Cnam et membre du Cercle des Économistes, et Olivier Provost, directeur et associé de Rumeur Publique, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wJzzzFmOkSSpGnbjo84gB0Ta5UE=/0x0:1280x720/800x0/images/Midterms-Trump-promet-5-000-dollars-par-Americain-s-il-gagne-2345879.jpg\" />"
     },
     {
-      "title": "Budget de la France: \"On est sur le Titanic\", prévient Jean Tirole, prix Nobel d'économie",
-      "url": "https://www.bfmtv.com/economie/video-budget-de-la-france-on-est-sur-le-titanic-previent-jean-tirole-prix-nobel-d-economie_VN-202609100309.html",
-      "summary": "Le gouvernement reste \"défavorable\" à des \"mesures plus générales\" d'aides pour faire face à la hausse des prix des carburants, en raison notamment de la \"situation des finances publiques\", a déclaré Bercy mercredi, à l'issue d'une réunion avec les distributeurs de carburant. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/U55WUx8sRwHHQwgL-vLckx6FDAc=/0x0:1280x720/800x0/images/Budget-de-la-France-On-est-sur-le-Titanic-previent-Jean-Tirole-prix-Nobel-d-economie-2345725.jpg\" />"
+      "title": "\"Il faut arrêter de se focaliser sur la réindustrialisation\": le prix Nobel d'économie Jean Tirole reproche à la France de protéger le Doliprane et l'industrie d'hier en oubliant l’IA et les biotechs",
+      "url": "https://www.bfmtv.com/economie/il-faut-arreter-de-se-focaliser-sur-la-reindustrialisation-le-prix-nobel-d-economie-jean-tirole-reproche-a-la-france-de-proteger-le-doliprane-et-l-industrie-d-hier-en-oubliant-l-ia-et-les-biotechs_AV-202609100408.html",
+      "summary": "Invité sur BFMTV, l'économiste français et lauréat 2014 du prix Nobel d'économie Jean Tirole a rappelé la dépendance de l'économie française et européenne aux États-Unis et à la Chine. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mV8TZrrLxEZZyr-4gCRgQ7PB1lo=/0x0:1920x1080/800x0/images/Jean-Tirole-2345800.jpg\" />"
     },
     {
-      "title": "Passer de 8.000 à 250 euros d’impôts pour racheter un fonds de commerce: comment Serge Papin veut doubler les reprises d’entreprises par les salariés",
-      "url": "https://www.bfmtv.com/economie/entreprises/passer-de-8-000-a-250-euros-d-impots-pour-racheter-un-fonds-de-commerce-comment-serge-papin-veut-doubler-les-reprises-d-entreprises-par-les-salaries_AV-202609100219.html",
-      "summary": "Invité sur BFM Business, le ministre des PME a détaillé les modalités du \"Pacte Papin\" promis par le gouvernement pour faciliter les reprises d'entreprises par les salariés. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yNRMecOkwoQocLMWONdMmvnJZ7s=/69x2:805x416/800x0/images/Serge-Papin-2345615.jpg\" />"
+      "title": "Proposition de LFI d'annuler la dette publique: \"une proposition fantaisiste\", estime Jean Tirole, prix Nobel d'économie",
+      "url": "https://www.bfmtv.com/economie/video-proposition-de-lfi-d-annuler-la-dette-publique-une-proposition-fantaisiste-estime-jean-tirole-prix-nobel-d-economie_VN-202609100397.html",
+      "summary": "Le gouvernement reste \"défavorable\" à des \"mesures plus générales\" d'aides pour faire face à la hausse des prix des carburants, en raison notamment de la \"situation des finances publiques\", a déclaré Bercy mercredi, à l'issue d'une réunion avec les distributeurs de carburant. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qUR42FSmrXD1owBmxum8wBIznnQ=/0x0:1280x720/800x0/images/Proposition-de-LFI-d-annuler-la-dette-publique-une-proposition-fantaisiste-estime-Jean-Tirole-prix-Nobel-d-economie-2345805.jpg\" />"
     },
     {
       "title": "INFO FRANCEINFO. Les notaires proposent de diviser par deux les taxes dues à l'Etat sur les donations familiales",
@@ -52,73 +57,73 @@
       "summary": "En pleine préparation du budget, Sébastien Lecornu envisage de réduire la rémunération des ministres et de leurs conseillers. Alors, geste d’exemplarité ou mesure démagogique ? Le débat est lancé."
     },
     {
-      "title": "\"C'est comme gagner au loto sans avoir joué\" : ces habitants qui lèguent leur fortune à leur commune",
-      "url": "https://www.franceinfo.fr/economie/c-est-comme-gagner-au-loto-sans-avoir-joue-ces-habitants-qui-leguent-leur-fortune-a-leur-commune_8185298.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Parfois, c’est tout un village qui hérite d'une maison, d'économies et parfois de plusieurs millions d’euros. En effet, certains habitants choisissent de laisser leurs biens à leur commune, un cadeau tombé du ciel qui permet de mettre en œuvre des projets très concrets pour les villes concernées."
+      "title": "L’info du jour | 10 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/10/linfo-du-jour-10-septembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 10 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/10/linfo-du-jour-10-septembre-2026-matin",
+      "url": "https://fr.euronews.com/video/2026/09/10/linfo-du-jour-10-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-soir",
+      "url": "https://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 septembre 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-mi-journee",
+      "url": "https://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-matin",
+      "url": "https://fr.euronews.com/video/2026/09/09/linfo-du-jour-9-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 8 septembre 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-mi-journee",
+      "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 8 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-soir",
+      "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 8 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-matin",
+      "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 septembre 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 7 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-soir",
+      "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-matin",
+      "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 6 septembre 2026 - Mi-journée",
-      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 7 septembre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 6 septembre 2026 - Matin",
-      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-matin",
+      "url": "https://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 6 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 6 septembre 2026 - Soir",
-      "url": "http://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-soir",
+      "url": "https://fr.euronews.com/video/2026/09/06/linfo-du-jour-6-septembre-2026-soir",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
