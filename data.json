@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-09-10T16:44:39Z",
+  "updated_at": "2026-09-10T19:20:23Z",
   "articles": [
     {
-      "title": "Menaces sur l’emploi dans l’économie sociale et solidaire, fragilisée par une baisse des subventions",
+      "title": "Accidents du travail : le gouvernement officialise un tour de vis sur les indemnités journalières",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/10/accidents-du-travail-le-gouvernement-officialise-la-baisse-des-indemnites-journalieres_6770009_823448.html",
+      "summary": "Présenté, mercredi, aux syndicats et au patronat, un projet de décret durcit les règles de calcul des indemnités. Son entrée en vigueur est fixée au 1er novembre. L’exécutif espère réaliser 270 millions d’euros d’économies en 2027."
+    },
+    {
+      "title": "Menaces sur l’emploi dans l’économie sociale et solidaire, qui représente près d’un emploi sur dix en France",
       "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/10/menaces-sur-l-emploi-dans-l-economie-sociale-et-solidaire-fragilisee-par-une-baisse-des-subventions_6769920_6768900.html",
-      "summary": "Associations, mutuelles, fondations et coopératives : l’économie sociale et solidaire, qui représente près d’un emploi sur dix en France, voit ses financements se contracter. Après 18 400 emplois détruits en 2025, les acteurs du secteur redoutent une nouvelle accélération des suppressions de postes."
+      "summary": "Associations, mutuelles, fondations et coopératives : l’économie sociale et solidaire voit ses subventions se contracter. Après 18 400 emplois détruits en 2025, les acteurs du secteur redoutent une nouvelle accélération des suppressions de postes."
     },
     {
       "title": "La BCE tente de combattre l’inflation sans casser la croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/09/10/la-banque-centrale-europeenne-tente-de-combattre-l-inflation-sans-casser-la-croissance_6769877_3234.html",
-      "summary": "La BCE a relevé, jeudi, le loyer de l’argent d’un quart de point. La flambée des prix pourrait la pousser à plus de sévérité dans les prochains mois."
+      "summary": "La Banque centrale européenne a relevé, jeudi, le loyer de l’argent d’un quart de point. La flambée des prix pourrait la pousser à plus de sévérité dans les prochains mois."
     },
     {
       "title": "L’économie française en plein décrochage par rapport au reste de l’Europe : croissance faible, inflation et chômage en hausse",
@@ -42,44 +47,24 @@
       "summary": "Parrot : une croissance propulsée par les micro-drones 🤖 \"Il y a de la demande pour les technologies souveraines\". 💬 @MathieUDetouchE 🎙️ @GuillSommerer<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/K0xPe503mvxs3REE6LxLJ-fjrNQ=/0x0:1280x720/800x0/images/Parrot-une-croissance-propulsee-par-les-micro-drones-2345992.jpg\" />"
     },
     {
-      "title": "Commentaire sur BCE – 10/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/commentaire-sur-bce-10-09_EN-202609100660.html",
-      "summary": "Ce jeudi 10 septembre, Yannick Lopez, directeur des gestions Taux et Solutions de Trésorerie chez OFI Invest, s'est penché sur la hausse des taux de la BCE, la réaction de l'économie américaine à d'éventuelles trois autres hausses de taux de la BCE, et le rejet de toute annulation de la dette française par C. Lagarde, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+      "title": "\"C'était censé être plus rentable\" : ces Français pris au piège du diesel",
+      "url": "https://www.franceinfo.fr/economie/automobile/diesel/c-etait-cense-etre-plus-rentable-ces-francais-pris-au-piege-du-diesel_8187209.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Longtemps vendu comme le choix des gros rouleurs, plus cher à l'achat et moins gourmand, avec un carburant meilleur marché, c'était la promesse d'économies à l'usage. Aujourd'hui, ceux qui avaient fait ce calcul voient leur budget s'envoler. Particuliers comme professionnels, ils paient désormais beaucoup plus cher à la pompe que les automobilistes qui roulent à l'essence. Reportage à Fontainebleau, en Seine-et-Marne."
     },
     {
-      "title": "Commentaire sur BCE - 10/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-commentaire-sur-bce-10-09_VN-202609100659.html",
-      "summary": "Ce jeudi 10 septembre, Yannick Lopez, directeur des gestions Taux et Solutions de Trésorerie chez OFI Invest, s'est penché sur la hausse des taux de la BCE, la réaction de l'économie américaine à d'éventuelles trois autres hausses de taux de la BCE, et le rejet de toute annulation de la dette française par C. Lagarde, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jeZhBGpTkXIep2ipRm337oYSN3s=/0x0:1280x720/800x0/images/Commentaire-sur-BCE-10-09-2345972.jpg\" />"
+      "title": "Hausse des taux de la BCE : quelles conséquences pour les Français ?",
+      "url": "https://www.franceinfo.fr/economie/hausse-des-taux-de-la-bce-quelles-consequences-pour-les-francais_8186720.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'augmentation des taux directeurs de la Banque Centrale Européenne risque de contraindre un peu plus l'économie de la zone euro."
     },
     {
-      "title": "Vie chère: \"Personne ne se bouge car on attend que les uns fassent à la place des autres\", estime Jérôme Rodrigues, membre du mouvement des Gilets jaunes",
-      "url": "https://www.bfmtv.com/economie/video-vie-chere-personne-ne-se-bouge-car-on-attend-que-les-uns-fassent-a-la-place-des-autres-estime-jerome-rodrigues-membre-du-mouvement-des-gilets-jaunes_VN-202609100656.html",
-      "summary": "Face au conflit au Moyent-Orient, le budget des Français se resserre. Selon un sondage Elabe \"Opinion en direct\" pour BFMTV, les automobilistes fixent à 1,84 euro le litre d'essence ou de gazole, le seuil de prix au-delà duquel faire le plein de son véhicule deviendrait trop cher et inacceptable. Et cette limite psychologique est en baisse de 9 centimes par rapport à avril dernier.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jUBISEA0Mc2uPe1sTpMQkZVr2PE=/0x0:1280x720/800x0/images/Vie-chere-Personne-ne-se-bouge-car-on-attend-que-les-uns-fassent-a-la-place-des-autres-estime-Jerome-Rodrigues-membre-du-mouvement-des-Gilets-jaunes-2345969.jpg\" />"
-    },
-    {
-      "title": "Un an maximum au lieu de trois: les décrets durcissant les arrêts maladie arrivent, des centaines de millions d’euros d’économies attendues",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-an-maximum-au-lieu-de-trois-les-decrets-durcissant-les-arrets-maladie-arrivent-des-centaines-de-millions-d-euros-d-economies-attendues_AN-202609100651.html",
-      "summary": "Deux décrets vont prochainement durcir les règles en matière d’arrêts de travail, en réduisant la durée maximale de certains arrêts longue durée et en sanctionnant davantage les abus pour ceux de courte durée. À la clé: plusieurs centaines de millions d’euros d’économies espérées pour l’Assurance maladie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nG4eCzor7R9TVCoNkhhzYbssTp8=/4x77:1252x779/800x0/images/-467986.jpg\" />"
-    },
-    {
-      "title": "Certaines filières sont plus touchées que d'autres: les canicules et la sécheresse coûteront 0,1 point de croissance à la France en 2026 à cause de la baisse de la production agricole",
-      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/certaines-filieres-sont-plus-touchees-que-d-autres-les-canicules-et-la-secheresse-couteront-0-1-point-de-croissance-a-la-france-en-2026-a-cause-de-la-baisse-de-la-production-agricole_AV-202609100649.html",
-      "summary": "Selon la note de conjoncture publiée aujourd’hui par l’Insee, l’impact est néanmoins inférieur à celui de 2003. Et la baisse des rendements n’est pas la seule cause de celle de la production.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mrcEcUafBoTCTqgkBKfDjZ5ue_o=/0x0:2048x1152/800x0/images/Agriculture-secheresse-canicule-2308803.jpg\" />"
-    },
-    {
-      "title": "Cette fois la France \"décroche\" sérieusement: l'Insee rabote la croissance à 0,4%, trois fois moins que dans la zone euro",
-      "url": "https://www.bfmtv.com/economie/economie-social/france/cette-fois-la-france-decroche-serieusement-et-c-est-la-seule-l-insee-rabote-la-croissance-a-0-4-trois-fois-moins-que-dans-la-zone-euro_AV-202609100636.html",
-      "summary": "L'Insee a revu à la baisse sa prévision de croissance pour 2026, désormais établie à 0,4% contre 0,7% auparavant. La France serait ainsi \"la seule grande économie avancée où l'activité freinerait\" cette année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/at9NE7_67HLWP6Pm7biLsrteHU4=/0x106:2048x1258/800x0/images/Made-in-France-croissance-insee-2345952.jpg\" />"
+      "title": "Faut-il taxer davantage les successions ?",
+      "url": "https://www.franceinfo.fr/politique/faut-il-taxer-davantage-les-successions_8186486.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les droits de succession ont rapporté plus de 16 milliards d’euros à l’État l’an dernier. À gauche, certains veulent taxer davantage les gros héritages. A droite, on souhaite baisser les impôts sur les successions. Qui paierait plus, qui paierait moins ?"
     },
     {
       "title": "L'Insee abaisse fortement sa prévision de croissance pour la France en 2026, de 0,7% à 0,4%",
       "url": "https://www.franceinfo.fr/economie/croissance/l-insee-abaisse-fortement-sa-prevision-de-croissance-pour-la-france-en-2026-de-0-7-a-0-4_8186732.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "L'Institut national de la statistique met en avant \"les épisodes caniculaires de l'été\" et \"la fermeture du détroit d'Ormuz\"."
-    },
-    {
-      "title": "INFO FRANCEINFO. Les notaires proposent de diviser par deux les taxes dues à l'Etat sur les donations familiales",
-      "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le but de cette réduction fiscale est d'encourager les Français de moins de 75 ans à davantage transmettre leur patrimoine à leurs descendants pour l'ensemble des donations, à l'exception de celles qui concernent les ultra-riches."
     },
     {
       "title": "L’info du jour | 10 septembre 2026 - Soir",
@@ -112,11 +97,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 8 septembre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "L’info du jour | 8 septembre 2026 - Mi-journée",
       "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
@@ -127,13 +107,18 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 7 septembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "L’info du jour | 8 septembre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/09/08/linfo-du-jour-8-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 septembre 2026 - Matin",
       "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "L’info du jour | 7 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/07/linfo-du-jour-7-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 7 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
