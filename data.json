@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-12T05:14:31Z",
+  "updated_at": "2026-09-12T09:45:56Z",
   "articles": [
+    {
+      "title": "Le piège se referme sur l’économie française",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/12/le-piege-se-referme-sur-l-economie-francaise_6771262_823448.html",
+      "summary": "La France doit investir davantage pour financer sa réindustrialisation et s’adapter au changement climatique, tout en réduisant un déficit public qui rogne ses marges de manœuvre. Mais les débats sur le budget 2027 et l’élection présidentielle compliquent cette équation."
+    },
     {
       "title": "Aux Etats-Unis, la forte inflation grève le pouvoir d’achat des Américains",
       "url": "https://www.lemonde.fr/economie/article/2026/09/11/aux-etats-unis-la-forte-inflation-greve-le-pouvoir-d-achat-des-americains_6770626_3234.html",
@@ -12,14 +17,14 @@
       "summary": "Alors que le débat sur les retraites se concentre sur l’âge de départ, les cotisations et le niveau des pensions, l’économiste Pierre Rousseaux met en avant, dans une tribune au « Monde », d’autres paramètres importants à prendre en compte."
     },
     {
-      "title": "Le PIB français pourrait chuter de 3,6 % en 2050 en cas d’inaction climatique, alerte le ministère de l’économie",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/11/le-pib-francais-pourrait-chuter-de-3-6-en-2050-en-cas-d-inaction-climatique-alerte-le-ministere-de-l-economie_6770554_3234.html",
-      "summary": "Cette trajectoire serait prise en cas d’absence de mesures supplémentaires d’adaptation au changement climatique, et sur la réduction des rejets de gaz à effet de serre, a précisé Bercy."
+      "title": "Sébastien Talbot (Edicia) : Edicia, piloter la sécurité par les faits - 12/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/objectif-croissance/video-sebastien-talbot-edicia-edicia-piloter-la-securite-par-les-faits-12-09_VN-202609120135.html",
+      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 12 septembre, Sébastien Talbot, directeur général d'Edicia, a parlé de sa plateforme de sécurité urbaine qui permet d'assurer la tranqullité et la sécurité des habitants, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter le samedi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mtCVx1jBmsE4HNEdbi8bi6XXFps=/0x0:1280x720/800x0/images/Sebastien-Talbot-Edicia-Edicia-piloter-la-securite-par-les-faits-12-09-2346881.jpg\" />"
     },
     {
-      "title": "Comptes publics : la France commence à payer la facture de la dissolution ratée",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/11/comptes-publics-la-france-commence-a-payer-la-facture-de-la-dissolution-ratee_6770553_3232.html",
-      "summary": "L’absence de majorité à l’Assemblée nationale depuis juin 2024 se traduit par une incapacité à baisser le déficit public. La France paraît plus vulnérable que jamais, avec des taux d’intérêt au plus haut depuis 2008."
+      "title": "Dès le 1er octobre, le reste à charge s'élèvera à 140 euros maximum à l'année: le décret qui indexe les plafonds annuels des franchises médicales sur l'inflation publié",
+      "url": "https://www.bfmtv.com/economie/economie-social/des-le-1er-octobre-le-reste-a-charge-s-elevera-a-140-euros-maximum-a-l-annee-le-decret-qui-indexe-les-plafonds-annuels-des-franchises-medicales-sur-l-inflation-publie_AV-202609120127.html",
+      "summary": "Un décret paru ce samedi 12 septembre au Journal officiel indexe sur l'inflation et relève, à compter du 1er octobre, les plafonds annuels des franchises médicales et participations forfaitaires respectivement à 70 euros au lieu de 50. Ce qui donne un reste à charge de 140 euros par an maximum, confirmant les informations de BFM Business dévoilées fin août.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kjKzI8vrOurQTdwmD-4Mn6MBTes=/0x106:2048x1258/800x0/images/Pharmacie-2263811.jpg\" />"
     },
     {
       "title": "Elle prélève plus que tous ses voisins mais dépense encore davantage: le constat accablant d'UBS sur la France qui voit la dette exploser à 138% du PIB",
@@ -82,9 +87,9 @@
       "summary": "Les retraités vont-ils être sacrifiés dans le budget pour l'année à venir, doivent-ils contribuer davantage ? Le ministre des Comptes publics a assuré ce vendredi matin sur Sud Radio qu'il ne pourrait y avoir \"de demi-mesure\", quelle que soit l'option choisie. Pierre-Henri Dumont des Républicains souhaite des efforts \"pas simplement par les retraités ou par les actifs\", tandis que Sylvain Maillard, député Renaissance de Paris, souhaite avant tout \"une discussion\" avec le ministre pour soutenir la mesure. Ils en débattent dans le \"Duel\" d'\"Avant 20 Heures\", vendredi 11 septembre."
     },
     {
-      "title": "\"Ce n'est pas à nous de faire des efforts\" : la croissance en berne, les Français sont-ils prêts à contribuer davantage ?",
-      "url": "https://www.franceinfo.fr/economie/budget/c-est-deja-beaucoup-la-croissance-en-berne-etes-vous-prets-a-contribuer-davantage_8188364.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La croissance sera très faible en 2026 : seulement 0,5%. Les prix, eux, vont continuer de grimper, selon les prévisions du gouvernement. Ce qui est de mauvais augure pour le budget, dans lequel les Français seront mis à contribution : retraite, pouvoir d'achat, TVA… Sont-ils prêts à des efforts supplémentaires ?"
+      "title": "L’info du jour | 12 septembre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/09/12/linfo-du-jour-12-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 11 septembre 2026 - Soir",
@@ -150,11 +155,6 @@
       "title": "Les mots croisés d&#039;Alter Eco : « A réuni Le Maire et Piketty »",
       "url": "https://www.alternatives-economiques.fr/les-mots-croises-d-alter-eco-a-reuni-le-maire-et-piketty_12-09-2026",
       "summary": "Gini, roi du pétrole, post GATT… Les mots de l'économie se déclinent aussi en cases blanches et noires. Croisez le fer avec Alter Eco ! Et envoyez-nous vos grilles."
-    },
-    {
-      "title": "Les consignes, nouveau terrain stratégique de la livraison",
-      "url": "https://www.alternatives-economiques.fr/les-consignes-nouveau-terrain-strategique-de-la-livraison_10-09-2026",
-      "summary": "La livraison des colis hors domicile continue de progresser en France, grâce à l’installation de casiers connectés. La Poste et Mondial Relay se partagent ce marché en pleine croissance, au service d’un e-commerce débridé."
     }
   ]
 }
