@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:46:55Z",
+  "updated_at": "2026-09-12T05:14:31Z",
   "articles": [
     {
       "title": "Aux Etats-Unis, la forte inflation grève le pouvoir d’achat des Américains",
@@ -20,6 +20,11 @@
       "title": "Comptes publics : la France commence à payer la facture de la dissolution ratée",
       "url": "https://www.lemonde.fr/idees/article/2026/09/11/comptes-publics-la-france-commence-a-payer-la-facture-de-la-dissolution-ratee_6770553_3232.html",
       "summary": "L’absence de majorité à l’Assemblée nationale depuis juin 2024 se traduit par une incapacité à baisser le déficit public. La France paraît plus vulnérable que jamais, avec des taux d’intérêt au plus haut depuis 2008."
+    },
+    {
+      "title": "Elle prélève plus que tous ses voisins mais dépense encore davantage: le constat accablant d'UBS sur la France qui voit la dette exploser à 138% du PIB",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/elle-preleve-plus-que-tous-ses-voisins-mais-depense-encore-davantage-le-constat-accablant-d-ubs-sur-la-france-qui-voit-la-dette-exploser-a-138-du-pib_AV-202609120044.html",
+      "summary": "Après l’Insee, le gouvernement a nettement abaissé sa prévision de croissance pour 2026. Une dégradation qui complique encore l’équation budgétaire française, alors qu’UBS alerte sur une dette susceptible d’atteindre 138% du PIB en 2033 en l’absence de nouvelles économies.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Xhp7rrBmMf5tVdN2D-Zm00P7pT8=/0x106:2048x1258/800x0/images/Dette-France-UBS-2346578.jpg\" />"
     },
     {
       "title": "Émission du 11 septembre 2026",
@@ -60,11 +65,6 @@
       "title": "Le chiffre de la semaine : 0,4 % – 11/09",
       "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-chiffre-de-la-semaine-0-4-11-09_EN-202609110863.html",
       "summary": "Vendredi 11 septembre, la prévision de croissance de la France pour 2026 selon l'Insee, estimée à 0,4 %, a été abordée par Anna Boata, directrice de la recherche macroéconomique d'Allianz Trade, Sébastien Lalevée, directeur général de Montpensier Arbevel, Léa Dunand-Chatellet, directrice générale de Mirova, et Emmanuel Lechypre, éditorialiste BFM Business, reçus par Marc Fiorentino dans l'émission C'est Votre Argent sur BFM Business. Retrouvez l'émission le vendredi et réécoutez-la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/U5RYDGk-hZBK683vHGhKLv2Maog=/0x0:14000x14000/800x0/podcast/podcasts/principale-98_2.jpg\" />"
-    },
-    {
-      "title": "LES ÉCLAIREURS - Économie: pourquoi la France décroche-t-elle par rapport à ses voisins européens?",
-      "url": "https://www.bfmtv.com/economie/video-les-eclaireurs-economie-pourquoi-la-france-decroche-t-elle-par-rapport-a-ses-voisins-europeens_VN-202609110775.html",
-      "summary": "L'Insee a revu à la baisse sa prévision de croissance pour 2026, désormais établie à 0,4% contre 0,7% auparavant. La France serait ainsi \"la seule grande économie avancée où l'activité freinerait\" cette année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/knXf76bcLvQld3M8Uhu4b0BuLiM=/0x0:1280x720/800x0/images/LES-ECLAIREURS-Economie-pourquoi-la-France-decroche-t-elle-par-rapport-a-ses-voisins-europeens-2346737.jpg\" />"
     },
     {
       "title": "\"On ne fait plus les courses comme avant\" : comment les Français font-ils face à l'inflation ?",
@@ -147,14 +147,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
+      "title": "Les mots croisés d&#039;Alter Eco : « A réuni Le Maire et Piketty »",
+      "url": "https://www.alternatives-economiques.fr/les-mots-croises-d-alter-eco-a-reuni-le-maire-et-piketty_12-09-2026",
+      "summary": "Gini, roi du pétrole, post GATT… Les mots de l'économie se déclinent aussi en cases blanches et noires. Croisez le fer avec Alter Eco ! Et envoyez-nous vos grilles."
+    },
+    {
       "title": "Les consignes, nouveau terrain stratégique de la livraison",
       "url": "https://www.alternatives-economiques.fr/les-consignes-nouveau-terrain-strategique-de-la-livraison_10-09-2026",
       "summary": "La livraison des colis hors domicile continue de progresser en France, grâce à l’installation de casiers connectés. La Poste et Mondial Relay se partagent ce marché en pleine croissance, au service d’un e-commerce débridé."
-    },
-    {
-      "title": "La contre-attaque du Canada sur les droits de douane va-t-elle pénaliser son économie ?",
-      "url": "https://www.alternatives-economiques.fr/la-contre-attaque-du-canada-sur-les-droits-de-douane-va-t-elle-penaliser-son-economie_09-09-2026",
-      "summary": "Une nouvelle salve de droits de douane américains frappe des secteurs canadiens très intégrés à l’économie des Etats-Unis. Le Canada riposte, au risque d’en subir des conséquences."
     }
   ]
 }
