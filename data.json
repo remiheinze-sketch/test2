@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:44:54Z",
+  "updated_at": "2026-09-13T19:05:12Z",
   "articles": [
     {
       "title": "Le contrôle des houthistes sur le détroit de Bab Al-Mandab fait planer une nouvelle menace sur l’économie mondiale",
@@ -40,6 +40,11 @@
       "title": "Le piège se referme sur l’économie française",
       "url": "https://www.lemonde.fr/politique/article/2026/09/12/le-piege-se-referme-sur-l-economie-francaise_6771262_823448.html",
       "summary": "La France doit investir davantage pour financer sa réindustrialisation et s’adapter au changement climatique, tout en réduisant un déficit public qui rogne ses marges de manœuvre. Mais les débats sur le budget 2027 et l’élection présidentielle compliquent cette équation."
+    },
+    {
+      "title": "Budget 2027: le gouvernement ne proposera pas de \"gel\" du barème de l'impôt sur le revenu",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-2027-le-gouvernement-ne-proposera-pas-de-gel-du-bareme-de-l-impot-sur-le-revenu_AD-202609130302.html",
+      "summary": "La porte-parole du gouvernement Maud Bregeon assure sur BFMTV ce dimanche que le gouvernement proposera d'indexer le barème de l’impôt sur le revenu sur l’inflation.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/o02KYgZjqYNCNhTBVdfvPSeWoWA=/0x0:1920x1080/800x0/images/Maud-Bregeon-lors-du-Grand-Oral-sur-BFMTV-ce-dimanche-13-septembre-2026-2347280.jpg\" />"
     },
     {
       "title": "Prix de la baguette: un baromètre du pouvoir d'achat des Français",
@@ -92,9 +97,19 @@
       "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 12 septembre, Philippe Berta, professeur émérite, senior advisor chez DGA Group et président de GenR, Frédéric Bizard, professeur d'économie à l'ESCP et président fondateur de l'Institut Santé, et Rémy Teston, directeur général de Buzz E-Santé, étaient les invités dans l'émission Check-up Santé, présentée par Fabien Guez. Check-up Santé est à voir le samedi sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8O_daZNu0lvRwTB_HpHPvRJdscc=/0x0:1280x720/800x0/images/Check-up-Sante-Samedi-12-septembre-2346938.jpg\" />"
     },
     {
+      "title": "REPORTAGE. \"Ça rime à rien\" : les seniors réticents face à la volonté du gouvernement de réaliser des économies sur les retraites",
+      "url": "https://www.franceinfo.fr/economie/budget/reportage-ca-rime-a-rien-face-a-la-volonte-du-gouvernement-de-realiser-des-economies-sur-les-retraites-des-seniors-reticents_8190929.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Pour économiser 30 milliards d'euros, le gouvernement envisage notamment de toucher aux retraites. Si certains retraités à la pension confortable sont prêts à faire un effort temporaire, d'autres n'en ont pas les moyens, et la plupart craignent que la mesure ne s'installe durablement."
+    },
+    {
+      "title": "Le gouvernement ne proposera pas de \"gel\" du barème de l'impôt sur le revenu dans le prochain budget 2027, annonce sa porte-parole Maud Bregeon",
+      "url": "https://www.franceinfo.fr/economie/budget/le-gouvernement-ne-proposera-pas-de-gel-du-bareme-de-l-impot-sur-le-revenu-dans-le-prochain-budget-2027-annonce-sa-porte-parole-maud-bregeon_8191082.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La porte-parole du gouvernement Maud Bregeon a rejeté l'idée \"de geler ce qu'on appelle le barème\", car cela entraînerait \"mécaniquement une hausse d'impôts pour l'ensemble des Français\"."
+    },
+    {
       "title": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
       "url": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement, qui compte faire 30 milliards d'économies dans son prochain budget, envisage de toucher aux pensions de retraite, même s'il n'a pas encore tranché entre une désindexation ou sous-indexation partielle et la suppression de l'abattement fiscal de 10%."
+      "summary": "Le gouvernement reste à la recherche de 30 milliards d'euros d'économies pour réduire le déficit et la dette publics. Il envisage de mettre à contribution les retraités à hauteur de 6 milliards, sans pour autant leur faire porter \"l'effort central de ce budget\"."
     },
     {
       "title": "Budget 2027 : vers des donations plus simples et moins taxées ?",
@@ -107,19 +122,14 @@
       "summary": "L'ancienne porte-parole et ex-députée de La France insoumise, co-fondatrice de l’Après (Alliance pour une République écologique et sociale) était l'invitée du \"8h30 franceinfo\", dimanche 13 septembre 2026."
     },
     {
+      "title": "DIRECT. Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche."
+    },
+    {
       "title": "\"Aucune pension ne diminuera\" : le ministre de l'Economie réfute vouloir \"matraquer les retraités\"",
       "url": "https://www.franceinfo.fr/economie/budget/aucune-pension-ne-diminuera-le-ministre-de-l-economie-refute-vouloir-matraquer-les-retraites_8190464.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Roland Lescure a accordé un entretien au \"Parisien\", samedi, pour parler des économies que le gouvernement souhaiter réaliser dans le projet de budget 2027."
-    },
-    {
-      "title": "Budget 2027 : un effort de 6 milliards demandé aux retraités",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-un-effort-de-6-milliards-demande-aux-retraites_8190065.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L’équation budgétaire relève d’un casse-tête et va nécessiter des choix. Il faut déjà trouver une solution au règlement de 6 milliards d'euros, la note de revalorisation des retraites en raison de l’inflation."
-    },
-    {
-      "title": "\"On en profite à chaque fois pour faire le plein\" : le diesel coûte 70 centimes de moins en Andorre",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-en-profite-a-chaque-fois-pour-faire-le-plein-le-diesel-coute-70-centimes-de-moins-en-andorre_8190086.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comment trouver une solution à l'inflation des prix du carburant ? Pour certains, la situation géographique est une aubaine. Il faut prendre la direction d’Andorre, au cœur des Pyrénées, entre la France et l’Espagne, pour trouver un litre de sans-plomb à 1,60 euro."
     },
     {
       "title": "L’info du jour | 13 septembre 2026 - Soir",
