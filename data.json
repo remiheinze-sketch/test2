@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-15T17:54:35Z",
+  "updated_at": "2026-09-15T20:37:48Z",
   "articles": [
+    {
+      "title": "Formation professionnelle : l’AFPA va licencier plus de 800 personnes",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/15/formation-professionnelle-l-afpa-va-licencier-800-personnes_6774479_3234.html",
+      "summary": "L’Agence nationale pour la formation professionnelle des adultes, organisme public qui emploie 5 410 salariés, souffre notamment de la concurrence du privé. Son plan vise à combler un déficit chronique de l’activité d’ici trois ans"
+    },
     {
       "title": "La Banque de France abaisse légèrement sa prévision de croissance pour 2026, à 0,4 % du PIB",
       "url": "https://www.lemonde.fr/economie/article/2026/09/15/la-banque-de-france-abaisse-legerement-sa-prevision-de-croissance-pour-2026-a-0-4-du-pib_6774471_3234.html",
-      "summary": "En dépit de cette révision à la baisse, l’institution estime que l’économie française est une « économie qui résiste ». La faible consommation des ménages, la perte de dynamisme de l'’investissement privé et la faible contribution du commerce extérieur pèsent sur l’activité du pays."
+      "summary": "En dépit de cette révision à la baisse, l’institution estime que l’économie française est une « économie qui résiste ». La faible consommation des ménages, la perte de dynamisme de l’investissement privé et la faible contribution du commerce extérieur pèsent sur l’activité du pays."
     },
     {
       "title": "Budget 2027 : Sébastien Lecornu demande à ses ministres de ne pas augmenter les dépenses de l’Etat pour l’année à venir",
@@ -22,14 +27,29 @@
       "summary": "La fréquentation et les recettes internationales ont progressé cet été. Mais la clientèle française est moins partie en juillet et août, a raccourci ses séjours et réduit ses dépenses, en raison des tensions sur le pouvoir d’achat et des canicules"
     },
     {
-      "title": "Andreï Yakovlev, économiste russe en exil : « Dans de nombreuses zones, l’essence est introuvable ou vendue à des prix deux à trois fois supérieurs à ceux des grandes villes »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/15/andrei-yakovlev-economiste-russe-en-exil-dans-de-nombreuses-zones-l-essence-est-introuvable-ou-vendue-a-des-prix-deux-a-trois-fois-superieurs-a-ceux-des-grandes-villes_6774340_3234.html",
-      "summary": "Désormais chercheur à Berlin, cet ancien professeur à Moscou de la réputée Ecole des hautes études en sciences économiques évoque les effets de l’inflation et les pénuries qui affectent la population russe à quelques jours des élections législatives qui doivent se tenir du 18 au 20 septembre."
-    },
-    {
       "title": "Le plus mauvais résultat depuis 2012 hors Covid: comme l'Insee, la Banque de France ne prévoit plus qu'une croissance de 0,4% en 2026 mais refuse d'alimenter la \"sinistrose\" en parlant de \"décrochage\"",
       "url": "https://www.bfmtv.com/economie/le-plus-mauvais-resultat-depuis-2012-hors-covid-comme-l-insee-la-banque-de-france-ne-prevoit-plus-qu-une-croissance-de-0-4-en-2026-mais-refuse-d-alimenter-la-sinistrose-en-parlant-de-decrochage_AV-202609150623.html",
       "summary": "La Banque de France revoit sa prévision de croissance à la baisse, à 0,4% en 2026. Contrairement à l'Insee, elle refuse toutefois de parler de décrochage par rapport aux autres pays européens, en espérant un rebond de la demande intérieure l'an prochain.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VvD7XA5jQDiTkK125hRdHnG7Zr4=/0x106:2048x1258/800x0/images/Horloge-1964313.jpg\" />"
+    },
+    {
+      "title": "Crise du carburant : ces Français qui font le plein à l’étranger",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crise-du-carburant-ces-francais-qui-font-le-plein-a-l-etranger_8194262.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Certains automobilistes font des kilomètres pour payer leur plein moins cher. Direction le Luxembourg ou l’Espagne, où les tarifs sont plus avantageux. Taxes moins élevées, aides à la pompe : les choix de nos voisins se voient sur la facture."
+    },
+    {
+      "title": "Budget 2027 : Sébastien Lecornu demande à la Commission européenne d'\"alléger la charge pesant sur les États membres\"",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-la-commission-europeenne-d-alleger-la-charge-pesant-sur-les-etats-membres_8194250.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre souhaite notamment que les recettes exceptionnelles tirées de l’amende infligée à Google servent à réduire les contributions des Etats membres au budget de l'Union européenne."
+    },
+    {
+      "title": "Quelle part du prix du carburant revient à l'État ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quelle-part-du-prix-du-carburant-revient-a-l-etat_8194226.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les taxes sur l'essence sont-elles une aubaine pour l'État ? Le ministre de l'Économie, Roland Lescure, le conteste. Les équipes de France Télévisions ont décomposé ce que vous payez à la pompe pour comprendre ce que rapporte cette hausse aux finances publiques."
+    },
+    {
+      "title": "La Banque de France abaisse légèrement sa prévision de croissance pour 2026 mais souligne que l'économie française fait \"preuve de résilience\"",
+      "url": "https://www.franceinfo.fr/economie/croissance/la-banque-de-france-abaisse-legerement-sa-prevision-de-croissance-pour-2026-mais-souligne-que-l-economie-francaise-fait-preuve-de-resilience_8194166.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Cette légère révision à la baisse tient notamment à une croissance plus faible au premier trimestre que celle prévue."
     },
     {
       "title": "Budget 2027 : l’effort qui divise les retraités",
@@ -40,11 +60,6 @@
       "title": "Budget 2027 : Sébastien Lecornu demande à ses ministres que les dépenses de l'Etat restent \"strictement au même niveau\" qu'en 2026",
       "url": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-ses-ministres-que-les-depenses-de-l-etat-restent-strictement-au-meme-niveau-qu-en-2026_8193803.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Dans un courrier consulté par franceinfo, le Premier ministre exhorte les membres du gouvernement à \"dégager un effort supplémentaire sur les dépenses de l'Etat\"."
-    },
-    {
-      "title": "La France continue d'attirer les touristes internationaux, 80 milliards d'euros de recettes attendues en 2026, selon Atout France",
-      "url": "https://www.franceinfo.fr/economie/tourisme/la-france-continue-d-attirer-les-touristes-internationaux-80-milliards-d-euros-de-recettes-attendues-en-2026-selon-atout-france_8193485.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le tourisme en France se porte bien, grâce aux visiteurs étrangers mais aussi grâce aux Français. En revanche, ils sont nombreux à avoir rogné sur leur budget."
     },
     {
       "title": "L’info du jour | 15 septembre 2026 - Soir",
