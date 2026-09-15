@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-15T08:08:38Z",
+  "updated_at": "2026-09-15T13:57:46Z",
   "articles": [
+    {
+      "title": "Budget 2027 : « Il ne faut ni raboter ni sanctuariser le pacte Dutreil sur la transmission d’entreprises familiales »",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/15/budget-2027-il-ne-faut-ni-raboter-ni-sanctuariser-le-pacte-dutreil-sur-la-transmission-d-entreprises-familiales_6774403_3232.html",
+      "summary": "Avant la présentation du projet de loi de finances pour 2027, prévue le 30 septembre, l’ancien député Gilles Carrez et l’avocat François Ouairy proposent, dans une tribune au « Monde », d’enlever de l’assiette fiscale la trésorerie de placement et l’immobilier et de maintenir le taux d’exonération de cette niche à 75 %."
+    },
+    {
+      "title": "Tourisme : derrière le record des recettes, le décrochage des Français",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/15/tourisme-derriere-le-record-des-recettes-le-decrochage-des-francais_6774358_3234.html",
+      "summary": "La fréquentation et les recettes internationales ont progressé cet été. Mais la clientèle française est moins partie en juillet et août, a raccourci ses séjours et réduit ses dépenses, en raison des tensions sur le pouvoir d’achat et des canicules"
+    },
     {
       "title": "Andreï Yakovlev, économiste russe en exil : « Dans de nombreuses zones, l’essence est introuvable ou vendue à des prix deux à trois fois supérieurs à ceux des grandes villes »",
       "url": "https://www.lemonde.fr/economie/article/2026/09/15/andrei-yakovlev-economiste-russe-en-exil-dans-de-nombreuses-zones-l-essence-est-introuvable-ou-vendue-a-des-prix-deux-a-trois-fois-superieurs-a-ceux-des-grandes-villes_6774340_3234.html",
@@ -9,42 +19,32 @@
     {
       "title": "Ciblée par les drones ukrainiens, l’économie russe montre de plus en plus de signes de faiblesse",
       "url": "https://www.lemonde.fr/economie/article/2026/09/15/ciblee-par-les-drones-ukrainiens-l-economie-russe-montre-de-plus-en-plus-de-signes-de-faiblesse_6774285_3234.html",
-      "summary": "Les attaques de Kiev sur les raffineries et entrepôts commerciaux ont fait entrer la guerre dans le quotidien des Russes, à la veille des élections législatives qui doivent se tenir du 18 au 20 septembre. Si l’économie reste relativement résiliente, les problèmes se multiplient, inflation en tête."
+      "summary": "Les attaques de Kiev sur les raffineries et les entrepôts commerciaux ont fait entrer la guerre dans le quotidien des Russes, à la veille des élections législatives qui doivent se tenir du 18 au 20 septembre. Si l’économie reste relativement résiliente, les problèmes se multiplient, inflation en tête."
     },
     {
-      "title": "Fonction publique : le dispositif des ruptures conventionnelles pérennisé mais revu à la baisse",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/14/fonction-publique-le-dispositif-des-ruptures-conventionnelles-perennise-mais-revu-a-la-baisse_6773874_823448.html",
-      "summary": "Tout en maintenant le mécanisme pour les fonctionnaires, le gouvernement a modifié les montants des indemnités pouvant être versées aux agents publics. Si l’administration défend une logique de « régulation » pour éviter certains « effets d’aubaine », les syndicats y voient une logique d’économies."
+      "title": "\"Allez-y, je vous écoute!\": c'est maintenant l’Allemagne qui demande à la Grèce comment redresser son économie (avec des réformes \"douloureuses\", répond Athènes)",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/allez-y-je-vous-ecoute-c-est-maintenant-l-allemagne-qui-demande-a-la-grece-comment-redresser-son-economie-avec-des-reformes-douloureuses-repond-athenes_AV-202609150501.html",
+      "summary": "Le renversement de situation ne manque pas de sel. Quinze ans après avoir été sommée par Berlin de réduire ses dépenses et de réformer son économie, la Grèce est présentée par la presse allemande comme un modèle dont devrait s’inspirer l’Allemagne. Une revanche que le ministre grec des Finances se garde toutefois de savourer trop ouvertement.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tqJ_tfRbZVtVDLyeVXNqF209f6o=/0x106:2048x1258/800x0/images/Ministre-grec-Kyriakos-Pierrakakis-2348369.jpg\" />"
     },
     {
-      "title": "Le Canada multiplie les initiatives pour atténuer sa dépendance économique aux Etats-Unis",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/14/le-canada-multiplie-les-initiatives-pour-attenuer-sa-dependance-economique-aux-etats-unis_6773786_3234.html",
-      "summary": "L’économie canadienne s’est construite dans l’orbite de son puissant voisin. Les nouvelles offensives de Donald Trump sur les droits de douane rappellent combien cette proximité demeure à la fois un atout et une source de fragilité."
+      "title": "Emmanuel Moulin, gouverneur de la Banque de France: \"Nous constatons une hausse généralisée des taux d'intérêt à long terme\"",
+      "url": "https://www.bfmtv.com/economie/video-emmanuel-moulin-gouverneur-de-la-banque-de-france-nous-constatons-une-hausse-generalisee-des-taux-d-interet-a-long-terme_VN-202609150383.html",
+      "summary": "Le ministre de l'Économie Roland Lescure a réuni le Haut conseil de la stabilité financière ce mardi, aux côtés du gouverneur de la Banque de France.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FGT46YUypqADdQTy3Ps3gm1msV0=/0x0:1280x720/800x0/images/Emmanuel-Moulin-gouverneur-de-la-Banque-de-France-Nous-constatons-une-hausse-generalisee-des-taux-d-interet-a-long-terme-2348271.jpg\" />"
     },
     {
-      "title": "\"La consommation continue à tirer la croissance\", assure Michel-Édouard Leclerc",
-      "url": "https://www.bfmtv.com/economie/consommation/video-la-consommation-continue-a-tirer-la-croissance-assure-michel-edouard-leclerc_VN-202609150286.html",
-      "summary": "Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc, était l’invité du Face à Face de BFMTV et RMC ce mardi 15 septembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/S-xJ1IDtxrbUakollokG8lLDJKY=/0x0:1280x720/800x0/images/La-consommation-continue-a-tirer-la-croissance-assure-Michel-Edouard-Leclerc-2348159.jpg\" />"
+      "title": "La France continue d'attirer les touristes internationaux, 80 milliards d'euros de recettes attendues en 2026, selon Atout France",
+      "url": "https://www.franceinfo.fr/economie/tourisme/la-france-continue-d-attirer-les-touristes-internationaux-80-milliards-d-euros-de-recettes-attendues-en-2026-selon-atout-france_8193485.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le tourisme en France se porte bien, grâce aux visiteurs étrangers mais aussi grâce aux Français. En revanche, ils sont nombreux à avoir rogné sur leur budget."
     },
     {
-      "title": "Faut-il augmenter les salaires ?",
-      "url": "https://www.bfmtv.com/economie/video-faut-il-augmenter-les-salaires_VN-202609150283.html",
-      "summary": "Emmanuel Lechypre et Jean Marc Daniel ont débattu sur les conséquences d'une amélioration des salaires : une augmentation alimentera-t-elle l'inflation ? Serait-elle un frein à la compétitivité ?<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uZz3Q0iZikPKkzVq0wBfik-KcZI=/0x0:1280x720/800x0/images/Faut-il-augmenter-les-salaires-2348157.jpg\" />"
+      "title": "Budget 2027 : Sébastien Lecornu envisage de faire contribuer les retraités",
+      "url": "https://www.franceinfo.fr/politique/budget-2027-sebastien-lecornu-envisage-de-faire-contribuer-les-retraites_8193461.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Pour dégager 30 milliards d’euros d’économies sur le budget 2027, Sébastien Lecornu envisage de mettre les retraités à contribution. Mais toucher aux retraités reste politiquement explosif, tant cette catégorie d’électeurs se mobilise dans les urnes."
     },
     {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Faut-il augmenter les salaires ou serrer la vis ? - 15/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-faut-il-augmenter-les-salaires-ou-serrer-la-vis-15-09_EN-202609150273.html",
-      "summary": "Ce mardi 15 septembre, les solutions face à la progression de l'inflation et à l'éventuelle baisse du pouvoir d'achat ont été évoquées par Emmanuel Lechypre et Jean-Marc Daniel dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
-    },
-    {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Faut-il augmenter les salaires ou serrer la vis ? - 15/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-jean-marc-daniel-faut-il-augmenter-les-salaires-ou-serrer-la-vis-15-09_EN-202609150272.html",
-      "summary": "Ce mardi 15 septembre, les solutions face à la progression de l'inflation et à l'éventuelle baisse du pouvoir d'achat ont été évoquées par Emmanuel Lechypre et Jean-Marc Daniel dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/su-ZifMREXbsAbLsFx8-feLI2o0=/0x0:14000x14000/800x0/podcast/podcasts/principale-118_4.jpg\" />"
-    },
-    {
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Faut-il augmenter les salaires ou serrer la vis ? - 15/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-jean-marc-daniel-faut-il-augmenter-les-salaires-ou-serrer-la-vis-15-09_VN-202609150278.html",
-      "summary": "Ce mardi 15 septembre, les solutions face à la progression de l'inflation et à l'éventuelle baisse du pouvoir d'achat ont été évoquées par Emmanuel Lechypre et Jean-Marc Daniel dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wF9c4QIMffRZ6VAdBJvEVCr60gs=/0x0:1280x720/800x0/images/Emmanuel-Lechypre-face-a-Jean-Marc-Daniel-Faut-il-augmenter-les-salaires-ou-serrer-la-vis-15-09-2348151.jpg\" />"
+      "title": "Le ministre de l'Economie ouvre la porte à de nouvelles aides ciblées mais écarte une baisse des taxes sur les carburants",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/le-ministre-de-l-economie-ouvre-la-porte-a-de-nouvelles-aides-ciblees-mais-ecarte-une-baisse-des-taxes-sur-les-carburants_8193362.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"On a montré depuis le mois d'avril qu'on était capable d'adapter les dispositifs au plus près, et on continuera évidemment à le faire, si c'est nécessaire\", a déclaré Roland Lescure."
     },
     {
       "title": "\"Nous censurerons quoi qu'il arrive et nous n'avons rien à discuter\", tranche Mathilde Panot, alors que le Premier ministre lance des consultations sur le budget 2027",
@@ -52,24 +52,9 @@
       "summary": "\"Nos propositions sont connues. Nous faisons chaque année un contre-budget et le débat doit normalement avoir lieu à l'Assemblée nationale\", rappelle la présidente du groupe LFI à l'Assemblée, mardi sur franceinfo."
     },
     {
-      "title": "Budget 2027 : les retraités prêts à des sacrifices ?",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/budget-2027-les-retraites-prets-a-des-sacrifices_8193068.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Que pensent les retraités d'une potentielle suppression de leur abattement fiscal ?"
-    },
-    {
-      "title": "REPORTAGE. \"Je n'ai pas pu m'empêcher\" d'acheter : la Chine mise sur les plus grands magasins de snacks au monde pour stimuler la croissance",
-      "url": "https://www.franceinfo.fr/monde/chine/reportage-je-n-ai-pas-pu-m-empecher-d-acheter-la-chine-mise-sur-les-plus-grands-magasins-de-snacks-au-monde-pour-stimuler-la-croissance_8192489.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La Chine ne perd pas de vue son objectif de tonifier sa croissance, quitte à miser sur la malbouffe. Franceinfo s'est rendu dans le plus grand magasin de snacks au monde, à Changsha."
-    },
-    {
-      "title": "Édito. Faire contribuer les retraités au budget 2027, le pari à haut risque de Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-faire-contribuer-les-retraites-au-budget-2027-le-pari-a-haut-risque-de-sebastien-lecornu_8171420.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Pour dégager 30 milliards d’euros d’économies, Sébastien Lecornu envisage de désindexer les pensions les plus élevées et de réduire l’abattement fiscal des retraités imposables. Mais toucher aux retraites reste politiquement explosif, tant cette catégorie d’électeurs se mobilise dans les urnes."
-    },
-    {
-      "title": "A suivre Loïc de la Mornais : Vie chère : les Français au bord de la crise de nerfs ?",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-vie-chere-les-francais-au-bord-de-la-crise-de-nerfs_8193023.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans cette première partie, Loïc de la Mornais et ses invités reviennent sur le pouvoir d'achat en berne, une économie qui fait grise mine et la hausse des prix des carburants. La question d'une nouvelle mobilisation de type \"gilets jaunes\" est également posée. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
+      "title": "L’info du jour | 15 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/15/linfo-du-jour-15-septembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 15 septembre 2026 - Matin",
@@ -132,24 +117,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 11 septembre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/09/11/linfo-du-jour-11-septembre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 10 septembre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/09/10/linfo-du-jour-10-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Après les échecs des deux années précédentes, comment mieux discuter du budget ?",
+      "url": "https://www.alternatives-economiques.fr/apres-les-echecs-des-deux-annees-precedentes-comment-mieux-discuter-du-budget_15-09-2026",
+      "summary": "A huit mois de la présidentielle, le vote du budget 2027 est une bombe à retardement. Pluriannualité, abrogation de l’article 40, contre-expertise du Parlement… ces pistes seraient-elles efficaces pour débloquer la situation ?"
     },
     {
       "title": "Les dangers d’une « règle d’or » des finances publiques",
       "url": "https://www.alternatives-economiques.fr/les-dangers-d-une-regle-d-or-des-finances-publiques_14-09-2026",
       "summary": "Au printemps dernier, la proposition du Medef d’introduire dans notre Constitution un « frein à l’endettement » est passée presque inaperçue. Reprise aujourd’hui par plusieurs partis politiques, le RN notamment, elle prend une actualité nouvelle. A ce titre, elle mérite d’être débattue. L’idée est…"
-    },
-    {
-      "title": "Les mots croisés d&#039;Alter Eco : « A réuni Le Maire et Piketty »",
-      "url": "https://www.alternatives-economiques.fr/les-mots-croises-d-alter-eco-a-reuni-le-maire-et-piketty_12-09-2026",
-      "summary": "Gini, roi du pétrole, post GATT… Les mots de l'économie se déclinent aussi en cases blanches et noires. Croisez le fer avec Alter Eco ! Et envoyez-nous vos grilles."
     }
   ]
 }
