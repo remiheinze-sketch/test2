@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-16T20:36:52Z",
+  "updated_at": "2026-09-16T23:23:01Z",
   "articles": [
+    {
+      "title": "Pouvoir d’achat : des parlementaires veulent imposer des produits sains à prix coûtant en grande surface",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/17/pouvoir-d-achat-des-parlementaires-veulent-imposer-des-produits-sains-a-prix-coutant-en-grande-surface_6775600_3234.html",
+      "summary": "Une proposition de loi déposée au Sénat prévoit d’obliger les grandes surfaces à proposer au moins 80 produits alimentaires favorables à la santé avec une marge réduite. Un dispositif qui promet de raviver le débat sur les marges de la grande distribution, alors que l’inflation alimentaire menace de ressurgir."
+    },
     {
       "title": "La Fed va à l’encontre de Donald Trump et augmente ses taux directeurs pour lutter contre l’inflation aux Etats-Unis",
       "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
-      "summary": "La Réserve fédérale américaine a choisi, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix."
+      "summary": "La Réserve fédérale américaine a choisi, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix. Le président américain a réagi en réclamant que les taux soient à « 1 %, ou moins »."
     },
     {
       "title": "L’Arabie saoudite et l’économie mondiale prises dans un étau",
@@ -12,9 +17,14 @@
       "summary": "Après Ormuz, un autre détroit stratégique pour le commerce maritime, celui de Bal Al-Mandab, est menacé par l’offensive des rebelles houthistes au Yémen contre Riyad. Une escalade qui fait le jeu du régime iranien, ce dernier visant clairement une envolée des prix du pétrole pour faire plier Donald Trump."
     },
     {
-      "title": "Kevin Warsh ne donne pas plus satisfaction à Donald Trump que Jerome Powell: face à l'inflation, la Fed relève ses taux d'intérêts pour la première fois depuis 2023 et envisage une autre hausse d'ici la fin de l'année",
-      "url": "https://www.bfmtv.com/economie/kevin-warsh-ne-donne-pas-plus-satisfaction-a-donald-trump-que-jerome-powell-la-fed-releve-ses-taux-d-interets-pour-calmer-l-inflation-et-envisage-une-autre-hausse-d-ici-la-fin-de-l-annee_AD-202609160829.html",
-      "summary": "La banque centrale américaine a annoncé ce mercredi une hausse d'un quart de point de ses taux d'intérêt et a indiqué qu'une autre hausse pourrait être nécessaire d'ici la fin de l'année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7boRLILUgHMyARA2t9as7mw5Sd8=/0x0:2048x1152/800x0/images/Donald-Trump-Kevin-Warsh-2326769.jpg\" />"
+      "title": "FORUM BFMTV - Vie chère: \"Il faut du travail pour relancer l'économie\", préconise Grégoire, commercial",
+      "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-vie-chere-il-faut-du-travail-pour-relancer-l-economie-preconise-gregoire-commercial_VN-202609160922.html",
+      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV : “Carburant: la France inflammable?”. En cette rentrée, la chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français, tels que le pouvoir d'achat et la hausse des prix du carburant.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qSK3l7TnrFuPmjIkucNQ_ylWvUU=/0x0:1280x720/800x0/images/FORUM-BFMTV-Vie-chere-Il-faut-du-travail-pour-relancer-l-economie-preconise-Gregoire-commercial-2349409.jpg\" />"
+    },
+    {
+      "title": "Prix, utilité, production… Pourquoi le cuivre est-il devenu si précieux ?",
+      "url": "https://www.franceinfo.fr/economie/industrie/prix-utilite-production-pourquoi-le-cuivre-est-il-devenu-si-precieux_8196251.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "On retrouve le cuivre, extrait du sous-sol, jusque dans nos maisons, nos téléphones et nos voitures… Avec l’électrification de nos économies, les besoins augmentent : pourra-t-on en produire suffisamment ? Et pourquoi est-il si difficile de s’en passer ? Jean-Paul Chapel vous répond dans \"Trois infos pour comprendre\"."
     },
     {
       "title": "Budget 2027 : l'amende record infligée par l'Europe à Google pourra-t-elle alléger les dépenses françaises ?",
@@ -45,11 +55,6 @@
       "title": "Taxes sur l'essence : un jackpot pour l'État ?",
       "url": "https://www.franceinfo.fr/economie/taxes-sur-l-essence-un-jackpot-pour-l-etat_8195723.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Quand les prix de l'essence grimpent, l'Etat augmente-t-il ses recettes grâce aux taxes ? Le ministre de l’Économie, Roland Lescure, le conteste. Alors, sur chaque litre acheté, où va notre argent ?"
-    },
-    {
-      "title": "Retour de la taxe Zucman, augmentation du smic, taxation des gros héritages… Le PS propose son contre-budget à l'Assemblée nationale",
-      "url": "https://www.franceinfo.fr/economie/budget/retour-de-la-taxe-zucman-augmentation-du-smic-taxation-des-gros-heritages-le-ps-propose-son-contre-budget-a-l-assemblee-nationale_8195063.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le groupe des députés socialistes a mis sur la table plusieurs mesures qu'il portera lors des débats parlementaires sur le budget."
     },
     {
       "title": "L’info du jour | 16 septembre 2026 - Soir",
