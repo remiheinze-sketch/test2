@@ -1,50 +1,85 @@
 {
-  "updated_at": "2026-09-22T05:35:42Z",
+  "updated_at": "2026-09-22T10:33:10Z",
   "articles": [
+    {
+      "title": "Arrêts maladie de courte durée : le président du Medef, Patrick Martin, prône un non-remboursement pour limiter les abus",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/22/arrets-maladie-de-courte-duree-le-president-du-medef-patrick-martin-prone-un-non-remboursement-pour-limiter-les-abus_6780074_3224.html",
+      "summary": "« Bien sûr qu’il faut faire des économies » dans ce domaine, a-t-il affirmé sur France 2, « parce qu’au-delà de l’effet de base, il y a un nombre d’arrêts maladie de courte durée qui augmente d’une manière parfois suspecte »."
+    },
+    {
+      "title": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le budget 2027 pour « restituer » les surplus de TVA aux Français",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html",
+      "summary": "« Concrètement, si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme de cette restitution."
+    },
+    {
+      "title": "Intelligence artificielle : le gouvernement lance un plan de 80 millions d’euros pour accompagner le monde du travail",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/22/intelligence-artificielle-le-gouvernement-lance-un-plan-de-80-millions-d-euros-pour-accompagner-le-monde-du-travail_6780070_3234.html",
+      "summary": "La moitié des mesures concerne « l’acculturation » des actifs à l’intelligence artificielle, et, en période d’économies budgétaires, une grande partie de la somme allouée au plan sera consacrée aux centres de formation des apprentis, annonce le ministère du travail."
+    },
     {
       "title": "Budget 2027 : la Cour des comptes relance l’idée d’un nouvel impôt sur la fortune",
       "url": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html",
       "summary": "Dans une note récente, l’institution préconise, pour des raisons d’équité, de créer un impôt sur la fortune personnelle et demande à nouveau de réduire les avantages fiscaux du pacte Dutreil. Deux pistes écartées à ce stade par le premier ministre, Sébastien Lecornu, avant l’examen du budget au Parlement."
     },
     {
-      "title": "Fonction publique : la Cour des comptes appelle à un effort sur la « masse salariale »",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/21/fonction-publique-la-cour-des-comptes-appelle-a-un-effort-sur-la-masse-salariale_6779295_823448.html",
-      "summary": "Effectifs, rémunérations, promotions… la Cour des comptes vise les dépenses de la fonction publique dans une note publiée lundi 21 septembre. Les magistrats de la rue Cambon incitent, au vu du poids de la masse salariale, à « une maîtrise de son évolution qui a, en partie, fait défaut jusqu’à présent »"
+      "title": "Pétrole : le prix des supertankers bat des records",
+      "url": "https://www.bfmtv.com/economie/video-petrole-le-prix-des-supertankers-bat-des-records_VN-202609220405.html",
+      "summary": "Le prix du baril de Brent est en baisse ce mardi mais vous n'allez pas voir cette baisse se traduire à la pompe tout de suite. Car avec les attaques de drone sur l'oléoduc est-ouest saoudien et la fermeture du détroit de Bab el-Mandeb, l'inflation concerne aussi les navires qui le transportent.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WJd-HW1H724N4I5SUAor8nsdCmE=/0x0:1280x720/800x0/images/Petrole-le-prix-des-supertankers-bat-des-records-2352372.jpg\" />"
     },
     {
-      "title": "Les données, matière première de l’économie des « tokens » et enjeu majeur pour l’intelligence artificielle",
-      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/21/les-donnees-matiere-premiere-de-l-economie-des-tokens-et-enjeu-majeur-pour-l-intelligence-artificielle_6779130_6065879.html",
-      "summary": "Pas d’IA générative sans « jetons », ces unités – fragment de mot, caractère ou ponctuation – utilisées par les grands modèles de langage pour traiter un texte et générer des réponses. Une nouvelle économie est née."
+      "title": "\"Si vous êtes malades, vous ne payez plus d’impôt, est-ce normal?\": le gouvernement veut supprimer des exonérations fiscales de certains arrêts maladie pour récupérer près d’un milliard d’euros",
+      "url": "https://www.bfmtv.com/economie/economie-social/social/si-vous-etes-malades-vous-ne-payez-plus-d-impot-est-ce-normal-le-gouvernement-veut-supprimer-des-exonerations-fiscales-de-certains-arrets-maladie-pour-recuperer-pres-d-un-milliard-d-euros_AD-202609220391.html",
+      "summary": "Le gouvernement qui souhaite réaliser 2 milliards d'euros d'économies sur les arrêts maladie en 2027 envisage de supprimer l'exonération d'impôt sur le revenu de certains d'entre eux. Le patronat, lui, réclame la fin des remboursements des \"petits\" arrêts pour éviter les abus. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kLgyFolxvUf8v-7tfNiIiyo-Pxg=/0x40:800x490/800x0/images/-361630.jpg\" />"
     },
     {
-      "title": "Carburants et finances publiques : faut-il choisir ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-carburants-et-finances-publiques-faut-il-choisir_VN-202609220152.html",
-      "summary": "\"Il faut bien comprendre que les urgences chassant les priorités, il va falloir laisser filer une partie du déficit\" rétorque Emmanuel Lechypre sur le plateau de Good Morning Business au micro de Brigitte Boucher.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Nk8M-UeYbN4xU2Z1oT96BBm9Bsg=/0x0:1280x720/800x0/images/Carburants-et-finances-publiques-faut-il-choisir-2352159.jpg\" />"
+      "title": "Les Experts : Budget, 54 milliards d'euros d'efforts pour 5% de déficit - 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09_EN-202609220302.html",
+      "summary": "Ce mardi 22 septembre, les mesures devant être prises pour le budget 2027 ont été abordées par Olivier Garnier, expert associé à l'Institut Montaigne, Nathalie Janson, professeure à Neoma Business School et présidente du think tank Génération Libre, et Christian Parisot, économiste et conseiller auprès d'Aurel BGC, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
     },
     {
-      "title": "15 à 20 centimes de moins par litre sans rien coûter à l’État? Leclerc, Retailleau ou Roussel veulent suspendre les CEE sur le carburant mais est-ce vraiment la solution miracle?",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/15-a-20-centimes-de-moins-par-litre-sans-rien-couter-a-l-etat-leclerc-retailleau-ou-roussel-veulent-suspendre-les-cee-sur-le-carburant-mais-est-ce-vraiment-la-solution-miracle_AV-202609220051.html",
-      "summary": "Plusieurs personnalités politiques, notamment parmi les candidats à la présidentielle, appellent à suspendre ou supprimer les certificats d'économies d'énergie (CEE) pour faire baisser les prix des carburants dans les stations-service. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MEayAyGAPGcpxgXiCK9D_fFTsWc=/0x105:2048x1257/800x0/images/Essence-pompe-station-service-2345120.jpg\" />"
+      "title": "Les Experts : Budget, 54 milliards d'euros d'efforts pour 5% de déficit - 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09_VN-202609220307.html",
+      "summary": "Ce mardi 22 septembre, les mesures devant être prises pour le budget 2027 ont été abordées par Olivier Garnier, expert associé à l'Institut Montaigne, Nathalie Janson, professeure à Neoma Business School et présidente du think tank Génération Libre, et Christian Parisot, économiste et conseiller auprès d'Aurel BGC, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kKST-1vcTjetP-9Z80JpELYWygQ=/0x0:1280x720/800x0/images/Les-Experts-Budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09-2352286.jpg\" />"
     },
     {
-      "title": "Budget 2027 : Oxfam France propose de taxer les super héritages pour récupérer plusieurs milliards d'euros",
-      "url": "https://www.franceinfo.fr/economie/impots/taxe-a-75/budget-2027-oxfam-france-propose-de-taxer-les-super-heritages-pour-recuperer-plusieurs-milliards-d-euros_8203589.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'ONG propose de réformer le Pacte Dutreil et de s'attaquer aux super héritages alors que le gouvernement étudie les différentes options pour réaliser des économies sur le prochain budget."
+      "title": "Face à la hausse des prix des carburants, la \"règle d'or\" de Matignon sur la TVA est \"totalement bidon\", juge Thomas Ménagé, député RN",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/face-a-la-hausse-des-prix-des-carburants-la-regle-d-or-de-matignon-sur-la-tva-est-totalement-bidon-juge-thomas-menage-depute-rn_8204330.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le porte-parole du Rassemblement national dénonce mardi une mesure \"bidon\", face à la proposition de Matignon d'établir une \"règle d'or\" sur la TVA dans le prochain budget 2027. Thomas Ménagé juge aussi la proposition de gel des pensions de retraite comme \"un impôt déguisé\"."
     },
     {
-      "title": "Plan de relance de l'agriculture : la Coordination rurale \"craint une vague de cessation d'activités et de suicides importante\" après les canicules et la sécheresse",
-      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-de-l-agriculture-la-coordination-rurale-craint-une-vague-de-cessation-d-activites-et-de-suicides-importante-apres-les-canicules-et-la-secheresse_8203157.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les représentants de la Coordination rurale, le deuxième syndicat agricole français, sont reçus mardi à Matignon par le Premier ministre Sébastien Lecornu pour préparer un plan de relance de l'agriculture dans le prochain budget."
+      "title": "\"Je crains qu'il faille des arrêts maladie dits 'd'ordre public', qui ne soient plus remboursés\", estime Patrick Martin, président du Medef",
+      "url": "https://www.franceinfo.fr/politique/je-crains-qu-il-faille-des-arrets-maladie-dits-d-ordre-public-qui-ne-soient-plus-rembourses-estime-patrick-martin-president-du-medef_8204216.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Interrogé dans les \"4 Vérités\" du 22 septembre sur la politique à adopter en matière d'arrêts maladie pour dégager des économies, Patrick Martin, à la tête du Mouvement des entreprises de France (Medef), dit souhaiter que certains arrêts des salariés ne soient plus remboursés \"ni par le régime de base, ni par les complémentaires\", pour \"un effet comportemental\"."
     },
     {
-      "title": "Budget 2027 : une ONG propose de taxer les super-héritages",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-une-ong-propose-de-taxer-les-super-heritages_8203394.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que le gouvernement chercher 54 milliards d'euros d'économies pour son prochain budget, l'ONG Oxfam France, qui lutte contre les inégalités, propose de trouver une partie de cette somme en taxant les super-héritages."
+      "title": "Carburant : \"Les raffineurs profitent de la crise\", estime le rapporteur LR du budget à l'Assemblée, Philippe Juvin",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-22-septembre-2026_8182142.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Invité politique de \"La Matinale\" mardi 22 septembre, le député Les Républicains des Hauts-de-Seine et rapporteur général du budget à l'Assemblée nationale détaille les mesures qui, selon lui, permettraient de \"ne pas dépasser les deux euros\" à la pompe. Il souhaite notamment supprimer les Certificats d'Économies d'Énergie (CEE), pointant \"beaucoup de tricherie\", et entamer \"des négociations avec les raffineurs\", \"une discussion contractuelle avec l'État\", dit-il."
     },
     {
-      "title": "Pour faire des économies, la Cour des comptes suggère une taxation \"modérée mais progressive\" des gros patrimoines et un effort sur la masse salariale de la fonction publique",
-      "url": "https://www.franceinfo.fr/economie/budget/pour-faire-des-economies-la-cour-des-comptes-suggere-une-taxation-moderee-mais-progressive-des-gros-patrimoines-et-un-effort-sur-la-masse-salariale-de-la-fonction-publique_8203550.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que la gauche réclame l'instauration d'une taxe Zucman, la Cour ne va pas jusque-là, mais préconise notamment \"une taxation modérée mais progressive de la fortune personnelle, excluant les actifs professionnels\"."
+      "title": "Budget 2027 : les pensions retraites de plus de 2 000 euros dans le viseur du gouvernement",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-les-pensions-retraites-de-plus-de-2-000-euros-dans-le-viseur-du-gouvernement_8181968.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'exécutif souhaite geler la pension de base des retraités qui touchent exactement plus de 2 034 euros par mois. Cette mesure devrait concerner plus de la moitié des retraites."
+    },
+    {
+      "title": "Carburants : le président du groupement Mousquetaires craint un \"mur d'inflation\" et demande au gouvernement de se préparer à des aides \"plus larges\"",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/carburants-le-president-du-groupement-mousquetaires-craint-un-mur-d-inflation-et-demande-au-gouvernement-de-se-preparer-a-des-aides-plus-larges_8204240.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le président du groupement Mousquetaires, invité de France Inter mardi, dit craindre \"un mur d'inflation\", si la situation au Moyen-Orient \"ne se détend pas\". Ces derniers jours, les prix des carburants ont explosé."
+    },
+    {
+      "title": "Crises géopolitiques, prix des carburants, budget 2027... Le \"8h30 franceinfo\" de Thomas Ménagé",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le député RN du Loiret et porte-parole du parti, est l'invité du \"8h30 franceinfo\", mardi 22 septembre 2026."
+    },
+    {
+      "title": "Les acteurs de l’économie sociale et solidaire s’inquiètent en pleine préparation du budget 2027",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/les-acteurs-de-l-economie-sociale-et-solidaire-s-inquietent-en-pleine-preparation-du-budget-2027_8182034.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Entreprises et organisations craignent que leur activité ne soit pénalisée par les mesures fiscales en préparation."
+    },
+    {
+      "title": "Hausse du prix des carburants : le gouvernement va proposer une \"règle d'or\", dans le budget 2027, pour redistribuer le surplus de TVA",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-va-proposer-une-regle-d-or-dans-le-budget-2027-pour-redistribuer-le-surplus-de-tva_8204171.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'idée de cette mesure est de garantir le fait \"qu’il n'y aura pas de gain pour les comptes publics\" avec la hausse du prix des carburants, indique Matignon à franceinfo."
     },
     {
       "title": "L’info du jour | 22 septembre 2026 - Matin",
@@ -104,11 +139,6 @@
     {
       "title": "L’info du jour | 18 septembre 2026 - Soir",
       "url": "https://fr.euronews.com/video/2026/09/18/linfo-du-jour-18-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 18 septembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/09/18/linfo-du-jour-18-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
