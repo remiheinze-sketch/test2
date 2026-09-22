@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-22T10:33:10Z",
+  "updated_at": "2026-09-22T15:14:37Z",
   "articles": [
+    {
+      "title": "Budget 2027 : Sébastien Lecornu appelle les socialistes à renouer avec « l’esprit de responsabilité »",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/22/budget-2027-sebastien-lecornu-appelle-les-socialistes-a-renouer-avec-l-esprit-de-responsabilite_6780249_823448.html",
+      "summary": "Dans une lettre adressée aux députés et sénateurs socialistes, le premier ministre a dit vouloir poursuivre « la démarche » de compromis, « dans le respect des convictions de chacun »."
+    },
+    {
+      "title": "Sécheresse : la Coordination rurale appelle les agriculteurs à « creuser » pour « faire des lacs », « que ce soit légal ou pas »",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/22/face-a-la-secheresse-la-coordination-rurale-appelle-les-agriculteurs-a-creuser-pour-faire-des-lacs-que-ce-soit-legal-ou-pas_6780099_3244.html",
+      "summary": "Le syndicat présentera mardi après-midi au premier ministre deux demandes prioritaires : des aides supplémentaires pour affronter la flambée du gazole, et des détails sur la réorientation vers l’agriculture des économies réalisées dans d’autres ministères, promises pour le prochain budget."
+    },
     {
       "title": "Arrêts maladie de courte durée : le président du Medef, Patrick Martin, prône un non-remboursement pour limiter les abus",
       "url": "https://www.lemonde.fr/societe/article/2026/09/22/arrets-maladie-de-courte-duree-le-president-du-medef-patrick-martin-prone-un-non-remboursement-pour-limiter-les-abus_6780074_3224.html",
@@ -9,17 +19,32 @@
     {
       "title": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le budget 2027 pour « restituer » les surplus de TVA aux Français",
       "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html",
-      "summary": "« Concrètement, si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme de cette restitution."
+      "summary": "« Si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme."
     },
     {
-      "title": "Intelligence artificielle : le gouvernement lance un plan de 80 millions d’euros pour accompagner le monde du travail",
+      "title": "IA : le gouvernement lance un plan de 80 millions d’euros pour accompagner le monde du travail",
       "url": "https://www.lemonde.fr/economie/article/2026/09/22/intelligence-artificielle-le-gouvernement-lance-un-plan-de-80-millions-d-euros-pour-accompagner-le-monde-du-travail_6780070_3234.html",
       "summary": "La moitié des mesures concerne « l’acculturation » des actifs à l’intelligence artificielle, et, en période d’économies budgétaires, une grande partie de la somme allouée au plan sera consacrée aux centres de formation des apprentis, annonce le ministère du travail."
     },
     {
-      "title": "Budget 2027 : la Cour des comptes relance l’idée d’un nouvel impôt sur la fortune",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html",
-      "summary": "Dans une note récente, l’institution préconise, pour des raisons d’équité, de créer un impôt sur la fortune personnelle et demande à nouveau de réduire les avantages fiscaux du pacte Dutreil. Deux pistes écartées à ce stade par le premier ministre, Sébastien Lecornu, avant l’examen du budget au Parlement."
+      "title": "Mythomètre : \"Les déficits permettent au moins de nourrir la croissance\", FAUX répond Thibault Prébay – 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/mythometre-les-deficits-permettent-au-moins-de-nourrir-la-croissance-faux-repond-thibault-prebay-22-09_EN-202609220625.html",
+      "summary": "Mythomètre : \"Les déficits permettent au moins de nourrir la croissance\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+    },
+    {
+      "title": "Mythomètre : \"Les déficits permettent au moins de nourrir la croissance\", FAUX répond Thibault Prébay - 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-mythometre-les-deficits-permettent-au-moins-de-nourrir-la-croissance-faux-repond-thibault-prebay-22-09_VN-202609220630.html",
+      "summary": "Mythomètre : \"Les déficits permettent au moins de nourrir la croissance\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8h_pm_pAnPjNV0mhHHBz3aS5p-o=/0x0:1280x720/800x0/images/Mythometre-Les-deficits-permettent-au-moins-de-nourrir-la-croissance-FAUX-repond-Thibault-Prebay-22-09-2352529.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : Groënland, l'accord US/Danemark signé aujourd'hui – 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-groenland-l-accord-us-danemark-signe-aujourd-hui-22-09_EN-202609220609.html",
+      "summary": "Ce mardi 22 septembre, Samy Chaar, chef économiste chez Lombard Odier & Cie, a abordé l'accueil de Xi Jinping par Donald Trump ce jeudi à Washington et la signature de l’accord entre les États-Unis et le Danemark sur le Groenland ainsi que le piège des finances publiques lié à la taxe carburant, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
+    },
+    {
+      "title": "L'éco du monde : Groënland, l'accord US/Danemark signé aujourd'hui - 22/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-groenland-l-accord-us-danemark-signe-aujourd-hui-22-09_VN-202609220611.html",
+      "summary": "Ce mardi 22 septembre, Samy Chaar, chef économiste chez Lombard Odier & Cie, a abordé l'accueil de Xi Jinping par Donald Trump ce jeudi à Washington et la signature de l’accord entre les États-Unis et le Danemark sur le Groenland ainsi que le piège des finances publiques lié à la taxe carburant, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mYq5YEc4RmLs59cuaBvI9mijzaY=/0x0:1280x720/800x0/images/L-eco-du-monde-Groenland-l-accord-US-Danemark-signe-aujourd-hui-22-09-2352514.jpg\" />"
     },
     {
       "title": "Pétrole : le prix des supertankers bat des records",
@@ -27,19 +52,14 @@
       "summary": "Le prix du baril de Brent est en baisse ce mardi mais vous n'allez pas voir cette baisse se traduire à la pompe tout de suite. Car avec les attaques de drone sur l'oléoduc est-ouest saoudien et la fermeture du détroit de Bab el-Mandeb, l'inflation concerne aussi les navires qui le transportent.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WJd-HW1H724N4I5SUAor8nsdCmE=/0x0:1280x720/800x0/images/Petrole-le-prix-des-supertankers-bat-des-records-2352372.jpg\" />"
     },
     {
-      "title": "\"Si vous êtes malades, vous ne payez plus d’impôt, est-ce normal?\": le gouvernement veut supprimer des exonérations fiscales de certains arrêts maladie pour récupérer près d’un milliard d’euros",
-      "url": "https://www.bfmtv.com/economie/economie-social/social/si-vous-etes-malades-vous-ne-payez-plus-d-impot-est-ce-normal-le-gouvernement-veut-supprimer-des-exonerations-fiscales-de-certains-arrets-maladie-pour-recuperer-pres-d-un-milliard-d-euros_AD-202609220391.html",
-      "summary": "Le gouvernement qui souhaite réaliser 2 milliards d'euros d'économies sur les arrêts maladie en 2027 envisage de supprimer l'exonération d'impôt sur le revenu de certains d'entre eux. Le patronat, lui, réclame la fin des remboursements des \"petits\" arrêts pour éviter les abus. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kLgyFolxvUf8v-7tfNiIiyo-Pxg=/0x40:800x490/800x0/images/-361630.jpg\" />"
+      "title": "Budget : si la copie ne change pas, \"on censurera\"",
+      "url": "https://www.franceinfo.fr/politique/front-national/budget-2027-si-le-gouvernement-ne-change-pas-sa-copie-on-censure-declare-thomas-menage_8204645.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Budget 2027, Thomas Ménagé, député RN du Loiret et porte-parole du groupe RN à l'assemblée met en garde le gouvernement. S'il ne revoit pas sa copie du budget concernant les petites retraites que l'exécutif souhaite sous-indexer ou désindexer, alors il risque la censure du RN."
     },
     {
-      "title": "Les Experts : Budget, 54 milliards d'euros d'efforts pour 5% de déficit - 22/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09_EN-202609220302.html",
-      "summary": "Ce mardi 22 septembre, les mesures devant être prises pour le budget 2027 ont été abordées par Olivier Garnier, expert associé à l'Institut Montaigne, Nathalie Janson, professeure à Neoma Business School et présidente du think tank Génération Libre, et Christian Parisot, économiste et conseiller auprès d'Aurel BGC, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
-    },
-    {
-      "title": "Les Experts : Budget, 54 milliards d'euros d'efforts pour 5% de déficit - 22/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09_VN-202609220307.html",
-      "summary": "Ce mardi 22 septembre, les mesures devant être prises pour le budget 2027 ont été abordées par Olivier Garnier, expert associé à l'Institut Montaigne, Nathalie Janson, professeure à Neoma Business School et présidente du think tank Génération Libre, et Christian Parisot, économiste et conseiller auprès d'Aurel BGC, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kKST-1vcTjetP-9Z80JpELYWygQ=/0x0:1280x720/800x0/images/Les-Experts-Budget-54-milliards-d-euros-d-efforts-pour-5-de-deficit-22-09-2352286.jpg\" />"
+      "title": "\"Ça se restitue comme on veut\" : cinq questions sur la \"règle d'or\" envisagée par Sébastien Lecornu face à la hausse des prix des carburants",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/ca-se-restitue-comme-on-veut-cinq-questions-sur-la-regle-d-or-envisagee-par-sebastien-lecornu-face-a-la-hausse-des-prix-des-carburants_8204333.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre suggère que les surplus éventuels de TVA engendrés par l'augmentation du prix de l'essence et du gazole soient \"restitués\" aux Français. Il souhaite proposer aux parlementaires d'inscrire cette mesure dans le budget pour 2027."
     },
     {
       "title": "Face à la hausse des prix des carburants, la \"règle d'or\" de Matignon sur la TVA est \"totalement bidon\", juge Thomas Ménagé, député RN",
@@ -47,9 +67,9 @@
       "summary": "Le porte-parole du Rassemblement national dénonce mardi une mesure \"bidon\", face à la proposition de Matignon d'établir une \"règle d'or\" sur la TVA dans le prochain budget 2027. Thomas Ménagé juge aussi la proposition de gel des pensions de retraite comme \"un impôt déguisé\"."
     },
     {
-      "title": "\"Je crains qu'il faille des arrêts maladie dits 'd'ordre public', qui ne soient plus remboursés\", estime Patrick Martin, président du Medef",
+      "title": "VIDEO. Le président du Medef Patrick Martin demande un non-remboursement des arrêts-maladie de courte durée pour créer \"un effet comportemental\"",
       "url": "https://www.franceinfo.fr/politique/je-crains-qu-il-faille-des-arrets-maladie-dits-d-ordre-public-qui-ne-soient-plus-rembourses-estime-patrick-martin-president-du-medef_8204216.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Interrogé dans les \"4 Vérités\" du 22 septembre sur la politique à adopter en matière d'arrêts maladie pour dégager des économies, Patrick Martin, à la tête du Mouvement des entreprises de France (Medef), dit souhaiter que certains arrêts des salariés ne soient plus remboursés \"ni par le régime de base, ni par les complémentaires\", pour \"un effet comportemental\"."
+      "summary": "Interrogé dans les \"4 Vérités\" sur la politique à adopter en matière d'arrêts maladie pour dégager des économies, il a dit souhaiter que certains arrêts des salariés ne soient plus remboursés \"ni par le régime de base, ni par les complémentaires\"."
     },
     {
       "title": "Carburant : \"Les raffineurs profitent de la crise\", estime le rapporteur LR du budget à l'Assemblée, Philippe Juvin",
@@ -57,29 +77,9 @@
       "summary": "Invité politique de \"La Matinale\" mardi 22 septembre, le député Les Républicains des Hauts-de-Seine et rapporteur général du budget à l'Assemblée nationale détaille les mesures qui, selon lui, permettraient de \"ne pas dépasser les deux euros\" à la pompe. Il souhaite notamment supprimer les Certificats d'Économies d'Énergie (CEE), pointant \"beaucoup de tricherie\", et entamer \"des négociations avec les raffineurs\", \"une discussion contractuelle avec l'État\", dit-il."
     },
     {
-      "title": "Budget 2027 : les pensions retraites de plus de 2 000 euros dans le viseur du gouvernement",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-les-pensions-retraites-de-plus-de-2-000-euros-dans-le-viseur-du-gouvernement_8181968.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'exécutif souhaite geler la pension de base des retraités qui touchent exactement plus de 2 034 euros par mois. Cette mesure devrait concerner plus de la moitié des retraites."
-    },
-    {
-      "title": "Carburants : le président du groupement Mousquetaires craint un \"mur d'inflation\" et demande au gouvernement de se préparer à des aides \"plus larges\"",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/carburants-le-president-du-groupement-mousquetaires-craint-un-mur-d-inflation-et-demande-au-gouvernement-de-se-preparer-a-des-aides-plus-larges_8204240.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le président du groupement Mousquetaires, invité de France Inter mardi, dit craindre \"un mur d'inflation\", si la situation au Moyen-Orient \"ne se détend pas\". Ces derniers jours, les prix des carburants ont explosé."
-    },
-    {
-      "title": "Crises géopolitiques, prix des carburants, budget 2027... Le \"8h30 franceinfo\" de Thomas Ménagé",
-      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le député RN du Loiret et porte-parole du parti, est l'invité du \"8h30 franceinfo\", mardi 22 septembre 2026."
-    },
-    {
-      "title": "Les acteurs de l’économie sociale et solidaire s’inquiètent en pleine préparation du budget 2027",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/les-acteurs-de-l-economie-sociale-et-solidaire-s-inquietent-en-pleine-preparation-du-budget-2027_8182034.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Entreprises et organisations craignent que leur activité ne soit pénalisée par les mesures fiscales en préparation."
-    },
-    {
-      "title": "Hausse du prix des carburants : le gouvernement va proposer une \"règle d'or\", dans le budget 2027, pour redistribuer le surplus de TVA",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-va-proposer-une-regle-d-or-dans-le-budget-2027-pour-redistribuer-le-surplus-de-tva_8204171.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'idée de cette mesure est de garantir le fait \"qu’il n'y aura pas de gain pour les comptes publics\" avec la hausse du prix des carburants, indique Matignon à franceinfo."
+      "title": "L’info du jour | 22 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/22/linfo-du-jour-22-septembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 22 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 22 septembre 2026 - Matin",
@@ -142,9 +142,14 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 18 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Tout comprendre en trois minutes aux propositions du Premier ministre pour le budget 2027",
-      "url": "https://www.alternatives-economiques.fr/tout-comprendre-en-trois-minutes-aux-propositions-du-premier-ministre-pour-le-budget-2027_18-09",
-      "summary": "Sébastien Lecornu a présenté sa « trajectoire » budgétaire pour 2027, faisant entrer les débats dans le vif du sujet. Mais faute de changement de politique économique, on devine où cette trajectoire mène le pays."
+      "title": "Budget : quels retraités vont passer à la caisse ?",
+      "url": "https://www.alternatives-economiques.fr/budget-quels-retraites-vont-passer-a-la-caisse_22-09-2026",
+      "summary": "Le gouvernement prévoit une potion très amère pour les retraités. Entre sous-indexation, gel des pensions et limitation de l'abattement forfaitaire, seul un tiers des pensionnés devrait échapper au coup de rabot."
+    },
+    {
+      "title": "Faut-il vraiment faire des économies sur le compte personnel de formation ?",
+      "url": "https://www.alternatives-economiques.fr/faut-il-vraiment-faire-des-economies-sur-le-compte-personnel-de-formation_22-09-2026",
+      "summary": "Alors que le projet de loi de finances 2027 va imposer aux ministères sociaux des réductions budgétaires importantes (près de 2 milliards d’euros pour les crédits affectés au travail et à l’emploi par rapport à 2026), il semble que le compte personnel de formation (CPF) va particulièrement en faire…"
     }
   ]
 }
