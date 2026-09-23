@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-23T06:56:58Z",
+  "updated_at": "2026-09-23T12:29:48Z",
   "articles": [
+    {
+      "title": "Au Japon, le gouvernement multiplie les mesures pour encadrer le prix de l’essence",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/23/au-japon-le-gouvernement-multiplie-les-mesures-pour-encadrer-le-prix-de-l-essence_6780888_3234.html",
+      "summary": "Tokyo a débloqué des aides massives pour contenir la hausse du coût du carburant engendrée par le confit au Moyen-Orient, tout en diversifiant ses approvisionnements. Au risque de creuser le déficit public et le déficit commercial."
+    },
+    {
+      "title": "« La folle course de l’IA vient briser la dimension désinflationniste de la nouvelle économie »",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/23/la-folle-course-de-l-ia-vient-briser-la-dimension-desinflationniste-de-la-nouvelle-economie_6780870_3232.html",
+      "summary": "Nous assistons à un retour des pressions sur les prix et sur les taux lié à la boulimie de croissance des acteurs de l’intelligence artificielle, observe, dans sa chronique au « Monde », Philippe Askenazy."
+    },
     {
       "title": "Budget 2027 : Sébastien Lecornu appelle les socialistes à renouer avec « l’esprit de responsabilité »",
       "url": "https://www.lemonde.fr/politique/article/2026/09/22/budget-2027-sebastien-lecornu-appelle-les-socialistes-a-renouer-avec-l-esprit-de-responsabilite_6780249_823448.html",
@@ -12,59 +22,84 @@
       "summary": "Le syndicat présentera mardi après-midi au premier ministre deux demandes prioritaires : des aides supplémentaires pour affronter la flambée du gazole, et des détails sur la réorientation vers l’agriculture des économies réalisées dans d’autres ministères, promises pour le prochain budget."
     },
     {
-      "title": "Arrêts maladie de courte durée : le président du Medef, Patrick Martin, prône un non-remboursement pour limiter les abus",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/22/arrets-maladie-de-courte-duree-le-president-du-medef-patrick-martin-prone-un-non-remboursement-pour-limiter-les-abus_6780074_3224.html",
-      "summary": "« Bien sûr qu’il faut faire des économies » dans ce domaine, a-t-il affirmé sur France 2, « parce qu’au-delà de l’effet de base, il y a un nombre d’arrêts maladie de courte durée qui augmente d’une manière parfois suspecte »."
+      "title": "Mycoses, insomnies, nausées... De nouveaux médicaments bientôt accessibles sans ordonnance? Les syndicats de pharmaciens proposent de \"délister\" 33 molécules pour faire économiser 177 millions d'euros d'économies à l'Assurance maladie",
+      "url": "https://www.bfmtv.com/economie/mycoses-insomnies-nausees-de-nouveaux-medicaments-bientot-accessibles-sans-ordonnance-les-syndicats-de-pharmaciens-proposent-de-delister-33-molecules-pour-faire-economiser-177-millions-d-euros-d-economies-a-l-assurance-maladie_AD-202609230510.html",
+      "summary": "Les syndicats de pharmaciens proposent ce mercredi 23 septembre d'augmenter le nombre de médicaments en vente libre, avec 33 molécules prioritaires à \"délister\". L'objectif, selon eux: freiner les dépenses de l'Assurance maladie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/i0RyWVDMUGAe8jwwDyhxqVcWY7Q=/0x106:2048x1258/800x0/images/Pharmacie-d-officine-2324929.jpg\" />"
     },
     {
-      "title": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le budget 2027 pour « restituer » les surplus de TVA aux Français",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html",
-      "summary": "« Si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme."
+      "title": "Effet de rattrapage ou réel sursaut? L'activité du secteur privé en France surprend en septembre et signe sa plus forte croissance depuis plus de deux ans",
+      "url": "https://www.bfmtv.com/economie/effet-de-rattrapage-ou-reel-sursaut-l-activite-du-secteur-prive-en-france-surprend-en-septembre-et-signe-sa-plus-forte-croissance-depuis-plus-de-deux-ans_AV-202609230422.html",
+      "summary": "L'indice d'activité du secteur privé mesuré par l'agence S&amp;P Global a atteint son plus haut niveau depuis 25 mois, sans doute tiré par un effet de rattrapage après les canicules. Ce net rebond pourrait toutefois ne pas être durable. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yOb27CKvdEhYZqr5kre9N60Ze-g=/0x0:2048x1152/800x0/images/Bercy-ministere-2343193.jpg\" />"
     },
     {
-      "title": "Les retraités ont-ils la belle vie ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-les-retraites-ont-ils-la-belle-vie_VN-202609230172.html",
-      "summary": "\"On a un problème de finances publiques, et si on veut s'attaquer aux causes, il va falloir s'attaquer aux retraites. Les retraités vivent mieux que le reste de la population et mieux que les retraités étrangers.\" défend Emmanuel Lechypre sur le plateau de Good Morning Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/m77NCue3qZnXeHtOs4ZDGEPUAF8=/0x0:1280x720/800x0/images/Les-retraites-ont-ils-la-belle-vie-2352855.jpg\" />"
+      "title": "BFM Entreprise - Croissance - Savoir se développer en dépit des obstacles - Mercredi 23 septembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/bfm-entreprise-croissance-savoir-se-developper-en-depit-des-obstacles-mercredi-23-septembre_EN-202609230415.html",
+      "summary": "Ce mercredi 23 septembre, Sandra Gandoin a reçu Alexandra Baum et Olivia Baum, cofondatrices de Lison Paris, dans l'émission BFM Entreprise, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WmimYA9ZvFJH9EEWUH7J6Nv2WTk=/0x0:14000x14000/800x0/podcast/podcasts/principale-650_2.jpg\" />"
     },
     {
-      "title": "Le Pitch : Cozysmart, solution de gestion de chauffage connecté - 23/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-pitch-cozysmart-solution-de-gestion-de-chauffage-connecte-23-09_EN-202609230133.html",
-      "summary": "Fabien Baijot, cofondateur et directeur général de Cozysmart, était l'invité de Sandra Gandoin dans Good Morning Business, ce mercredi 23 septembre. Ils sont revenus sur la spécialité de son entreprise, notamment un système de maîtrise des dépenses énergétiques destiné aux locations de courte durée, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "BFM Entreprise - Croissance - Savoir se développer en dépit des obstacles - Mercredi 23 septembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/video-bfm-entreprise-croissance-savoir-se-developper-en-depit-des-obstacles-mercredi-23-septembre_VN-202609230430.html",
+      "summary": "Ce mercredi 23 septembre, Sandra Gandoin a reçu Alexandra Baum et Olivia Baum, cofondatrices de Lison Paris, dans l'émission BFM Entreprise, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Ef6U8c-y5ULi0w21ztjOcdI0_wY=/0x0:1280x720/800x0/images/BFM-Entreprise-Croissance-Savoir-se-developper-en-depit-des-obstacles-Mercredi-23-septembre-2353081.jpg\" />"
     },
     {
-      "title": "Le Pitch : Cozysmart, solution de gestion de chauffage connecté - 23/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-pitch/le-pitch-cozysmart-solution-de-gestion-de-chauffage-connecte-23-09_EN-202609230132.html",
-      "summary": "Fabien Baijot, cofondateur et directeur général de Cozysmart, était l'invité de Sandra Gandoin dans Good Morning Business, ce mercredi 23 septembre. Ils sont revenus sur la spécialité de son entreprise, notamment un système de maîtrise des dépenses énergétiques destiné aux locations de courte durée, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/T-ybLrxjh2S9_WKiBuBeKujfITE=/0x0:14000x14000/800x0/podcast/podcasts/principale-422_3.jpg\" />"
+      "title": "L'Italie ne sera peut-être bientôt plus sous la surveillance budgétaire renforcée de l'UE: Rome confirme prévoir un déficit public sous les 3% du PIB en 2026",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-italie-ne-sera-peut-etre-bientot-plus-sous-la-surveillance-budgetaire-renforcee-de-l-ue-rome-confirme-prevoir-un-deficit-public-sous-les-3-du-pib-en-2026_AV-202609230405.html",
+      "summary": "Le déficit italien devrait atteindre 2,9% du PIB cette année. Le gouvernement va également revoir à la hausse sa prévision de croissance, à 1%. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dnCbEAW5O7Tf33LujOo8tLsUh4I=/0x0:2048x1152/800x0/images/Giorgia-Meloni-se-trouve-dans-l-hemicycle-du-Senat-lors-d-une-reunion-d-information-avec-le-Parlement-sur-l-activite-gouvernementale-a-Rome-en-Italie-le-9-avril-2026-2270102.jpg\" />"
     },
     {
-      "title": "Le Pitch : Cozysmart, solution de gestion de chauffage connecté - 23/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-pitch/video-le-pitch-cozysmart-solution-de-gestion-de-chauffage-connecte-23-09_VN-202609230134.html",
-      "summary": "Fabien Baijot, cofondateur et directeur général de Cozysmart, était l'invité de Sandra Gandoin dans Good Morning Business, ce mercredi 23 septembre. Ils sont revenus sur la spécialité de son entreprise, notamment un système de maîtrise des dépenses énergétiques destiné aux locations de courte durée, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/SWZ2zGimK351TB6nUyfJ3t7iMK4=/0x0:1280x720/800x0/images/Le-Pitch-Cozysmart-solution-de-gestion-de-chauffage-connecte-23-09-2352828.jpg\" />"
+      "title": "Discussions USA/Iran, baisse du cours du pétrole",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-discussions-usa-iran-baisse-du-cours-du-petrole_VN-202609230433.html",
+      "summary": "Ce mercredi 23 septembre, l'espoir diplomatique d'une fin des conflits entre les États-Unis et l'Iran, les craintes d'une pénurie de gaz cet hiver, et les mesures annoncées par le gouvernement pour faire face à la hausse des prix du carburant, ont été abordés par Jean-Pierre Petit, président des Cahiers Verts de l'Économie, Mathieu Plane, directeur adjoint du département analyse et prévision de l'OFCE, et Gilles Raveaud, maître de conférences à l'Institut d'Études Européennes de Paris 8 - Saint-Denis, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OcI7_X3YJL0S9G2igjUmD6K-kos=/0x0:1280x720/800x0/images/Discussions-USA-Iran-baisse-du-cours-du-petrole-2353086.jpg\" />"
     },
     {
-      "title": "Il faut agir sur les \"revenus et les salaires\" plutôt que sur \"des baisses de prix de l'essence\", préconise l'économiste Jean Tirole",
-      "url": "https://www.franceinfo.fr/economie/budget/il-faut-agir-sur-les-revenus-et-les-salaires-plutot-que-sur-des-baisses-de-prix-de-l-essence-preconise-l-economiste-jean-tirole_8205851.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le prix Nobel d'Économie 2014 regrette une vision politique \"à court terme\" et parle d'\"inconscience générale\"."
+      "title": "La boîte à outils : Christian Fontaine - Succession, comment transmettre hors impôts ? - 23/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-la-boite-a-outils-christian-fontaine-succession-comment-transmettre-hors-impots-23-09_VN-202609230384.html",
+      "summary": "Ce mercredi 23 septembre, Antoine Larigaudrie vous présente la boîte à outils dans son émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FNKCBB0RxE7x2TQ4NBJcjLshYX0=/0x0:1280x720/800x0/images/La-boite-a-outils-Christian-Fontaine-Succession-comment-transmettre-hors-impots-23-09-2353049.jpg\" />"
     },
     {
-      "title": "La règle d’or sur les carburants ressemble surtout à un effet d’annonce",
-      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-regle-d-or-sur-les-carburants-ressemble-surtout-a-un-effet-d-annonce_8183921.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement propose d’inscrire dans le budget 2027 une règle d’or pour \"restituer les surplus de TVA sur les carburants aux Français\". L’objectif est d’éviter que l’État ne profite d’une nouvelle hausse des prix à la pompe. Encore faut-il que cette règle soit inscrite dans le budget 2027 et adoptée par le Parlement, ce qui est loin d’être gagné."
+      "title": "La boîte à outils : Christian Fontaine - Succession, comment transmettre hors impôts ? - 23/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-boite-a-outils-christian-fontaine-succession-comment-transmettre-hors-impots-23-09_EN-202609230378.html",
+      "summary": "Ce mercredi 23 septembre, Antoine Larigaudrie vous présente la boîte à outils dans son émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f4SAC4PXeawQbzN8vbhCcYo4DVs=/0x0:14000x14000/800x0/podcast/podcasts/principale-62_4.jpg\" />"
     },
     {
-      "title": "\"C'est presque nous pousser à descendre dans la rue\" : la Fédération nationale des transporteurs routiers réagit à la non-prolongation des aides aux carburants pour la profession",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/c-est-presque-nous-pousser-a-descendre-dans-la-rue-la-federation-nationale-des-transporteurs-routiers-reagit-a-la-non-prolongation-des-aides-aux-carburants-pour-la-profession_8205701.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le ministre de l'Économie estime que les routiers peuvent répercuter la hausse des prix des carburants sur leurs factures. Peu probable, réagit le syndicat FNTR qui prédit une \"hécatombe\" chez les transporteurs."
+      "title": "L'intégrale des Experts du mercredi 23 septembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-mercredi-23-septembre_VN-202609230380.html",
+      "summary": "Ce mercredi 23 septembre, Laure Closier a reçu Jean-Pierre Petit, président des Cahiers Verts de l'Économie, Mathieu Plane, directeur adjoint du département analyse et prévision de l'OFCE, et Gilles Raveaud, maître de conférences à l'Institut d'Études Européennes de Paris 8 - Saint-Denis, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iGlXYQ5o_wk20wRdqaMcybWl6y4=/0x0:1280x720/800x0/images/L-integrale-des-Experts-du-mercredi-23-septembre-2353046.jpg\" />"
     },
     {
-      "title": "Budget 2027 : le gouvernement reconduit les allègements de prélèvements sur les bailleurs sociaux",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-le-gouvernement-reconduit-les-allegements-de-prelevements-sur-les-bailleurs-sociaux_8205188.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans une interview à \"Sud-Ouest\", Vincent Jeanbrun annonce \"baisser leurs prélèvements de 500 millions d'euros\"."
+      "title": "Avec ses finances publiques moribondes, la France recule mais ni l'Europe, ni le monde: l'OCDE revoit à la hausse ses prévisions de croissance mondiale",
+      "url": "https://www.bfmtv.com/economie/avec-ses-finances-publiques-moribondes-la-france-recule-mais-ni-l-europe-ni-le-monde-l-ocde-revoit-a-la-hausse-ses-previsions-de-croissance-mondiale_AD-202609230360.html",
+      "summary": "L'Organisation mondiale de l'Organisation de coopération et de développement économiques a abaissé à 0,4% sa prévision de croissance pour la France en 2026 et à 0,7% pour 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ETO3C6Ua4AdNK8Ms-ZHljJ-0_WY=/6x4:1142x643/800x0/images/-171681.jpg\" />"
     },
     {
-      "title": "\"C'est une première étape, mais c'est encore beaucoup trop insuffisant\" réagit le député LR Corentin Le Fur après les nouvelles aides sur les carburants annoncées par le gouvernement",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/c-est-une-premiere-etape-mais-c-est-encore-beaucoup-trop-insuffisant-reagit-le-lr-corentin-le-fur-apres-les-nouvelles-aides-sur-les-carburants-annoncees-par-le-gouvernement_8205206.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le député Les Républicains plaide plutôt pour \"une baisse des taxes\", rendue nécessaire face aux tarifs \"beaucoup trop élevés\" des carburants."
+      "title": "Hausse des prix des carburants : \"Le covoiturage explose depuis début mars\", constate un spécialiste des transports",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-le-covoiturage-explose-depuis-debut-mars-constate-un-specialiste-des-transports_8205980.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Réduire ses trajets, renoncer à certains déplacements, aller faire le plein chez nos voisins belges ou italiens, les Français cherchent des parades pour limiter l'impact de la hausse des prix des carburants sur leur budget. Certains choisissent de laisser leur voiture au garage et de s'orienter vers d'autres modes de transport, comme l'explique, Arnaud Aymé, spécialiste des transports au cabinet de conseil Sia Partners."
+    },
+    {
+      "title": "Sébastien Lecornu propose aux députés socialistes de bâtir un nouveau \"compromis\" sur le budget 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-propose-aux-deputes-socialistes-de-batir-un-nouveau-compromis-sur-le-budget_8206019.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans un courrier au groupe PS, le Premier ministre ajoute que le gouvernement \"ne se mêlera pas de la campagne présidentielle\" et que \"le désaccord n'interdit pas d'agir ensemble lorsque l'intérêt du pays le commande\"."
+    },
+    {
+      "title": "\"Je ne vais plus du tout au restaurant\" : le commerce de bouche impacté par la crise des carburants",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/je-ne-vais-plus-du-tout-au-restaurant-le-commerce-de-bouche-impacte-par-la-crise-des-carburants_8206010.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Outre les automobilistes, les restaurateurs souffrent également de la crise des carburants et de la baisse du pouvoir d'achat. Les budgets de leurs clients se resserrent et certaines salles se vident, tandis que les charges sont en hausse."
+    },
+    {
+      "title": "Le gouvernement est \"ouvert\" à \"discuter avec d'autres secteurs concernés\" sur les aides aux carburants, assure Maud Bregeon",
+      "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-gouvernement-est-ouvert-a-discuter-avec-d-autres-secteurs-concernes-sur-les-aides-aux-carburants-assure-maud-bregeon_8205959.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Toutefois, la porte-parole du gouvernement invoque le déficit de \"plus de 5%\" pour justifier des aides ciblées."
+    },
+    {
+      "title": "Carburants, \"règle d’or\", budget... Le \"8h30 franceinfo\" de Maud Bregeon",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/carburants-regle-d-or-budget-le-8h30-franceinfo-de-maud-bregeon_8183909.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Maud Bregeon, porte-parole du gouvernement, ministre déléguée chargée de l'Énergie"
+    },
+    {
+      "title": "L’info du jour | 23 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/23/linfo-du-jour-23-septembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 23 septembre 2026 - Matin",
@@ -109,21 +144,6 @@
     {
       "title": "L’info du jour | 20 septembre 2026 - Soir",
       "url": "https://fr.euronews.com/video/2026/09/20/linfo-du-jour-20-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Des milliers de personnes manifestent à Buenos Aires contre les mesures d'austérité de Milei",
-      "url": "https://fr.euronews.com/2026/09/20/des-milliers-de-personnes-manifestent-a-buenos-aires-contre-les-mesures-dausterite-de-mile",
-      "summary": "Des milliers de personnes ont participé samedi à la marche de la colère à Buenos Aires, à l'appel de la gauche, de syndicats et d'organisations sociales, pour dénoncer la politique économique du gouvernement Milei. La protestation a été relayée dans plus de 60 villes du pays."
-    },
-    {
-      "title": "L’info du jour | 20 septembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/09/20/linfo-du-jour-20-septembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 20 septembre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/09/20/linfo-du-jour-20-septembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
