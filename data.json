@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-24T02:10:17Z",
+  "updated_at": "2026-09-24T07:56:19Z",
   "articles": [
+    {
+      "title": "Aux Etats-Unis, la vigueur de l’économie et le pétrole cher provoquent une nouvelle poussée des taux longs",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/24/aux-etats-unis-la-vigueur-de-l-economie-et-le-petrole-cher-provoquent-une-nouvelle-poussee-des-taux_6781331_3234.html",
+      "summary": "Le rendement des bons du Trésor américain à dix ans a atteint 5,1 %, un plus haut depuis juillet 2007. L’inflation, la croissance et le prix toujours élevé du pétrole confortent le scénario d’une poursuite de la remontée des taux directeurs de la Réserve fédérale."
+    },
+    {
+      "title": "Ces hausses d’impôts qui attendent les assurances en 2027",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/24/ces-hausses-d-impots-qui-attendent-les-assurances-en-2027_6781328_3234.html",
+      "summary": "Le projet de loi de finances 2027 prévoit une surtaxation de 200 millions d’euros sur les contrats d’assurance automobile. Une garantie « émeutes » de 0,8 % s’imposera aussi à toutes les assurances-dommages."
+    },
     {
       "title": "Au Japon, le gouvernement multiplie les mesures pour encadrer le prix de l’essence",
       "url": "https://www.lemonde.fr/economie/article/2026/09/23/au-japon-le-gouvernement-multiplie-les-mesures-pour-encadrer-le-prix-de-l-essence_6780888_3234.html",
@@ -12,29 +22,64 @@
       "summary": "Nous assistons à un retour des pressions sur les prix et sur les taux lié à la boulimie de croissance des acteurs de l’intelligence artificielle, observe, dans sa chronique au « Monde », Philippe Askenazy."
     },
     {
-      "title": "FORUM BFMTV - Dette: \"Les Gafam captent énormément d'argent en France, mais paient tous leurs impôts en Irlande\", note Marc, blogueur bons plans",
-      "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-dette-les-gafam-captent-enormement-d-argent-en-france-mais-paient-tous-leurs-impots-en-irlande-note-marc-blogueur-bons-plans_VN-202609230949.html",
-      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: \"Vie chère, carburant: jusqu'où tiendront les Français?\" présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger en direct sur l'explosion exceptionnelle du prix du carburant impactant durement la vie quotidienne.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2SF0OoaBiIs30-IZfCZ_1iHGjto=/0x0:1280x720/800x0/images/FORUM-BFMTV-Dette-Les-Gafam-captent-enormement-d-argent-en-France-mais-paient-tous-leurs-impots-en-Irlande-note-Marc-blogueur-bons-plans-2353455.jpg\" />"
+      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : OCDE, l'IA va-t-elle sauver l'économie européenne ? - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-jean-marc-daniel-ocde-l-ia-va-t-elle-sauver-l-economie-europeenne-24-09_VN-202609240289.html",
+      "summary": "Ce jeudi 24 septembre, les enjeux de la contribution de l'intelligence artificielle sur la croissance économique européenne ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BEjmBXydPbUKJ8G8UJyq5hTQT9Q=/0x0:1280x720/800x0/images/Emmanuel-Lechypre-face-a-Jean-Marc-Daniel-OCDE-l-IA-va-t-elle-sauver-l-economie-europeenne-24-09-2353652.jpg\" />"
     },
     {
-      "title": "FORUM BFMTV - Budget: \"Il faut une orientation économique différente\", pointe Elie, avocat à Paris",
-      "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-budget-il-faut-une-orientation-economique-differente-pointe-elie-avocat-a-paris_VN-202609230882.html",
-      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: \"Vie chère, carburant: jusqu'où tiendront les Français?\" présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger en direct sur l'explosion exceptionnelle du prix du carburant impactant durement la vie quotidienne.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_juof5jHYcGmh_UzcZmnT9uCtbw=/0x0:1280x720/800x0/images/FORUM-BFMTV-Budget-Il-faut-une-orientation-economique-differente-pointe-Elie-avocat-a-Paris-2353400.jpg\" />"
+      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : OCDE, l'IA va-t-elle sauver l'économie européenne ? - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-ocde-l-ia-va-t-elle-sauver-l-economie-europeenne-24-09_EN-202609240278.html",
+      "summary": "Ce jeudi 24 septembre, les enjeux de la contribution de l'intelligence artificielle sur la croissance économique européenne ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
     },
     {
-      "title": "Fruits et légumes : marchés, supermarchés... où trouver les moins chers ?",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/fruits-et-legumes-marches-supermarches-ou-trouver-les-moins-chers_8206472.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les prix des fruits et légumes repartent en forte hausse depuis quelques semaines, et cela devrait continuer avec les mauvaises récoltes liées aux canicules. Pour faire des économies, certains privilégient les circuits courts sur les marchés, quand d'autres traquent les promotions au supermarché. Qui est vraiment moins cher ?"
+      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : OCDE, l'IA va-t-elle sauver l'économie européenne ? - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-jean-marc-daniel-ocde-l-ia-va-t-elle-sauver-l-economie-europeenne-24-09_EN-202609240276.html",
+      "summary": "Ce jeudi 24 septembre, les enjeux de la contribution de l'intelligence artificielle sur la croissance économique européenne ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/su-ZifMREXbsAbLsFx8-feLI2o0=/0x0:14000x14000/800x0/podcast/podcasts/principale-118_4.jpg\" />"
     },
     {
-      "title": "Dette : \"les marchés financiers nours surveillent\", alerte Jean Tirole",
-      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-les-marches-financiers-nours-surveillent-alerte-jean-tirole_8206454.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Jean Tirole, le prix Nobel d'économie 2014, alerte sur le danger économique que fait peser la dette sur notre pays, alors que se profile les discussions sur le budget 2027 et le début de la campagne présidentielle."
+      "title": "\"Il faut qu'on mette la campagne présidentielle entre parenthèses\": l'ex-ministre de l'Économie Éric Lombard juge \"impératif\" de faire adopter le budget 2027",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/il-faut-qu-on-mette-la-campagne-presidentielle-entre-parentheses-l-ex-ministre-de-l-l-economie-eric-lombard-juge-imperatif-de-faire-adopter-le-budget-2027_AV-202609240243.html",
+      "summary": "Sur BFM Business ce jeudi, l'ancien ministre de l'Économie Éric Lombard \"demande un effort politique\" aux partis politiques de \"l'espace central\" pour trouver un accord sur le budget de l'État pour 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fBmd9yKfL8GgfFWMKrYfIpQ0T_8=/0x0:1920x1080/800x0/images/Eric-Lombard-ancien-ministre-de-l-Economie-sur-BFM-Business-ce-jeudi-24-septembre-2353586.jpg\" />"
     },
     {
-      "title": "Hausse des prix des carburants : \"Le covoiturage explose depuis début mars\", constate un spécialiste des transports",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-le-covoiturage-explose-depuis-debut-mars-constate-un-specialiste-des-transports_8205980.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Réduire ses trajets, renoncer à certains déplacements, aller faire le plein chez nos voisins belges ou italiens, les Français cherchent des parades pour limiter l'impact de la hausse des prix des carburants sur leur budget. Certains choisissent de laisser leur voiture au garage et de s'orienter vers d'autres modes de transport, comme l'explique, Arnaud Aymé, spécialiste des transports au cabinet de conseil Sia Partners."
+      "title": "Le casse-tête du Budget 2027",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-casse-tete-du-budget-2027_VN-202609240219.html",
+      "summary": "\"Je demande aux partis politiques de mettre entre parenthèses la campagne des présidentielles pour ce budget\" lance Eric Lombard, ancien ministre de l'Économie et des Finances. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Z0BuH3qUhR9a3LSMU0Okw58rLvw=/0x0:1280x720/800x0/images/Le-casse-tete-du-Budget-2027-2353597.jpg\" />"
+    },
+    {
+      "title": "Éric Lombard (ancien ministre) : Le casse-tête du budget 2027 - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/eric-lombard-ancien-ministre-le-casse-tete-du-budget-2027-24-09_EN-202609240204.html",
+      "summary": "Éric Lombard, ancien ministre de l'Économie et des Finances, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 24 septembre. Ils sont revenus sur cette expérience au sein du gouvernement et ont discuté de pistes pour parvenir à un compromis budgétaire, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+    },
+    {
+      "title": "Éric Lombard (ancien ministre) : Le casse-tête du budget 2027 - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/eric-lombard-ancien-ministre-le-casse-tete-du-budget-2027-24-09_EN-202609240203.html",
+      "summary": "Éric Lombard, ancien ministre de l'Économie et des Finances, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 24 septembre. Ils sont revenus sur cette expérience au sein du gouvernement et ont discuté de pistes pour parvenir à un compromis budgétaire, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+    },
+    {
+      "title": "Éric Lombard (ancien ministre) : Le casse-tête du budget 2027 - 24/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-eric-lombard-ancien-ministre-le-casse-tete-du-budget-2027-24-09_VN-202609240206.html",
+      "summary": "Éric Lombard, ancien ministre de l'Économie et des Finances, était l'invité de Brigitte Boucher dans Good Morning Business, ce jeudi 24 septembre. Ils sont revenus sur cette expérience au sein du gouvernement et ont discuté de pistes pour parvenir à un compromis budgétaire, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KazyBRHWjBD3P81cXFFgP3rumkQ=/0x0:1280x720/800x0/images/Eric-Lombard-ancien-ministre-Le-casse-tete-du-budget-2027-24-09-2353581.jpg\" />"
+    },
+    {
+      "title": "Elles veulent augmenter l'abattement du pacte Dutreil et rapprocher le salaire net du brut: les propositions des petites entreprises pour la présidentielle",
+      "url": "https://www.bfmtv.com/economie/entreprises/elles-veulent-augmenter-l-abattement-du-pacte-dutreil-et-rapprocher-le-salaire-net-du-brut-les-propositions-des-petites-entreprises-pour-la-presidentielle_AD-202609240191.html",
+      "summary": "L'organisation patronale U2P a dévoilé ce jeudi 24 septembre ses propositions en vue de l'élection présidentielle, qui incluent une réforme de la fiscalité, une amélioration des rémunérations nettes et un rôle accru des entreprises de proximité dans l'économie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eMASLqIbRCtPjhKGiZqHKp8VRB4=/7x111:2039x1254/800x0/images/Michel-Picon-president-de-l-U2P-2353565.jpg\" />"
+    },
+    {
+      "title": "Contrairement à la France, l’économie mondiale résiste à la crise",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/contrairement-a-la-france-l-economie-mondiale-resiste-a-la-crise_8185508.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que l’économie mondiale résiste mieux que prévu aux différents chocs, la France manque de marges de manœuvre pour soutenir son activité. Une croissance faible qui complique encore davantage l’équation budgétaire."
+    },
+    {
+      "title": "\"J'ai été obligé de rétablir l'impôt sur la fortune'\" : le jeu \"La bataille du budget\" vous met au défi de trouver 54 milliards d’euros d’économies",
+      "url": "https://www.franceinfo.fr/economie/budget/j-ai-ete-oblige-de-retablir-l-impot-sur-la-fortune-le-jeu-la-bataille-du-budget-vous-met-au-defi-de-trouver-54-milliards-d-euros-d-economies_8206967.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "À une semaine de la présentation du budget 2027, un jeu en ligne propose de se mettre dans la peau du ministre du Budget et de tenter de relever le défi, avec plus de 400 mesures inspirées de propositions réellement déposées au parlement."
+    },
+    {
+      "title": "L’info du jour | 24 septembre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/09/24/linfo-du-jour-24-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 24 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 23 septembre 2026 - Soir",
@@ -74,11 +119,6 @@
     {
       "title": "L’info du jour | 21 septembre 2026 - Soir",
       "url": "https://fr.euronews.com/video/2026/09/21/linfo-du-jour-21-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 21 septembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/09/21/linfo-du-jour-21-septembre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
