@@ -1,65 +1,55 @@
 {
-  "updated_at": "2026-09-29T09:15:10Z",
+  "updated_at": "2026-09-29T16:13:27Z",
   "articles": [
+    {
+      "title": "« Pour sa dette comme son économie, la France est en voie d’italianisation avancée »",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/29/pour-sa-dette-comme-son-economie-la-france-est-en-voie-d-italianisation-avancee_6785640_3232.html",
+      "summary": "Ce qui menace l’Hexagone n’est pas tant le risque d’une faillite que celui d’une évolution semblable à celle de l’Italie depuis les années 1980, soit un lent déclassement, analyse Eric Albert, journaliste au « Monde », dans sa chronique."
+    },
+    {
+      "title": "« Pour les mines d’or comme de cuivre, la croissance passe davantage par la consolidation que par l’exploration »",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/29/pour-les-mines-d-or-comme-de-cuivre-la-croissance-passe-davantage-par-la-consolidation-que-par-l-exploration_6785585_3234.html",
+      "summary": "Northern Star, second producteur d’or en Australie, a rejeté une offre d’achat de son concurrent sud-africain Gold Fields, mais ce dernier ne compte pas en rester là. Le secteur traverse actuellement une phase de consolidation, sur fond de baisse de la productivité minière, analyse Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
     {
       "title": "Washington interdit l’importation de certains produits canadiens, dont des alcools",
       "url": "https://www.lemonde.fr/international/article/2026/09/29/washington-interdit-l-importation-de-certains-produits-canadiens-dont-des-alcools_6785576_3210.html",
       "summary": "La Maison Blanche avait annoncé cette mesure le 8 septembre, après que le Canada a imposé de nouveaux droits de douane sur des produits américains, en réponse aux surtaxes mises en place par Washington à l’encontre de ses propres exportations."
     },
     {
-      "title": "Grève du 29 septembre : les syndicats de la fonction publique et les pompiers veulent faire pression avant le budget 2027",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/29/greve-dans-la-fonction-publique-plus-de-170-manifestations-et-des-blocus-dans-les-lycees-attendus-mardi_6785560_3224.html",
-      "summary": "Plus de 170 rassemblements sont attendus partout en France à l’appel d’une large intersyndicale pour demander des « moyens budgétaires à la hauteur » des missions des services publics."
+      "title": "Faut-il que le CAC 40 contribue plus aux finances publiques ?",
+      "url": "https://www.bfmtv.com/economie/video-faut-il-que-le-cac-40-contribue-plus-aux-finances-publiques_VN-202609290684.html",
+      "summary": "Faut-il que le CAC 40 contribue plus aux finances publiques ? Faut-il que le CAC 40 soit d'avantage taxé ? Non répond François Monnier. Le directeur de la rédaction d'Investir s'appuie sur une enquête de la FEB pour démontrer son point de vue. \"Si vous taxez à 36% les entreprises en France alors que la moyenne en Europe est de 22%, elles iront ailleurs\" ajoute-t-il.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_kZkpd20P82B89AZ9jjE44Pdx40=/0x0:1280x720/800x0/images/Faut-il-que-le-CAC-40-contribue-plus-aux-finances-publiques-2356423.jpg\" />"
     },
     {
-      "title": "Grève du 29 septembre : de « fortes perturbations » prévues ce mardi dans les transports publics d’Ile-de-France",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/29/greve-du-29-septembre-de-fortes-perturbations-a-prevoir-dans-les-transports-d-ile-de-france_6785107_3235.html",
-      "summary": "Echaudées par un nouveau gel du point d’indice, les organisations syndicales représentatives de la fonction publique ont annoncé une journée de grève mardi, avec l’ambition de mettre la pression sur le gouvernement à quelques jours de l’annonce du budget 2027."
+      "title": "Le Club : Pour Anthropic, l'IA transformera l'économie davantage que l'électricité ou l'industrie – 29/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/le-club-pour-anthropic-l-ia-transformera-l-economie-davantage-que-l-electricite-ou-l-industrie-29-09_EN-202609290671.html",
+      "summary": "Ce mardi 29 septembre, François Monnier, directeur de la rédaction d'Investir et Alexandre Stott, économiste chez Goldman sachs, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
-      "title": "A l’approche du projet de budget 2027, regain d’inquiétude pour le financement des films",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/28/a-l-approche-du-projet-de-budget-2027-regain-d-inquietude-pour-le-financement-des-films_6785092_3234.html",
-      "summary": "Le gouvernement envisage un doublement de la TVA de Canal+, une baisse du financement de France Télévisions ou un plafonnement des taxes affectées au Centre national du cinéma (CNC). Des projets qui suscitent des craintes parmi les professionnels du milieu."
+      "title": "Le Club : Pour Anthropic, l'IA transformera l'économie davantage que l'électricité ou l'industrie - 29/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-pour-anthropic-l-ia-transformera-l-economie-davantage-que-l-electricite-ou-l-industrie-29-09_VN-202609290681.html",
+      "summary": "Ce mardi 29 septembre, François Monnier, directeur de la rédaction d'Investir et Alexandre Stott, économiste chez Goldman sachs, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JNsSKQb7c3SlSwGP8WMinCosUw0=/0x0:1280x720/800x0/images/Le-Club-Pour-Anthropic-l-IA-transformera-l-economie-davantage-que-l-electricite-ou-l-industrie-29-09-2356421.jpg\" />"
     },
     {
-      "title": "Budget 2027 : le gouvernement veut augmenter une taxe sur les concessions autoroutières et aéroportuaires",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/28/budget-2027-le-gouvernement-veut-augmenter-une-taxe-sur-les-concessions-autoroutieres-et-aeroportuaires_6785079_3234.html",
-      "summary": "Si le projet de loi de finances est adopté, la mesure rapportera 1,4 milliard d’euros annuels à l’Etat, contre 600 millions d’euros aujourd’hui."
+      "title": "Mythomètre : \"Les entreprises du CAC 40 ne sont pas mises assez à contribution pour soutenir les finances publiques\". FAUX répond François Monnier – 29/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/mythometre-les-entreprises-du-cac-40-ne-sont-pas-mises-assez-a-contribution-pour-soutenir-les-finances-publiques-faux-repond-francois-monnier-29-09_EN-202609290644.html",
+      "summary": "Mythomètre : \"Les entreprises du CAC 40 ne sont pas mises assez à contribution pour soutenir les finances publiques\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
-      "title": "A Cuba, une économie asphyxiée par les sanctions américaines",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/28/a-cuba-une-economie-asphyxiee-par-les-sanctions-americaines_6785054_3234.html",
-      "summary": "Un rapport d’un groupe de travail de l’université Harvard alerte sur l’aggravation de la crise que traverse l’île caribéenne depuis la mise en place du blocus énergétique des Etats-Unis en janvier."
+      "title": "Mythomètre : \"Les entreprises du CAC 40 ne sont pas mises assez à contribution pour soutenir les finances publiques\". FAUX répond François Monnier - 29/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-mythometre-les-entreprises-du-cac-40-ne-sont-pas-mises-assez-a-contribution-pour-soutenir-les-finances-publiques-faux-repond-francois-monnier-29-09_VN-202609290641.html",
+      "summary": "Mythomètre : \"Les entreprises du CAC 40 ne sont pas mises assez à contribution pour soutenir les finances publiques\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-Jjfa_Tz7_o-PZuoUBehjzpeQXA=/0x0:1280x720/800x0/images/Mythometre-Les-entreprises-du-CAC-40-ne-sont-pas-mises-assez-a-contribution-pour-soutenir-les-finances-publiques-FAUX-repond-Francois-Monnier-29-09-2356403.jpg\" />"
     },
     {
-      "title": "Les Experts : Décrochage de la productivité, comment lutter ? - 29/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-decrochage-de-la-productivite-comment-lutter-29-09_EN-202609290314.html",
-      "summary": "Ce mardi 29 septembre, l'espérance d'une hausse de la productivité et de la croissance économique européenne avec l'appui de l'intelligence artificielle, a été abordée par Jean-Marc Daniel, éditorialiste BFM Business, Ronan Le Moal, fondateur d'Epopée Gestion, fonds d'investissements régional, et Simon Bunel, chercheur postdoctoral à l'INSEAD, professeur associé à l'ENS et membre de la CAE, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V5kOEQZL8-4vU-2KD__qAkmkht4=/0x0:14000x14000/800x0/podcast/podcasts/principale-60_6.jpg\" />"
+      "title": "Saisie par Sébastien Lecornu après des fuites dans la presse sur le projet de budget 2027, la justice ouvre une enquête pour violation du secret professionnel",
+      "url": "https://www.franceinfo.fr/economie/budget/une-enquete-pour-violation-du-secret-professionnel-sur-des-fuites-dans-la-presse-sur-la-preparation-du-budget-2027_8214845.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre a fait un signalement après la publication dans \"Les Echos\" d'informations selon lesquelles le gouvernement envisageait de soumettre à cotisations une partie des primes d'intéressement, participation ou abondements des employeurs aux plans d'épargne."
     },
     {
-      "title": "Les Experts : Décrochage de la productivité, comment lutter ? - 29/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-decrochage-de-la-productivite-comment-lutter-29-09_VN-202609290329.html",
-      "summary": "Ce mardi 29 septembre, l'espérance d'une hausse de la productivité et de la croissance économique européenne avec l'appui de l'intelligence artificielle, a été abordée par Jean-Marc Daniel, éditorialiste BFM Business, Ronan Le Moal, fondateur d'Epopée Gestion, fonds d'investissements régional, et Simon Bunel, chercheur postdoctoral à l'INSEAD, professeur associé à l'ENS et membre de la CAE, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YGStqubRj-0RVd3uA_SOP8E5V6Q=/0x0:1280x720/800x0/images/Les-Experts-Decrochage-de-la-productivite-comment-lutter-29-09-2356160.jpg\" />"
-    },
-    {
-      "title": "Les fonctionnaires en grève pour leur salaire",
-      "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/les-fonctionnaires-en-greve-pour-leur-salaire_8214557.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Salut c’est Sarah, ça dit quoi ? Les fonctionnaires sont en grève ce mardi 29 septembre, deux jours avant la présentation du budget. Ils demandent une hausse des salaires et une revalorisation du point d’indice, la base du calcul de leur rémunération, gelé depuis 2023."
-    },
-    {
-      "title": "Impôts en hausse : selon un institut de conjoncture, le choc fiscal va se poursuivre",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/impots-en-hausse-selon-un-institut-de-conjoncture-le-choc-fiscal-va-se-poursuivre_8192729.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "À la veille de la présentation du projet de budget 2027 jeudi en conseil des ministre, un bilan des impôts prélevés en France montre que, loin des promesses d'Emmanuel Macron de les baisser, ils ne cessent d'augmenter. Un élan qu’il va être difficile de casser en si bon chemin."
-    },
-    {
-      "title": "Croissance élevée, créations d'emplois, salaires en hausse... Pourquoi la santé économique de l'Espagne est bien meilleure que celle de ses voisins",
-      "url": "https://www.franceinfo.fr/monde/espagne/croissance-elevee-creations-d-emplois-salaires-en-hausse-pourquoi-la-sante-economique-de-l-espagne-est-bien-meilleure-que-celle-de-ses-voisins_8207669.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "L'Espagne affiche un dynamisme économique important, porté par une consommation intérieure forte et une politique d'immigration à rebours des autres pays européens."
-    },
-    {
-      "title": "\"On doit remplir la cuve de fioul\" : ils vendent leurs bijoux en or pour payer les dépenses du quotidien",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/on-doit-remplir-la-cuve-de-fioul-ils-vendent-leurs-bijoux-en-or-pour-payer-les-depenses-du-quotidien_8214053.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "De plus en plus de Français vendent leurs bijoux de famille pour faire les courses, payer leur loyer ou remplir leur réservoir. C'est le cas dans une boutique de rachat d'or à Marseille."
+      "title": "L’info du jour | 29 septembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/09/29/linfo-du-jour-29-septembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 29 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 29 septembre 2026 - Matin",
@@ -112,11 +102,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 25 septembre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/09/25/linfo-du-jour-25-septembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 25 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Au Brésil, Lula peut-il compter sur son bilan pour se faire réélire ?",
       "url": "https://www.alternatives-economiques.fr/au-bresil-lula-peut-il-compter-sur-son-bilan-pour-se-faire-reelire_29-09-2026",
       "summary": "Les Brésiliens sont appelés aux urnes dimanche pour des élections générales qui s'annoncent serrées. Lula brigue un quatrième mandat mais peine à mobiliser des classes populaires déçues, en dépit d’une économie redynamisée."
@@ -125,11 +110,6 @@
       "title": "Comment comprendre les déséquilibres mondiaux, et 3 autres conseils de lecture",
       "url": "https://www.alternatives-economiques.fr/comment-comprendre-les-desequilibres-mondiaux-et-3-autres-conseils-de-lecture_26-09-2026",
       "summary": "IA, trumpisme, montée de la fréquence des chocs d'offre : en tête de notre sélection cette semaine, l'Institut français d'économie consacre son petit livre annuel de décryptage à un tour d'horizon stimulant de la mondialisation."
-    },
-    {
-      "title": "Qui assume vraiment le coût de l&#039;enfant ?",
-      "url": "https://www.alternatives-economiques.fr/qui-assume-vraiment-le-cout-de-l-enfant_25-09-2026",
-      "summary": "En évaluant l'ensemble des dépenses collectives consacrées aux moins de 20 ans, l'économiste Antoine Math montre que les prestations sociales soutiennent de moins en moins le pouvoir d'achat des familles."
     }
   ]
 }
