@@ -1,40 +1,45 @@
 {
-  "updated_at": "2026-09-30T00:52:20Z",
+  "updated_at": "2026-09-30T06:08:37Z",
   "articles": [
+    {
+      "title": "Menacé d’une contribution exceptionnelle sur ses profits, CMA CGM renonce à son engagement d’enregistrer 40 navires sous pavillon français",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/menace-d-une-contribution-exceptionnelle-sur-ses-profits-cma-cgm-renonce-a-son-engagement-d-enregistrer-40-navires-sous-pavillon-francais_6785926_3234.html",
+      "summary": "Cette décision de Rodolphe Saadé, le patron de l’armateur, vise à faire pression sur le gouvernement qui pourrait décider, dans le cadre du budget, de mettre davantage à contribution le groupe dont les bénéfices en 2026 devraient dépasser les 2,1 milliards d’euros réalisés en 2025."
+    },
     {
       "title": "Pour préparer son introduction en Bourse, Anthropic publie des chiffres vertigineux sur sa croissance et ses investissements",
       "url": "https://www.lemonde.fr/economie/article/2026/09/29/pour-preparer-son-introduction-en-bourse-anthropic-publie-des-chiffres-vertigineux-sur-sa-croissance-et-ses-investissements_6785676_3234.html",
       "summary": "Chiffre d’affaires multiplié par douze en 2025, engagement massif dans les data centers… La start-up d’intelligence artificielle a mis en ligne un dossier destiné aux investisseurs avant sa cotation sur les marchés financiers, à la fin de l’année."
     },
     {
-      "title": "« Pour sa dette comme son économie, la France est en voie d’italianisation avancée »",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/29/pour-sa-dette-comme-son-economie-la-france-est-en-voie-d-italianisation-avancee_6785640_3232.html",
-      "summary": "Ce qui menace l’Hexagone n’est pas tant le risque d’une faillite que celui d’une évolution semblable à celle de l’Italie depuis les années 1980, soit un lent déclassement, analyse Eric Albert, journaliste au « Monde », dans sa chronique."
+      "title": "Piratage du site des impôts : un rapport officiel détaille les failles qui ont permis le vol des données de centaines de milliers de Français",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/29/piratage-du-site-des-impots-un-rapport-officiel-detaille-les-failles-qui-ont-permis-le-vol-des-donnees-de-centaines-de-milliers-de-francais_6785671_4408996.html",
+      "summary": "L’agence chargée de la cybersécurité, l’Anssi, démontre notamment des « lacunes dans la supervision » des systèmes informatiques de la direction générale des finances publiques, touchée à l’été par une cyberattaque historique."
     },
     {
-      "title": "« Pour les mines d’or comme de cuivre, la croissance passe davantage par la consolidation que par l’exploration »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/29/pour-les-mines-d-or-comme-de-cuivre-la-croissance-passe-davantage-par-la-consolidation-que-par-l-exploration_6785585_3234.html",
-      "summary": "Northern Star, second producteur d’or en Australie, a rejeté une offre d’achat de son concurrent sud-africain Gold Fields, mais ce dernier ne compte pas en rester là. Le secteur traverse actuellement une phase de consolidation, sur fond de baisse de la productivité minière, analyse Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      "title": "Les promesses d'Andy Burnham au congrès travailliste",
+      "url": "https://www.bfmtv.com/economie/video-les-promesses-d-andy-burnham-au-congres-travailliste_VN-202609300174.html",
+      "summary": "Andy Burnham veut réengager l'Etat britannique dans des secteurs essentiels de l'économie. Dans le viseur du premier ministre : le logement, l'eau l'énergie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7kpwtMYFLfEiSxSu7LItntu8TvQ=/0x0:1280x720/800x0/images/Les-promesses-d-Andy-Burnham-au-congres-travailliste-2356707.jpg\" />"
     },
     {
-      "title": "Washington interdit l’importation de certains produits canadiens, dont des alcools",
-      "url": "https://www.lemonde.fr/international/article/2026/09/29/washington-interdit-l-importation-de-certains-produits-canadiens-dont-des-alcools_6785576_3210.html",
-      "summary": "La Maison Blanche avait annoncé cette mesure le 8 septembre, après que le Canada a imposé de nouveaux droits de douane sur des produits américains, en réponse aux surtaxes mises en place par Washington à l’encontre de ses propres exportations."
+      "title": "L'ÉDITO ÉCO - Shein: le géant de la fast fashion terrassé par la taxe \"petit colis\"",
+      "url": "https://www.bfmtv.com/economie/video-shein-le-geant-de-la-fast-fashion-terrasse-par-la-taxe-petit-colis_VN-202609300167.html",
+      "summary": "Le secteur de la fast fashion est en pleine turbulence. Une entreprise cotée à Hong Kong voit son titre chuter de 35 % depuis le premier jour de cotation. Les résultats financiers révèlent une baisse de rentabilité, avec un bénéfice en recul de 67 % au deuxième trimestre. Les ventes européennes décrochent de 14 %, impactées par la taxe sur les petits colis. Malgré ces défis, l'entreprise s'adapte en stockant désormais en Europe pour éviter les taxes. Le modèle 100 % exportation est mis à l'épreuve, mais le marché reste prometteur avec plus de 40 milliards de dollars de ventes annuelles. Le consommateur reste la clé de la stratégie future.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hPyDa40ObhbgeX-hmPs8nM1faKU=/0x0:1280x720/800x0/images/Shein-le-geant-de-la-fast-fashion-terrasse-par-la-taxe-petit-colis-2356700.jpg\" />"
     },
     {
-      "title": "Meta Muse : un agent IA déjà en vogue – 29/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/meta-muse-un-agent-ia-deja-en-vogue-29-09_EN-202609290919.html",
-      "summary": "Ce mardi 29 septembre, Didier Girard, CTO et directeur général de SFEIR, et Erik Campanini, associé chez Alixio Group, sont revenus sur le nouvel agent IA de Meta et les moyens accordés au déploiement de l'IA dans le budget de 2027, dans l'émission Tech&amp;Co Business présentée par Frédéric Simottel. Tech&amp;Co Business est à voir ou écouter le mardi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HpaQYosH_RrWn5sl8iiYt2ysf6M=/0x0:14000x14000/800x0/podcast/podcasts/principale-122_3.jpg\" />"
+      "title": "\"Notre ministre de l'Économie a dit qu'avec 2.000 euros, on vit bien... Qu'il vienne: j'ai 76 ans, je dors sur un convertible\": alors que le gouvernement veut les mettre à contribution dans le budget 2027, des retraités dénoncent un ciblage \"injuste\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/social/notre-ministre-de-l-economie-a-dit-qu-avec-2-000-euros-on-vit-bien-qu-il-vienne-j-ai-76-ans-je-dors-sur-un-convertible-alors-que-le-gouvernement-veut-les-mettre-a-contribution-dans-le-budget-2027-des-retraites-denoncent-un-ciblage-injuste_AD-202609300118.html",
+      "summary": "Alors que le gouvernement envisage de geler une partie des pensions de base ou de réduire l'abattement fiscal de 10% dont ils bénéficients, des retraités se disent injustement ciblés, tandis que d'autres se résignent à contribuer au redressement des finances publiques. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3YNbLhz-aDBzb4bZ1Sx7BQXxdhQ=/160x115:2032x1168/800x0/images/Retraites-illustration-2318008.jpg\" />"
     },
     {
-      "title": "Meta Muse : un agent IA déjà en vogue - 29/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-meta-muse-un-agent-ia-deja-en-vogue-29-09_VN-202609290924.html",
-      "summary": "Ce mardi 29 septembre, Didier Girard, CTO et directeur général de SFEIR, et Erik Campanini, associé chez Alixio Group, sont revenus sur le nouvel agent IA de Meta et les moyens accordés au déploiement de l'IA dans le budget de 2027, dans l'émission Tech&amp;Co Business présentée par Frédéric Simottel. Tech&amp;Co Business est à voir ou écouter le mardi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nPzQWIFqp0zhGq8EToM8rwhLw8Q=/0x0:1280x720/800x0/images/Meta-Muse-un-agent-IA-deja-en-vogue-29-09-2356598.jpg\" />"
+      "title": "L'ÉDITO ÉCO - La France prévoit d'emprunter la somme record de 340 milliards d'euros sur les marchés",
+      "url": "https://www.bfmtv.com/economie/video-l-edito-eco-la-france-prevoit-d-emprunter-la-somme-record-de-340-milliards-d-euros-sur-les-marches_VN-202609300109.html",
+      "summary": "La France prévoit d'emprunter 340 milliards d'euros sur les marchés en 2027, un nouveau record. Entre le refinancement des dettes arrivant à échéance et des déficits toujours élevés, le programme d'émissions de l'État aura gonflé de 80 milliards d'euros en seulement cinq ans.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/93BkJBunLLu5YRGZMinFbS3TVZA=/0x0:1280x720/800x0/images/L-EDITO-ECO-La-France-prevoit-d-emprunter-la-somme-record-de-340-milliards-d-euros-sur-les-marches-2356662.jpg\" />"
     },
     {
-      "title": "Alors que \"l'inflation est trop élevée\" aux États-Unis, un responsable de la Fed estime qu'il n'y a pas encore \"d'urgence\" à relever une nouvelle fois les taux directeurs",
-      "url": "https://www.bfmtv.com/economie/international/alors-que-l-inflation-est-trop-elevee-aux-etats-unis-un-responsable-de-la-fed-estime-qu-il-n-y-a-pas-encore-d-urgence-a-relever-une-nouvelle-fois-les-taux-directeurs_AD-202609290834.html",
-      "summary": "La Réserve fédérale américaine (Fed) peut attendre avant de relever de nouveau ses taux directeurs pour combattre l'inflation, a estimé mardi le président de la Fed de New York, soulignant néanmoins qu'une hausse risquait de s'imposer \"en fin d'année\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-D0F8kIv1rZjX6aevgdFMOg8t8I=/0x106:2048x1258/800x0/images/John-Williams-Fed-New-York-2356529.jpg\" />"
+      "title": "La \"crise\" est évitable si la classe politique \"se réveille\": la présidente de la Cour des comptes Amélie de Montchalin alerte sur le dérapage de la dette et appelle les parlementaires à ne pas faire du budget \"une bataille de chiffres incompréhensible\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-crise-est-evitable-si-la-classe-politique-se-reveille-la-presidente-de-la-cour-des-comptes-amelie-de-montchalin-alerte-sur-le-derapage-de-la-dette-et-appelle-les-parlementaires-a-ne-pas-faire-du-budget-une-bataille-de-chiffres-incomprehensible_AD-202609300085.html",
+      "summary": "La présidente de la Cour des comptes, Amélie de Montchalin, a assuré que la France ne pouvait pas se permettre d'attendre que l'équilibre des comptes publics \"se fasse tout seul\". Elle a appelé à \"faire des choix\" alors que la charge de la dette doit atteindre 80 milliards d'euros cette année. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eidaIkRNxJX1_1XuA4fGxw8cUXA=/0x106:2048x1258/800x0/images/Amelie-de-Montchalin-2259294.jpg\" />"
     },
     {
       "title": "Que proposent les candidats à la présidentielle pour réduire la dette publique ?",
@@ -55,6 +60,11 @@
       "title": "Ruée dans les rayons anti-gaspi",
       "url": "https://www.franceinfo.fr/economie/ruee-dans-les-rayons-anti-gaspi_8215007.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Les offres anti-gaspi des supermarchés séduisent de plus en plus. Qui sont les consommateurs de ces produits dont la date limite approche ? Et quelles économies réalisent-ils ?"
+    },
+    {
+      "title": "L’info du jour | 30 septembre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/09/30/linfo-du-jour-30-septembre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 29 septembre 2026 - Soir",
@@ -115,11 +125,6 @@
       "title": "Au Brésil, Lula peut-il compter sur son bilan pour se faire réélire ?",
       "url": "https://www.alternatives-economiques.fr/au-bresil-lula-peut-il-compter-sur-son-bilan-pour-se-faire-reelire_29-09-2026",
       "summary": "Les Brésiliens sont appelés aux urnes dimanche pour des élections générales qui s'annoncent serrées. Lula brigue un quatrième mandat mais peine à mobiliser des classes populaires déçues, en dépit d’une économie redynamisée."
-    },
-    {
-      "title": "Comment comprendre les déséquilibres mondiaux, et 3 autres conseils de lecture",
-      "url": "https://www.alternatives-economiques.fr/comment-comprendre-les-desequilibres-mondiaux-et-3-autres-conseils-de-lecture_26-09-2026",
-      "summary": "IA, trumpisme, montée de la fréquence des chocs d'offre : en tête de notre sélection cette semaine, l'Institut français d'économie consacre son petit livre annuel de décryptage à un tour d'horizon stimulant de la mondialisation."
     }
   ]
 }
