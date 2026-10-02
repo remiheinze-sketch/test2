@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-02T13:20:22Z",
+  "updated_at": "2026-10-02T18:47:39Z",
   "articles": [
+    {
+      "title": "A Paris, pour son premier budget, le maire Emmanuel Grégoire accusé de « marchandiser » la ville",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/02/a-paris-pour-son-premier-budget-le-maire-emmanuel-gregoire-accuse-de-marchandiser-la-ville_6787212_823448.html",
+      "summary": "Le maire socialiste de la capitale assume de se tourner davantage vers le privé pour continuer à maintenir un haut niveau d’investissement. « Paris n’est pas à vendre », met en garde l’opposition."
+    },
+    {
+      "title": "Les aéroports français, « sidérés » par leur niveau de taxation prévu dans le budget 2027, alertent sur un risque de « décrochage »",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/02/les-aeroports-francais-sideres-par-leur-niveau-de-taxation-alertent-sur-un-risque-de-decrochage_6787204_3234.html",
+      "summary": "Le président de l’Union des aéroports français, Thomas Juin, réagit aux nouvelles taxes pesant sur les plateformes aéroportuaires dans le projet de loi de finances, présenté jeudi. Il craint la suppression de nouvelles lignes dans les territoires."
+    },
+    {
+      "title": "Thomas Buberl : « L’Allemagne a été très disciplinée sur ses dépenses mais a négligé l’investissement »",
+      "url": "https://www.lemonde.fr/economie/video/2026/10/02/thomas-buberl-l-allemagne-a-ete-tres-disciplinee-sur-ses-depenses-mais-a-neglige-l-investissement_6787191_3234.html",
+      "summary": "Invité d’« Un Monde d’avance », le nouveau rendez-vous entre des dirigeants de grandes entreprises, des journalistes du « Monde » et des jeunes, le directeur général d’Axa prend position sur les grands enjeux de demain : réchauffement climatique, vieillissement de la population, immigration, compétitivité et souveraineté de l’Europe."
+    },
     {
       "title": "Budget 2027 : le gouvernement veut mieux protéger les hauts fonctionnaires poursuivis devant la Cour des comptes",
       "url": "https://www.lemonde.fr/politique/article/2026/10/02/budget-2027-le-gouvernement-veut-mieux-proteger-les-hauts-fonctionnaires-poursuivis-devant-la-cour-des-comptes_6787138_823448.html",
@@ -12,64 +27,34 @@
       "summary": "L’augmentation des prix dans les 21 pays de la zone a atteint 3,8 % sur un an en septembre, selon la première estimation d’Eurostat, principalement en raison du bond des tarifs de l’énergie. Cette accélération pourrait conduire à une nouvelle hausse des taux d’intérêt."
     },
     {
-      "title": "Budget 2027 : les politiques de l’emploi subissent une coupe sévère de 2,5 milliards d’euros",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-les-politiques-de-l-emploi-subissent-une-coupe-severe-de-2-5-milliards-d-euros_6786581_823448.html",
-      "summary": "Alors que la situation sur le marché du travail s’est dégradée, avec une hausse du taux de chômage à 8,3 %, le projet de loi de finances pour 2027 prévoit une réduction des crédits de l’organisme France Compétences, une réforme du compte personnel de formation ainsi que la suppression de 400 postes à France Travail. Seul l’apprentissage est épargné."
+      "title": "Le gouvernement veut ponctionner l'épargne oubliée",
+      "url": "https://www.bfmtv.com/economie/video-le-gouvernement-veut-ponctionner-l-epargne-oubliee_VN-202610020757.html",
+      "summary": "Pour boucler les 54 milliards d'économies du Budget 2027, le gouvernement cherche partout. Il envisage ainsi de prélever 17% des sommes contenues sur les Livrets A, comptes et assurances-vie \"oubliés\", pour récupérer 1,5 milliard d'euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sgQo8IoyIPDHb1emXRT-O7iCYBU=/0x0:1280x720/800x0/images/Le-gouvernement-veut-ponctionner-l-epargne-oubliee-2358460.jpg\" />"
     },
     {
-      "title": "Budget 2027 : YouTube, TikTok ou Facebook devront davantage contribuer à la création française",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/01/budget-2027-youtube-tiktok-ou-facebook-devront-davantage-contribuer-a-la-creation-francaise_6786549_3234.html",
-      "summary": "Le projet de loi de finances pour 2027 propose de réduire de moitié un abattement fiscal dont bénéficiaient les plateformes gratuites de partage de vidéo. Gain total espéré : environ 60 millions."
+      "title": "Moody's s'inquiète, Barclays n'y croit absolument pas… À peine présenté, le budget 2027 et ses prévisions sont jugées irréalistes, le déficit serait même pire qu'en 2026",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/moody-s-s-inquiete-barclays-n-y-croit-absolument-pas-a-peine-presente-le-budget-2027-et-ses-previsions-sont-jugees-irrealistes-le-deficit-serait-meme-pire-qu-en-2026_AV-202610020673.html",
+      "summary": "Le projet de loi de Finances pour 2027, présenté jeudi, propose un effort global de 54 milliards d'euros pour tenter de contenir le déficit à 5% pour l'an prochain. Mais les obstacles politiques, la hausse des coûts d'emprunt sur le marché, et des prévisions de croissance optimistes rendent cette cible bien fragile. Barclays retient un déficit de 5,5% pour 2027 qui sera pire que celui de 2026. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hhHiyhbF8z_KuRzWnmpQMv4a8dM=/0x40:768x472/800x0/images/De-gauche-a-droite-le-ministre-de-l-Economie-Roland-Lescure-celui-des-Comptes-publics-David-Amiel-et-celui-du-Travail-Jean-Pierre-Farandou-le-1er-octobre-2026-a-Paris-2357598.jpg\" />"
     },
     {
-      "title": "Biscuits, glaces, céréales et bonbons: dans son projet de budget, le gouvernement veut étendre la \"taxe soda\" aux produits transformés sucrés pour pousser les industriels à changer leurs recettes",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/biscuits-glaces-cereales-et-bonbons-dans-son-projet-de-budget-le-gouvernement-veut-etendre-la-taxe-soda-aux-produits-transformes-sucres-pour-pousser-les-industriels-a-changer-leurs-recettes_AV-202610020490.html",
-      "summary": "Dans le cadre de son projet de budget pour 2027, le gouvernement veut étendre l'actuelle \"taxe soda\" à une série de produits transformés sucrés contenant des additifs.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/B0iMFmguGixPVpyL2muUVEaUwLc=/0x61:2048x1213/800x0/images/Supermarche-biscuits-sucres-2358249.jpg\" />"
+      "title": "Air Liquide : un plan stratégique sous pression 🏋️",
+      "url": "https://www.bfmtv.com/economie/video-air-liquide-un-plan-strategique-sous-pression_VN-202610020672.html",
+      "summary": "Air Liquide : un plan stratégique sous pression 🏋️ \"On va les attendre sur des objectifs de marges chiffrés, sur des objectifs de croissance un peu plus explicites et un peu plus précis\". 💬 @Thierrygautier 🎙️ @GuillSommerer<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DefouEHYJLOUj4DLs_Gpt_ohIUA=/0x0:1280x720/800x0/images/Air-Liquide-un-plan-strategique-sous-pression-2358405.jpg\" />"
     },
     {
-      "title": "Le secteur aérien prévient que le triplement d'une taxe visant les gestionnaires d'aéroports dans le budget 2027 va se traduire par une hausse du prix des billets d'avion",
-      "url": "https://www.bfmtv.com/economie/entreprises/transports/le-secteur-aerien-previent-que-le-triplement-d-une-taxe-visant-les-gestionnaires-d-aeroports-dans-le-budget-2027-va-se-traduire-par-une-hausse-du-prix-des-billets-d-avion_AV-202610020475.html",
-      "summary": "Cette mesure inscrite au budget 2027 doit participer au renflouement des caisses de l'État. Mais pour la filière, la hausse de la taxe qui frappera les aéroports les plus rentables pourrait se traduire par une hausse des redevances aéroportuaires payées par les compagnies aériennes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nYaqHb6C83d7o1ElJeEIVymKDmY=/168x1:1880x964/800x0/images/passager-avion-illustration-1996047.jpg\" />"
+      "title": "\"Jusqu'à 100 millions de barils\": Emmanuel Macron annonce que le G7 va libérer des stocks de diesel et de pétrole",
+      "url": "https://www.bfmtv.com/economie/video-jusqu-a-100-millions-de-barils-emmanuel-macron-annonce-que-le-g7-va-liberer-des-stocks-de-diesel-et-de-petrole_VN-202610020634.html",
+      "summary": "Les pays du G7 vont libérer \"jusqu’à 100 millions de barils\" de \"diesel et pétrole brut\", \"dans les quatre mois\", a annoncé Emmanuel Macron ce vendredi, alors que Donald Trump pressait depuis plusieurs jours les pays européens de libérer des stocks pour détendre les prix des carburants et notamment du gazole. Les pays du G7 sont les économies occidentales les plus avancées (Allemagne, Canada, États-Unis, France, Italie, Japon et Royaume-Uni).<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/W6d2xZbh8UieunHr21UHsyOT4KE=/0x0:1280x720/800x0/images/Jusqu-a-100-millions-de-barils-Emmanuel-Macron-annonce-que-le-G7-va-liberer-des-stocks-de-diesel-et-de-petrole-2358364.jpg\" />"
     },
     {
-      "title": "BTS et prépa : finalement ce ne sera pas payant",
-      "url": "https://www.bfmtv.com/economie/video-bts-et-prepa-finalement-ce-ne-sera-pas-payant_VN-202610020444.html",
-      "summary": "Chaque vendredi, Laure Closier met en lumière un sujet qui l'a particulièrement marquée. Cette semaine, elle revient sur une mesure du projet de budget… supprimée en moins de 24 heures ! Le gouvernement renonce à faire payer 170 euros les années de BTS et de prépa.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cxoYCVcN0htpPznBahS2ulifGJU=/0x0:1280x720/800x0/images/BTS-et-prepa-finalement-ce-ne-sera-pas-payant-2358229.jpg\" />"
+      "title": "Budget de la Sécurité sociale : 18 organisations, dont Amnesty international et le Secours catholique, dénoncent une \"préférence nationale déguisée\"",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-18-organisations-dont-amnesty-international-et-le-secours-catholique-denoncent-une-preference-nationale-deguisee_8220316.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'article 37 du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 vise à restreindre l'accès aux prestations familiales pour les personnes étrangères en exigeant une condition d'un an de résidence régulière en France."
     },
     {
-      "title": "La maison connectée Enki vous aide à faire baisser votre facture d'électricité",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/de-quoi-jme-mail/la-maison-connectee-enki-vous-aide-a-faire-baisser-votre-facture-d-electricite_EN-202610020424.html",
-      "summary": "Thomas Deflandre, directeur général d'Enki Home nous explique comment, avec des capteurs, il est possible de faire baisser sa consommation d'énergie et réaliser des économies.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/igI4_zgZbs-gfWO3zoo7cPJPqYU=/0x0:14000x14000/800x0/podcast/podcasts/principale-154_3.jpg\" />"
-    },
-    {
-      "title": "Les Experts de l'immo : Budget, la location meublée dans le viseur de l'État - 02/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-de-l-immo/les-experts-de-l-immo-budget-la-location-meublee-dans-le-viseur-de-l-etat-02-10_EN-202610020417.html",
-      "summary": "Tout savoir sur les grandes tendances du marché de l'immobilier avec les meilleurs experts et notre journaliste maison, Marie Coeurderoy, et vous !<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DjYp4Ah6Inrcw8SkKPiV73doQ7I=/0x0:14000x14000/800x0/podcast/podcasts/principale-467_3.jpg\" />"
-    },
-    {
-      "title": "De Quoi J'me Mail : tour d'horizon des dernières lunettes connectées et Enki vous aide à faire baisser votre facture d'électricité",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/de-quoi-jme-mail/de-quoi-j-me-mail-tour-d-horizon-des-dernieres-lunettes-connectees-et-la-maison-connectee-enki_EN-202610020416.html",
-      "summary": "Ce vendredi, nous commentons l’actualité avec Melinda Davan-Soulas journaliste à BFM Tech et Anthony Morel, journaliste à BFM Business. Module 1 : cinéma géant, réalité augmentée : tour d'horizon des dernières lunettes connectées Cette semaine gros plan sur les nouvelles lunettes connectées et leurs différents usages : cinéma sur le nez, informations projetées dans les verres...on fait le point. Muse, Dots, Gemini Argon...les agents IA arrivent pour le grand public Revolut lance le paiement par reconnaissance faciale Module 2 : La maison connectée Enki vous aide à faire baisser votre facture d'électricité Thomas Deflandre, directeur général d'Enki Home nous explique comment, avec des capteurs, il est possible de faire baisser sa consommation d'énergie et réaliser des économies. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/igI4_zgZbs-gfWO3zoo7cPJPqYU=/0x0:14000x14000/800x0/podcast/podcasts/principale-154_3.jpg\" />"
-    },
-    {
-      "title": "Les Experts de l'immo : Budget, la location meublée dans le viseur de l'État - 02/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts-de-l-immo/video-les-experts-de-l-immo-budget-la-location-meublee-dans-le-viseur-de-l-etat-02-10_VN-202610020410.html",
-      "summary": "Tout savoir sur les grandes tendances du marché de l'immobilier avec les meilleurs experts et notre journaliste maison, Marie Coeurderoy, et vous !<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-uyrZytbAVdfJbJ0rXaKE5NSUzo=/0x0:1280x720/800x0/images/Les-Experts-de-l-immo-Budget-la-location-meublee-dans-le-viseur-de-l-Etat-02-10-2358205.jpg\" />"
-    },
-    {
-      "title": "La note de la France bientôt dégradée? L'agence Moody's ne croit pas vraiment à un compromis sur le budget 2027 et estime que le prochain président \"sera confronté à la même difficulté\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-agence-de-notation-moody-s-ne-croit-pas-vraiment-a-un-compromis-sur-le-budget-2027-et-estime-que-le-prochain-president-sera-confronte-a-la-meme-difficulte_AV-202610020398.html",
-      "summary": "L'agence de notation rappelle que le prochain président et son gouvernement devront prendre des mesures significatives pour réduire le déficit public. Mais rien ne dit qu'il disposera d'une majorité. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f-sabBi59AQzwazOWmt_oovXcZ0=/1x21:1185x687/800x0/images/-458072.jpg\" />"
-    },
-    {
-      "title": "C'est presque le double de l'objectif de la BCE: l'inflation dans la zone euro accélère à 3,8%, son plus haut niveau depuis trois ans",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/c-est-presque-le-double-de-l-objectif-de-la-bce-l-inflation-dans-la-zone-euro-accelere-a-3-8-son-plus-haut-niveau-depuis-trois-ans_AV-202610020394.html",
-      "summary": "Cette hausse, liée à l'envolée des prix du pétrole depuis la reprise des hostilités au Moyen-Orient début juillet, est supérieure aux attentes des analystes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/AhfC317BPzQ7NZM2L1OKaoa1Acc=/0x17:800x467/800x0/images/1239334.jpg\" />"
-    },
-    {
-      "title": "Budget 2027, l'ardoise fiscale s'alourdit",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-budget-2027-l-ardoise-fiscale-s-alourdit_VN-202610020476.html",
-      "summary": "Ce vendredi 2 octobre, le taux de la dette française à 10 ans au plus haut depuis 2002 qui frôle les 5% a été abordé par Bertille Bayart, rédactrice en chef du Figaro, Jean-Philippe André, président de D&amp;O (Décider et Obtenir) et ex-patron de Haribo, et Anthony Morlet Lavidalie, économiste chez Rexecode, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6sULogBzeAiQxV42NNCdpseMkCE=/0x0:1280x720/800x0/images/Budget-2027-l-ardoise-fiscale-s-alourdit-2358252.jpg\" />"
+      "title": "\"Le contexte mondial est défavorable et nous coûte\", prévient le gouvernement au sujet des conséquences d'une absence de budget en 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/le-contexte-mondial-est-defavorable-et-nous-coute-previent-le-gouvernement-au-sujet-des-consequences-d-une-absence-de-budget-en-2027_8220277.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Matignon s'est inquiété vendredi des conséquences de l'absence de budget pour 2027. L'entourage du Premier ministre pointe notamment la hausse des taux auxquels la France emprunte et appelle les parlementaires à faire \"avancer le texte budgétaire\"."
     },
     {
       "title": "VIDEO. \"Classes à 35\", profs absents \"pas remplacés\", locaux \"délabrés\"… Devant les établissements bloqués, des lycéens résument leurs revendications",
@@ -92,19 +77,9 @@
       "summary": "Il n’aura fallu que quelques heures au gouvernement pour reculer. Dans le budget 2027 présenté jeudi 1er octobre au matin, l’exécutif prévoyait de faire payer 178 euros de frais d’inscription annuels aux élèves de BTS et 270 euros à ceux des classes préparatoires aux grandes écoles. Les étudiants boursiers n’étaient pas concernés."
     },
     {
-      "title": "A suivre avec Loïc de la Mornais : Budget 2027 : qui va payer la facture ?",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-budget-2027-qui-va-payer-la-facture_8219263.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans cette troisième partie, Loïc de la Mornais et ses invités réagissent au budget de la France pour 2027 présenté dans la journée par Sébastien Lecornu. Ils reviennent sur les annonces budgétaires les plus importantes poussées par le gouvernement alors que le débat va s'ouvrir à l'Assemblée nationale. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
-    },
-    {
-      "title": "Sous-indexation des pensions, abattement fiscal raboté, arbitrages renvoyés au Parlement… Que prévoit le budget 2027 pour les retraités ?",
-      "url": "https://www.franceinfo.fr/economie/retraite/sous-indexation-des-pensions-abattement-fiscal-rabote-arbitrages-renvoyes-au-parlement-que-prevoit-le-budget-2027-pour-les-retraites_8218297.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Pour réduire considérablement le déficit en 2027, le gouvernement prévoit, dans son projet de loi de financement de la Sécurité sociale, de mettre à contribution les retraités à hauteur de 5,5 milliards d'euros."
-    },
-    {
-      "title": "\"Plusieurs milliards d'euros que les ménages vont devoir supporter\" : ces mesures du budget 2027 vont coûter plus cher aux Français",
-      "url": "https://www.franceinfo.fr/economie/budget/plusieurs-milliards-d-euros-que-les-menages-vont-devoir-supporter-ces-mesures-du-budget-2027-vont-couter-plus-cher-aux-francais_8218858.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le gouvernement a présenté son budget jeudi 1er octobre. S'il a promis de ne pas augmenter les impôts en 2027, il souhaite faire des économies. Pour cela, les retraités vont être mis à contribution et les versements de l'État sont revus à la baisse."
+      "title": "L’info du jour | 2 octobre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/10/02/linfo-du-jour-2-octobre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 2 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Le Brésil enquête sur un présumé plan de l'administration Trump pour financer l'extrême droite",
@@ -175,11 +150,6 @@
       "title": "Loyer, électricité, Internet, assurance : le poids croissant des dépenses contraintes",
       "url": "https://www.alternatives-economiques.fr/loyer-electricite-internet-assurance-le-poids-croissant-des-depenses-contraintes_01-10-2026",
       "summary": "Le sentiment que le travail ne paie plus s’explique largement par la progression des dépenses sur lesquelles les ménages ont peu de prise, comme le logement. Elles font pourtant l’objet d’un désintérêt politique global."
-    },
-    {
-      "title": "Travailler ne suffit plus : comment la France est entrée dans un long hiver salarial",
-      "url": "https://www.alternatives-economiques.fr/travailler-ne-suffit-plus-comment-la-france-est-entree-dans-un-long-hiver-salarial_30-09-2026",
-      "summary": "Entre salaires peu dynamiques, inflation et emplois précaires, le sentiment que le travail ne paie plus se répand, à juste titre. Ce qui pousse les ménages qui le peuvent à se tourner vers des revenus patrimoniaux."
     }
   ]
 }
