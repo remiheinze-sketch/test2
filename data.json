@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-04T14:35:35Z",
+  "updated_at": "2026-10-04T18:27:17Z",
   "articles": [
+    {
+      "title": "« Le budget 2027 porte déjà la marque des six réacteurs nucléaires EPR2 »",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
+      "summary": "Le projet de budget enlève 120 millions d’euros aux énergies renouvelables et accorde gratuitement, jusqu’en 2090, la garantie de l’Etat au prêt du Livret A qui financera les six EPR2 d’EDF, sans plafonner les intérêts ni chiffrer le coût total, constate, dans une tribune au « Monde », l’ingénieur Stéphane His."
+    },
     {
       "title": "« A réduire la dépense, on s’expose à réduire l’activité et, partant, à ne pas réduire le déficit »",
       "url": "https://www.lemonde.fr/idees/article/2026/10/04/a-reduire-la-depense-on-s-expose-a-reduire-l-activite-et-partant-a-ne-pas-reduire-le-deficit_6788262_3232.html",
@@ -15,11 +20,6 @@
       "title": "Aux Etats-Unis, la croissance reste vive, mais elle crée moins d’emplois",
       "url": "https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html",
       "summary": "Le pays n’a généré que 29 000 postes au mois de septembre, bien en dessous des 80 000 anticipés par les analystes. Le secteur du soin a porté l’essentiel de ces créations quand celui des services financiers continue sa plongée en la matière."
-    },
-    {
-      "title": "A Paris, pour son premier budget, le maire Emmanuel Grégoire accusé de « marchandiser » la ville",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/02/a-paris-pour-son-premier-budget-le-maire-emmanuel-gregoire-accuse-de-marchandiser-la-ville_6787212_823448.html",
-      "summary": "Le maire socialiste de la capitale assume de se tourner davantage vers le privé pour continuer à maintenir un haut niveau d’investissement. « Paris n’est pas à vendre », met en garde l’opposition."
     },
     {
       "title": "Des concerts, des festivals, du sport, des jeux... Les Américains dépensent sans compter et de plus en plus dans les loisirs (la \"funflation\" va-t-elle emporter la France?)",
@@ -57,9 +57,14 @@
       "summary": "Ce samedi 3 octobre, Karine Van der Straeten, directrice de recherche au CNRS, Jean-Marc Daniel, professeur émérite à l'ESCP, Jean Tirole, économiste, prix Nobel d'économie 2014, Lauriane Mouysset, directrice de recherche au CNRS, et Auban Derreumaux, membre de l'Association Green IT, étaient les invités dans l'émission La librairie de l'éco présentée par Emmanuel Lechypre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MrEcHbkxEVaM1V3-aWWpbUwLpNI=/0x0:1280x720/800x0/images/Emission-du-3-octobre-2026-2358852.jpg\" />"
     },
     {
-      "title": "Bercy évalue à 10 milliards d'euros l'effort des entreprises dans le cadre du budget 2027, soit moitié moins que les prévisions du Medef",
+      "title": "Le ministre de l'Economie évalue à 10 milliards d'euros l'effort demandé aux entreprises dans le budget 2027, rejetant les prévisions du Medef",
       "url": "https://www.franceinfo.fr/economie/budget/bercy-evalue-a-10-milliards-d-euros-l-effort-des-entreprises-dans-le-cadre-du-budget-2027-soit-moitie-moins-que-les-previsions-du-medef_8222299.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La première organisation patronale avait estimé jeudi à \"près de 20 milliards d'euros\" les prélèvements et taxes touchant les entreprises dans le projet de budget, jugeant \"qu'affaiblir encore les entreprises, c'est affaiblir le pays\"."
+      "summary": "La première organisation patronale avait pour sa part estimé jeudi à \"près de 20 milliards d'euros\" les prélèvements et taxes touchant les entreprises dans le projet de budget. Il jugeait alors \"qu'affaiblir encore les entreprises, c'est affaiblir le pays\"."
+    },
+    {
+      "title": "L’info du jour | 4 octobre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/10/04/linfo-du-jour-4-octobre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 4 octobre 2026 - Mi-journée",
