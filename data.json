@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-05T07:54:01Z",
+  "updated_at": "2026-10-05T16:35:10Z",
   "articles": [
+    {
+      "title": "Salaires, services publics : l’intersyndicale appelle à une journée de grève et de manifestations le 5 novembre",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/05/salaires-services-publics-l-intersyndicale-appelle-a-une-journee-de-greve-et-de-manifestations-le-5-novembre_6788555_3224.html",
+      "summary": "Premier appel de la rentrée élargi au privé, l’initiative de la CFDT, de la CGT, de FO, de l’UNSA et de la FSU est lancé quelques jours après la présentation d’un projet de budget pour 2027 qui gèle de nombreuses prestations malgré l’inflation."
+    },
+    {
+      "title": "« Il serait tragique d’oublier que santé et éducation sont les investissements décisifs pour le futur et vont rester les pourvoyeurs majeurs de l’emploi »",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/05/il-serait-tragique-d-oublier-que-sante-et-education-sont-les-investissements-decisifs-pour-le-futur-et-vont-rester-les-pourvoyeurs-majeurs-de-l-emploi_6788545_3232.html",
+      "summary": "Une revalorisation ambitieuse des emplois de service est incontournable assure, dans une tribune au « Monde », l’économiste et sociologue Pierre Veltz, qui appelle l’Etat à entreprendre des réformes de fond pour le bien de l’économie, mais aussi de la société."
+    },
+    {
+      "title": "En Bretagne, les chantiers des Compagnons bâtisseurs contre le mal-logement : « Avec la réparation du chauffe-eau, ma facture EDF a bien baissé »",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/05/en-bretagne-les-chantiers-des-compagnons-batisseurs-contre-le-mal-logement-avec-la-reparation-du-chauffe-eau-ma-facture-edf-a-bien-baisse_6788533_3234.html",
+      "summary": "Insalubrité, précarité énergétique, inadaptabilité… Dans les Côtes-d’Armor, l’association aide les plus précaires à résoudre leurs problématiques d’habitat, alors même que les dépenses de logement pèsent toujours plus lourd dans le budget des ménages."
+    },
     {
       "title": "« Le budget 2027 porte déjà la marque des six réacteurs nucléaires EPR2 »",
       "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
@@ -12,39 +27,34 @@
       "summary": "L’économiste Christophe Ramaux défend, dans une tribune au « Monde », les vertus insoupçonnées de l’intervention publique, et rappelle que l’Etat social permet de réduire les inégalités."
     },
     {
-      "title": "Jean Pisani-Ferry : « Les marchés sont demandeurs de sérieux budgétaire, pas d’austérité »",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/03/jean-pisani-ferry-les-marches-sont-demandeurs-de-serieux-budgetaire-pas-d-austerite_6787635_3232.html",
-      "summary": "La France ne doit pas attendre le résultat du scrutin présidentiel pour réduire son déficit. Dans sa chronique, l’économiste récuse la règle d’or, mais préconise la construction d’une plateforme commune par des forces politiques en mesure de se coaliser."
+      "title": "L'éco du monde : Zoom sur les taux français avant les manifs de demain – 05/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-zoom-sur-les-taux-francais-avant-les-manifs-de-demain-05-10_EN-202610050631.html",
+      "summary": "Ce lundi 5 octobre, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé le maintien sous tension du taux américain à 10 ans, la hausse du taux français à 10 ans vers les 5 %, ainsi que le rôle des grands fonds japonais dans la dette française, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Hedwige Chevrillon : La rue ou les marchés, qui décidera du budget ? - 05/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-hedwige-chevrillon-la-rue-ou-les-marches-qui-decidera-du-budget-05-10_EN-202610050284.html",
-      "summary": "Ce lundi 5 octobre, la question sur le grand gagnant entre la rue et les marchés face au budget de l'État a été abordée par Hedwige Chevrillon et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "L'éco du monde : Zoom sur les taux français avant les manifs de demain - 05/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-zoom-sur-les-taux-francais-avant-les-manifs-de-demain-05-10_VN-202610050630.html",
+      "summary": "Ce lundi 5 octobre, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé le maintien sous tension du taux américain à 10 ans, la hausse du taux français à 10 ans vers les 5 %, ainsi que le rôle des grands fonds japonais dans la dette française, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sq3Uw78s7w6_W6umMjqySpZnU8w=/0x0:1280x720/800x0/images/L-eco-du-monde-Zoom-sur-les-taux-francais-avant-les-manifs-de-demain-05-10-2359628.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Hedwige Chevrillon : La rue ou les marchés, qui décidera du budget ? - 05/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-hedwige-chevrillon-la-rue-ou-les-marches-qui-decidera-du-budget-05-10_EN-202610050283.html",
-      "summary": "Ce lundi 5 octobre, la question sur le grand gagnant entre la rue et les marchés face au budget de l'État a été abordée par Hedwige Chevrillon et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/su-ZifMREXbsAbLsFx8-feLI2o0=/0x0:14000x14000/800x0/podcast/podcasts/principale-118_4.jpg\" />"
+      "title": "Le portefeuille \"BFM-Responsable\" : \"Espagne, les législatives anticipées peuvent-elles impacter Iberdrola ?\" – 05/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/le-portefeuille-bfm-responsable-espagne-les-legislatives-anticipees-peuvent-elles-impacter-iberdrola-05-10_EN-202610050626.html",
+      "summary": "Ce lundi 5 octobre, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, s'est penché sur la surperformance du portefeuille grâce aux valeurs de croissance, et l'enjeu du contexte politique en Espagne pour Iberdrola, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBWbDDB6EziPgYCnACkee0Wv1ug=/0x0:14000x14000/800x0/podcast/podcasts/principale-68_2.jpg\" />"
     },
     {
-      "title": "Emmanuel Lechypre face à Hedwige Chevrillon : La rue ou les marchés, qui décidera du budget ? - 05/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-hedwige-chevrillon-la-rue-ou-les-marches-qui-decidera-du-budget-05-10_VN-202610050288.html",
-      "summary": "Ce lundi 5 octobre, la question sur le grand gagnant entre la rue et les marchés face au budget de l'État a été abordée par Hedwige Chevrillon et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Brigitte Boucher, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_X9Y-YAnBZctQ5klFr0vPPkVdPo=/0x0:1280x720/800x0/images/Emmanuel-Lechypre-face-a-Hedwige-Chevrillon-La-rue-ou-les-marches-qui-decidera-du-budget-05-10-2359407.jpg\" />"
+      "title": "Le portefeuille \"BFM-Responsable\" : \"Espagne, les législatives anticipées peuvent-elles impacter Iberdrola ?\" - 05/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-portefeuille-bfm-responsable-espagne-les-legislatives-anticipees-peuvent-elles-impacter-iberdrola-05-10_VN-202610050627.html",
+      "summary": "Ce lundi 5 octobre, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, s'est penché sur la surperformance du portefeuille grâce aux valeurs de croissance, et l'enjeu du contexte politique en Espagne pour Iberdrola, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wDPK6BAlyHVS6Qklc4jMO6dtfdY=/0x0:1280x720/800x0/images/Le-portefeuille-BFM-Responsable-Espagne-les-legislatives-anticipees-peuvent-elles-impacter-Iberdrola-05-10-2359626.jpg\" />"
     },
     {
-      "title": "Lycées en colère : l'éducation, défi budgétaire",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-lycees-en-colere-l-education-defi-budgetaire_VN-202610050229.html",
-      "summary": "L'économiste Thibault Prébay explique que face au déclin démographique, il va falloir faire un choix : choisir entre enseigner mieux ou réduire les coûts de l'enseignement. Mais il insiste : \"Une entreprise ne doit jamais lâcher la R&amp;D, un pays ne doit jamais lâcher l'éducation\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mY_QG8gAV8O_b3JeZ-EmJqWkQzE=/0x0:1280x720/800x0/images/Lycees-en-colere-l-education-defi-budgetaire-2359357.jpg\" />"
+      "title": "L'intersyndicale appelle à faire grève et manifester le 5 novembre pour \"les salaires, les services publics, l’emploi et l'industrie\"",
+      "url": "https://www.franceinfo.fr/economie/syndicats/l-intersyndicale-appelle-a-faire-greve-et-manifester-le-5-novembre-pour-les-salaires-les-services-publics-l-emploi-et-l-industrie_8223574.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Plusieurs syndicats, dont la CFDT, la CGT et FO, appellent à une mobilisation et critiquent le projet de budget du gouvernement."
     },
     {
-      "title": "L'ÉDITO ÉCO - Le RN, parti du sérieux économique?",
-      "url": "https://www.bfmtv.com/economie/video-l-edito-eco-le-rn-parti-du-serieux-economique_VN-202610050217.html",
-      "summary": "Dans une tribune parue dans l'Opinion, Marine Le Pen s'adresse aux marchés financiers et annonce vouloir mettre en place un plan d'économies de 125 milliards d'euros. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3DytpVvoGZQ2j8Pfdg0wWR77gFI=/0x0:1280x720/800x0/images/L-EDITO-ECO-Le-RN-parti-du-serieux-economique-2359348.jpg\" />"
-    },
-    {
-      "title": "La tribune politique : Lycées en colère... l'Éducation, défi budgétaire - 05/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-politique-lycees-en-colere-l-education-defi-budgetaire-05-10_VN-202610050213.html",
-      "summary": "Ce lundi 5 octobre, retrouvez le replay de la tribune politique sur BFM Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/oYnMP0UlbccFSD475Jjhbr0dV4E=/0x0:1280x720/800x0/images/La-tribune-politique-Lycees-en-colere-l-Education-defi-budgetaire-05-10-2359343.jpg\" />"
+      "title": "\"C'est vraiment pratique\" : de plus en plus de salariés demandent un acompte sur leur salaire",
+      "url": "https://www.franceinfo.fr/economie/c-est-vraiment-pratique-de-plus-en-plus-de-salaries-demandent-un-acompte-sur-leur-salaire_8223403.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Pour certains salariés, attendre la fin du mois pour toucher leur salaire devient difficile. Face aux dépenses imprévues ou aux prélèvements, l'acompte sur salaire apparaît comme une solution de plus en plus utilisée. Désormais accessible directement depuis certaines applications, le dispositif séduit aussi les entreprises."
     },
     {
       "title": "\"C'est vraiment une méthode de transmission qui est très intéressante\" : faut-il davantage taxer l'héritage ?",
@@ -55,6 +65,21 @@
       "title": "Le ministre de l'Economie évalue à 10 milliards d'euros l'effort demandé aux entreprises dans le budget 2027, rejetant les prévisions du Medef",
       "url": "https://www.franceinfo.fr/economie/budget/bercy-evalue-a-10-milliards-d-euros-l-effort-des-entreprises-dans-le-cadre-du-budget-2027-soit-moitie-moins-que-les-previsions-du-medef_8222299.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "La première organisation patronale avait pour sa part estimé jeudi à \"près de 20 milliards d'euros\" les prélèvements et taxes touchant les entreprises dans le projet de budget. Il jugeait alors \"qu'affaiblir encore les entreprises, c'est affaiblir le pays\"."
+    },
+    {
+      "title": "L’info du jour | 5 octobre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Heurts dans des villes françaises lors de protestations étudiantes contre les budgets éducatifs",
+      "url": "https://fr.euronews.com/video/2026/10/05/heurts-dans-des-villes-francaises-lors-de-protestations-etudiantes-contre-les-budgets-educ",
+      "summary": "Marseille et Lille : des étudiants durcissent la protestation contre le financement de l'éducation, bloquent des écoles et affrontent la police, les blocages s'étendent en France"
+    },
+    {
+      "title": "L’info du jour | 5 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 5 octobre 2026 - Matin",
@@ -122,9 +147,9 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 1er octobre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/10/01/linfo-du-jour-1er-octobre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 1er octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Aides aux entreprises : conditionner ne suffirait même pas",
+      "url": "https://www.alternatives-economiques.fr/aides-aux-entreprises-conditionner-ne-suffirait-meme-pas_05-10-2026",
+      "summary": "Malgré l’urgence écologique et alors que le gouvernement cherche une fois de plus à réaliser des dizaines de milliards d’économie, il semble hors de question de toucher aux aides publiques aux entreprises, ne serait-ce qu’en les conditionnant. L’enjeu est pourtant colossal notamment au niveau…"
     },
     {
       "title": "Anne-Laure Delatte : « Voulons-nous privilégier la richesse individuelle ou bien être riches ensemble ? »",
