@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-08T00:33:25Z",
+  "updated_at": "2026-10-08T06:48:16Z",
   "articles": [
+    {
+      "title": "Comment Marine Le Pen veut instaurer la préférence nationale dans le secteur privé",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
+      "summary": "Dans son « contre-budget », le Rassemblement national envisage notamment de créer une taxe de 1 000 euros pour l’embauche d’un travailleur extra-européen. Une proposition jugée déconnectée des réalités du marché du travail par de nombreux chefs d’entreprise."
+    },
     {
       "title": "Les affections longue durée ont coûté près de 20 milliards d’euros à l’Assurance-maladie en 2025",
       "url": "https://www.lemonde.fr/societe/article/2026/10/07/les-affections-longue-duree-ont-coute-pres-de-20-milliards-d-euros-a-l-assurance-maladie-en-2025_6789647_3224.html",
@@ -17,24 +22,49 @@
       "summary": "Frappés par un décrochage de leur niveau de rémunération rapporté à l’inflation et à l’augmentation des coûts des carburants, les employés des secteurs privé et public voudraient gagner davantage. Des appels à la grève ont été lancés dans certaines entreprises"
     },
     {
-      "title": "\"Notre engagement est de ramener le déficit public à 5% en 2027, pas davantage\": Sébastien Lecornu exhorte les députés à adopter le budget 2027 avant l'élection présidentielle",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/notre-engagement-est-de-ramener-le-deficit-public-a-5-en-2027-pas-davantage-sebastien-lecornu-exhorte-les-deputes-a-adopter-le-budget-2027-avant-l-election-presidentielle_AV-202610070782.html",
-      "summary": "Dans son allocution ce mercredi, le Premier ministre souligne que \"prendre ces décisions aujourd’hui, en répartissant l’effort équitablement, permettra d’éviter des décisions beaucoup plus brutales demain\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/w4A_OGM53swMpR9a6y-hAw9sdQk=/0x0:1920x1080/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-le-7-octobre-2026-2361111.jpg\" />"
+      "title": "La dure transmission d'entreprise",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-dure-transmission-d-entreprise_VN-202610080243.html",
+      "summary": "Comment bien transmettre son entreprise ? Blandine Pessin Bazil explique que \"la décision la plus difficile d'un fondateur est de laisser la main et de lâcher prise\". Valérie Bensoussan décrypte le côté juridique de la transmission et les décisions du budget 2027<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Bkq6_NiAw-DxhDAB1L6PTLvhwkA=/0x0:1280x720/800x0/images/La-dure-transmission-d-entreprise-2361433.jpg\" />"
     },
     {
-      "title": "Les importations chinoises en Europe augmentent à un rythme inquiétant: Bruxelles accélère les négociations avec Pékin pour réduire son déficit commercial qui dépasse le milliard d'euros par jour",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/les-importations-chinoises-en-europe-augmentent-a-un-rythme-inquietant-bruxelles-accelere-les-negociations-avec-pekin-pour-reduire-son-deficit-commercial-qui-depasse-le-milliard-d-euros-par-jour_AV-202610070743.html",
-      "summary": "Le commissaire européen au Commerce, Maros Sefcovic, se rendra mercredi à Pékin pour des discussions cruciales visant à réduire le déficit commercial croissant de l'Union européenne avec la Chine, situation qui met en péril l'industrie européenne et menace plusieurs milliers d'emplois.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8YBFeOtlqZjv3TWaABhV-7j6bHI=/0x106:2048x1258/800x0/images/Le-commissaire-europeen-au-Commerce-Maros-Sefcovic-le-7-janvier-2026-a-Bruxelles-2241483.jpg\" />"
+      "title": "Effort budgétaire : \"on doit tous s'y mettre\"",
+      "url": "https://www.bfmtv.com/economie/video-effort-budgetaire-on-doit-tous-s-y-mettre_VN-202610080196.html",
+      "summary": "Effort budgétaire : \"on doit tous s'y mettre\" 💸 Le directeur général de de la BPIFrance considère qu'il est temps pour la France d'avoir des comptes publics en ordre, afin d'éviter des répercussions sur les entrepreneurs français : \"Vous avez un Yeti, le marché, qui va nous donner un grand coup de jambe si l'on ne met pas de l'ordre car c'est lui qui commande !\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cej4xJBV7zxGbx13Q56CnPrDyWU=/0x0:1280x720/800x0/images/Effort-budgetaire-on-doit-tous-s-y-mettre-2361390.jpg\" />"
     },
     {
-      "title": "\"L'Ukraine qui fait peur\", la relance de la productivité, l'Allemagne \"qui paie\" son offensive contre la PAC... Le commissaire européen à l’Agriculture répond à BFM Business",
-      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/l-ukraine-qui-fait-peur-la-relance-de-la-productivite-l-allemagne-qui-paie-son-offensive-contre-la-pac-le-commissaire-europeen-a-l-agriculture-repond-a-bfm-business_AN-202610070737.html",
-      "summary": "L'Allemagne et d'autres pays \"frugaux\" réclament une réduction du budget de l'Union européenne, et notamment de sa Politique agricole commune (PAC). Pour le commissaire européen à l'Agriculture, Christophe Hansen, ce pilier de la costruction européenne reste essentiel, mais doit être profondément modernisé. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XRwlYKmXO5yDHY8xQY1s81ULNyc=/0x0:1920x1080/800x0/images/2361028.jpg\" />"
+      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_EN-202610080175.html",
+      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
     },
     {
-      "title": "Une croissance de 1,8% malgré un lourd effort budgétaire de 140 milliards d'euros: des économistes estiment que les mesures du contre-budget du RN sont \"fragiles et discutables\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/une-croissance-de-1-8-malgre-un-lourd-effort-budgetaire-de-140-milliards-d-euros-des-economistes-estiment-que-les-mesures-du-contre-budget-du-rn-sont-fragiles-et-discutables_AD-202610070724.html",
-      "summary": "Présenté mardi par la candidate du Rassemblement national à la présidentielle, le document prévoit 66,4 milliards d'efforts dès 2027 et 140 milliards d'euros d'économies nettes d'ici 2032, un total qui mêle en réalité baisses de dépenses et hausses d'impôts.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/oaN6zevZL-NO0kfisSuNlx5ODFE=/0x40:768x472/800x0/images/Marine-Le-Pen-presente-le-programme-budgetaire-du-RN-le-6-octobre-2026-a-Paris-2360267.jpg\" />"
+      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_EN-202610080174.html",
+      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zvRwKnsQOr11ucUPdBIN3gxKy6w=/0x0:14000x14000/800x0/podcast/podcasts/principale-128_4.jpg\" />"
+    },
+    {
+      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/video-le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_VN-202610080166.html",
+      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FxcXDrEq_VmKldliN2TtSy4oubk=/0x0:1280x720/800x0/images/Le-Monde-qui-bouge-le-parti-pris-Russie-le-budget-s-essoufle-Poutine-reste-determine-08-10-2361364.jpg\" />"
+    },
+    {
+      "title": "Contre-budget du RN : des mesures explosives",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-contre-budget-du-rn-des-mesures-explosives_VN-202610080147.html",
+      "summary": "Le RN souhaite ramener l'âge légal à 62 ans avec 42 années de cotisations. Cependant, les règles d'acquisition des trimestres seraient durcies avec 12 semaines pour valider un trimestre, contre 4 aujourd'hui.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Lv0s-Q8cP2HUwgDNYgyr84vzQOg=/0x0:1280x720/800x0/images/Contre-budget-du-RN-des-mesures-explosives-2361348.jpg\" />"
+    },
+    {
+      "title": "Les mesures retoquées par les députés",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-les-mesures-retoquees-par-les-deputes_VN-202610080145.html",
+      "summary": "Les débats sur le budget en commission démarrent et les députés ont refusé plusieurs pistes d'économie, en particulier la réduction de l'abattement de 10% pour les retraités censé rapporter 1,5 milliard d'euros. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VNqZvkJ-NPmuXKxg9Swly9nUs5o=/0x0:1280x720/800x0/images/Les-mesures-retoquees-par-les-deputes-2361347.jpg\" />"
+    },
+    {
+      "title": "Déjà plus de 739 milliards d'euros de dette: sans nouvelles recettes, les finances de l'UE pourraient déraper encore plus, prévient la Cour des comptes européenne",
+      "url": "https://www.bfmtv.com/economie/deja-plus-de-739-milliards-d-euros-de-dette-sans-nouvelles-recettes-les-finances-de-l-ue-pourraient-deraper-encore-plus-previent-la-cour-des-comptes-europeenne_AD-202610080139.html",
+      "summary": "L'institution basée au Luxembourg observe que la dette de l'UE a plus que triplé en quelques années à cause du plan pour relancer l'économie pendant l'épidémie de Covid. Les intérêts à payer entre 2028 et 2034 pourraient à eux seuls avoisiner les 93 milliards d'euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/06R56gERsD-5JJ05gkv5JAMr7zs=/0x143:2048x1295/800x0/images/Drapeau-Union-europeenne-2185567.jpg\" />"
+    },
+    {
+      "title": "Des députés suppriment déjà les premières mesures d’économie prévues dans le budget 2027",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/des-deputes-suppriment-deja-les-premieres-mesures-d-economie-prevues-dans-le-budget-2027_8207129.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Moins d’une semaine avant l’ouverture du débat sur le budget 2027 à l’Assemblée nationale, le 13 octobre, le projet du gouvernement essuie déjà un revers. Les principales sources d’économies prévues viennent d’être supprimées par la commission des Finances."
     },
     {
       "title": "Carburants : Sébastien Lecornu annonce une baisse jusqu'à 18 centimes d'euros à la pompe",
@@ -52,9 +82,9 @@
       "summary": "Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget."
     },
     {
-      "title": "Hausse du prix des carburants : à Chartres, la mairie offre 70 euros pour faire le plein sous certaines conditions",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-du-prix-des-carburants-a-chartres-la-mairie-offre-70-euros-pour-faire-le-plein-sous-certaines-conditions_8226859.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Soixante-dix euros pour faire son plein d'essence, c'est le coup de pouce proposé par la mairie de Chartres, en Eure-et-Loir, pour soulager le budget des automobilistes. Sont concernés les gros rouleurs aux revenus modérés. Pour la municipalité, la dépense est importante : 100 000 euros."
+      "title": "L’info du jour | 8 octobre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/10/08/linfo-du-jour-8-octobre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 7 octobre 2026 - Mi-journée",
