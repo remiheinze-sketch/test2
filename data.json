@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-08T14:11:09Z",
+  "updated_at": "2026-10-08T20:20:18Z",
   "articles": [
+    {
+      "title": "Budget 2027 : la gauche sauve le seul projet du gouvernement ciblant les ultrariches",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/08/budget-2027-la-gauche-sauve-le-seul-projet-du-gouvernement-ciblant-les-ultrariches_6790245_823448.html",
+      "summary": "En commission des finances, jeudi 8 octobre, les députés de gauche ont obtenu le maintien de la réforme de l’apport-cession, un dispositif souvent utilisé comme un moyen de contourner l’impôt par les actionnaires qui vendent une entreprise. Le texte a néanmoins été un peu raboté."
+    },
+    {
+      "title": "Budget 2027 : Bercy freine les suppressions de poste dans ses ministères, sans y mettre fin",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/08/budget-2027-bercy-freine-les-suppressions-de-poste-dans-ses-ministeres-sans-y-mettre-fin_6790233_823448.html",
+      "summary": "Le projet de loi de finances pour 2027 prévoit une baisse de 77 équivalents temps plein au sein des ministères économiques et financiers. Cette fois encore, l’effort devrait être principalement porté par la direction générale des finances publiques."
+    },
     {
       "title": "Dette : la France peine à rassurer les marchés financiers, les investisseurs asiatiques alimentent la défiance",
       "url": "https://www.lemonde.fr/economie/article/2026/10/08/dette-la-france-peine-a-rassurer-les-marches-financiers-les-investisseurs-asiatiques-alimentent-la-defiance_6790205_3234.html",
@@ -17,24 +27,24 @@
       "summary": "Pour la première fois depuis 2014, les 23 membres du Conseil d’analyse économique signent une note collective. Ils appellent à revoir en profondeur les politiques publiques, en commençant par réduire le déficit de 125 milliards d’euros en cinq ans."
     },
     {
-      "title": "Comment Marine Le Pen veut instaurer la préférence nationale dans le secteur privé",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
-      "summary": "Dans son « contre-budget », le Rassemblement national envisage notamment de créer une taxe de 1 000 euros pour l’embauche d’un travailleur extra-européen. Une proposition jugée déconnectée des réalités du marché du travail par de nombreux chefs d’entreprise."
+      "title": "Déficits: la zone euro \"a confiance dans les engagements de la France\"",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/deficits-la-zone-euro-a-confiance-dans-les-engagements-de-la-france_AD-202610080877.html",
+      "summary": "Le président de l'Eurogroupe s'est aussi voulu rassurant au sujet des tensions observées sur le marché obligataire et aux risques d'une contagion au sein de la zone euro des inquiétudes liées à la dette française. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tqJ_tfRbZVtVDLyeVXNqF209f6o=/0x106:2048x1258/800x0/images/Ministre-grec-Kyriakos-Pierrakakis-2348369.jpg\" />"
     },
     {
-      "title": "Les affections longue durée ont coûté près de 20 milliards d’euros à l’Assurance-maladie en 2025",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/07/les-affections-longue-duree-ont-coute-pres-de-20-milliards-d-euros-a-l-assurance-maladie-en-2025_6789647_3224.html",
-      "summary": "En dix ans, les dépenses de l’Assurance-maladie liées aux affections longue durée ont augmenté de 8,2 milliards d’euros (+ 72 % en euros courants). Et ce, en raison du vieillissement de la population, d’une hausse de la prévalence des maladies chroniques et du coût des traitements."
+      "title": "La grande interview BFM la tribune édition spéciale \"La France à crédit\", du jeudi 8 octobre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview-bfm-la-tribune/la-grande-interview-bfm-la-tribune-edition-speciale-la-france-a-credit-du-jeudi-8-octobre_EN-202610080840.html",
+      "summary": "Jeudi 8 octobre, Hedwige Chevrillon et Ludovic De Sautez reçoivent Jean-Claude Trichet, ancien président de la BCE, et Bruno Le Maire, ancien ministre de l'Économie et des Finances, dans l'émission La grande interview BFM la tribune sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/pC5g_VLvpeXp85bcVVA9Ioba7ek=/0x0:14000x14000/800x0/podcast/podcasts/principale-751_3.jpg\" />"
     },
     {
-      "title": "Le commerce mondial de marchandises se porte mieux que prévu: malgré la crise au Moyen-Orient, l'OMC relève ses prévisions de croissance pour 2026",
-      "url": "https://www.bfmtv.com/economie/entreprises/le-commerce-mondial-de-marchandises-se-porte-mieux-que-prevu-malgre-la-crise-au-moyen-orient-l-omc-releve-ses-previsions-de-croissance-pour-2026_AD-202610080588.html",
-      "summary": "Les économistes de l'Organisation mondiale du commerce tablent désormais sur une hausse de 3,9% du volume du commerce mondial de marchandises en 2026 (contre 1,9% anticipé en mars).<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fhFUT5Wy4ggmIVPHLEj2U9uESKw=/1x3:1249x705/800x0/images/-463924.jpg\" />"
+      "title": "La grande interview BFM la tribune édition spéciale \"La France à crédit\", du jeudi 8 octobre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview-bfm-la-tribune/video-la-grande-interview-bfm-la-tribune-edition-speciale-la-france-a-credit-du-jeudi-8-octobre_VN-202610080845.html",
+      "summary": "Jeudi 8 octobre, Hedwige Chevrillon et Ludovic De Sautez reçoivent Jean-Claude Trichet, ancien président de la BCE, et Bruno Le Maire, ancien ministre de l'Économie et des Finances, dans l'émission La grande interview BFM la tribune sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8qJD8E8yCgGDIyzE-7_9FC_tqMM=/0x0:1280x720/800x0/images/La-grande-interview-BFM-la-tribune-edition-speciale-La-France-a-credit-du-jeudi-8-octobre-2361890.jpg\" />"
     },
     {
-      "title": "L'économie allemande est \"plus résiliente que prévu\": Berlin relève de 0,8 point sa prévision de croissance pour 2026 et voit le PIB augmenter de 1,3%",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-economie-allemande-est-plus-resiliente-que-prevu-berlin-releve-de-0-8-point-sa-prevision-de-croissance-pour-2026-et-voit-le-pib-augmenter-de-1-3_AD-202610080473.html",
-      "summary": "Après les principaux instituts économiques, le gouvernement allemand relève sa prévision de croissance pour 2026 à 1,3%, portée par le commerce extérieur et les investissements publics, malgré l’inflation et une consommation privée modérée. La reprise reste toutefois fragile.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/49pzR_90Nrn78_j6lh5DNYYaixQ=/0x40:768x472/800x0/images/Le-chancelier-allemand-Friedrich-Merz-parle-a-la-presse-a-Chisinau-en-Moldavie-le-27-aout-2025-2128128.jpg\" />"
+      "title": "Baisse du prix du gasoil au 1er novembre",
+      "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/baisse-du-prix-du-gasoil-au-1er-novembre_8228542.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre, Sébastien Lecornu, a annoncé une baisse du prix du gasoil dès le 1er novembre grâce à la mise à disposition de 10 millions de barils du stock stratégique de la France. Une mesure qui réjoui le RN puisqu'il la réclamait depuis mars derniert, mais pour Patrice Geoffron, professeur d’économie, \"il faut gérer avec précaution ce précieux stock\"."
     },
     {
       "title": "\"Il n'y a pas de repas gratuit\" : l'Allemagne plaide pour des finances publiques saines en Europe et craint l'endettement de la France",
@@ -52,14 +62,9 @@
       "summary": "Cette mesure pourra couvrir un encours de deux milliards d'euros de prêts pour acheter notamment du fourrage et des intrants. Mais elle dépend de l'adoption du budget."
     },
     {
-      "title": "La porte-parole du gouvernement Maud Bregeon juge \"hasardeux\" le contre-budget proposé par le Rassemblement national",
-      "url": "https://www.franceinfo.fr/economie/budget/la-porte-parole-du-gouvernement-maud-bregeon-juge-hasardeux-le-contre-budget-propose-par-le-rassemblement-national_8228008.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans ce contre-budget, parti d'extrême droite vise 140 milliards d'euros d'économies nettes d'ici 2032, ce que Maud Bregeon qualifie d'\"enfumage\"."
-    },
-    {
-      "title": "Colère lycéenne, déblocage de stocks stratégiques de gazole, budget 2027... Le \"8h30 franceinfo\" de Maud Bregeon",
-      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/colere-lyceenne-deblocage-de-stocks-strategiques-de-gazole-budget-2027-le-8h30-franceinfo-de-maud-bregeon_8207165.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Maud Bregeon, porte-parole du gouvernement et ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\"."
+      "title": "L’info du jour | 8 octobre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/10/08/linfo-du-jour-8-octobre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 8 octobre 2026 - Mi-journée",
@@ -95,21 +100,6 @@
       "title": "Un réalisateur letton remporte le Grand Prix de 400 000 € au festival kazakh du film d'IA",
       "url": "https://fr.euronews.com/2026/10/06/un-realisateur-letton-remporte-le-grand-prix-de-400-000-au-festival-kazakh-du-film-dia",
       "summary": "Le premier festival Astana AI du film s'est achevé au Kazakhstan, le Letton Nikolay Shestak remportant le Grand Prix. Budget : 1,8 million d'euros, moitié en prix, moitié pour soutenir des équipes d'IA et la production cinématographique au Kazakhstan."
-    },
-    {
-      "title": "L’info du jour | 6 octobre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/10/06/linfo-du-jour-6-octobre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 5 octobre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "Heurts dans des villes françaises lors de protestations étudiantes contre les budgets éducatifs",
-      "url": "https://fr.euronews.com/video/2026/10/05/heurts-dans-des-villes-francaises-lors-de-protestations-etudiantes-contre-les-budgets-educ",
-      "summary": "Marseille et Lille : des étudiants durcissent la protestation contre le financement de l'éducation, bloquent des écoles et affrontent la police, les blocages s'étendent en France"
     },
     {
       "title": "Les combats que l&#039;économie sociale et solidaire devra mener en 2027",
