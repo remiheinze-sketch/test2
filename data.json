@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T06:48:16Z",
+  "updated_at": "2026-10-08T14:11:09Z",
   "articles": [
+    {
+      "title": "Dette : la France peine à rassurer les marchés financiers, les investisseurs asiatiques alimentent la défiance",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/dette-la-france-peine-a-rassurer-les-marches-financiers-les-investisseurs-asiatiques-alimentent-la-defiance_6790205_3234.html",
+      "summary": "Le ministre de l’économie, Roland Lescure, était à Londres, jeudi, pour essayer de rassurer les acteurs de la City sur la trajectoire financière de la France. Certains investisseurs étrangers préfèrent céder leurs obligations françaises."
+    },
+    {
+      "title": "Economie sociale et solidaire : la peur d’un budget d’« appauvrissement général »",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/08/economie-sociale-et-solidaire-la-peur-d-un-budget-d-appauvrissement-general_6790201_823448.html",
+      "summary": "L’Union des employeurs de l’économie sociale et solidaire (UDES), qui porte la voix de 200 000 entreprises employant 2,7 millions de salariés, redoute que les baisses de crédit en 2027 ne fragilisent un secteur déjà exsangue."
+    },
+    {
+      "title": "Vingt-trois grands économistes pressent les élus d’agir enfin pour stopper le décrochage français",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/08/vingt-trois-grands-economistes-pressent-les-elus-d-agir-enfin-pour-stopper-le-decrochage-francais_6790181_823448.html",
+      "summary": "Pour la première fois depuis 2014, les 23 membres du Conseil d’analyse économique signent une note collective. Ils appellent à revoir en profondeur les politiques publiques, en commençant par réduire le déficit de 125 milliards d’euros en cinq ans."
+    },
     {
       "title": "Comment Marine Le Pen veut instaurer la préférence nationale dans le secteur privé",
       "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
@@ -12,74 +27,44 @@
       "summary": "En dix ans, les dépenses de l’Assurance-maladie liées aux affections longue durée ont augmenté de 8,2 milliards d’euros (+ 72 % en euros courants). Et ce, en raison du vieillissement de la population, d’une hausse de la prévalence des maladies chroniques et du coût des traitements."
     },
     {
-      "title": "« L’entrée du fonds activiste Elliott au capital d’Air liquide s’annonçait explosive. Pour le moment, c’est un pétard à moitié mouillé »",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/07/l-entree-du-fonds-activiste-elliott-au-capital-d-air-liquide-s-annoncait-explosive-pour-le-moment-c-est-un-petard-a-moitie-mouille_6789579_3234.html",
-      "summary": "Le numéro deux mondial des gaz industriels avait-il besoin d’un fonds activiste pour savoir que l’industrie des semi-conducteurs représentait une opportunité de croissance, se demande Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+      "title": "Le commerce mondial de marchandises se porte mieux que prévu: malgré la crise au Moyen-Orient, l'OMC relève ses prévisions de croissance pour 2026",
+      "url": "https://www.bfmtv.com/economie/entreprises/le-commerce-mondial-de-marchandises-se-porte-mieux-que-prevu-malgre-la-crise-au-moyen-orient-l-omc-releve-ses-previsions-de-croissance-pour-2026_AD-202610080588.html",
+      "summary": "Les économistes de l'Organisation mondiale du commerce tablent désormais sur une hausse de 3,9% du volume du commerce mondial de marchandises en 2026 (contre 1,9% anticipé en mars).<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fhFUT5Wy4ggmIVPHLEj2U9uESKw=/1x3:1249x705/800x0/images/-463924.jpg\" />"
     },
     {
-      "title": "Dans un contexte de baisse du pouvoir d’achat, les négociations sur les salaires s’annoncent tendues",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/07/le-defi-des-augmentations-de-salaire-annuelles-sous-la-pression-de-salaries-au-pouvoir-d-achat-erode-par-des-mois-d-essence-trop-chere_6789575_3234.html",
-      "summary": "Frappés par un décrochage de leur niveau de rémunération rapporté à l’inflation et à l’augmentation des coûts des carburants, les employés des secteurs privé et public voudraient gagner davantage. Des appels à la grève ont été lancés dans certaines entreprises"
+      "title": "L'économie allemande est \"plus résiliente que prévu\": Berlin relève de 0,8 point sa prévision de croissance pour 2026 et voit le PIB augmenter de 1,3%",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-economie-allemande-est-plus-resiliente-que-prevu-berlin-releve-de-0-8-point-sa-prevision-de-croissance-pour-2026-et-voit-le-pib-augmenter-de-1-3_AD-202610080473.html",
+      "summary": "Après les principaux instituts économiques, le gouvernement allemand relève sa prévision de croissance pour 2026 à 1,3%, portée par le commerce extérieur et les investissements publics, malgré l’inflation et une consommation privée modérée. La reprise reste toutefois fragile.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/49pzR_90Nrn78_j6lh5DNYYaixQ=/0x40:768x472/800x0/images/Le-chancelier-allemand-Friedrich-Merz-parle-a-la-presse-a-Chisinau-en-Moldavie-le-27-aout-2025-2128128.jpg\" />"
     },
     {
-      "title": "La dure transmission d'entreprise",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-dure-transmission-d-entreprise_VN-202610080243.html",
-      "summary": "Comment bien transmettre son entreprise ? Blandine Pessin Bazil explique que \"la décision la plus difficile d'un fondateur est de laisser la main et de lâcher prise\". Valérie Bensoussan décrypte le côté juridique de la transmission et les décisions du budget 2027<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Bkq6_NiAw-DxhDAB1L6PTLvhwkA=/0x0:1280x720/800x0/images/La-dure-transmission-d-entreprise-2361433.jpg\" />"
+      "title": "\"Il n'y a pas de repas gratuit\" : l'Allemagne plaide pour des finances publiques saines en Europe et craint l'endettement de la France",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/il-n-y-a-pas-de-repas-gratuit-l-allemagne-plaide-pour-des-finances-publiques-saines-en-europe-et-craint-l-endettement-de-la-france_8228437.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La ministre de l'Economie allemande, Katherina Reiche, a aussi évoqué les finances publiques de son propre pays, qui s'endette massivement depuis un an pour financer la modernisation de son armée et de ses infrastructures."
     },
     {
-      "title": "Effort budgétaire : \"on doit tous s'y mettre\"",
-      "url": "https://www.bfmtv.com/economie/video-effort-budgetaire-on-doit-tous-s-y-mettre_VN-202610080196.html",
-      "summary": "Effort budgétaire : \"on doit tous s'y mettre\" 💸 Le directeur général de de la BPIFrance considère qu'il est temps pour la France d'avoir des comptes publics en ordre, afin d'éviter des répercussions sur les entrepreneurs français : \"Vous avez un Yeti, le marché, qui va nous donner un grand coup de jambe si l'on ne met pas de l'ordre car c'est lui qui commande !\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cej4xJBV7zxGbx13Q56CnPrDyWU=/0x0:1280x720/800x0/images/Effort-budgetaire-on-doit-tous-s-y-mettre-2361390.jpg\" />"
+      "title": "Les députés approuvent la création d'un prêt à taux zéro \"parentalité\" dans le cadre de l'examen du budget 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-approuvent-la-creation-d-un-pret-a-taux-zero-parentalite-dans-le-cadre-de-l-examen-du-budget-2027_8228356.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans sa version gouvernementale, le dispositif était encadré et attribué sous conditions de ressources, mais un amendement MoDem a permis son élargissement."
     },
     {
-      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_EN-202610080175.html",
-      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "La ministre de l'Agriculture annonce des prêts à taux zéro pour soutenir les agriculteurs touchés par la sécheresse",
+      "url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/la-ministre-de-l-agriculture-annonce-des-prets-a-taux-zero-pour-soutenir-les-agriculteurs-touches-par-la-secheresse_8228047.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Cette mesure pourra couvrir un encours de deux milliards d'euros de prêts pour acheter notamment du fourrage et des intrants. Mais elle dépend de l'adoption du budget."
     },
     {
-      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_EN-202610080174.html",
-      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zvRwKnsQOr11ucUPdBIN3gxKy6w=/0x0:14000x14000/800x0/podcast/podcasts/principale-128_4.jpg\" />"
+      "title": "La porte-parole du gouvernement Maud Bregeon juge \"hasardeux\" le contre-budget proposé par le Rassemblement national",
+      "url": "https://www.franceinfo.fr/economie/budget/la-porte-parole-du-gouvernement-maud-bregeon-juge-hasardeux-le-contre-budget-propose-par-le-rassemblement-national_8228008.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans ce contre-budget, parti d'extrême droite vise 140 milliards d'euros d'économies nettes d'ici 2032, ce que Maud Bregeon qualifie d'\"enfumage\"."
     },
     {
-      "title": "Le Monde qui bouge - le parti pris : Russie - le budget s'essoufle, Poutine reste déterminé - 08/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/video-le-monde-qui-bouge-le-parti-pris-russie-le-budget-s-essoufle-poutine-reste-determine-08-10_VN-202610080166.html",
-      "summary": "Ce jeudi 8 octobre, réécoutez en podcast le replay du Monde qui bouge : le parti pris présentée par Mathieu Jolivet.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FxcXDrEq_VmKldliN2TtSy4oubk=/0x0:1280x720/800x0/images/Le-Monde-qui-bouge-le-parti-pris-Russie-le-budget-s-essoufle-Poutine-reste-determine-08-10-2361364.jpg\" />"
+      "title": "Colère lycéenne, déblocage de stocks stratégiques de gazole, budget 2027... Le \"8h30 franceinfo\" de Maud Bregeon",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/colere-lyceenne-deblocage-de-stocks-strategiques-de-gazole-budget-2027-le-8h30-franceinfo-de-maud-bregeon_8207165.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Maud Bregeon, porte-parole du gouvernement et ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\"."
     },
     {
-      "title": "Contre-budget du RN : des mesures explosives",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-contre-budget-du-rn-des-mesures-explosives_VN-202610080147.html",
-      "summary": "Le RN souhaite ramener l'âge légal à 62 ans avec 42 années de cotisations. Cependant, les règles d'acquisition des trimestres seraient durcies avec 12 semaines pour valider un trimestre, contre 4 aujourd'hui.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Lv0s-Q8cP2HUwgDNYgyr84vzQOg=/0x0:1280x720/800x0/images/Contre-budget-du-RN-des-mesures-explosives-2361348.jpg\" />"
-    },
-    {
-      "title": "Les mesures retoquées par les députés",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-les-mesures-retoquees-par-les-deputes_VN-202610080145.html",
-      "summary": "Les débats sur le budget en commission démarrent et les députés ont refusé plusieurs pistes d'économie, en particulier la réduction de l'abattement de 10% pour les retraités censé rapporter 1,5 milliard d'euros. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VNqZvkJ-NPmuXKxg9Swly9nUs5o=/0x0:1280x720/800x0/images/Les-mesures-retoquees-par-les-deputes-2361347.jpg\" />"
-    },
-    {
-      "title": "Déjà plus de 739 milliards d'euros de dette: sans nouvelles recettes, les finances de l'UE pourraient déraper encore plus, prévient la Cour des comptes européenne",
-      "url": "https://www.bfmtv.com/economie/deja-plus-de-739-milliards-d-euros-de-dette-sans-nouvelles-recettes-les-finances-de-l-ue-pourraient-deraper-encore-plus-previent-la-cour-des-comptes-europeenne_AD-202610080139.html",
-      "summary": "L'institution basée au Luxembourg observe que la dette de l'UE a plus que triplé en quelques années à cause du plan pour relancer l'économie pendant l'épidémie de Covid. Les intérêts à payer entre 2028 et 2034 pourraient à eux seuls avoisiner les 93 milliards d'euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/06R56gERsD-5JJ05gkv5JAMr7zs=/0x143:2048x1295/800x0/images/Drapeau-Union-europeenne-2185567.jpg\" />"
-    },
-    {
-      "title": "Des députés suppriment déjà les premières mesures d’économie prévues dans le budget 2027",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/des-deputes-suppriment-deja-les-premieres-mesures-d-economie-prevues-dans-le-budget-2027_8207129.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Moins d’une semaine avant l’ouverture du débat sur le budget 2027 à l’Assemblée nationale, le 13 octobre, le projet du gouvernement essuie déjà un revers. Les principales sources d’économies prévues viennent d’être supprimées par la commission des Finances."
-    },
-    {
-      "title": "Carburants : Sébastien Lecornu annonce une baisse jusqu'à 18 centimes d'euros à la pompe",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/carburants-sebastien-lecornu-annonce-une-baisse-jusqu-a-18-centimes-d-euros-a-la-pompe_8227351.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dix millions de barils de gazole vont être puisés dans les réserves stratégiques. Concrètement, le gouvernement promet une baisse de 12 à 18 centimes par litre dès le mois de novembre, soit en moyenne 10 euros d’économie par plein."
-    },
-    {
-      "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le chef du gouvernement a notamment promis d'annoncer de \"premières décisions\" à la fin du mois d'octobre afin de répondre à la mobilisation des lycéens."
-    },
-    {
-      "title": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget."
+      "title": "L’info du jour | 8 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/08/linfo-du-jour-8-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 8 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 8 octobre 2026 - Matin",
@@ -125,16 +110,6 @@
       "title": "Heurts dans des villes françaises lors de protestations étudiantes contre les budgets éducatifs",
       "url": "https://fr.euronews.com/video/2026/10/05/heurts-dans-des-villes-francaises-lors-de-protestations-etudiantes-contre-les-budgets-educ",
       "summary": "Marseille et Lille : des étudiants durcissent la protestation contre le financement de l'éducation, bloquent des écoles et affrontent la police, les blocages s'étendent en France"
-    },
-    {
-      "title": "L’info du jour | 5 octobre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 5 octobre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Les combats que l&#039;économie sociale et solidaire devra mener en 2027",
