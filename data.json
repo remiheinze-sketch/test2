@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-10T03:17:50Z",
+  "updated_at": "2026-10-10T10:13:50Z",
   "articles": [
+    {
+      "title": "Le fonds pétrolier norvégien et ses 2 000 milliards d’euros d’actifs, une bénédiction pour l’Etat-providence",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/10/le-fonds-petrolier-norvegien-et-ses-2-000-milliards-d-euros-d-actifs-une-benediction-pour-l-etat-providence_6790973_3234.html",
+      "summary": "Alimenté par les revenus de l’extraction du gaz et du pétrole, le plus grand fonds souverain du monde finance désormais un quart du budget de l’Etat norvégien. S’il a contribué à la prospérité du royaume et de ses habitants, son impact sur l’économie et la société fait aujourd’hui débat."
+    },
     {
       "title": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’Hémicycle",
       "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
@@ -9,7 +14,7 @@
     {
       "title": "Entre Bruxelles et Pékin, un compromis fragile sur l’automobile pour éviter l’escalade commerciale",
       "url": "https://www.lemonde.fr/economie/article/2026/10/09/entre-bruxelles-et-pekin-un-compromis-fragile-sur-l-automobile-pour-eviter-l-escalade-commerciale_6790634_3234.html",
-      "summary": "Vendredi 9 octobre, l’Union européenne a conclu un accord avec la Chine pour limiter les exportations de voitures hybrides. Il en faudra bien plus pour réduire le déficit commercial de l’Europe envers le premier exportateur mondial."
+      "summary": "Vendredi 9 octobre, l’Union européenne a conclu un accord avec la Chine pour limiter les exportations de voitures hybrides. Il en faudra davantage pour réduire le déficit commercial de l’Europe envers le premier exportateur mondial."
     },
     {
       "title": "Budget 2027 : les acteurs de la formation dénoncent la rétroactivité de la réforme du CPF",
@@ -47,6 +52,16 @@
       "summary": "Vendredi 9 octobre, le déficit commercial de l'Europe (un milliard d'euros par jour) a été abordé par Stéphanie Villers, conseillère économique chez PwC France, Hervé Goulletquer, conseiller économique senior chez Accuracy, Alain Pitous, senior advisor chez AI for Alpha, Frédéric Rozier, gérant chez Mirabaud France, reçus par Marc Fiorentino dans l'émission C'est Votre Argent sur BFM Business. Retrouvez l'émission le vendredi et réécoutez la en podcast. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/U5RYDGk-hZBK683vHGhKLv2Maog=/0x0:14000x14000/800x0/podcast/podcasts/principale-98_2.jpg\" />"
     },
     {
+      "title": "Quand l’argent dort sur de vieux comptes",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/quand-l-argent-dort-sur-de-vieux-comptes_8210432.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans le projet de budget 2027, le gouvernement veut piocher dans l’épargne des Français pour récupérer une partie de l’argent qui dort à la Caisse des dépôts. Comment le récupérer ?"
+    },
+    {
+      "title": "Livret A, retraites, géants du numérique... Comment les députés ont modifié en commission le volet \"recettes\" du projet de budget pour 2027, avant de le rejeter",
+      "url": "https://www.franceinfo.fr/economie/budget/livret-a-retraites-geants-du-numerique-comment-les-deputes-ont-modifie-en-commission-le-volet-recettes-du-projet-de-budget-pour-2027_8229916.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La commission des finances de l'Assemblée nationale a considérablement amendé le texte. Il a finalement été rejeté à la quasi-unanimité, et sera étudié dans l'hémicycle dans sa version de départ à partir de mardi. Mais les nombreuses modifications adoptées illustrent la position difficile du gouvernement."
+    },
+    {
       "title": "Les députés rejettent la partie \"recettes\" du budget 2027 en commission, à quelques jours du débat dans l'hémicycle",
       "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Si ces trois jours de débats n'étaient qu'une répétition autour de ce texte, le résultat laisse augurer de longues tractations à venir pour le gouvernement de Sébastien Lecornu."
@@ -62,9 +77,9 @@
       "summary": "Près de 5 000 établissements de restauration sont en défaillance financière depuis le début de l'année. La société Service Compris s'est spécialisée dans l'accompagnement des entrepreneurs de la restauration pour mieux relever les défis d'un secteur très concurrentiel et touché de plein fouet par l'inflation et la baisse du pouvoir d'achat."
     },
     {
-      "title": "Mouvement lycéen, budget 2027, crise du pouvoir d'achat... Le \"8h30 franceinfo\" de Marylise Léon",
-      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-lyceen-budget-2027-crise-du-pouvoir-d-achat-le-8h30-franceinfo-de-marylise-leon_8208827.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Marylise Léon, secrétaire générale de la CFDT, est l'invitée du \"8h30 franceinfo\""
+      "title": "L’info du jour | 10 octobre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/10/10/linfo-du-jour-10-octobre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 octobre 2026 - Soir",
