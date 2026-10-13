@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-12T23:21:04Z",
+  "updated_at": "2026-10-13T04:29:18Z",
   "articles": [
+    {
+      "title": "Dette : l’inquiétante envolée des taux d’intérêt en 16 dates",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/13/dette-l-inquietante-envolee-des-taux-d-interet-en-16-dates_6793053_3234.html",
+      "summary": "L’examen du projet de budget 2027 commence mardi à l’Assemblée nationale, dans un contexte explosif sur les marchés financiers."
+    },
+    {
+      "title": "Le FMI pointe un net décrochage de l’économie française",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
+      "summary": "Selon les prévisions du Fonds monétaire international publiées mardi 13 octobre, la hausse du PIB ne devrait pas dépasser 0,4 % en 2026 contre 0,9 % en 2025."
+    },
     {
       "title": "Le « prix Nobel d’économie » aux Américains Robert Hall et Michael Woodford, qui ont reconstruit le cadre d’analyse macroéconomique",
       "url": "https://www.lemonde.fr/economie/article/2026/10/12/le-prix-nobel-d-economie-aux-americains-robert-hall-et-michael-woodford-qui-ont-reconstruit-le-cadre-d-analyse-macroeconomique_6792680_3234.html",
@@ -12,11 +22,6 @@
       "summary": "Les économistes Aurore Fransolet et Eloi Laurent expliquent, dans une tribune au « Monde », avoir mis en ligne une boîte à outils de l’économie du bien-être pour éviter qu’au printemps 2027 la planète ne se retrouve dans une situation aussi critique qu’en 2026."
     },
     {
-      "title": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/12/le-prix-nobel-d-economie-2026-decerne-aux-americains-michael-woodford-et-robert-hall_6792609_3234.html",
-      "summary": "Les deux professeurs américains ont été récompensés pour leurs travaux sur les fondements microéconomiques de la stabilisation macroéconomique. Ils succèdent au Français Philippe Aghion, à l’Américano-Israélien Joel Mokyr et au Canadien Peter Howitt pour leurs travaux sur l’innovation qui ont reçu le prix en 2025."
-    },
-    {
       "title": "\"10 euros d'économie par plein\": Sébastien Lecornu explique comment il va obliger les stations à baisser les prix à la pompe",
       "url": "https://www.bfmtv.com/economie/entreprises/energie/10-euros-d-economie-par-plein-sebastien-lecornu-explique-comment-il-va-obliger-les-stations-a-baisser-les-prix-a-la-pompe_AN-202610120831.html",
       "summary": "Le Premier ministre, Sébastien Lecornu, évoque ce lundi \"une économie d'environ 10€ par plein\" après l'annonce de la libération de 10 millions de barils de gazole provenant des stocks stratégiques.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FjIZrJ925-31NKbn-dHM8-NxgF0=/0x5:2048x1157/800x0/images/Sebastien-Lecornu-le-10-septembre-2026-a-l-Elysee-2351827.jpg\" />"
@@ -25,6 +30,11 @@
       "title": "Baisse du gazole de 12 à 18 centimes à la pompe: \"C'est une vraie avancée\", estime Thierry Cotillard, président du groupement Les Mousquetaires",
       "url": "https://www.bfmtv.com/economie/video-baisse-du-gazole-de-12-a-18-centimes-a-la-pompe-c-est-une-vraie-avancee-estime-thierry-cottillard-president-du-groupement-les-mousquetaires_VN-202610120808.html",
       "summary": "Interrogé sur France 2, Roland Lescure a estimé que l'effet de la libération de 10 millions de barils ne se ferait ressentir à la pompe qu'en novembre. Le ministre de l'Économie assure, en revanche, que leur impact sera immédiat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/u5Kk-zuKRrMD_sh-EGl3wG_pPzc=/0x0:1280x720/800x0/images/Baisse-du-gazole-de-12-a-18-centimes-a-la-pompe-C-est-une-vraie-avancee-estime-Thierry-Cottillard-president-du-groupement-Les-Mousquetaires-2363954.jpg\" />"
+    },
+    {
+      "title": "Le FMI relève sa prévision de croissance pour la zone euro, mais l'abaisse pour la France",
+      "url": "https://www.franceinfo.fr/economie/croissance/le-fmi-releve-sa-prevision-de-croissance-pour-la-zone-euro-mais-l-abaisse-pour-la-france_8234863.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Fonds monétaire international a également légèrement relevé sa prévision de croissance pour l'économie mondiale en 2026."
     },
     {
       "title": "La Banque de France confirme s'attendre à une croissance de 0,1 % du PIB au troisième trimestre",
