@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-15T06:41:12Z",
+  "updated_at": "2026-10-15T12:16:13Z",
   "articles": [
+    {
+      "title": "« Le PDG de BlackRock l’assure : en cinquante ans de carrière dans la finance, il n’a jamais vécu une telle guerre des capitaux »",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/15/le-pdg-de-blackrock-l-assure-en-cinquante-ans-de-carriere-dans-la-finance-il-n-a-jamais-vecu-une-telle-guerre-des-capitaux_6794359_3234.html",
+      "summary": "Face aux immenses besoins liés aux déficits des Etats et aux investissements dans l’intelligence artificielle, Larry Fink, à la tête du premier gestionnaire d’actifs mondial, craint une « pénurie de capitaux », relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
+    {
+      "title": "Comment les télécoms sont devenues une dépense contrainte qui pèse sur le budget des familles",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/15/comment-les-telecoms-sont-devenues-une-depense-contrainte-qui-pese-sur-le-budget-des-familles_6794352_3234.html",
+      "summary": "La France a beau se distinguer par des abonnements télécoms parmi les moins chers d’Europe, les accès Internet fixe, les téléphones mobiles et leurs forfaits représentent plus de 2,4 % des dépenses globales des ménages."
+    },
     {
       "title": "Les ménages pris en étau entre des dépenses contraintes de plus en plus lourdes et l’envolée des prix",
       "url": "https://www.lemonde.fr/economie/article/2026/10/15/les-menages-pris-en-etau-entre-des-depenses-contraintes-de-plus-en-plus-lourdes-et-l-envolee-des-prix_6794079_3234.html",
@@ -12,114 +22,54 @@
       "summary": "Le coût de l’énergie a augmenté de 20 % en un an, selon les statistiques publiées mercredi 14 octobre. Une mauvaise nouvelle pour Donald Trump, élu il y a deux ans sur la promesse de faire baisser les prix."
     },
     {
-      "title": "L’hôtellerie-restauration, championne de la fraude fiscale, selon Bercy",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/14/l-hotellerie-restauration-championne-de-la-fraude-fiscale-selon-bercy_6793761_823448.html",
-      "summary": "C’est dans l’hébergement et la restauration que la sous-déclaration des bénéfices se révèle la plus massive, selon une étude du ministère de l’économie. Tous secteurs confondus, l’administration évalue à 6 milliards d’euros le manque à gagner en matière d’impôt sur les sociétés."
+      "title": "Malgré des prix qui augmentent de 3,8%, un membre de la BCE se réjouit que \"l'inflation ne se propage pas\" au-delà de la flambée incontrôlée des carburants dans la zone euro",
+      "url": "https://www.bfmtv.com/economie/consommation/malgre-des-prix-qui-augmentent-de-3-8-un-membre-de-la-bce-se-rejouit-que-l-inflation-ne-se-propage-pas-au-dela-de-la-flambee-incontrolee-des-carburants-dans-la-zone-euro_AV-202610150404.html",
+      "summary": "L'inflation qui touche les pays européens reste pour le moment confinée aux prix de l'énergie qui flambent depuis le début de l'année. La BCE s'en réjouit, même si la zone euro affichait 3,8% d'inflation en septembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iA1UkWUZBppInanSAY_d0THqyv4=/0x40:768x472/800x0/images/Une-station-service-independante-en-milieu-rural-a-Liernais-en-Cote-d-Or-le-21-septembre-2026-2353703.jpg\" />"
     },
     {
-      "title": "La croissance française ne dépassera pas 0,5 % en 2027, selon l’Institut français d’économie",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/la-croissance-francaise-ne-depassera-pas-0-5-en-2027-selon-l-institut-francais-d-economie_6793747_3234.html",
-      "summary": "Energie, budget, hausse des taux… Affaiblie par différents chocs, la croissance de la France devrait se limiter à 0,5 % en 2027, estiment les économistes du centre de recherche, dans des prévisions rendues publiques mercredi."
+      "title": "Jean-Luc Mélenchon présente son programme budgétaire",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-jean-luc-melenchon-presente-son-programme-budgetaire_VN-202610150411.html",
+      "summary": "Ce jeudi 15 octobre, le plan budgétaire de Jean-Luc Mélenchon pour rétablir les comptes publics, qui prévoit plus de 106 milliards d’euros de recettes supplémentaires, ainsi que l'impact de la dette française sur les marchés, ont été abordés par Hervé Novelli, initiateur du Cercle des Entrepreneurs Engagés et ancien député, Thibault Prébay, économiste et président de Hécate, et Ana Boata, directrice de la recherche économique chez Allianz Trade, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mWVU5mPMsI3AKxSLQLCjHSLC1DI=/0x0:1280x720/800x0/images/Jean-Luc-Melenchon-presente-son-programme-budgetaire-2365840.jpg\" />"
     },
     {
-      "title": "Un nouveau suicide secoue la direction générale des finances publiques",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/14/un-nouveau-suicide-secoue-la-direction-generale-des-finances-publiques_6793745_823448.html",
-      "summary": "Le décès par pendaison d’un responsable informatique du fisc, vendredi 9 octobre, sur son lieu de travail, s’ajoute à une vague préoccupante de suicides au sein de l’administration fiscale depuis plusieurs années."
+      "title": "Les députés votent contre une mise à contribution des retraités: l'Assemblée nationale rejette la réduction de leur abattement fiscal de 10%",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/les-deputes-votent-contre-une-mise-a-contribution-des-retraites-l-assemblee-nationale-rejette-a-son-tour-la-reduction-de-leur-abattement-fiscal-de-10_AV-202610150382.html",
+      "summary": "La semaine dernière, la commission des Finances avait déjà rejeté la mesure. Lors de l'examen du projet de budget en séance plénière ce jeudi, 116 députés ont voté contre la réduction du plafond de l'abattement fiscal des retraités à 3.000 euros.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fD54wofubWtztMaO6PFfDHVH6OE=/0x106:2048x1258/800x0/images/L-Assemblee-nationale-le-mercredi-15-juillet-2026-2322022.jpg\" />"
     },
     {
-      "title": "Dette : les moyens d’enrayer l’envolée des taux « doivent être d’abord trouvés en France » au niveau du budget, pour rassurer les marchés, affirme Christine Lagarde",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/dette-les-moyens-d-enrayer-l-envolee-des-taux-doivent-etre-d-abord-trouves-en-france-au-niveau-du-budget-pour-rassurer-les-marches-affirme-christine-lagarde_6793738_3234.html",
-      "summary": "Sur le marché de la dette, la France pâtit particulièrement des interrogations sur sa stabilité économique et politique : son taux d’emprunt à 10 ans s’approche des 5 %."
+      "title": "Budget 2027 : les députés rejettent le plafonnement d'un abattement fiscal pour les retraités",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-les-deputes-rejettent-le-plafonnement-d-un-abattement-fiscal-pour-les-retraites_8238589.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'Assemblée nationale a adopté par 116 voix pour et 30 contre, des amendements supprimant cet article malgré l'opposition du gouvernement."
     },
     {
-      "title": "Des recettes fiscales surestimées, pas de trajectoire budgétaire, oubli de la zone euro: le contre-budget de LFI suscite le scepticisme d'économistes",
-      "url": "https://www.bfmtv.com/economie/des-recettes-fiscales-surestimees-pas-de-trajectoire-budgetaire-oubli-de-la-zone-euro-le-contre-budget-de-lfi-suscite-le-scepticisme-d-economistes_AD-202610150212.html",
-      "summary": "Le leader La France Insoumise, Jean-Luc Mélenchon, a présenté mercredi son programme économique en cas de vistoire à la présidentielle. Il prévoirait des dépenses nouvelles de 82 milliards d'euros financées par des recettes supplémentaires de 106 milliards d'euros. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VcKMrTo0roorSSkWlM-I2ZiXuOw=/0x106:2048x1258/800x0/images/Jean-Luc-Melenchon-et-Eric-Coquerel-2365201.jpg\" />"
+      "title": "L'inflation atteint 3,1% sur un an en septembre, au plus haut depuis janvier 2024",
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-atteint-3-1-sur-un-an-en-septembre-au-plus-haut-depuis-janvier-2024_8238412.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "La progression des prix sur un an est principalement alimentée par l'énergie, dont les tarifs ont bondi de 21,3%."
     },
     {
-      "title": "Alain Bokobza (Société Générale CIB) : Les obligations souveraines sous pression - 15/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-alain-bokobza-societe-generale-cib-les-obligations-souveraines-sous-pression-15-10_VN-202610150209.html",
-      "summary": "Alain Bokobza, responsable mondial de la Stratégie d'allocation d'actifs chez Société Générale CIB, était l'invité de Sandra Gandoin dans Good Morning Business, ce jeudi 15 octobre. Il parle de la croissance mondiale et des obligations souveraines, qui sont sous pression, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ltRsSNpjVkMBhthL80LfxSn7PT8=/0x0:1280x720/800x0/images/Alain-Bokobza-Societe-Generale-CIB-Les-obligations-souveraines-sous-pression-15-10-2365653.jpg\" />"
+      "title": "\"Il faut qu'ils partent\" : le député RN Jean-Philippe Tanguy demande de départ d'Emmanuel Moulin, gouverneur de la Banque de France, et de Richard Ferrand, président du Conseil constitutionnel",
+      "url": "https://www.franceinfo.fr/politique/il-faut-qu-ils-partent-le-depute-rn-jean-philippe-tanguy-demande-de-depart-d-emmanuel-moulin-gouverneur-de-la-banque-de-france-et-de-richard-ferrand-president-du-conseil-constitutionnel_8238322.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Interrogé dans les \"4V\" ce jeudi 15 octobre sur la récente intervention d'Emmanuel Moulin, suggérant d'aller au plus vite sur le vote du budget, Jean-Philippe Tanguy estime que le gouverneur de la Banque de France \"se comporte toujours comme un macroniste\" et \"fait beaucoup trop de politique\", comme Richard Ferrand, à la tête du Conseil constitutionnel. Et d'affirmer que son parti envisage de demander leur départ."
     },
     {
-      "title": "Alain Bokobza (Société Générale CIB) : Les obligations souveraines sous pression - 15/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/alain-bokobza-societe-generale-cib-les-obligations-souveraines-sous-pression-15-10_EN-202610150201.html",
-      "summary": "Alain Bokobza, responsable mondial de la Stratégie d'allocation d'actifs chez Société Générale CIB, était l'invité de Sandra Gandoin dans Good Morning Business, ce jeudi 15 octobre. Il parle de la croissance mondiale et des obligations souveraines, qui sont sous pression, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+      "title": "Gabriel Attal veut \"chercher à ce que le budget soit le moins mauvais possible\", alors que les députés ont entamé l'examen du projet de loi de finances",
+      "url": "https://www.franceinfo.fr/economie/budget/gabriel-attal-veut-chercher-a-ce-que-le-budget-soit-le-moins-mauvais-possible-alors-que-les-deputes-ont-entame-l-examen-du-projet-de-loi-de-finances_8238358.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"S'il n'y a pas de budget, je pense que ça augmentera les problèmes qu'on a aujourd'hui, et notamment le risque d'une crise de la dette pour la France\", prévient le candidat Renaissance à l'élection présidentielle."
     },
     {
-      "title": "Alain Bokobza (Société Générale CIB) : Les obligations souveraines sous pression - 15/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/alain-bokobza-societe-generale-cib-les-obligations-souveraines-sous-pression-15-10_EN-202610150202.html",
-      "summary": "Alain Bokobza, responsable mondial de la Stratégie d'allocation d'actifs chez Société Générale CIB, était l'invité de Sandra Gandoin dans Good Morning Business, ce jeudi 15 octobre. Il parle de la croissance mondiale et des obligations souveraines, qui sont sous pression, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "Colère lycéenne, budget, présidentielle... Le \"8h30 franceinfo\" de Gabriel Attal",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/colere-lyceenne-budget-presidentielle-le-8h30-franceinfo-de-gabriel-attal_8217262.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Gabriel Attal, secrétaire général du parti Renaissance et candidat à la présidentielle, est l'invité du \"8h30 franceinfo\" du 15 octobre 2026."
     },
     {
-      "title": "Ils coûtent \"18 milliards d'euros par an\": Jean-Pierre Farandou regrette une hausse des arrêts de travail, notamment de courte durée",
-      "url": "https://www.bfmtv.com/economie/entreprises/ils-coutent-18-milliards-d-euros-par-an-jean-pierre-farandou-regrette-une-hausse-des-arrets-de-travail-notamment-de-courte-duree_AV-202610150197.html",
-      "summary": "Invité de TF1, Jean-Pierre Farandou a exprimé son souhait de réformer le système d'arrêts-maladie. Le ministre du Travail et des Solidarités regrette leur coût sur les finances publiques et veut freiner les arrêts courte durée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4Po4yvz3JGDabK9WdaXSMBBrxI0=/0x40:768x472/800x0/images/Le-ministre-du-Travail-Jean-Pierre-Farandou-a-Paris-le-16-septembre-2026-2356939.jpg\" />"
+      "title": "L’info du jour | 15 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/15/linfo-du-jour-15-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "La tribune éco : Un budget européen à adopter pour la période 2028-2035 - 15/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-eco-un-budget-europeen-a-adopter-pour-la-periode-2028-2035-15-10_VN-202610150178.html",
-      "summary": "Ce jeudi 15 octobre, retrouvez le replay de la tribune éco sur BFM Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iX8yNlx6YWIWF6MMrxNz3rqURdw=/0x0:1280x720/800x0/images/La-tribune-eco-Un-budget-europeen-a-adopter-pour-la-periode-2028-2035-15-10-2365627.jpg\" />"
-    },
-    {
-      "title": "La tribune éco : Un budget européen à adopter pour la période 2028-2035 - 15/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/la-tribune-eco-un-budget-europeen-a-adopter-pour-la-periode-2028-2035-15-10_EN-202610150169.html",
-      "summary": "Ce jeudi 15 octobre, retrouvez le replay de la tribune éco sur BFM Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
-    },
-    {
-      "title": "Midterms : dans l'Ohio, le soutien à Trump s'érode",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-midterms-dans-l-ohio-le-soutien-a-trump-s-erode_VN-202610150154.html",
-      "summary": "À 3 semaines des midterms, les prix des carburants restent un sujet majeur. Et si les taxes suspendues dans certains états ont pu réduire le prix, cela ne suffit pas pour les agriculteurs, soutiens du président, qui s'agacent.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Ucet5TQGm6RTqxo54ap6VucGjYk=/0x0:1280x720/800x0/images/Midterms-dans-l-Ohio-le-soutien-a-Trump-s-erode-2365606.jpg\" />"
-    },
-    {
-      "title": "L'ÉDITO ÉCO - Retraités: faut-il vraiment tous les protéger?",
-      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/video-l-edito-eco-retraites-faut-il-vraiment-tous-les-proteger_VN-202610150146.html",
-      "summary": "Les syndicats et le patronat se sont accordés mercredi 14 octobre sur une revalorisation de 1,4% des retraites complémentaires des anciens salariés du privé. Une décision particulièrement attendue après le gel des pensions l'an dernier et alors que le gouvernement cherche à réaliser plusieurs milliards d'euros d'économies sur les retraites.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XjkUXwwsjSZovC4UbPXgbOKn_5M=/0x0:1280x720/800x0/images/L-EDITO-ECO-Retraites-faut-il-vraiment-tous-les-proteger-2365599.jpg\" />"
-    },
-    {
-      "title": "Départ à 60 ou 62 ans, nombre d'annuités, 20 milliards d'économies: Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/depart-a-60-ou-62-ans-nombre-d-annuites-20-milliards-d-economies-marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_AD-202610150139.html",
-      "summary": "Marine Le Pen a indiqué dans une conférence de presse ce mercredi qu'elle présenterait sa réforme des retraites le 17 novembre. Si elle est élue à l'élection présidentielle, la candidate à l'élection présidentielle aimerait ramener l'âge de départ à taux plein à 60 ou 62 ans.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/C8DaszdhHVO4R7NZmIN6YB6HlkM=/0x0:1920x1080/800x0/images/Marine-Le-Pen-le-6-octobre-2026-lors-de-la-presentation-de-son-plan-de-redressement-des-comptes-publics-2360128.jpg\" />"
-    },
-    {
-      "title": "LFI veut 106 milliards d'euros de hausses d'impôts",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-lfi-veut-106-milliards-d-euros-de-hausses-d-impots_VN-202610150140.html",
-      "summary": "Pour réenclencher la croissance Jean-Luc Mélenchon mise sur la relance par la consommation populaire. Il a présenté hier sa trajectoire budgétaire pour 2027. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9u9nLoIOZxXH12tPzK5-erdEivU=/0x0:1280x720/800x0/images/LFI-veut-106-milliards-d-euros-de-hausses-d-impots-2365596.jpg\" />"
-    },
-    {
-      "title": "Budget 2027 : des associations de patients demandent de ne pas céder face au lobby des industriels sur l'élargissement de la taxe sur les produits sucrés",
-      "url": "https://www.franceinfo.fr/sante/budget-2027-des-associations-de-patients-demandent-de-ne-pas-ceder-face-au-lobby-des-industriels-sur-l-elargissement-de-la-taxe-sur-les-produits-sucres_8238187.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette mobilisation des industriels \"nous interroge, alors même que ces acteurs affichent par ailleurs leur engagement en faveur d'une alimentation plus saine\", relèvent plusieurs associations, dont la Ligue contre le cancer, jeudi, dans une lettre ouverte aux parlementaires."
-    },
-    {
-      "title": "Les députés favorables à l'extension de la taxation des aliments sucrés lors des premiers débats sur le budget",
-      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-favorables-a-l-extension-de-la-taxation-des-aliments-sucres-lors-des-premiers-debats-sur-le-budget_8238067.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La commission des affaires socialies a approuvé le principe d'une extension de la fiscalité sur les produits sucrés."
-    },
-    {
-      "title": "Budget 2027 : \"66% des crèches associatives sont déficitaires\", alerte la Fédération nationale des associations pour la petite enfance",
-      "url": "https://www.franceinfo.fr/societe/enfance-et-adolescence/budget-2027-66-des-creches-associatives-sont-deficitaires-alerte-la-federation-nationale-des-associations-pour-la-petite-enfance_8238157.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La Fédération des acteurs de la solidarité (Fas) va manifester devant l'Assemblée nationale jeudi pour protester contre le manque de moyens financiers du secteur, alors que les députés ont commencé à examiner le projet de budget 2027."
-    },
-    {
-      "title": "À suivre Loïc de la Mornais : les retraités doivent-ils faire un effort dans le prochain budget ?",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-les-retraites-doivent-ils-faire-un-effort-dans-le-prochain-budget_8238175.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans cette première partie, Alban Mikoczy revient sur la question du budget et l'épineuse question : qui doit payer davantage ? Après les lycéens, les retraités ont manifesté mercredi 14 octobre. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
-    },
-    {
-      "title": "\"Cela va prendre du temps avant de retrouver des niveaux susceptibles d'inspirer confiance\" : la France dans le viseur du Fonds monétaire international",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cela-va-prendre-du-temps-avant-de-retrouver-des-niveaux-susceptibles-d-inspirer-confiance-la-france-dans-le-viseur-du-fonds-monetaire-international_8237737.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les finances publiques françaises font l’objet d’un sévère avertissement du FMI. Il faudra du temps pour retrouver la confiance des investisseurs, prévient la directrice du Fonds monétaire international. Les alertes s’accumulent alors que l’adoption du budget reste incertaine, faute de majorité à l’Assemblée."
-    },
-    {
-      "title": "\"Pouvoir faire avancer un certain nombre de nos propositions\" : Gaëtan Dussausaye détaille la position du RN sur le budget 2027",
-      "url": "https://www.franceinfo.fr/economie/budget/pouvoir-faire-avancer-un-certain-nombre-de-nos-propositions-gaetan-dussausaye-detaille-la-position-du-rn-sur-le-budget-2027_8237647.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Alors que le RN a refusé de voter la motion de rejet préalable du projet de budget, Gaëtan Dussausaye, député RN des Vosges avance la volonté de son parti de privilégier le débat. De son côté, Richard Ramos, député Modem du Loiret, se dit \"prêt à discuter\" avec les oppositions."
-    },
-    {
-      "title": "Europe Today : Kallas en exclusivité sur Euronews au début d'un sommet crucial de l'UE",
-      "url": "https://fr.euronews.com/2026/10/15/europe-today-kallas-en-exclusivite-sur-euronews-au-debut-dun-sommet-crucial-de-lue",
-      "summary": "À Bruxelles, la cheffe de la diplomatie de l'UE Kaja Kallas parle à Maria Tadeo avant un sommet sur l'énergie, le budget et la pression de Donald Trump sur l'Ukraine. Entretien aussi avec Abu Abughazaleh, ministre jordanien de l'Investissement."
+      "title": "Europe Today : Kallas s'exprime en exclusivité sur Euronews au début d'un sommet crucial de l'UE",
+      "url": "https://fr.euronews.com/2026/10/15/europe-today-kallas-sexprime-en-exclusivite-sur-euronews-au-debut-dun-sommet-crucial-de-lu",
+      "summary": "Kaja Kallas à Euronews : sommet de l'UE à Bruxelles sur l'énergie, le budget et l'Ukraine, et entretien avec le ministre jordanien de l'Investissement."
     },
     {
       "title": "L’info du jour | 15 octobre 2026 - Matin",
@@ -184,11 +134,6 @@
     {
       "title": "L’info du jour | 11 octobre 2026 - Soir",
       "url": "https://fr.euronews.com/video/2026/10/11/linfo-du-jour-11-octobre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 11 octobre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/10/11/linfo-du-jour-11-octobre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 11 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
