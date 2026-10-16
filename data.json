@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-16T07:39:21Z",
+  "updated_at": "2026-10-16T12:49:49Z",
   "articles": [
+    {
+      "title": "Budget 2027 : sur les aides aux seniors, les départements dénoncent un « tour de passe-passe » du gouvernement",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/16/budget-2027-sur-les-aides-aux-seniors-les-departements-denoncent-un-tour-de-passe-passe-du-gouvernement_6795427_3224.html",
+      "summary": "Dans le projet de loi de financement de la Sécurité sociale, l’exécutif prévoit de réduire les dépenses pour l’allocation personnalisée d’autonomie et de ponctionner une partie des recettes de la Caisse nationale de solidarité pour l’autonomie pour les verser directement aux conseils départementaux."
+    },
+    {
+      "title": "Carburants : les Etats membres de l’UE peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
+      "summary": "Les dirigeants européens, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump et Poutine sur le gazole."
+    },
     {
       "title": "Le pouvoir d’achat des Français a-t-il vraiment décroché ? Ce que disent les chiffres",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html",
@@ -12,64 +22,49 @@
       "summary": "Dans son ouvrage « Economica. Comment les femmes ont enrichi le monde », l’économiste Victoria Bateman retrace la façon dont, depuis le Paléolithique jusqu’à la Chine moderne, en passant par l’Empire romain, les femmes ont sans cesse été ramenées à leur statut d’épouse ou de mère."
     },
     {
-      "title": "\"Tous les chiffres sont au rouge sauf un: les dividendes\": Éric Coquerel (LFI) veut relancer l'économie en allant chercher \"l'argent qui n'est pas productif\"",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/tous-les-chiffres-sont-au-rouge-sauf-un-les-dividendes-eric-coquerel-lfi-veut-relancer-l-economie-en-allant-chercher-l-argent-qui-n-est-pas-productif_AV-202610160224.html",
-      "summary": "Invité d'Apolline Matin sur RMC, Éric Coquerel a assumé le contre-budget présenté par LFI, qui propose de relancer l'économie avec 81 milliards de dépenses supplémentaires. Le spécialiste des questions économiques du parti assure qu'il peut les financer en imposant davantage les capitaux.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/twoHtTogtH3i6Kf-fX-mzBdFLZc=/0x53:1024x629/800x0/images/Eric-Coquerel-le-9-avril-2026-a-l-Assemblee-nationale-2327758.jpg\" />"
+      "title": "Les retraités échappent (pour le moment) à une nouvelle mesure d'économies: les députés rejettent le gel des pensions supérieures à 1.260 euros",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/les-retraites-echappent-pour-le-moment-a-une-nouvelle-mesure-d-economies-les-deputes-rejettent-le-gel-des-pensions-superieures-a-1-260-euros_AD-202610160466.html",
+      "summary": "Dans son projet de budget de la Sécurité sociale, le gouvernement souhaitait désindexer les pensions au-delà de 1.260 euros. Les députés ont voté pour la suppression de cette mesure en commission des Affaires sociales. Un vote loin d'être définitif toutefois. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4qPFqN4_Zj9Xi-X3mDQEJy-_bsU=/0x179:2048x1331/800x0/images/L-Assurance-retraite-alerte-sur-une-vague-de-fausses-informations-2119269.jpg\" />"
     },
     {
-      "title": "Crise de la dette : l'euro et la BCE ne nous sauveront pas !",
-      "url": "https://www.bfmtv.com/economie/video-crise-de-la-dette-l-euro-et-la-bce-ne-nous-sauveront-pas_VN-202610160198.html",
-      "summary": "Toute l'Europe regarde la France, engluée dans des finances publiques qui ne cessent de se dégrader. Mais la France ne pourra compter que sur elle-même car les outils de soutien de la BCE sont limités. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/i-lYfsLdVAgDitbXBzOOvq-XQGg=/0x0:1280x720/800x0/images/Crise-de-la-dette-l-euro-et-la-BCE-ne-nous-sauveront-pas-2366440.jpg\" />"
+      "title": "Présidentielle : à qui le budget le plus absurde ?",
+      "url": "https://www.bfmtv.com/economie/video-presidentielle-a-qui-le-budget-le-plus-absurde_VN-202610160447.html",
+      "summary": "Chaque vendredi, Laure Closier met en lumière un sujet qui l'a particulièrement marquée. Cette semaine, elle dénonce la foire à la saucisse des plans budgétaires des candidats à la présidentielle, tous plus irréalistes les uns que les autres. Retrouvez Laure aux commandes des Experts du lundi au vendredi de 9h30 à 10h30 !<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fKMxrUfQZ1qWBNoadeuARw_Bxy8=/0x0:1280x720/800x0/images/Presidentielle-a-qui-le-budget-le-plus-absurde-2366647.jpg\" />"
     },
     {
-      "title": "La tribune éco : Derrière les mobilisations, une croissance en panne - 16/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-eco-derriere-les-mobilisations-une-croissance-en-panne-16-10_VN-202610160193.html",
-      "summary": "Ce vendredi 16 octobre, retrouvez le replay de la tribune éco sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/UsPpfpAH8194RRN5Ib8WUEJ3CAk=/0x0:1280x720/800x0/images/La-tribune-eco-Derriere-les-mobilisations-une-croissance-en-panne-16-10-2366439.jpg\" />"
+      "title": "INFOGRAPHIE. La France dégringole dans le classement des meilleurs élèves sur l'inflation: l'Allemagne résiste désormais mieux (mais pas l'Espagne malgré des milliards d'euros dépensés)",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/infographie-la-france-degringole-dans-le-classement-des-meilleurs-eleves-sur-l-inflation-l-allemagne-resiste-desormais-mieux-mais-pas-l-espagne-malgre-des-milliards-d-euros-depenses_AV-202610160439.html",
+      "summary": "Si l'inflation en France (3,4%) est restée inférieure à la moyenne européenne en septembre, l'hexagone ne fait plus partie des pays où la hausse des prix à la consommation est la plus contenue. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l0tlOLugRaHrKDqwy9xwXDC0IuU=/0x106:2048x1258/800x0/images/rayon-lessive-supermarche-2299632.jpg\" />"
     },
     {
-      "title": "La tribune éco : Derrière les mobilisations, une croissance en panne - 16/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/la-tribune-eco-derriere-les-mobilisations-une-croissance-en-panne-16-10_EN-202610160186.html",
-      "summary": "Ce vendredi 16 octobre, retrouvez le replay de la tribune éco sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "Pouvoir d'achat: 77% des Français déplorent une dégradation de leur situation, selon l'UFC-Que Choisir",
+      "url": "https://www.bfmtv.com/economie/consommation/video-pouvoir-d-achat-77-des-francais-deplorent-une-degradation-de-leur-situation-selon-l-ufc-que-choisir_VN-202610160424.html",
+      "summary": "Face à l'inflation et à l'alourdissement des charges du quotidien, l'inquiétude financière gagne une large majorité de ménages. Selon une récente étude de l'UFC-Que Choisir, 77% des Français déclarent avoir ressenti une nette dégradation de leur pouvoir d'achat au cours des derniers mois.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/lasySwGx-10XC3HfP92CiSRUdpU=/0x0:1280x720/800x0/images/Pouvoir-d-achat-77-des-Francais-deplorent-une-degradation-de-leur-situation-selon-l-UFC-Que-Choisir-2366624.jpg\" />"
     },
     {
-      "title": "VIDEO. Après les révélations de \"Complément d'enquête\", Thierry Barbier, président de l'Association des franchisés de Carrefour, dénonce les \"conditions esclavagistes\" pratiquées par l'enseigne",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-apres-les-revelations-de-complement-d-enquete-thierry-barbier-president-de-l-association-des-franchises-de-carrefour-denonce-les-conditions-esclavagistes-pratiquees-par-l-enseigne_8239336.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Des magasins sous enseigne Carrefour accusés de rogner sur des dépenses essentielles telles que l'hygiène, d'autres soupçonnés de fraudes massives aux promos... Le président de l'Association des franchisés de Carrefour, Thierry Barbier, était l'invité de Tristan Waleckx pour réagir aux révélations de \"Complément d'enquête\"."
+      "title": "Retraites, la suppression de l'abattement divise",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-retraites-la-suppression-de-l-abattement-divise_VN-202610160409.html",
+      "summary": "Ce vendredi 16 octobre, le rejet du projet de loi qui visait à abaisser le plafond d'allègement fiscal sur les retraites, l'affectation des économies réalisées sur les retraites à l'éducation nationale, les revers essuyés par le gouvernement, et la dette française qui est sous pression, ont été abordés par Erwann Tison, directeur des études de l'Institut de l'Entreprise, Dominique Carlac'h, vice-présidente d'ABGi France en charge des relations institutionnelles, et François Ecalle, fondateur de FipEco.fr, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZXQDHW4_D4e3eZtgmPUibCNoa6w=/0x0:1280x720/800x0/images/Retraites-la-suppression-de-l-abattement-divise-2366613.jpg\" />"
     },
     {
-      "title": "EDITO. La convergence des colères aura-t-elle lieu samedi ?",
-      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-convergence-des-coleres-aura-t-elle-lieu-samedi_8219014.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les appels à se rassembler le 17 octobre fleurissent en ligne depuis le mois de septembre, attisés par les prix à la pompe et l'inflation, puis l'émergence du mouvement dans les lycées et les universités."
+      "title": "\"À l'exception des dingues d'extrême gauche, tout le monde veut assainir nos finances\": Roland Lescure fait visiter son bureau à ses potentiels successeurs et règle ses comptes sur le budget",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/a-l-exception-des-dingues-d-extreme-gauche-tout-le-monde-veut-assainir-noos-finances-roland-lescure-fait-visiter-son-bureau-a-ses-potentiels-successeurs-et-regle-ses-comptes-sur-le-budget_AD-202610160378.html",
+      "summary": "Roland Lescure a reçu ce vendredi ses potentiels successeurs à Bercy. Le ministre de l'Économie et des Finances, derrière des traits d'humour, leur a rappelé qu'ils devront composer avec le budget pour lequel il vote, ou non, lors des prochaines semaines.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_CqU1KuUx6AXYgLZH2kJkhhwCNU=/0x58:768x490/800x0/images/Le-ministre-de-l-Economie-Roland-Lescure-a-Paris-le-1er-octobre-2026-2363199.jpg\" />"
     },
     {
-      "title": "L’épargne salariale atteint des records, aiguisant l'appétit du gouvernement",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-epargne-salariale-atteint-des-records-aiguisant-l-appetit-du-gouvernement_8219008.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les encours n’ont jamais été aussi hauts, signe que les entreprises ont versé de l’intéressement ou de la participation à leurs salariés. Un record battu en plein débat sur le budget et alors que le gouvernement cherche à taxer cette épargne salariale."
+      "title": "Mobilisation du 17 octobre, la convergence des colères aura-t-elle lieu samedi ?",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-17-octobre-la-convergence-des-coleres-aura-t-elle-lieu-samedi_8240284.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Depuis septembre, les appels à se mobiliser le 17 octobre se multiplient en ligne, nourris par la hausse des prix à la pompe et l’inflation, puis renforcés par l'émergence du mouvement dans les lycées et les universités."
     },
     {
-      "title": "Le gouvernement, à la recherche de nouvelles recettes, veut augmenter la fiscalité sur la location des logements meublés",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/le-gouvernement-a-la-recherche-de-nouvelles-recettes-veut-augmenter-la-fiscalite-sur-la-location-des-logements-meubles_8239279.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Raboter les avantages fiscaux sur les locations meublées est l'une des mesures prévues dans le budget 2027 du gouvernement. Il espère ainsi gagner 200 millions d'euros. L'idée hérisse les propriétaires de ces logements ainsi que tous les acteurs de l'immobilier."
+      "title": "Budget 2027, mission impossible pour le gouvernement ? \"On/Off\", épisode 4",
+      "url": "https://www.franceinfo.fr/politique/budget-2027-mission-impossible-pour-le-gouvernement-on-off-episode-4_8239819.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique."
     },
     {
-      "title": "Budget 2027 : en commission, les députés votent pour la dispensation à l'unité des médicaments",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-en-commission-les-deputes-votent-pour-la-dispensation-a-l-unite-des-medicaments_8239555.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Le droit actuel prévoit cette délivrance à l'unité pour \"certaines spécialités\", mais \"cette faculté demeure trop limitée\", est-il écrit dans l'amendement adopté par les députés."
-    },
-    {
-      "title": "TEMOIGNAGES. Avant le 17 octobre, des futurs manifestants motivés par des colères qui se rejoignent, de \"l'élan des mobilisations lycéennes\" à l'envie de \"vivre correctement\"",
-      "url": "https://www.franceinfo.fr/economie/greve/temoignages-avant-le-17-octobre-des-futurs-manifestants-motives-par-des-coleres-qui-se-rejoignent-de-l-elan-des-mobilisations-lyceennes-a-l-envie-de-vivre-correctement_8238379.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les appels à se rassembler samedi fleurissent en ligne depuis le mois de septembre, attisés par les prix à la pompe et l'inflation, puis l'émergence du mouvement dans les lycées et les universités. Une convergence permise par un mot d'ordre large, sans garantie de déboucher sur un mouvement massif."
-    },
-    {
-      "title": "Pourquoi les sociétés d'autoroutes, dont le gouvernement veut taxer davantage les bénéfices, sont-elles aussi rentables ?",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/pourquoi-les-societes-d-autoroutes-dont-le-gouvernement-veut-taxer-davantage-les-benefices-sont-elles-aussi-rentables_8235208.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les bénéfices des entreprises qui gèrent les autoroutes françaises ont plus que doublé entre 2014 et 2024, tirés par des prix des péages qui n'ont cessé d'augmenter. Le projet de budget 2027 prévoit de les taxer davantage, ce qui promet un bras de fer politique et juridique."
-    },
-    {
-      "title": "Éclairage, douche, chauffage... À la découverte de la maison qui obéit sur commande",
-      "url": "https://www.franceinfo.fr/economie/immobilier/eclairage-douche-chauffage-a-la-decouverte-de-la-maison-qui-obeit-sur-commande_8239366.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Pilotage du chauffage, éclairage à la voix, volets automatisés… La maison connectée promet davantage de confort et des économies d’énergie. Un marché en plein essor, qui pousse les industriels à innover, jusqu’à imaginer des logements où les appareils du quotidien et même les livraisons seront entièrement automatisés."
+      "title": "L’info du jour | 16 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/16/linfo-du-jour-16-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 16 octobre 2026 - Matin",
@@ -124,11 +119,6 @@
     {
       "title": "L’info du jour | 13 octobre 2026 - Soir",
       "url": "https://fr.euronews.com/video/2026/10/13/linfo-du-jour-13-octobre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 octobre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/10/13/linfo-du-jour-13-octobre-2026-mi-journee",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
