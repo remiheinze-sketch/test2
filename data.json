@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-16T17:03:39Z",
+  "updated_at": "2026-10-16T20:14:03Z",
   "articles": [
+    {
+      "title": "De François Mitterrand à Emmanuel Macron, le triomphe de la finance sur l’économie française",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/16/de-francois-mitterrand-a-emmanuel-macron-le-triomphe-de-la-finance-sur-l-economie-francaise_6795590_3232.html",
+      "summary": "Dans sa nouvelle enquête « L’Argent magique », le journaliste Marc Endeweld raconte l’évolution du capitalisme hexagonal, des années 1980 à aujourd’hui, grâce aux confidences de nombre de ses acteurs, officiels ou de l’ombre."
+    },
     {
       "title": "Budget 2027 : sur les aides aux seniors, les départements dénoncent un « tour de passe-passe » du gouvernement",
       "url": "https://www.lemonde.fr/societe/article/2026/10/16/budget-2027-sur-les-aides-aux-seniors-les-departements-denoncent-un-tour-de-passe-passe-du-gouvernement_6795427_3224.html",
@@ -17,24 +22,24 @@
       "summary": "« Les idées claires pour 2027 ». Des chocs inflationnistes aux salaires qui stagnent, Les Décodeurs font le point en graphiques sur l’évolution du niveau de vie des Français."
     },
     {
-      "title": "Gel des pensions de retraite supérieures à 1.260 euros, économies sur les médicaments... Les députés rejettent en commission le projet de budget de la Sécurité sociale",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/gel-des-pensions-de-retraite-superieures-a-1-260-euros-economies-sur-les-medicaments-les-deputes-rejettent-en-commission-le-projet-de-budget-de-la-securite-sociale_AD-202610160626.html",
-      "summary": "Bien que rejeté en commission, le texte reviendra dans sa version initiale en séance publique à partir de mardi. Il prévoit de diviser par deux le déficit de la Sécurité sociale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5AYy6fStM_z3PpgXGjUyb9iPfrA=/0x72:1024x648/800x0/images/1241417.jpg\" />"
+      "title": "L'Assemblée nationale rejette la taxe Zucman sur les \"ultrariches\", de nombreux accrochages pendant les débats",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-assemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-de-nombreux-accrochages-pendant-les-debats_AD-202610160798.html",
+      "summary": "L'objectif de cette taxe était de garantir que les 1.800 foyers fiscaux les plus fortunés acquittent un montant d'impôts tous les ans équivalent à au moins 2% de leur patrimoine net.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Jfdf6e2OAnT05lx0N5KuQvjuCjg=/0x212:2048x1364/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-8-octobre-2026-2364289.jpg\" />"
+    },
+    {
+      "title": "+12% par rapport à l'an dernier: le déficit public des États-Unis se creuse, la faute aux intérêts de la dette et au remboursement des droits de douane",
+      "url": "https://www.bfmtv.com/economie/international/12-par-rapport-a-l-an-dernier-le-deficit-public-des-etats-unis-se-creuse-la-faute-aux-interets-de-la-dette-et-au-remboursement-des-droits-de-douane_AD-202610160793.html",
+      "summary": "Le déficit public des États-Unis s'est creusé de 12% entre octobre 2025 et septembre 2026, s'établissant à 1.992 milliards de dollars selon le département du Trésor.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/F_bnrnSmbjxsW_4-zAlCcrtII4A=/14x196:2046x1339/800x0/images/Donald-Trump-2358025.jpg\" />"
+    },
+    {
+      "title": "Le nombre de créations d'entreprises en France au plus haut, malgré les faibles prévisions de croissance",
+      "url": "https://www.franceinfo.fr/economie/entreprises/le-nombre-de-creations-d-entreprises-en-france-au-plus-haut-malgre-les-faibles-previsions-de-croissance_8240596.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les créations d'entreprises sont portées par le nombre de microentreprises mais pas seulement. Des bons chiffres alors que l'économie française tourne au ralenti et que les prévisions de croissance ont été revues à la baisse par le gouvernement."
     },
     {
       "title": "Fonction publique : quel est le vrai coût des retraites, et pourquoi est-il si élevé ?",
       "url": "https://www.franceinfo.fr/economie/fonction-publique-quel-est-le-vrai-cout-des-retraites-et-pourquoi-est-il-si-eleve_8240419.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Un rapport publié par le ministère de l'Économie estime à plus de 49 milliards d'euros consacrés en 2025 aux pensions de retraite dans la fonction publique. Dans l'Éducation nationale par exemple, cela représente plus de 30% du budget. Pourquoi ces chiffres sont-ils si élevés ? Éléments de réponse."
-    },
-    {
-      "title": "Mobilisation du 17 octobre, la convergence des colères aura-t-elle lieu samedi ?",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-17-octobre-la-convergence-des-coleres-aura-t-elle-lieu-samedi_8240284.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Depuis septembre, les appels à se mobiliser le 17 octobre se multiplient en ligne, nourris par la hausse des prix à la pompe et l’inflation, puis renforcés par l'émergence du mouvement dans les lycées et les universités."
-    },
-    {
-      "title": "Budget 2027, mission impossible pour le gouvernement ? \"On/Off\", épisode 4",
-      "url": "https://www.franceinfo.fr/politique/budget-2027-mission-impossible-pour-le-gouvernement-on-off-episode-4_8239819.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique."
     },
     {
       "title": "L’info du jour | 16 octobre 2026 - Soir",
