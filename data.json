@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-17T02:04:33Z",
+  "updated_at": "2026-10-17T07:17:35Z",
   "articles": [
+    {
+      "title": "Pour les vacances de la Toussaint, ces Français trop contraints par leur budget : « J’ai dû renoncer à ce bol d’air »",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/17/pour-les-vacances-de-la-toussaint-ces-francais-trop-contraints-par-leur-budget-j-ai-du-renoncer-a-ce-bol-d-air_6795889_3234.html",
+      "summary": "La pause automnale est souvent la première sacrifiée lorsque le pouvoir d’achat est entamé, comme en cet automne soumis à l’inflation et à l’envolée du prix du carburant. Les réservations s’annoncent contrastées en fonction des régions et des types d’hébergement."
+    },
+    {
+      "title": "Marché du timbre : un bloc de quatre exemplaires du 15 centimes vert au type « Cérès » vendu à 120 000 euros",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/17/marche-du-timbre-un-bloc-de-quatre-exemplaires-du-15-centimes-vert-au-type-ceres-vendu-a-120-000-euros_6795848_1657007.html",
+      "summary": "Deux ventes clôturées le 29 septembre et le 1ᵉʳ octobre illustrent le dynamisme de l’économie de la collection, à quelques semaines du Salon philatélique d’automne organisé début novembre à Paris."
+    },
     {
       "title": "De François Mitterrand à Emmanuel Macron, le triomphe de la finance sur l’économie française",
       "url": "https://www.lemonde.fr/idees/article/2026/10/16/de-francois-mitterrand-a-emmanuel-macron-le-triomphe-de-la-finance-sur-l-economie-francaise_6795590_3232.html",
@@ -12,14 +22,19 @@
       "summary": "Dans le projet de loi de financement de la Sécurité sociale, l’exécutif prévoit de réduire les dépenses pour l’allocation personnalisée d’autonomie et de ponctionner une partie des recettes de la Caisse nationale de solidarité pour l’autonomie pour les verser directement aux conseils départementaux."
     },
     {
-      "title": "Carburants : les Etats membres de l’UE peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
-      "summary": "Les dirigeants européens, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump et Poutine sur le gazole."
+      "title": "Une entreprise russe sur trois déficitaire, pas de prime à Noël pour les salariés, moins d'1% de croissance... Étouffée par des taux d'intérêt à 20%, la Russie touche aux limites d'une économie de guerre",
+      "url": "https://www.bfmtv.com/economie/international/une-entreprise-russe-sur-trois-deficitaire-pas-de-prime-a-noel-pour-les-salaries-moins-d-1-de-croissance-etouffee-par-des-taux-d-interet-a-20-la-russie-touche-aux-limites-d-une-economie-de-guerre_AV-202610170045.html",
+      "summary": "Freinées par des coûts d'emprunt élevés, des hausses d'impôts et une demande en berne, de plus en plus d'entreprises russes perdent de l'argent. Le nombre de secteurs d'activité déficitaires a été multiplié par quatre par rapport à l'année dernière, selon des données de Rosstat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6LeETIwhvZUaxCW3_YN-X9f7tXk=/0x106:2048x1258/800x0/images/VLADIMIR-POUTINE-2278477.jpg\" />"
     },
     {
-      "title": "A quel point le pouvoir d’achat des Français a-t-il décroché ? Ce que disent les chiffres",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html",
-      "summary": "« Les idées claires pour 2027 ». Des chocs inflationnistes aux salaires qui stagnent, Les Décodeurs font le point en graphiques sur l’évolution du niveau de vie des Français."
+      "title": "\"En France, on n'accepte pas l'inflation, on est en train de tuer l'agroalimentaire\": le patron des industriels répond à Leclerc et alerte sur le décrochage français face à l'Italie et l'Espagne",
+      "url": "https://www.bfmtv.com/economie/en-france-on-n-accepte-pas-l-inflation-on-est-en-train-de-tuer-l-agroalimentaire-le-patron-des-industriels-repond-a-leclerc-et-alerte-sur-le-decrochage-francais-face-a-l-italie-et-l-espagne_AN-202610170044.html",
+      "summary": "Balance commerciale au plus bas, présence faible à l’export comme au plus grand salon mondial du secteur, le Sial: l’industrie agroalimentaire française décroche à l’export. Le président de l'Association nationale des industries alimentaires (Ania) appelle à un sursaut.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/n5_wvfmt8uZ9koc6oaAP8NWJrNo=/4x67:1252x769/800x0/images/Jean-Francois-Loiseau-2023210.jpg\" />"
+    },
+    {
+      "title": "Après un ralentissement de la croissance, Netflix annonce le licenciement de 1.000 employés",
+      "url": "https://www.bfmtv.com/economie/video-apres-un-ralentissement-de-la-croissance-netflix-annonce-le-licenciement-de-1-000-employes_VN-202610170064.html",
+      "summary": "Le géant américain du streaming annonce la suppression de 1.000 emplois dans le monde, sa plus importante vague de licenciements depuis 2022. Malgré des records d'audience, Netflix inquiète les investisseurs avec un ralentissement de sa croissance et une baisse de l'engagement de ses abonnés. Son action a perdu plus de 40% en un an.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/UInMsbDW1tQBTRDp9L3Ok_yG-Ms=/0x0:1280x720/800x0/images/Apres-un-ralentissement-de-la-croissance-Netflix-annonce-le-licenciement-de-1-000-employes-2367009.jpg\" />"
     },
     {
       "title": "Les marchés : Croissance, pourquoi l'économie mondiale résiste ? – 16/10",
@@ -62,14 +77,14 @@
       "summary": "Le déficit public des États-Unis s'est creusé de 12% entre octobre 2025 et septembre 2026, s'établissant à 1.992 milliards de dollars selon le département du Trésor.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/F_bnrnSmbjxsW_4-zAlCcrtII4A=/14x196:2046x1339/800x0/images/Donald-Trump-2358025.jpg\" />"
     },
     {
-      "title": "Le nombre de créations d'entreprises en France au plus haut, malgré les faibles prévisions de croissance",
-      "url": "https://www.franceinfo.fr/economie/entreprises/le-nombre-de-creations-d-entreprises-en-france-au-plus-haut-malgre-les-faibles-previsions-de-croissance_8240596.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Les créations d'entreprises sont portées par le nombre de microentreprises mais pas seulement. Des bons chiffres alors que l'économie française tourne au ralenti et que les prévisions de croissance ont été revues à la baisse par le gouvernement."
+      "title": "Avant la mobilisation du 17 octobre, visualisez comment le coût de l'alimentation a explosé en dix ans en France",
+      "url": "https://www.franceinfo.fr/economie/inflation/avant-la-mobilisation-du-17-octobre-visualisez-comment-le-cout-de-l-alimentation-a-explose-en-dix-ans-en-france_8202725.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "L'indice des prix de l'alimentation, calculé par l'Insee, a augmenté de près de 35 points en dix ans. Salaire, Covid, situation mondiale instable… Franceinfo décrypte les causes d'une décennie d'inflation alimentaire."
     },
     {
-      "title": "Fonction publique : quel est le vrai coût des retraites, et pourquoi est-il si élevé ?",
-      "url": "https://www.franceinfo.fr/economie/fonction-publique-quel-est-le-vrai-cout-des-retraites-et-pourquoi-est-il-si-eleve_8240419.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Un rapport publié par le ministère de l'Économie estime à plus de 49 milliards d'euros consacrés en 2025 aux pensions de retraite dans la fonction publique. Dans l'Éducation nationale par exemple, cela représente plus de 30% du budget. Pourquoi ces chiffres sont-ils si élevés ? Éléments de réponse."
+      "title": "L’info du jour | 17 octobre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/10/17/linfo-du-jour-17-octobre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 16 octobre 2026 - Soir",
@@ -130,11 +145,6 @@
       "title": "L’info du jour | 14 octobre 2026 - Matin",
       "url": "https://fr.euronews.com/video/2026/10/14/linfo-du-jour-14-octobre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 13 octobre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/10/13/linfo-du-jour-13-octobre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 13 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Pour soutenir l&#039;innovation, le gouvernement fait le choix de l&#039;inefficacité",
