@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-10-27T01:42:15Z",
+  "updated_at": "2026-10-27T07:00:42Z",
   "articles": [
     {
-      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
+      "title": "Livrets bancaires : des taux apparemment attractifs, mais gare à l’inflation",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/27/livrets-bancaires-des-taux-apparemment-attractifs-mais-gare-a-l-inflation_6801102_1657007.html",
+      "summary": "La multiplication des offres promotionnelles sur les livrets bancaires est une aubaine pour les épargnants prudents, mais avec la hausse des prix qui ne cesse de s’accélérer, le rendement réel de ces placements n’est pas forcément toujours avantageux."
+    },
+    {
+      "title": "Les vacances coûtent de plus en plus cher aux Français, des campings aux hôtels en passant par les séjours au ski",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/27/les-vacances-coutent-de-plus-en-plus-cher-aux-francais-des-campings-aux-hotels-en-passant-par-les-sejours-au-ski_6801085_3234.html",
+      "summary": "Les prix augmentent dans toute l’offre touristique, plus vite que l’inflation et que les revenus. Cette évolution, portée par une hausse des charges, mais aussi une montée en gamme et une recherche de rentabilité, fragilise le départ en vacances des moins aisés."
+    },
+    {
+      "title": "L’industrie sans usines, un débat qui revient en France",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/27/l-industrie-sans-usines-un-debat-qui-revient-en-france_6801084_3234.html",
+      "summary": "Doit-on concentrer les investissements sur les technologies de rupture, comme l’IA ou les biotechnologies, et délaisser la « vieille » industrie ? La position défendue par le « Prix Nobel d’économie » Jean Tirole fait réagir, et rappelle le débat sur « l’industrie sans usines » d’il y a vingt-cinq ans, qui a accentué la désindustrialisation de la France."
+    },
+    {
+      "title": "Anthropic dépose son dossier d’introduction en Bourse, une étape-clé pour le secteur",
       "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html",
       "summary": "Dans le « prospectus » de sa future cotation, le géant de l’intelligence artificielle affiche un chiffre d’affaires en très forte croissance, une rentabilité opérationnelle et des projets d’investissements colossaux."
     },
@@ -12,19 +27,24 @@
       "summary": "Dans un contexte d’inflation énergétique, de baisse du pouvoir d’achat et de hausse des taux obligataires, le projet de budget pour 2027, qui doit rétablir la confiance sur les marchés grâce à une réduction du déficit public, repose sur une hypothèse de croissance de 1 %, plus fragile que jamais."
     },
     {
-      "title": "\"Les ports français vont être à l'arrêt à 95%\": les dockers annoncent une grève massive le 30 octobre",
-      "url": "https://www.bfmtv.com/economie/entreprises/transports/les-ports-francais-vont-etre-a-l-arret-a-95-les-dockers-annoncent-une-greve-massive-le-30-octobre_AN-202610260764.html",
-      "summary": "Répondant à un appel à la grève lancé dans un cadre européen, les dockers de la CGT contestent la \"militarisation\" des installations portuaires et s'opposent également \"aux orientations\" du projet de budget du gouvernement Lecornu. Le mouvement s'annonce très suivi. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9ImlSunLldLozZr9KLRTHKEs9g0=/0x212:2048x1364/800x0/images/Port-du-Havre-Commerce-exterieur-2298317.jpg\" />"
+      "title": "Assurance : un nouveau régime \"émeutes\" en projet",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-assurance-un-nouveau-regime-emeutes-en-projet_VN-202610270165.html",
+      "summary": "\"On trouve que cette taxe ressemble à une taxe \"casseur\". Mais les assurances ne pourront pas intervenir éternellement, mettre des taxes ne compense pas le vrai travail en amont\", explique Adrien Couret, Directeur général d'Aema Groupe, sur le plateau de Good Morning Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JSYjfrivkwnl1OxdTb_FqbeIPNI=/0x0:1280x720/800x0/images/Assurance-un-nouveau-regime-emeutes-en-projet-2372793.jpg\" />"
     },
     {
-      "title": "+1% ou +10% sur le Smic? Selon les syndicats, le gouvernement semble prêt à anticiper la revalorisation du salaire minimum, et même à y ajouter un coup de pouce",
-      "url": "https://www.bfmtv.com/economie/emploi/1-ou-10-sur-le-smic-selon-les-syndicats-le-gouvernement-semble-pret-a-anticiper-la-revalorisation-du-salaire-minimum-et-meme-a-y-ajouter-un-coup-de-pouce_AV-202610260740.html",
-      "summary": "La revalorisation anticipée du Smic se précise pour le 1er décembre. Le cabinet du ministre du Travail, Jean-Pierre Farandou, a reçu à tour de rôle les cinq organisations syndicales représentatives et s'est même montré ouvert à un \"coup de pouce\" en plus de l'augmentation mécanique calculée selon l'inflation.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bZcEhawd6AzBqccciUO-8dHKdlg=/0x40:768x472/800x0/images/Le-ministre-du-Travail-Jean-Pierre-Farandou-a-Paris-le-14-octobre-2026-2365670.jpg\" />"
+      "title": "+1% entre juillet et septembre: la croissance sud-coréenne plus élevée que prévu au troisième trimestre grâce aux semi-conducteurs",
+      "url": "https://www.bfmtv.com/economie/international/1-entre-juillet-et-septembre-la-croissance-sud-coreenne-plus-elevee-que-prevu-au-troisieme-trimestre-grace-aux-semi-conducteurs_AD-202610270083.html",
+      "summary": "Entre juillet et septembre, le produit intérieur brut de la Corée du Sud a progressé de 1% par rapport aux trois mois précédents, une hausse qui s'explique notamment par la hausse des exportations de semi-conducteurs.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jLhZwKGo5-DnMAVOLCjglPSTgw4=/0x136:2048x1288/800x0/images/Le-drapeau-de-la-Coree-du-Sud-illustration-1801586.jpg\" />"
     },
     {
-      "title": "Lula réélu : les valeurs exposées au Brésil en baisse",
-      "url": "https://www.bfmtv.com/economie/video-lula-reelu-les-valeurs-exposees-au-bresil-en-baisse_VN-202610260725.html",
-      "summary": "Eric Lewin explique qu'avec la réélection de Lula, le Brésil, même s'il a croissance qui est solide, reste dans une situation budgétaire dégradée, ce qui n'est pas du goût des investisseurs.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9WyD5_T3bMHbp7Y0IvacoFOF1rs=/0x0:1280x720/800x0/images/Lula-reelu-les-valeurs-exposees-au-Bresil-en-baisse-2372525.jpg\" />"
+      "title": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+      "url": "https://www.franceinfo.fr/economie/budget/ou-en-sont-les-debats-sur-le-plf-et-le-plfss-2027-suivez-les-etapes-de-l-examen-du-budget-a-l-assemblee-et-au-senat_8254234.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Députés et sénateurs examinent, jusqu'à la fin de l'année, le budget de l'Etat et celui de la Sécurité sociale. Franceinfo vous propose de suivre l'avancée des travaux parlementaires au jour le jour."
+    },
+    {
+      "title": "L’info du jour | 27 octobre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/10/27/linfo-du-jour-27-octobre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 26 octobre 2026 - Soir",
@@ -85,6 +105,11 @@
       "title": "L’info du jour | 23 octobre 2026 - Matin",
       "url": "https://fr.euronews.com/video/2026/10/23/linfo-du-jour-23-octobre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+    },
+    {
+      "title": "Le coût de la vie, talon d’Achille de Trump pour les Midterms",
+      "url": "https://www.alternatives-economiques.fr/le-cout-de-la-vie-talon-d-achille-de-trump-pour-les-midterms_27-10-2026",
+      "summary": "Donald Trump pourrait perdre le contrôle du Congrès au terme des élections de mi-mandat, le 3 novembre. Car malgré de bons résultats en matière de croissance et d’emploi, les difficultés s’accumulent pour les plus pauvres."
     },
     {
       "title": "10 graphiques pour survivre au débat budgétaire",
