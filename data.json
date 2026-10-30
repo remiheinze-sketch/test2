@@ -1,40 +1,80 @@
 {
-  "updated_at": "2026-10-30T03:28:36Z",
+  "updated_at": "2026-10-30T10:32:51Z",
   "articles": [
+    {
+      "title": "Avec un recul surprise du PIB au troisième trimestre, l’économie française flirte avec la récession",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
+      "summary": "Le produit intérieur brut de la France a reculé de 0,1 % au troisième trimestre, a annoncé vendredi l’Insee, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier. Pour le ministre de l’économie, Roland Lescure, « l’économie française est à l’arrêt » et « ira dans le mur » sans « le redressement budgétaire qu’on a mis dans le budget »."
+    },
+    {
+      "title": "« L’économie française est à l’arrêt » et « ira dans le mur » si elle ne redresse pas ses comptes, avertit Roland Lescure",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre-apres-avoir-stagne-au-deuxieme-trimestre-et-recule-de-0-2-au-premier_6802906_3234.html",
+      "summary": "Selon les données publiées vendredi par l’Insee, le PIB a reculé de 0,1 % au troisième trimestre, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier."
+    },
     {
       "title": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
       "url": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html",
-      "summary": "Le Conseil des gouverneurs de la BCE a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente Christine Lagarde, neuf mois avant la fin de son mandat."
+      "summary": "Le Conseil des gouverneurs de la Banque centrale européenne a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente Christine Lagarde, neuf mois avant la fin de son mandat."
     },
     {
-      "title": "Le Tech Flash : Mistral se met au niveau des modèles chinois, par Léa Benaim - 29/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-mistral-se-met-au-niveau-des-modeles-chinois-par-lea-benaim-29-10_VN-202610290884.html",
-      "summary": "Ce jeudi 29 octobre, dans Le Tech Flash, Léa Benaim est revenue sur la mise à niveau de Mistral face aux modèles chinois, sur le retour de STMicroelectronics à la croissance, sur la demande d’indemnisation d’Orange auprès de Nokia après la panne, sur la monétisation des publications de Donald Trump sur Truth Social, ainsi que sur l’augmentation du nombre de milliardaires en Chine grâce à l’IA. Cette chronique est à voir ou écouter du lundi au jeudi dans Tech&amp;Co, la quotidienne, présentée par François Sorel sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aysyIvqPAXy1Y6SWRrQu40696qo=/0x0:1280x720/800x0/images/Le-Tech-Flash-Mistral-se-met-au-niveau-des-modeles-chinois-par-Lea-Benaim-29-10-2374665.jpg\" />"
+      "title": "Avec une croissance plus forte qu'attendu au troisième trimestre, l'économie allemande se dirige vers sa \"meilleure année depuis 2022\"",
+      "url": "https://www.bfmtv.com/economie/avec-une-croissance-plus-forte-qu-attendu-au-troisieme-trimestre-l-economie-allemande-se-dirige-vers-sa-meilleure-annee-depuis-2022_AD-202610300415.html",
+      "summary": "\"L'économie allemande poursuit son récent redressement et en est à sa plus longue série de croissance depuis la fin des confinements liés à la pandémie\" de Covid, analyse l'économiste Carsten Brzeski.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/X0ChCroEHZFiURjjVHODnAmgT-k=/0x0:2048x1152/800x0/images/Friedrich-Merz-2195890.jpg\" />"
     },
     {
-      "title": "Quel bilan pour Christine Lagarde après 7 ans de présidence ?",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-quel-bilan-pour-christine-lagarde-apres-7-ans-de-presidence_VN-202610290756.html",
-      "summary": "Le départ de Christine Lagarde de la BCE invite à s'interroger sur la structure de l'institution et sur son rôle futur dans l'économie mondiale. Bastien Drut livre son analyse sur cette fonction : « Actuellement, les banques centrales ne cherchent plus à donner d'indications sur ce qu'elles vont faire dans le futur, il y a une sorte de normalisation de la politique monétaire. »<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BXvDogx67zYlU14XZzD3Set1fqQ=/0x0:1280x720/800x0/images/Quel-bilan-pour-Christine-Lagarde-apres-7-ans-de-presidence-2374571.jpg\" />"
+      "title": "La croissance amériaine bondit à 3,4% au T3",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-la-croissance-ameriaine-bondit-a-3-4-au-t3_VN-202610300380.html",
+      "summary": "Pour Romain Aumond, l'analyse de ce chiffre permet de constater une forte contribution des ménages dans leur manière de consommer, qui demeure robuste.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7Cyw6lbK_J_rQPEql2sxhetQ8Kc=/0x0:1280x720/800x0/images/La-croissance-ameriaine-bondit-a-3-4-au-T3-2374981.jpg\" />"
     },
     {
-      "title": "La France retrouve la tête du classement des pays d'Europe où l'on a payé le plus de taxes en 2025, selon Eurostat",
-      "url": "https://www.franceinfo.fr/economie/impots/la-france-retrouve-la-tete-du-classement-des-pays-d-europe-ou-l-on-a-paye-le-plus-de-taxes-en-2025-selon-eurostat_8258984.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "En France, le taux des prélèvements obligatoires a atteint 46 % du PIB, signifiant que la moitié de la richesse produite en une année a été prélevée puis redistribuée."
+      "title": "La croissance amériaine bondit à 3,4% au T3",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-la-croissance-ameriaine-bondit-a-3-4-au-t3_VN-202610300376.html",
+      "summary": "Pour Romain Aumond, l'analyse de ce chiffre permet de constater une forte contribution des ménages dans leur manière de consommer, qui demeure robuste.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/srfmQziFQTJTIbsGjGGCobByQnU=/0x0:1280x720/800x0/images/La-croissance-ameriaine-bondit-a-3-4-au-T3-2374977.jpg\" />"
     },
     {
-      "title": "\"39% des Français renoncent à des dépenses essentielles pour payer leur logement\"",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/39-des-francais-renoncent-a-des-depenses-essentielles-pour-payer-leur-logement_8258912.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Adélaïde Zulfikarpasic, directrice générale du pôle société d'Ipsos"
+      "title": "Pour l'ancien ministre de l’Économie Thierry Breton, l'économie \"est à l'arrêt\"",
+      "url": "https://www.bfmtv.com/economie/video-pour-l-ancien-ministre-de-l-economie-thierry-breton-l-economie-est-a-l-arret_VN-202610300347.html",
+      "summary": "L'Insee a publié ce vendredi la croissance de l'économie française au troisième trimestre. Après un recul de 0,2% au premier et une stagnation à 0% lors du deuxième, elle est en recul de 0,1% pour la période de juillet à septembre. L'Insee a publié ce vendredi la croissance de l'économie française au troisième trimestre. Après un recul de 0,2% au premier et une stagnation à 0% lors du deuxième, elle est en recul de 0,1% pour la période de juillet à septembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/unV_ZlGRYzvLs_FTbrt2gY8A2EQ=/0x0:1280x720/800x0/images/Pour-l-ancien-ministre-de-l-Economie-Thierry-Breton-l-economie-est-a-l-arret-2374953.jpg\" />"
     },
     {
-      "title": "La Banque centrale européenne maintient son principal taux directeur inchangé, à 2,5%",
-      "url": "https://www.franceinfo.fr/economie/la-banque-centrale-europeenne-maintient-son-principal-taux-directeur-inchange-a-2-5_8258876.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Cette décision a été prise après deux relèvements décidés cette année pour contenir les pressions inflationnistes alimentées par la hausse des prix de l'énergie liées aux tensions au Moyen-Orient."
+      "title": "Morning Meeting : La croissance américaine bondit à 3,4% au T3 2026 - 30/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/morning-meeting-la-croissance-americaine-bondit-a-3-4-au-t3-2026-30-10_EN-202610300325.html",
+      "summary": "Retrouvez le Morning Meeting du vendredi 30 octobre dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
     },
     {
-      "title": "\"Quand on voit les dividendes qu'ils génèrent\" : pourquoi TotalEnergies maintient ses prix plafonnés malgré 500 millions d'euros de pertes annoncées",
-      "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/quand-on-voit-les-dividendes-qu-ils-generent-pourquoi-totalenergies-maintient-ses-prix-plafonnes-malgre-500-millions-d-euros-de-pertes-annoncees_8258840.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Avec son litre d'essence plafonné à 1,99 €, TotalEnergies attire de nombreux automobilistes en quête d'économies. Alors que le groupe affirme avoir perdu 500 millions d'euros avec cette mesure, ses bénéfices restent élevés. Une stratégie qui pourrait aussi lui permettre de peser dans le débat sur la fiscalité des carburants."
+      "title": "Morning Meeting : La croissance américaine bondit à 3,4% au T3 2026 - 30/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-morning-meeting-la-croissance-americaine-bondit-a-3-4-au-t3-2026-30-10_VN-202610300330.html",
+      "summary": "Retrouvez le Morning Meeting du vendredi 30 octobre dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iuRqL3UT1f6Q_8jIpkUm_s1LqhU=/0x0:1280x720/800x0/images/Morning-Meeting-La-croissance-americaine-bondit-a-3-4-au-T3-2026-30-10-2374937.jpg\" />"
+    },
+    {
+      "title": "Le PIB de la France recule à nouveau au T3",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-pib-de-la-france-recule-a-nouveau-au-t3_VN-202610300316.html",
+      "summary": "Après une stagnation, le PIB de la France recule au troisième trimestre. Roland Lescure évoque \"une économie française à l'arrêt en 2026, qu'il faut redémarrer\". Ce dernier revient sur la nécessité absolue d'avoir un budget rigoureux.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HQ2stp86SEO6Ht2RJ4XRwewvAIM=/0x0:1280x720/800x0/images/Le-PIB-de-la-France-recule-a-nouveau-au-T3-2374924.jpg\" />"
+    },
+    {
+      "title": "\"Nos ports sont utilisés comme des pions dans des conflits géopolitiques\" : pourquoi les dockers français et européens sont en grève",
+      "url": "https://www.franceinfo.fr/economie/greve/nos-ports-sont-utilises-comme-des-pions-dans-des-conflits-geopolitiques-pourquoi-les-dockers-francais-et-europeens-sont-en-greve_8259995.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les personnels ont déclenché une mobilisation de 24 heures pour protester contre la militarisation des ports, contre le budget du gouvernement et pour soutenir la grève nationale du 5 novembre."
+    },
+    {
+      "title": "L'État veut augmenter le plafond du Livret A pour financer la rénovation des lycées",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-etat-veut-augmenter-le-plafond-du-livret-a-pour-financer-la-renovation-des-lycees_8239492.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Utiliser l’épargne des Français pour moderniser les établissements scolaires, l’État y songe et la piste est à l’étude. Le ministère de l’Économie et des Finances toutefois s'y oppose, objectant un manque à gagner, le Livret A, étant défiscalisé."
+    },
+    {
+      "title": "Budget 2027 : \"Il faut savoir prendre des risques\", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/politique/budget-2027-il-faut-savoir-prendre-des-risques-estime-michel-barnier-qui-plaide-pour-un-49-3-du-premier-ministre-sebastien-lecornu_8260058.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Invité des \"4 Vérités\" sur France 2, Michel Barnier, ancien Premier ministre et député LR de Paris, est revenu sur le vote du budget pour 2027 en cours à l'Assemblée nationale. Selon lui, Sébastien Lecornu doit déclencher immédiatement le 49.3 pour appliquer le projet du gouvernement. Le soutien de Bruno Retailleau s'est aussi exprimé sur la primaire de la droite et du centre voulue par Gabriel Attal."
+    },
+    {
+      "title": "Le PIB recule de 0,1 % au troisième trimestre 2026 en France, le ministre de l'Economie plaide pour \"redonner confiance\" en adoptant un budget",
+      "url": "https://www.franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Selon Roland Lescure, \"ce qui a manqué au troisième trimestre\" est lié \"à la baisse de la production agricole à cause de la canicule et à la baisse de la production énergétique\"."
+    },
+    {
+      "title": "L’info du jour | 30 octobre 2026 - Matin",
+      "url": "https://fr.euronews.com/video/2026/10/30/linfo-du-jour-30-octobre-2026-matin",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 29 octobre 2026 - Soir",
@@ -77,16 +117,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 27 octobre 2026 - Matin",
-      "url": "https://fr.euronews.com/video/2026/10/27/linfo-du-jour-27-octobre-2026-matin",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 26 octobre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/10/26/linfo-du-jour-26-octobre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 26 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Pénuries, prix exorbitants : repenser l’économie politique du médicament",
       "url": "https://www.alternatives-economiques.fr/penuries-prix-exorbitants-repenser-l-economie-politique-du-medicament_29-10-2026",
       "summary": "En 2020, dans un contexte de peur où l’investissement public a été massivement mobilisé, différentes voix se sont élevées pour que les vaccins contre le Covid-19 soient considérés et traités comme des biens communs. Puis, ces velléités de donner la priorité aux enjeux de santé publique se sont…"
@@ -105,11 +135,6 @@
       "title": "Le coût de la vie, talon d’Achille de Trump pour les Midterms",
       "url": "https://www.alternatives-economiques.fr/le-cout-de-la-vie-talon-d-achille-de-trump-pour-les-midterms_27-10-2026",
       "summary": "Donald Trump pourrait perdre le contrôle du Congrès au terme des élections de mi-mandat, le 3 novembre. Car malgré de bons résultats en matière de croissance et d’emploi, les difficultés s’accumulent pour les plus pauvres."
-    },
-    {
-      "title": "Antoine Détourné et Jérôme Saddier : « L’ESS paie au prix fort l&#039;inconstance de l’Etat »",
-      "url": "https://www.alternatives-economiques.fr/antoine-detourne-et-jerome-saddier-l-ess-paie-au-prix-fort-l-inconstance-de-l-etat_27-10-2026",
-      "summary": "Plus de 10 000 emplois perdus en 2025, des crédits rabotés à répétition, des attaques idéologiques : Antoine Détourné (ESS France), et Jérôme Saddier (Coop FR), s’alarment de la fragilisation de l'économie sociale et solidaire."
     }
   ]
 }
