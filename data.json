@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-30T10:32:51Z",
+  "updated_at": "2026-10-30T16:51:39Z",
   "articles": [
+    {
+      "title": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-les-deputes-votent-de-nouvelles-taxes-sur-les-grandes-entreprises-et-adoptent-le-pacte-papin_6803105_823448.html",
+      "summary": "Les députés ont adopté plusieurs amendements de la gauche taxant les grandes entreprises, contre l’avis du gouvernement. Des mesures adoptées qui sont à relativiser, car le budget final pour l’an prochain sera largement réécrit au gré de la navette parlementaire et d’un probable recours aux 49.3 ou aux ordonnances budgétaires."
+    },
+    {
+      "title": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
+      "summary": "Alors que l’exécutif fixe comme objectif 1 milliard d’euros d’économie, les représentants syndicaux et patronaux redoutent des débats tronqués sur les questions de pénibilité et de conditions de travail."
+    },
     {
       "title": "Avec un recul surprise du PIB au troisième trimestre, l’économie française flirte avec la récession",
       "url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
@@ -17,39 +27,44 @@
       "summary": "Le Conseil des gouverneurs de la Banque centrale européenne a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente Christine Lagarde, neuf mois avant la fin de son mandat."
     },
     {
-      "title": "Avec une croissance plus forte qu'attendu au troisième trimestre, l'économie allemande se dirige vers sa \"meilleure année depuis 2022\"",
-      "url": "https://www.bfmtv.com/economie/avec-une-croissance-plus-forte-qu-attendu-au-troisieme-trimestre-l-economie-allemande-se-dirige-vers-sa-meilleure-annee-depuis-2022_AD-202610300415.html",
-      "summary": "\"L'économie allemande poursuit son récent redressement et en est à sa plus longue série de croissance depuis la fin des confinements liés à la pandémie\" de Covid, analyse l'économiste Carsten Brzeski.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/X0ChCroEHZFiURjjVHODnAmgT-k=/0x0:2048x1152/800x0/images/Friedrich-Merz-2195890.jpg\" />"
+      "title": "\"Cela s'appelle la fermeture des écoles\": l'enseignement catholique dénonce \"une déclaration de guerre\" après la suppression par les députés des crédits accordés à l'école privée",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/cela-s-appelle-la-fermeture-des-ecoles-l-enseignement-catholique-denonce-une-declaration-de-guerre-apres-la-suppression-par-les-deputes-des-credits-accordes-a-l-ecole-prive_AD-202610300673.html",
+      "summary": "La commission des finances de l'Assemblée nationale a retiré près de 9 milliards d'euros au programme dédié à l'enseignement privé dans le budget 2027. Si ces coupes étaient confirmées, les 130.000 enseignants des écoles catholiques sous contrat, qui représentent 96% des écoles privées sous contrat, ne pourraient plus être rémunérés, prévient la fédération qui représente ces établissements.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PqnyCcK2mt0m0xHLFcsN_nUloPE=/0x4:2048x1156/800x0/images/ecole-privee-catholique-1638808.jpg\" />"
     },
     {
-      "title": "La croissance amériaine bondit à 3,4% au T3",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-la-croissance-ameriaine-bondit-a-3-4-au-t3_VN-202610300380.html",
-      "summary": "Pour Romain Aumond, l'analyse de ce chiffre permet de constater une forte contribution des ménages dans leur manière de consommer, qui demeure robuste.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7Cyw6lbK_J_rQPEql2sxhetQ8Kc=/0x0:1280x720/800x0/images/La-croissance-ameriaine-bondit-a-3-4-au-T3-2374981.jpg\" />"
+      "title": "David Amiel les accuse de \"matraquer les entreprises\": les députés adoptent plusieurs taxes soutenues par la gauche visant les géants du numérique et les superdividendes",
+      "url": "https://www.bfmtv.com/economie/economie-social/david-amiel-les-accuse-de-matraquer-les-entreprises-les-deputes-adoptent-plusieurs-taxes-soutenues-par-la-gauche-visant-les-geants-du-numerique-et-les-superdividendes_AD-202610300653.html",
+      "summary": "Les députés ont adopté plusieurs taxes sur les grandes entreprises, défendues par la gauche dans un débat qui a plusieurs fois tourné au procès de la politique de l'offre du macronisme, après les mauvaises nouvelles sur l'inflation annoncées dans la matinée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6lD4Ff31wpt6CpSB8JarSd1SeoU=/0x106:2048x1258/800x0/images/Des-deputes-de-gauche-quittent-l-hemicycle-pendant-l-intervention-d-un-depute-RN-lors-d-une-seance-de-questions-au-gouvernement-a-l-Assemblee-nationale-le-27-octobre-2026-2373094.jpg\" />"
     },
     {
-      "title": "La croissance amériaine bondit à 3,4% au T3",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-la-croissance-ameriaine-bondit-a-3-4-au-t3_VN-202610300376.html",
-      "summary": "Pour Romain Aumond, l'analyse de ce chiffre permet de constater une forte contribution des ménages dans leur manière de consommer, qui demeure robuste.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/srfmQziFQTJTIbsGjGGCobByQnU=/0x0:1280x720/800x0/images/La-croissance-ameriaine-bondit-a-3-4-au-T3-2374977.jpg\" />"
+      "title": "Manifestation du 31 octobre: le ministre de l'Économie, Roland Lescure, arrive à la chambre de commerce de Bordeaux",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/video-manifestation-du-31-octobre-le-ministre-de-l-economie-roland-lescure-arrive-a-la-chambre-de-commerce-de-bordeaux_VN-202610300639.html",
+      "summary": "Alors que de nouvelles manifestations auront lieu partout en France ce samedi 31 octobre, une cellule interministérielle de crise s'est tenue jeudi en amont d'une journée que le ministre de l’Intérieur qualifie à \"risque très élevé\". Dans le même temps, l'examen du budget se poursuit à l'Assemblée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/anyKsWf7o-F1RVuR0HR619wAuRM=/0x0:1280x720/800x0/images/Manifestation-du-31-octobre-le-ministre-de-l-Economie-Roland-Lescure-arrive-a-la-chambre-de-commerce-de-Bordeaux-2375170.jpg\" />"
     },
     {
-      "title": "Pour l'ancien ministre de l’Économie Thierry Breton, l'économie \"est à l'arrêt\"",
-      "url": "https://www.bfmtv.com/economie/video-pour-l-ancien-ministre-de-l-economie-thierry-breton-l-economie-est-a-l-arret_VN-202610300347.html",
-      "summary": "L'Insee a publié ce vendredi la croissance de l'économie française au troisième trimestre. Après un recul de 0,2% au premier et une stagnation à 0% lors du deuxième, elle est en recul de 0,1% pour la période de juillet à septembre. L'Insee a publié ce vendredi la croissance de l'économie française au troisième trimestre. Après un recul de 0,2% au premier et une stagnation à 0% lors du deuxième, elle est en recul de 0,1% pour la période de juillet à septembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/unV_ZlGRYzvLs_FTbrt2gY8A2EQ=/0x0:1280x720/800x0/images/Pour-l-ancien-ministre-de-l-Economie-Thierry-Breton-l-economie-est-a-l-arret-2374953.jpg\" />"
+      "title": "Manifestation du 31 octobre: \"Demain, Paris c'est la ville éteinte\", le président de l'UMIH d'Île-de-France s'inquiète des pertes d'exploitations pour les commerçants",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/video-manifestation-du-31-octobre-demain-paris-c-est-la-ville-eteinte-le-president-de-l-umih-d-ile-de-france-s-inquiete-des-pertes-d-exploitations-pour-les-commercants_VN-202610300629.html",
+      "summary": "Alors que de nouvelles manifestations auront lieu partout en France ce samedi 31 octobre, une cellule interministérielle de crise s'est tenue jeudi en amont d'une journée que le ministre de l’Intérieur qualifie à \"risque très élevé\". Dans le même temps, l'examen du budget se poursuit à l'Assemblée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qr1Kroi4zD7GGzgL3vOIHhdq0xI=/0x0:1280x720/800x0/images/Manifestation-du-31-octobre-Demain-Paris-c-est-la-ville-eteinte-le-president-de-l-UMIH-d-Ile-de-France-s-inquiete-des-pertes-d-exploitations-pour-les-commercants-2375160.jpg\" />"
     },
     {
-      "title": "Morning Meeting : La croissance américaine bondit à 3,4% au T3 2026 - 30/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/morning-meeting-la-croissance-americaine-bondit-a-3-4-au-t3-2026-30-10_EN-202610300325.html",
-      "summary": "Retrouvez le Morning Meeting du vendredi 30 octobre dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JVkssNO-f7yklGpDLese8dYOEZ8=/0x0:14000x14000/800x0/podcast/podcasts/principale-547_4.jpg\" />"
+      "title": "Le PIB italien stagne tandis que l’inflation bondit à 5,4%, compliquant l’objectif du gouvernement Meloni qui espère 1% de croissance en 2026",
+      "url": "https://www.bfmtv.com/economie/le-pib-italien-stagne-tandis-que-l-inflation-bondit-a-5-4-compliquant-l-objectif-du-gouvernement-meloni-qui-espere-1-de-croissance-en-2026_AD-202610300514.html",
+      "summary": "Le PIB italien n’a progressé que de 0,02% au troisième trimestre, en dessous des attentes. Dans le même temps, l’inflation a accéléré à 5,4% sur un an en octobre, ravivant les inquiétudes sur la santé de l’économie italienne.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OG5bPzWft83cd9HIe72tK099zsQ=/0x107:2048x1259/800x0/images/Meloni-2342232.jpg\" />"
     },
     {
-      "title": "Morning Meeting : La croissance américaine bondit à 3,4% au T3 2026 - 30/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-morning-meeting-la-croissance-americaine-bondit-a-3-4-au-t3-2026-30-10_VN-202610300330.html",
-      "summary": "Retrouvez le Morning Meeting du vendredi 30 octobre dans l'émission Good Morning Market. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iuRqL3UT1f6Q_8jIpkUm_s1LqhU=/0x0:1280x720/800x0/images/Morning-Meeting-La-croissance-americaine-bondit-a-3-4-au-T3-2026-30-10-2374937.jpg\" />"
+      "title": "L'économie française stagne et c'est une mauvaise nouvelle pour le budget: le ministre des Comptes publics estime qu'il va falloir faire \"davantage d'efforts\" que dans le texte initial",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-economie-francaise-stagne-et-c-est-une-mauvaise-nouvelle-pour-le-budget-le-ministre-des-comptes-publics-estime-qu-il-va-falloir-faire-davantage-d-efforts-que-dans-le-texte-initial_AD-202610300509.html",
+      "summary": "L'Insee a annoncé ce vendredi matin un recul de 0,1% du PIB au troisième trimestre après une stagnation au deuxième trimestre et une baisse de 0,2% en début d'année. Ce qui risque d'aggraver le déficit public pour l'année 2026, rendant, selon David Amiel, les efforts budgétaires pour 2027 d'autant plus nécessaires. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mNLG-pzL27Ge5XFfPhbLBTvelhk=/0x40:768x472/800x0/images/Le-ministre-de-l-Action-et-des-Comptes-publics-David-Amiel-a-Paris-le-18-octobre-2026-2372868.jpg\" />"
     },
     {
-      "title": "Le PIB de la France recule à nouveau au T3",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-pib-de-la-france-recule-a-nouveau-au-t3_VN-202610300316.html",
-      "summary": "Après une stagnation, le PIB de la France recule au troisième trimestre. Roland Lescure évoque \"une économie française à l'arrêt en 2026, qu'il faut redémarrer\". Ce dernier revient sur la nécessité absolue d'avoir un budget rigoureux.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HQ2stp86SEO6Ht2RJ4XRwewvAIM=/0x0:1280x720/800x0/images/Le-PIB-de-la-France-recule-a-nouveau-au-T3-2374924.jpg\" />"
+      "title": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-accelere-a-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024_8260760.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Ces chiffres de l'Insee sont provisoires et les résultats définitifs seront publiés le 13 novembre. Cette augmentation s'explique notamment par la flambée des prix de l'énergie."
+    },
+    {
+      "title": "REPORTAGE. Promotion, bac anti-gaspi, marque distributeur… Les Français cumulent les stratégies pour réduire le prix de leurs courses",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-promotion-bac-anti-gaspi-marque-distributeur-les-francais-cumulent-les-strategies-pour-reduire-le-prix-de-leurs-courses_8259956.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Alors que l'inflation continue de progresser en France, les consommateurs ont adopté plusieurs stratégies pour réussir à payer moins cher leurs courses. La filière a observé ce changement et s'est adaptée."
     },
     {
       "title": "\"Nos ports sont utilisés comme des pions dans des conflits géopolitiques\" : pourquoi les dockers français et européens sont en grève",
@@ -57,19 +72,14 @@
       "summary": "Les personnels ont déclenché une mobilisation de 24 heures pour protester contre la militarisation des ports, contre le budget du gouvernement et pour soutenir la grève nationale du 5 novembre."
     },
     {
-      "title": "L'État veut augmenter le plafond du Livret A pour financer la rénovation des lycées",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-etat-veut-augmenter-le-plafond-du-livret-a-pour-financer-la-renovation-des-lycees_8239492.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Utiliser l’épargne des Français pour moderniser les établissements scolaires, l’État y songe et la piste est à l’étude. Le ministère de l’Économie et des Finances toutefois s'y oppose, objectant un manque à gagner, le Livret A, étant défiscalisé."
+      "title": "Italie : des milliers de manifestants contre la hausse du coût de la vie",
+      "url": "https://fr.euronews.com/video/2026/10/30/italie-des-milliers-protestent-contre-la-vie-chere-et-le-budget-militaire-en-greve-general",
+      "summary": "Des milliers de personnes ont défilé dans les rues de Rome à l'appel du syndicat USB. Étudiants, pompiers et agriculteurs dénoncent la hausse du coût de la vie, les difficultés de logement et les dépenses militaires."
     },
     {
-      "title": "Budget 2027 : \"Il faut savoir prendre des risques\", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/politique/budget-2027-il-faut-savoir-prendre-des-risques-estime-michel-barnier-qui-plaide-pour-un-49-3-du-premier-ministre-sebastien-lecornu_8260058.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Invité des \"4 Vérités\" sur France 2, Michel Barnier, ancien Premier ministre et député LR de Paris, est revenu sur le vote du budget pour 2027 en cours à l'Assemblée nationale. Selon lui, Sébastien Lecornu doit déclencher immédiatement le 49.3 pour appliquer le projet du gouvernement. Le soutien de Bruno Retailleau s'est aussi exprimé sur la primaire de la droite et du centre voulue par Gabriel Attal."
-    },
-    {
-      "title": "Le PIB recule de 0,1 % au troisième trimestre 2026 en France, le ministre de l'Economie plaide pour \"redonner confiance\" en adoptant un budget",
-      "url": "https://www.franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Selon Roland Lescure, \"ce qui a manqué au troisième trimestre\" est lié \"à la baisse de la production agricole à cause de la canicule et à la baisse de la production énergétique\"."
+      "title": "L’info du jour | 30 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/30/linfo-du-jour-30-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 30 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 30 octobre 2026 - Matin",
@@ -112,11 +122,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 27 octobre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/10/27/linfo-du-jour-27-octobre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 27 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Pénuries, prix exorbitants : repenser l’économie politique du médicament",
       "url": "https://www.alternatives-economiques.fr/penuries-prix-exorbitants-repenser-l-economie-politique-du-medicament_29-10-2026",
       "summary": "En 2020, dans un contexte de peur où l’investissement public a été massivement mobilisé, différentes voix se sont élevées pour que les vaccins contre le Covid-19 soient considérés et traités comme des biens communs. Puis, ces velléités de donner la priorité aux enjeux de santé publique se sont…"
@@ -130,11 +135,6 @@
       "title": "Non, le déficit de la Sécu n’est pas hors de contrôle",
       "url": "https://www.alternatives-economiques.fr/non-le-deficit-de-la-secu-n-est-pas-hors-de-controle_28-10-2026",
       "summary": "La Sécurité sociale est souvent présentée comme infinançable. Dans les faits, l’équilibre est relativement proche, et il dépend surtout d’arbitrages politiques sur le périmètre « idéal » de la protection sociale."
-    },
-    {
-      "title": "Le coût de la vie, talon d’Achille de Trump pour les Midterms",
-      "url": "https://www.alternatives-economiques.fr/le-cout-de-la-vie-talon-d-achille-de-trump-pour-les-midterms_27-10-2026",
-      "summary": "Donald Trump pourrait perdre le contrôle du Congrès au terme des élections de mi-mandat, le 3 novembre. Car malgré de bons résultats en matière de croissance et d’emploi, les difficultés s’accumulent pour les plus pauvres."
     }
   ]
 }
