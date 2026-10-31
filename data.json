@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-31T07:42:55Z",
+  "updated_at": "2026-10-31T14:00:26Z",
   "articles": [
+    {
+      "title": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
+      "summary": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire nos émissions de CO₂ reste pourtant rentable, même sans la coopération du reste du monde, plaide le lauréat du Prix du meilleur jeune économiste 2026, dans une tribune au « Monde »."
+    },
     {
       "title": "A New York, le prix des crèches et des écoles et des structures de garde est si exorbitant qu’avoir un enfant est devenu un luxe",
       "url": "https://www.lemonde.fr/economie/article/2026/10/31/a-new-york-le-prix-des-creches-et-des-ecoles-et-des-structures-de-garde-est-si-exorbitant-qu-avoir-un-enfant-est-devenu-un-luxe_6803386_3234.html",
@@ -27,9 +32,9 @@
       "summary": "Le produit intérieur brut de la France a reculé de 0,1 % au troisième trimestre, a annoncé vendredi l’Insee, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier. Pour le ministre de l’économie, Roland Lescure, « l’économie française est à l’arrêt » et « ira dans le mur » sans « le redressement budgétaire qu’on a mis dans le budget »."
     },
     {
-      "title": "« L’économie française est à l’arrêt » et « ira dans le mur » si elle ne redresse pas ses comptes, avertit Roland Lescure",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre-apres-avoir-stagne-au-deuxieme-trimestre-et-recule-de-0-2-au-premier_6802906_3234.html",
-      "summary": "Selon les données publiées vendredi par l’Insee, le PIB a reculé de 0,1 % au troisième trimestre, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier."
+      "title": "\"On ne peut pas assurer la sécurité sociale sans sécurité nationale\": le gouvernement britannique veut porter les dépenses de défense à 3% du PIB mais reste flou sur les coupes budgétaires qu'il fera",
+      "url": "https://www.bfmtv.com/economie/entreprises/defense/on-ne-peut-pas-assurer-la-securite-sociale-sans-securite-nationale-le-gouvernement-britannique-veut-porter-les-depenses-de-defense-a-3-du-pib-mais-reste-flou-sur-les-coupes-budgetaires-qu-il-fera_AV-202610310242.html",
+      "summary": "Le ministre britannique des Finances, John Healey, a confirmé l'engagement de son pays à porter à 3% les dépenses de défense d'ici 2030, malgré un contexte économique difficile pour le Royaume-Uni.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/20dEy-ujx4mXx_pj9nWe7svYXBk=/0x106:2048x1258/800x0/images/John-Healey-s-entretient-avec-des-membres-des-forces-alliees-participant-a-l-exercice-Spring-Storm-Tempete-de-printemps-le-21-mai-2026-pres-de-Voru-dans-le-sud-de-l-Estonie-2374307.jpg\" />"
     },
     {
       "title": "La semaine de votre argent - 30/10",
@@ -40,6 +45,11 @@
       "title": "La semaine de l'économie - 30/10",
       "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-30-10_VN-202610300933.html",
       "summary": "Ce vendredi 30 octobre, Ana Boata, directrice de la recherche macroéconomique d'Allianz Trade, Christopher Dembik, conseiller en stratégie d'investissement chez Pictet Asset Management, Louis de Montalembert, gérant chez Sunny Asset Management, et Sébastien Korchia, président et fondateur de Fintan Market Intelligence, se sont penchés sur les événements déterminants de l'année, leurs conséquences et les solutions face à la crise en France, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YwrrxXwAvx9mNMbmPuiZGz_njN8=/0x0:1280x720/800x0/images/La-semaine-de-l-economie-30-10-2375401.jpg\" />"
+    },
+    {
+      "title": "Croissance à l'arrêt, consommation en baisse, prix en hausse... Comment sortir de la crise ?",
+      "url": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/croissance-a-l-arret-consommation-en-baisse-prix-en-hausse-comment-sortir-de-la-crise_8241094.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Tous les samedis, deux économistes débattent des sujets qui marquent l’actualité économique et sociale."
     },
     {
       "title": "L'agence de notation Fitch maintient la note A+ de la France, mais abaisse sa perspective",
@@ -55,6 +65,11 @@
       "title": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
       "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-accelere-a-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024_8260760.html#xtor=RSS-3-%5Bgeneral%5D",
       "summary": "Ces chiffres de l'Insee sont provisoires et les résultats définitifs seront publiés le 13 novembre. Cette augmentation s'explique notamment par la flambée des prix de l'énergie."
+    },
+    {
+      "title": "L’info du jour | 31 octobre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/10/31/linfo-du-jour-31-octobre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 31 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 31 octobre 2026 - Matin",
