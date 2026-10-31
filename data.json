@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-30T21:13:27Z",
+  "updated_at": "2026-10-31T01:12:52Z",
   "articles": [
+    {
+      "title": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html",
+      "summary": "Relevant une détérioration de la situation budgétaire et des taux d’emprunts, l’agence de notation abaisse la perspective de stable à négative. « Cette appréciation confirme l’absolue nécessité d’adopter d’ici la fin de l’année un budget responsable », a réagi vendredi le ministre de l’économie, Roland Lescure."
+    },
     {
       "title": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
       "url": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-les-deputes-votent-de-nouvelles-taxes-sur-les-grandes-entreprises-et-adoptent-le-pacte-papin_6803105_823448.html",
@@ -27,9 +32,24 @@
       "summary": "Le Conseil des gouverneurs de la Banque centrale européenne a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente Christine Lagarde, neuf mois avant la fin de son mandat."
     },
     {
-      "title": "Inflation à 3,4% sur un an en octobre : que disent les chiffres en matière de régression du pouvoir d'achat ces dernières années ?",
+      "title": "La semaine de votre argent - 30/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-votre-argent-30-10_VN-202610300957.html",
+      "summary": "Ce vendredi 30 octobre, Ana Boata, directrice de la recherche macroéconomique d'Allianz Trade, Christopher Dembik, conseiller en stratégie d'investissement chez Pictet Asset Management, Louis de Montalembert, gérant chez Sunny Asset Management, et Sébastien Korchia, président et fondateur de Fintan Market Intelligence, se sont penchés sur l'évolution de l'économie mondiale et de l'inflation, le soutien de la croissance par l'IA, la résilience de l'économie mondiale, le bilan boursier de 2026 et ses perspectives, les contrastes observés sur les marchés financiers, les stratégies d'investissement dans le contexte actuel, ainsi que le top/flop de la semaine, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Pn-ZuLjph9qWOiOuVn_cNxfrR2g=/0x0:1280x720/800x0/images/La-semaine-de-votre-argent-30-10-2375420.jpg\" />"
+    },
+    {
+      "title": "La semaine de l'économie - 30/10",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-30-10_VN-202610300933.html",
+      "summary": "Ce vendredi 30 octobre, Ana Boata, directrice de la recherche macroéconomique d'Allianz Trade, Christopher Dembik, conseiller en stratégie d'investissement chez Pictet Asset Management, Louis de Montalembert, gérant chez Sunny Asset Management, et Sébastien Korchia, président et fondateur de Fintan Market Intelligence, se sont penchés sur les événements déterminants de l'année, leurs conséquences et les solutions face à la crise en France, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YwrrxXwAvx9mNMbmPuiZGz_njN8=/0x0:1280x720/800x0/images/La-semaine-de-l-economie-30-10-2375401.jpg\" />"
+    },
+    {
+      "title": "L'agence de notation Fitch maintient la note A+ de la France, mais abaisse sa perspective",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective_8261105.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Les analystes de l'agence ont mis en garde, vendredi, contre les effets du ralentissement de la croissance et d'une \"détérioration\" de la situation budgétaire et des taux d'emprunts de la France."
+    },
+    {
+      "title": "Inflation à 3,4 % sur un an en octobre : que disent les chiffres en matière de régression du pouvoir d'achat ces dernières années ?",
       "url": "https://www.franceinfo.fr/economie/inflation/inflation-a-3-4-sur-un-an-en-octobre-que-disent-les-chiffres-en-matiere-de-regression-du-pouvoir-d-achat-ces-dernieres-annees_8261057.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "En conséquence de la hausse des prix de l'énergie, l'inflation a encore bondi de 3,4% sur un an au mois d'octobre. De nombreux Français ressentent une baisse de pouvoir d'achat au quotidien, mais que disent vraiment les chiffres ?"
+      "summary": "En conséquence de la hausse des prix de l'énergie, l'inflation a encore bondi de 3,4 % sur un an au mois d'octobre. De nombreux Français ressentent une baisse de pouvoir d'achat au quotidien, mais que disent vraiment les chiffres ?"
     },
     {
       "title": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
