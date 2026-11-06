@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-06T08:44:07Z",
+  "updated_at": "2026-11-06T16:28:18Z",
   "articles": [
+    {
+      "title": "Les salaires du privé ont baissé de 1,1 % sur un an, en prenant en compte l’inflation",
+      "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/les-salaires-du-prive-ont-baisse-de-1-1-sur-un-an-en-prenant-en-compte-l-inflation_6807767_1656968.html",
+      "summary": "Sans correction de la hausse des prix, l’indice du salaire mensuel de base des salariés a progressé de 0,2 % au troisième trimestre par rapport au trimestre précédent et augmenté de 1,9 % sur un an."
+    },
     {
       "title": "Pourquoi l’inflation réelle est toujours moins élevée que celle ressentie par les Français",
       "url": "https://www.lemonde.fr/economie/article/2026/11/06/pourquoi-l-inflation-reelle-est-toujours-moins-elevee-que-celle-ressentie-par-les-francais_6807726_3234.html",
       "summary": "L’écart de perception sur la hausse des prix s’explique par le poids des achats les plus fréquents, notamment ceux concernant l’alimentation et les carburants. Sans oublier qu’un indicateur statistique est une moyenne qui ne peut refléter, par définition, chaque situation individuelle."
     },
     {
-      "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-      "summary": "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système."
+      "title": "Olivier Blanchard, économiste : « La réduction du déficit exige de prendre des mesures impopulaires, ce que personne n’ose annoncer »",
+      "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
+      "summary": "Dans un entretien au « Monde », l’ancien économiste en chef du FMI estime que le Rassemblement national défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs »."
     },
     {
-      "title": "Vers un effet \"midterms\" sur la croissance ?",
-      "url": "https://www.bfmtv.com/economie/video-vers-un-effet-midterms-sur-la-croissance_VN-202611060262.html",
-      "summary": "L'onde de choc des Midterms touche-t-elle l'économie américaine ? Alors que l'IA tire les deux tiers de la croissance américaine, Marc Fiorentino alerte : le décrochage du Nasdaq risque d'entraîner un ralentissement de la croissance américaine<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/w355r5gnLvnFNWI2bXuRgrIt4HU=/0x0:1280x720/800x0/images/Vers-un-effet-midterms-sur-la-croissance-2379014.jpg\" />"
+      "title": "Après la mise en vente d'un tiers des stocks stratégiques libérés, Bercy annonce une baisse de 19 centimes du litre de gazole dans plus de 80% des stations-service",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/apres-la-mise-en-vente-d-un-tiers-des-stocks-strategiques-liberes-bercy-annonce-une-baisse-de-19-centimes-du-litre-de-gazole-dans-plus-de-80-des-stations-service_AV-202611060659.html",
+      "summary": "D'après le ministre de l'Économie Roland Lescure, le prix du gazole a baissé de 19 centimes par litre en moyenne dans près de 7.600 stations-service, une conséquence de la libération des stocks stratégiques.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_MWbGF8F49WHu8bzcl93GQsy0qI=/0x40:768x472/800x0/images/Depuis-que-le-litre-de-gazole-a-franchi-la-barre-des-2-euros-en-mars-les-Francais-ont-tendance-a-delaisser-leur-voiture-et-trouvent-d-autres-solutions-pour-se-deplacer-2360030.jpg\" />"
     },
     {
-      "title": "Thierry Laborde (BNP Paribas) : BNP Paribas poursuit sa croissance au troisième trimestre - 06/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/thierry-laborde-bnp-paribas-bnp-paribas-poursuit-sa-croissance-au-troisieme-trimestre-06-11_EN-202611060231.html",
-      "summary": "Thierry Laborde, directeur général délégué de BNP Paribas, était l'invité de Brigitte Boucher dans Good Morning Business, ce vendredi 6 novembre. Il revient sur les résultats positifs de son entreprise au troisième trimestre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "BFM Crypto, le Club : Binance, quel impact sur le marché ? – 06/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-binance-quel-impact-sur-le-marche-06-11_EN-202611060597.html",
+      "summary": "Ce vendredi 6 novembre, les impacts du piratage de Binance pour le marché, le bitcoin en tant que valeur refuge en 2027 dans le cadre de la dette publique, ainsi que les menaces de taxes sur le secteur de la crypto avec le PLF 2027, ont été abordé par Jonathan Herscovici, fondateur de StackInSat, Stephanie Nemarq-Attias, fondatrice du cabinet Qomit, et Nicolas Louvet, CEO de Coinhouse, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4D3d1O673eyvu-1abSmLPWWEuNI=/0x0:14000x14000/800x0/podcast/podcasts/principale-163_5.jpg\" />"
     },
     {
-      "title": "Thierry Laborde (BNP Paribas) : BNP Paribas poursuit sa croissance au troisième trimestre - 06/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-thierry-laborde-bnp-paribas-bnp-paribas-poursuit-sa-croissance-au-troisieme-trimestre-06-11_VN-202611060235.html",
-      "summary": "Thierry Laborde, directeur général délégué de BNP Paribas, était l'invité de Brigitte Boucher dans Good Morning Business, ce vendredi 6 novembre. Il revient sur les résultats positifs de son entreprise au troisième trimestre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/n30Olre7uMQAur0x43KeANkN010=/0x0:1280x720/800x0/images/Thierry-Laborde-BNP-Paribas-BNP-Paribas-poursuit-sa-croissance-au-troisieme-trimestre-06-11-2378990.jpg\" />"
+      "title": "Émission du 6 novembre 2026",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/air-et-defense/video-emission-du-6-novembre-2026_VN-202611060592.html",
+      "summary": "Être sur tous les fronts : sur la mer, sous la mer, sur les côtes ou sur terre, la Marine nationale a-t-elle les moyens d'être partout ? Pour Alice Rufo, \"elle a déjà fait ses preuves en ayant fait de très belles démonstrations récemment\". Pour protéger ses très grands espaces maritimes, de l'Indo-Pacifique aux Caraïbes, il est essentiel de disposer du budget nécessaire pour performer de la meilleure des manières.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yPE43T3XUAIJEOGzvz_1NmqWsbU=/0x0:1280x720/800x0/images/Emission-du-6-novembre-2026-2379274.jpg\" />"
     },
     {
-      "title": "Thierry Laborde (BNP Paribas) : BNP Paribas poursuit sa croissance au troisième trimestre - 06/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/thierry-laborde-bnp-paribas-bnp-paribas-poursuit-sa-croissance-au-troisieme-trimestre-06-11_EN-202611060230.html",
-      "summary": "Thierry Laborde, directeur général délégué de BNP Paribas, était l'invité de Brigitte Boucher dans Good Morning Business, ce vendredi 6 novembre. Il revient sur les résultats positifs de son entreprise au troisième trimestre sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+      "title": "Marine nationale : cap sur tous les océans !",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/air-et-defense/video-marine-nationale-cap-sur-tous-les-oceans_VN-202611060496.html",
+      "summary": "Être sur tous les fronts : sur la mer, sous la mer, sur les côtes ou sur terre, la Marine nationale a-t-elle les moyens d'être partout ? Pour Alice Rufo, \"elle a déjà fait ses preuves en ayant fait de très belles démonstrations récemment\". Pour protéger ses très grands espaces maritimes, de l'Indo-Pacifique aux Caraïbes, il est essentiel de disposer du budget nécessaire pour performer de la meilleure des manières.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/O9U1NoOwVVL9Td8c5tKiMutG62I=/0x0:1280x720/800x0/images/Marine-nationale-cap-sur-tous-les-oceans-2379209.jpg\" />"
     },
     {
-      "title": "\"Le chauffage avant décembre ? Jamais !\" : contraints d'économiser à cause de l'inflation, des utilisateurs de TikTok partagent des astuces pour supporter le froid",
-      "url": "https://www.franceinfo.fr/environnement/energie/le-chauffage-avant-decembre-jamais-contraints-d-economiser-a-cause-de-l-inflation-des-utilisateurs-de-tiktok-partagent-des-astuces-pour-supporter-le-froid_8269046.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Entre système D et témoignages de précarité énergétique, des internautes ironisent sur les moyens mis en place pour retarder le moment d'allumer leur radiateur. Cette tendance illustre les difficultés financières de nombreux ménages français."
+      "title": "3 millions de Paraguayens ne peuvent plus accéder à leurs économies",
+      "url": "https://www.franceinfo.fr/economie/crise/3-millions-de-paraguayens-ne-peuvent-plus-acceder-a-leurs-economies_8270630.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Salut c’est Sarah, ça dit quoi ? Depuis mardi 3 novembre, 3 millions de Paraguayens, soit la moitié du pays, ne peuvent plus accéder à leurs économies. La banque Ueno a été mise sous tutelle par la Banque centrale, ce qui a entraîné le gel des dépôts. Le président, Santiago Peña, a présenté sa démission jeudi."
     },
     {
-      "title": "\"On n'aurait jamais dû les privatiser\" : où va l'argent des autoroutes ?",
-      "url": "https://www.franceinfo.fr/economie/on-n-aurait-jamais-du-les-privatiser-ou-va-l-argent-des-autoroutes_8269901.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "Comment est répartie la somme que payent les Français sur les autoroutes ? Entre les dépenses du réseau, les taxes versées à l’État et les bénéfices des sociétés, France Télévisions a remonté le parcours de l'argent. Alors, le prix demandé aux automobilistes est-il justifié ?"
+      "title": "Paraguay : des milliers de manifestants réclament la destitution du président",
+      "url": "https://fr.euronews.com/video/2026/11/06/paraguay-des-milliers-de-manifestants-reclament-la-destitution-du-president",
+      "summary": "Au Paraguay, des milliers de manifestants réclament la destitution du président Santiago Peña après un scandale bancaire qui prive près de la moitié de la population de l'accès à ses économies. Sa démission reste suspendue."
     },
     {
-      "title": "Le budget 2027 rejeté à l'unanimité, du jamais-vu à l'Assemblée",
-      "url": "https://www.franceinfo.fr/economie/budget/le-budget-2027-rejete-a-l-unanimite-du-jamais-vu-a-l-assemblee_8269886.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "À l’Assemblée nationale mercredi 4 novembre, aucun député n’a soutenu la partie recettes du budget, une première sous la Ve République. À quelques mois de la présidentielle, comment sortir de cette impasse et donner un budget à la France avant la fin l’année ? L'hypothèse d’utiliser le 49.3 ou des ordonnances refait surface..."
-    },
-    {
-      "title": "Les coûts cachés des mutuelles : comment les courtiers font grimper vos cotisations",
-      "url": "https://www.franceinfo.fr/economie/les-couts-caches-des-mutuelles-comment-les-courtiers-font-grimper-vos-cotisations_8269862.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "La facture de la complémentaire santé pèse toujours plus lourd dans le budget des Français. Les cotisations des mutuelles ont augmenté de 40% depuis 2011, et tout ne sert pas à rembourser les soins. Une partie importante rémunère les courtiers, les intermédiaires chargés de vendre les contrats. C’est ce qu’ont découvert les équipes de \"Cash Investigation\"."
+      "title": "L’info du jour | 6 novembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/11/06/linfo-du-jour-6-novembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 6 novembre 2026 - Matin",
@@ -92,19 +92,19 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 3 novembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/11/03/linfo-du-jour-3-novembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 3 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
+      "title": "Non, les retraités n&#039;ont pas été épargnés par les efforts ces dernières années",
+      "url": "https://www.alternatives-economiques.fr/non-les-retraites-n-ont-pas-ete-epargnes-par-les-efforts-ces-dernieres-annees_06-11-2026",
+      "summary": "Contrairement à une idée reçue fortement entretenue par certains libéraux ces derniers mois, les retraités ont été largement mis à contribution ces trente dernières années pour réduire le déficit public."
+    },
+    {
+      "title": "Machonomics, ou l&#039;économie vue par les hommes, les vrais",
+      "url": "https://www.alternatives-economiques.fr/machonomics-ou-l-economie-vue-par-les-hommes-les-vrais_06-11-2026",
+      "summary": "Une vaste étude internationale établit un lien entre adhésion à la masculinité traditionnelle, investissement accru dans le travail, soutien aux formes autoritaires de pouvoir ou encore exposition à la dépression."
     },
     {
       "title": "La grande crise des finances publiques françaises est aussi une crise politique",
       "url": "https://www.alternatives-economiques.fr/la-grande-crise-des-finances-publiques-francaises-est-aussi-une-crise-politique_04-11-2026",
       "summary": "Faut-il s’alarmer de la situation des finances publiques françaises ? Pour l’économiste Robert Boyer, octobre 2026 marque la fin d’une époque car tous les facteurs d’une grande crise, pas seulement budgétaire, sont réunis."
-    },
-    {
-      "title": "Deux ans après son retour, dans quel état Donald Trump a-t-il mis l’économie états-unienne ?",
-      "url": "https://www.alternatives-economiques.fr/deux-ans-apres-son-retour-donald-trump-a-t-il-vraiment-rendu-sa-grandeur-a-l-amerique_03-11-2026",
-      "summary": "Donald Trump promettait un nouvel âge d’or aux USA. Deux ans après sa réélection, l’inflation repart, le déficit commercial persiste et les ménages modestes trinquent. Seule la croissance tient, portée par un boom fragile de l’IA."
     }
   ]
 }
