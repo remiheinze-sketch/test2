@@ -1,85 +1,65 @@
 {
-  "updated_at": "2026-11-09T07:25:08Z",
+  "updated_at": "2026-11-09T17:57:28Z",
   "articles": [
     {
-      "title": "Sans croissance, les entreprises françaises peineront à augmenter les salaires, auxquels elles consacrent déjà une large part de leur richesse",
+      "title": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
+      "summary": "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans. Elle s’insurge également contre l’Etat, qui cherche à récupérer quelques millions d’euros de taxes."
+    },
+    {
+      "title": "Fonction publique : la Cour des comptes avance la piste explosive du gel des avancements et des promotions pour réduire le déficit",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/09/fonction-publique-la-cour-des-comptes-avance-la-piste-explosive-du-gel-des-avancements-et-des-promotions-pour-reduire-le-deficit_6808669_823448.html",
+      "summary": "Une telle mesure permettrait de dégager 3,8 milliards d’euros d’économies en 2027, indique la Cour des comptes dans une « contribution au rétablissement des finances publiques », présentée lundi 9 novembre. Les syndicats dénoncent une atteinte à un totem statutaire, d’autant plus dans un contexte salarial particulièrement tendu."
+    },
+    {
+      "title": "« La France doit apprendre à dépenser mieux pour pouvoir distribuer du pouvoir d’achat »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html",
+      "summary": "Réduire les déficits est indispensable. Encore faut-il préserver les dépenses qui préparent la prospérité de demain. Mais, à ce jour, la question de la création de richesse reste la grande absente des débats en vue de l’élection présidentielle, déplore Stéphane Lauer, éditorialiste au « Monde », dans sa chronique."
+    },
+    {
+      "title": "Conférence sociale : pourquoi les entreprises françaises auront du mal à augmenter les salaires sans croissance",
       "url": "https://www.lemonde.fr/economie/article/2026/11/09/sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-auxquels-elles-consacrent-deja-une-large-part-de-leur-richesse_6808603_3234.html",
       "summary": "La rémunération du travail sera au cœur des discussions de la conférence sociale qui s’ouvre lundi 9 novembre à Matignon. Pour les entreprises fragilisées par les difficultés économiques, une hausse des salaires risque de se traduire par une baisse des marges, déjà faibles."
     },
     {
-      "title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
-      "summary": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie et défense."
+      "title": "+35% pour le RSA, +80% pour les personnages âgées... Les dépenses sociales des départements risquent d'exploser de 26 milliards d'euros d'ici à 2040",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/35-pour-le-rsa-80-pour-les-personnages-agees-les-depenses-sociales-des-departements-risquent-d-exploser-de-26-milliards-d-euros-d-ici-a-2040_AD-202611090764.html",
+      "summary": "Les collectivités sont déjà mal en point en matière budgétaire, et vont subir des contraintes démographiques, notamment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kWW6XGkivqCoJX5ucwCN42vR98g=/0x40:768x472/800x0/images/Marasme-demographique-stagnation-de-la-productivite-et-creusement-de-la-dette-publique-l-Institut-Montaigne-cercle-de-reflexion-liberal-dresse-un-bilan-pessimiste-de-l-avenir-de-la-France-2112088.jpg\" />"
     },
     {
-      "title": "La bulle de l’IA se heurte à la réalité",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/07/la-bulle-de-l-ia-se-heurte-a-la-realite_6808268_3232.html",
-      "summary": "Aux Etats-Unis, la large victoire du Parti démocrate aux midterms a entraîné un brusque décrochage du Nasdaq, l’indice boursier spécialisé dans les valeurs technologiques. Après avoir été l’un des principaux facteurs de dynamisme de l’économie américaine, l’intelligence artificielle pourrait devenir son talon d’Achille."
+      "title": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/tous-sans-exception-l-allemagne-exige-que-chaque-pays-de-l-ue-contribue-equitablement-au-financement-de-l-ukraine-avant-de-negocier-le-prochain-budget-europeen_AD-202611090753.html",
+      "summary": "Dans une lettre adressée au président du Conseil européen, le chancelier allemand Friedrich Merz a réclamé un engagement de tous les pays de l'Union européenne à combler le déficit budgétaire de l'Ukraine, avant d'entamer toute discussion sur le prochain budget européen.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5eMM8A4gNsYA3uVAiG8eSLcH5PY=/0x68:2048x1220/800x0/images/Merz-Zelensky-2380924.jpg\" />"
     },
     {
-      "title": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en trois minutes",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html",
-      "summary": "Depuis 2017, le salaire minimum a augmenté de plus de 28 % en France. Mais cette hausse, qui correspond aux 14 revalorisations automatiques du SMIC, a en réalité suivi l’inflation sans véritable gain de pouvoir d’achat pour les salariés concernés."
+      "title": "45% d'activité en plus avec seulement 26% de personnel supplémentaire: comment l'hôpital de Valenciennes réussit à gagner de l'argent quand les autres hôpitaux croulent sous les déficits",
+      "url": "https://www.bfmtv.com/economie/economie-social/45-d-activite-en-plus-avec-seulement-26-de-personnel-supplementaire-comment-l-hopital-de-valenciennes-reussit-a-gagner-de-l-argent-quand-les-autres-hopitaux-croulent-sous-les-deficits_AV-202611090667.html",
+      "summary": "Délégation de gestion, responsabilisation des médecins, réduction des circuits administratifs : l'hôpital de Valenciennes affiche des résultats financiers et une croissance d'activité qui en font une exception dans le paysage hospitalier français. Un modèle que voudrait reproduire la députée européenne Reconquête Sarah Knafo, mais qui se heurte à de nombreux freins sur le terrain. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/t-n-V8LQ6nyKlSjsWMt5-yAzVFo=/0x39:768x471/800x0/images/Des-infirmieres-se-tiennent-dans-un-couloir-du-service-de-soins-intensifs-pour-les-patients-atteints-de-Covid-19-a-l-hopital-de-Valenciennes-le-6-avril-2021-1078783.jpg\" />"
     },
     {
-      "title": "Natacha Polony (candidate à l'élection présidentielle de 2027) : \"Nous devons imposer la défense des intérêts français\" - 09/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/natacha-polony-candidate-a-l-election-presidentielle-de-2027-nous-devons-imposer-la-defense-des-interets-francais-09-11_EN-202611090237.html",
-      "summary": "Natacha Polony, candidate à l'élection présidentielle, était l'invitée de Brigitte Boucher dans Good Morning Business, ce lundi 9 novembre. Elle a abordé sa feuille de route et les mesures qu'elle préconise pour redresser les finances publiques françaises, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
+      "title": "Le smic augmentera de 1,6% dès le 1er décembre",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/le-smic-augmentera-de-1-6-des-le-1er-decembre_8274887.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le smic sera revalorisé de 1,6% au 1er décembre. La hausse sera de 0,6% à l’initiative du gouvernement, s’ajoutant à sa revalorisation automatique de 1% due à l’inflation. Le salaire minimum atteindra environ 1 502 euros par mois, soit près de 24 euros supplémentaires par rapport à aujourd’hui. #JT13h"
     },
     {
-      "title": "Natacha Polony (candidate à l'élection présidentielle de 2027) : \"Nous devons imposer la défense des intérêts français\" - 09/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/natacha-polony-candidate-a-l-election-presidentielle-de-2027-nous-devons-imposer-la-defense-des-interets-francais-09-11_EN-202611090236.html",
-      "summary": "Natacha Polony, candidate à l'élection présidentielle, était l'invitée de Brigitte Boucher dans Good Morning Business, ce lundi 9 novembre. Elle a abordé sa feuille de route et les mesures qu'elle préconise pour redresser les finances publiques françaises, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ECjHql0Fjxgc5HHoW4owfZ4XB8=/0x0:14000x14000/800x0/podcast/podcasts/principale-427_8.jpg\" />"
+      "title": "La Cour des comptes propose 18 mesures pour économiser jusqu'à 38 milliards d'euros et redresser les finances publiques",
+      "url": "https://www.franceinfo.fr/economie/budget/la-cour-des-comptes-propose-18-mesures-pour-economiser-jusqu-a-38-milliards-d-euros-et-redresser-les-finances-publiques_8274623.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "\"Aujourd'hui reprennent les discussions budgétaires au Sénat\", alors que \"la dégradation des perspectives de croissance vient rouvrir le débat sur le contenu des mesures à proposer dans le budget pour 2027\", a souligné la première présidente de la Cour des comptes, Amélie de Montchalin."
     },
     {
-      "title": "Grand Entretien avec natacha Polony",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-grand-entretien-avec-natacha-polony_VN-202611090238.html",
-      "summary": "Dans la course à la présidentielle, place à Natacha Polony ! Se revendiquant d'une inspiration politique gaullienne, elle défend une vision fondée sur la souveraineté nationale, la liberté d'entreprendre et la justice sociale. Pour elle, la désindustrialisation est l'une des principales causes du déficit budgétaire français. Elle plaide ainsi pour un redressement économique fondé sur la production, estimant que le pays s'enfonce progressivement dans un cercle vicieux d'appauvrissement.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Z4jJzsAlPsH9uLGUIJ1o-y1JhV4=/0x0:1280x720/800x0/images/Grand-Entretien-avec-natacha-Polony-2380581.jpg\" />"
+      "title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
+      "url": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-%5Bgeneral%5D",
+      "summary": "Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre. Non satisfaits, les syndicats ont appelé à poursuivre la mobilisation sociale entamée fin septembre par les lycéens."
     },
     {
-      "title": "Natacha Polony (candidate à l'élection présidentielle de 2027) : \"Nous devons imposer la défense des intérêts français\" - 09/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-natacha-polony-candidate-a-l-election-presidentielle-de-2027-nous-devons-imposer-la-defense-des-interets-francais-09-11_VN-202611090234.html",
-      "summary": "Natacha Polony, candidate à l'élection présidentielle, était l'invitée de Brigitte Boucher dans Good Morning Business, ce lundi 9 novembre. Elle a abordé sa feuille de route et les mesures qu'elle préconise pour redresser les finances publiques françaises, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/m6pO1pEhgUV-P8oDi1CORIDUOIE=/0x0:1280x720/800x0/images/Natacha-Polony-candidate-a-l-election-presidentielle-de-2027-Nous-devons-imposer-la-defense-des-interets-francais-09-11-2380579.jpg\" />"
+      "title": "L’info du jour | 9 novembre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/11/09/linfo-du-jour-9-novembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "Le scandale Ueno Bank secoue le Paraguay",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-scandale-ueno-bank-secoue-le-paraguay_VN-202611090224.html",
-      "summary": "C'est une crise bancaire qui a pris une tournure politique, allant jusqu'à entraîner la destitution du président paraguayen. En quelques années seulement, la banque en ligne Ueno Bank a connu une croissance fulgurante, portée par des promesses particulièrement attractives. Mais derrière cette réussite se cache une réalité plus trouble : son développement aurait été alimenté par des fonds publics, à hauteur de plus de 800 milliards de dollars.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/QOJqFbaRQCcNqDmHYvwd0me4pbo=/0x0:1280x720/800x0/images/Le-scandale-Ueno-Bank-secoue-le-Paraguay-2380571.jpg\" />"
-    },
-    {
-      "title": "La tribune éco : Vers un retour de l'inflation alimentaire au printemps - 09/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/la-tribune-eco-vers-un-retour-de-l-inflation-alimentaire-au-printemps-09-11_EN-202611090209.html",
-      "summary": "Ce lundi 9 novembre, retrouvez le replay de la tribune éco sur BFM Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6rgRI2FI5PLLf2ULgP59SdQcEtM=/0x0:14000x14000/800x0/podcast/podcasts/principale-56_5.jpg\" />"
-    },
-    {
-      "title": "La tribune éco : Vers un retour de l'inflation alimentaire au printemps - 09/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-eco-vers-un-retour-de-l-inflation-alimentaire-au-printemps-09-11_VN-202611090211.html",
-      "summary": "Ce lundi 9 novembre, retrouvez le replay de la tribune éco sur BFM Business<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PHl_aiVKD5ktaXYcHbE420ouAa0=/0x0:1280x720/800x0/images/La-tribune-eco-Vers-un-retour-de-l-inflation-alimentaire-au-printemps-09-11-2380558.jpg\" />"
-    },
-    {
-      "title": "L’Enquête de la matinale - Comment éviter l’inflation alimentaire?",
-      "url": "https://www.bfmtv.com/economie/video-l-enquete-de-la-matinale-comment-eviter-l-inflation-alimentaire_VN-202611090143.html",
-      "summary": "Après avoir annoncé un recul de la croissance de 0,1% au troisième trimestre, l'Insee indique que l'inflation a accéléré sur un an en octobre. Les prix à la consommation ont augmenté de 3,4 % sur un an en octobre, après 3,1 % en septembre, tirés à la hausse par les prix de l'énergie, tandis que ceux de l'alimentation ralentissent un peu, selon une estimation provisoire publiée vendredi par l'Insee. Il s'agit de son plus haut niveau depuis janvier 2024.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/AaYuicC0CvvkoV4eKuPAjnvmTXc=/0x0:1280x720/800x0/images/L-Enquete-de-la-matinale-Comment-eviter-l-inflation-alimentaire-2380506.jpg\" />"
-    },
-    {
-      "title": "Hausse du Smic: sans croissance, les entreprises françaises peineront à augmenter les salaires",
-      "url": "https://www.bfmtv.com/economie/video-hausse-du-smic-sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires_VN-202611090118.html",
-      "summary": "Le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Y_e9Q6znUtENPivOsaXm3CnkJ0s=/0x0:1280x720/800x0/images/Hausse-du-Smic-sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-2380491.jpg\" />"
-    },
-    {
-      "title": "Son président appelle à \"un sursaut collectif\": le Sénat prend la main sur le budget mais l'incertitude demeure",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/son-president-appelle-a-un-sursaut-collectif-le-senat-prend-la-main-sur-le-budget-mais-l-incertitude-demeure_AD-202611090116.html",
-      "summary": "Le marathon budgétaire fait étape au Palais du Luxembourg pour plusieurs semaines. Le projet de budget de la Sécurité sociale pour 2027 est débattu à partir de lundi, jusqu'au 18 novembre. Celui de l'Etat suivra ensuite, du 20 novembre au 9 décembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_9ip8YenItojqeQiSZ_KA3ANGO0=/0x40:768x472/800x0/images/Le-Senat-a-Paris-le-14-novembre-2023-2372722.jpg\" />"
-    },
-    {
-      "title": "\"Si vous augmentez le SMIC, c'est obligé de maintenir le différentiel des autres salaires\" explique le président des Entrepreneurs Paris Île-de-France",
-      "url": "https://www.franceinfo.fr/economie/emploi/si-vous-augmentez-le-smic-c-est-oblige-de-maintenir-le-differentiel-des-autres-salaires-explique-le-president-des-entrepreneurs-paris-ile-de-france_8273768.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "À la veille de la conférence sociale prévue lundi, Bernard Cohen-Hadad exige une \"contrepartie à la hausse du SMIC\", c'est-à-dire une baisse de la \"pression fiscale\" sur les entreprises à l'image d'un allègement des taxes sur les cotisations des emplois jeunes ou un dégel des allègements de charges."
-    },
-    {
-      "title": "\"On tend à regarder vers le bas du rayon pour les marques repères\" : dans les feuilles de salaires des Français",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/on-tend-a-regarder-vers-le-bas-du-rayon-pour-les-marques-reperes-dans-les-feuilles-de-salaires-des-francais_8273717.html#xtor=RSS-3-%5Bgeneral%5D",
-      "summary": "De nombreux Français sont face à une urgence : celle de pouvoir assumer leurs dépenses et leurs factures. Quelles sont leurs réelles attentes pour les mois à venir ? Une équipe de France Télévisions est allée à leur rencontre."
+      "title": "L’info du jour | 9 novembre 2026 - Mi-journée",
+      "url": "https://fr.euronews.com/video/2026/11/09/linfo-du-jour-9-novembre-2026-mi-journee",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 9 novembre 2026 - Matin",
@@ -142,11 +122,6 @@
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
-      "title": "L’info du jour | 5 novembre 2026 - Mi-journée",
-      "url": "https://fr.euronews.com/video/2026/11/05/linfo-du-jour-5-novembre-2026-mi-journee",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
       "title": "Après dix ans de macronisme, le constat d’échec de la politique de l’offre",
       "url": "https://www.alternatives-economiques.fr/apres-dix-ans-de-macronisme-le-constat-d-echec-de-la-politique-de-l-offre_07-11-2026",
       "summary": "Au lieu d’investir dans la formation, les politiques économiques ont tout misé sur les baisses d’impôts et la réduction des coûts pour les entreprises. Avec des résultats décevants, analyse l'économiste Clément Carbonnier."
@@ -155,11 +130,6 @@
       "title": "Non, les retraités n&#039;ont pas été épargnés par les efforts ces dernières années",
       "url": "https://www.alternatives-economiques.fr/non-les-retraites-n-ont-pas-ete-epargnes-par-les-efforts-ces-dernieres-annees_06-11-2026",
       "summary": "Contrairement à une idée reçue fortement entretenue par certains libéraux ces derniers mois, les retraités ont été largement mis à contribution ces trente dernières années pour réduire le déficit public."
-    },
-    {
-      "title": "Machonomics, ou l&#039;économie vue par les hommes, les vrais",
-      "url": "https://www.alternatives-economiques.fr/machonomics-ou-l-economie-vue-par-les-hommes-les-vrais_06-11-2026",
-      "summary": "Une vaste étude internationale établit un lien entre adhésion à la masculinité traditionnelle, investissement accru dans le travail, soutien aux formes autoritaires de pouvoir ou encore exposition à la dépression."
     }
   ]
 }
