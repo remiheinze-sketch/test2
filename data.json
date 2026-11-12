@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-12T13:26:41Z",
+  "updated_at": "2026-11-12T21:14:38Z",
   "articles": [
+    {
+      "title": "Hors de Londres, l’économie britannique est à bout de souffle",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/hors-de-londres-l-economie-britannique-est-a-bout-de-souffle_6809129_3234.html",
+      "summary": "Le Royaume-Uni souffre d’une croissance anémique depuis près de deux décennies. Reportage à Brentwood, une communauté dans l’Essex qui symbolise ce « malaise britannique »."
+    },
     {
       "title": "En Allemagne, l’économie va mieux qu’en France, mais l’envolée de la dette fait craindre une « crise budgétaire » d’envergure",
       "url": "https://www.lemonde.fr/economie/article/2026/11/12/en-allemagne-l-economie-va-mieux-qu-en-france-mais-l-envolee-de-la-dette-fait-craindre-une-crise-budgetaire-d-envergure_6809071_3234.html",
@@ -12,34 +17,24 @@
       "summary": "Le projet de budget 2027 ne prévoit pas de réforme du CIR ou du pacte Dutreil, malgré les critiques récurrentes sur leur coût et leur efficacité, déplorent l’économiste Maxime Combes et le journaliste Olivier Petitjean, dans une tribune au « Monde »."
     },
     {
-      "title": "Les 10% les plus riches ont vu leur impôt sur le revenu reculer de 1,4% en 2025",
-      "url": "https://www.bfmtv.com/economie/video-les-10-les-plus-riches-ont-vu-leur-impot-sur-le-revenu-reculer-de-1-4-en-2025_VN-202611120501.html",
-      "summary": "Selon la Direction générale des finances publiques, les 10% de Français les plus aisés ont vu leur impôt sur le revenu reculer de 1,4% en 2025.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vFn8ub86CQCWXJIOKglyLijvTIk=/0x0:1280x720/800x0/images/Les-10-les-plus-riches-ont-vu-leur-impot-sur-le-revenu-reculer-de-1-4-en-2025-2382778.jpg\" />"
+      "title": "Comment s'occuper de la dette ?",
+      "url": "https://www.bfmtv.com/economie/video-comment-s-occuper-de-la-dette_VN-202611120839.html",
+      "summary": "Pour Pierre-Olivier Gourinchas, les débats fiscaux ne se résument pas à la taxe Zucman. Pour lui, l'enjeu budgétaire se situe ailleurs : \"On est les champions d'Europe sur les recettes prélevées, on a donc plus de marges de manœuvre sur les recettes, il va falloir faire des efforts sur les dépenses.\"<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ARbNhidNhpKkSGTaBD2qZQBW9LU=/0x0:1280x720/800x0/images/Comment-s-occuper-de-la-dette-2383068.jpg\" />"
     },
     {
-      "title": "Il veut que la moitié des Français gagnent plus de 4.000 euros par mois: il n'est pas candidat, mais Bruno Le Maire dévoile un programme pour y parvenir",
-      "url": "https://www.bfmtv.com/economie/il-veut-que-la-moitie-des-francais-gagnent-plus-de-4-000-euros-par-mois-il-n-est-pas-candidat-mais-bruno-le-maire-devoile-un-programme-pour-y-parvenir_AN-202611120497.html",
-      "summary": "Même s'il n'est pas officiellement candidat, l'ancien ministre de l'Économie esquisse un programme présidentiel. Parmi ses objectifs, ambitieux au vu de la situation économique du pays, Bruno Le Maire souhaite doubler le salaire net médian des Français pour le porter à 4.000 euros, notamment via des baisses de charge. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/C_rTlQqsV1dUtVu3a5nqRmqjOvM=/0x106:2048x1258/800x0/images/Bruno-Le-Maire-le-22-septembre-2024-lors-de-la-passation-de-pouvoir-avec-Antoine-Armand-au-ministere-de-l-Economie-2277920.jpg\" />"
+      "title": "Pourquoi les Français les plus aisés ont-ils payé moins d'impôt sur le revenu en 2025 que l'année précédente ?",
+      "url": "https://www.franceinfo.fr/economie/impots/pourquoi-les-francais-les-plus-aises-ont-ils-paye-moins-d-impot-sur-le-revenu-en-2025-que-l-annee-precedente_8279105.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "Une étude de la Direction générale des finances publiques publiée mardi rapporte que les 10% de Français les plus fortunés ont vu leur impôt reculer en moyenne de 1,4% en 2025. Pour les 0,1% les plus aisés, cette baisse est même de 9,4%."
     },
     {
-      "title": "L'assurance au quotidien : L'épargne au service de l'économie - 12/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-emissions-partenaires/video-l-assurance-au-quotidien-l-epargne-au-service-de-l-economie-12-11_VN-202611120490.html",
-      "summary": "BFM BUSINESS PARTENAIRE - Ce jeudi 12 novembre, Nicolas Denis, directeur général de Crédit Agricole Assurances, a expliqué en quoi l'épargne contribue à financer les entreprises, l'innovation, les infrastructures et le développement économique régional, dans l'émission L'assurance au quotidien, présentée par Carine Etroy. L'assurance au quotidien est à voir ou écouter sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/lErntIAx5C558NoSVLU7CowUN-w=/0x0:1280x720/800x0/images/L-assurance-au-quotidien-L-epargne-au-service-de-l-economie-12-11-2382769.jpg\" />"
+      "title": "Avec l'intelligence artificielle, le fisc traque les abris de jardin non déclarés",
+      "url": "https://www.franceinfo.fr/economie/impots/avec-l-intelligence-artificielle-le-fisc-traque-les-abris-de-jardin-non-declares_8279357.html#xtor=RSS-3-%5Beconomie%5D",
+      "summary": "La taxe est due aux impôts à trois conditions : si l'abri est fermé, qu'il fait plus de cinq mètres carrés et si la hauteur est d'au moins 1,80 m. Pour les repérer, le fisc croise les données entre photographies aériennes et cadastres."
     },
     {
-      "title": "On est loin des 85% en 2022 mais elle reste galopante: la Turquie relève sa prévision d'inflation à 29,5% pour la fin de l'année",
-      "url": "https://www.bfmtv.com/economie/international/on-est-loin-des-85-en-2022-mais-elle-reste-galopante-la-turquie-releve-sa-prevision-d-inflation-a-29-5-pour-la-fin-de-l-annee_AD-202611120427.html",
-      "summary": "La banque centrale prévoit que l'inflation reculera \"pour atteindre (ses) objectifs intermédiaires de 21% d'ici la fin 2027, 13,5% d'ici la fin 2028 et 9% d'ici la fin 2029, <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nKZ67Zt6Smi50VkE9SpJpQnLCl0=/0x106:2048x1258/800x0/images/L-inflation-s-est-envolee-a-plus-de-36-sur-un-an-en-decembre-en-Turquie-un-record-depuis-septembre-2002-du-a-la-degringolade-de-la-livre-turque-1225333.jpg\" />"
-    },
-    {
-      "title": "Retraites : le grand déni démographique",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-retraites-le-grand-deni-demographique_VN-202611120425.html",
-      "summary": "Retraites : le grand déni démographique La démographie est un facteur essentiel mais encore trop peu comprise dans le débat public. Pourtant comme le souligne Christian de Boissieu « la démographie représente le seul domaine de l’économie où l’on peut faire des prévisions fiables à moyen terme ».<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/p-87KCJbksc7JVqUl3Ueo7bj3uE=/0x0:1280x720/800x0/images/Retraites-le-grand-deni-demographique-2382720.jpg\" />"
-    },
-    {
-      "title": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
-      "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html#xtor=RSS-3-%5Beconomie%5D",
-      "summary": "Invité des \"4V\" sur France 2, jeudi 12 novembre, Bruno Lemaire, ancien ministre de l'Économie, est revenu sur la hausse du SMIC prévue pour le 1er décembre. Dans son projet, il défend l'augmentation de tous les salaires, avec un salaire net médian doublé."
+      "title": "L’info du jour | 12 novembre 2026 - Soir",
+      "url": "https://fr.euronews.com/video/2026/11/12/linfo-du-jour-12-novembre-2026-soir",
+      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 12 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "L’info du jour | 12 novembre 2026 - Mi-journée",
@@ -85,11 +80,6 @@
       "title": "L’info du jour | 10 novembre 2026 - Matin",
       "url": "https://fr.euronews.com/video/2026/11/10/linfo-du-jour-10-novembre-2026-matin",
       "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
-    },
-    {
-      "title": "L’info du jour | 9 novembre 2026 - Soir",
-      "url": "https://fr.euronews.com/video/2026/11/09/linfo-du-jour-9-novembre-2026-soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 9 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement."
     },
     {
       "title": "Hausse du Smic : pourquoi le gouvernement aurait pu aller plus loin",
